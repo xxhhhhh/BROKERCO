@@ -1,0 +1,152 @@
+{
+  "Vanilla": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-vanilla.webp",
+    "name": "Talon Knife",
+    "color": []
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-stained.webp",
+    "name": "Talon Knife | Stained",
+    "color": ["Gray"]
+  },
+  "Rust Coat": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-rust-coat.webp",
+    "name": "Talon Knife | Rust Coat",
+    "color": []
+  },
+  "Rust Coat BS": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-rust-coat-bs.webp",
+    "name": "Talon Knife | Rust Coat (Battle-Scarred)",
+    "color": ["Brown"]
+  },
+  "Damascus Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-damascus.webp",
+    "name": "Talon Knife | Damascus Steel",
+    "color": ["White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-urban-masked.webp",
+    "name": "Talon Knife | Urban Masked",
+    "color": ["Gray"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-scorched.webp",
+    "name": "Talon Knife | Scorched",
+    "color": ["Black", "Gray"]
+  },
+  "Night Stripe": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-night-stripe.webp",
+    "name": "Talon Knife | Night Stripe",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-blue-steel.webp",
+    "name": "Talon Knife | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-safari-mesh.webp",
+    "name": "Talon Knife | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-boreal.webp",
+    "name": "Talon Knife | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-ddpat.webp",
+    "name": "Talon Knife | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Doppler Ruby": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-ruby.webp",
+    "name": "Talon Knife | Doppler Ruby",
+    "color": ["Red"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/Talon Knife Crimson Web.webp",
+    "name": "Talon Knife | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-knife-slaughter.webp",
+    "name": "Talon Knife | Slaughter",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-fade.webp",
+    "name": "Talon Knife | Fade",
+    "color": ["Pink"]
+  },
+  "Marble Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-marble-fade.webp",
+    "name": "Talon Knife | Marble Fade",
+    "color": []
+  },
+  "Tiger Tooth": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-tiger-tooth.webp",
+    "name": "Talon Knife | Tiger Tooth",
+    "color": ["Orange", "Yellow"]
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-case-hardened.webp",
+    "name": "Talon Knife | Case Hardened",
+    "color": []
+  },
+  "Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-doppler-phase-3.webp",
+    "name": "Talon Knife | Doppler Phase 3",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-doppler-phase-4.webp",
+    "name": "Talon Knife | Doppler Phase 4",
+    "color": ["Blue"]
+  },
+  "Doppler Sapphire": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-doppler-sapphire.webp",
+    "name": "Talon Knife | Doppler Sapphire",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-doppler-phase-1.webp",
+    "name": "Talon Knife | Doppler Phase 1",
+    "color": ["Purple"]
+  },
+  "Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-doppler-phase-2.webp",
+    "name": "Talon Knife | Doppler Phase 2",
+    "color": ["Pink", "Purple"]
+  },
+  "Ultraviolet": {
+    "class": "red",
+    "image": "/img/skins/knives/talon-ultraviolet.webp",
+    "name": "Talon Knife | Ultraviolet",
+    "color": ["Purple"]
+  }
+}

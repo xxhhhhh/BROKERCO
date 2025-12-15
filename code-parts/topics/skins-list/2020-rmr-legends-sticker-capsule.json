@@ -1,0 +1,194 @@
+{
+  "Natus Vincere (Gold)": {
+    "class": "red",
+    "name": "Natus Vincere (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-natus-vincere-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-natus-vincere-gold-2020-rmr.png"
+  },
+  "Heroic (Gold)": {
+    "class": "red",
+    "name": "Heroic (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-heroic-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-heroic-gold-2020-rmr.png"
+  },
+  "FURIA (Gold)": {
+    "class": "red",
+    "name": "FURIA (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-furia-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-furia-gold-2020-rmr.png"
+  },
+  "Spirit (Gold)": {
+    "class": "red",
+    "name": "Spirit (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-spirit-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-spirit-gold-2020-rmr.png"
+  },
+  "100 Thieves (Gold)": {
+    "class": "red",
+    "name": "100 Thieves (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-100-thieves-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-100-thieves-gold-2020-rmr.png"
+  },
+  "Evil Geniuses (Gold)": {
+    "class": "red",
+    "name": "Evil Geniuses (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-evil-geniuses-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-evil-geniuses-gold-2020-rmr.png"
+  },
+  "Vitality (Gold)": {
+    "class": "red",
+    "name": "Vitality (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-vitality-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-vitality-gold-2020-rmr.png"
+  },
+  "Ninjas in Pyjamas (Gold)": {
+    "class": "red",
+    "name": "Ninjas in Pyjamas (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-ninjas-in-pyjamas-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-ninjas-in-pyjamas-gold-2020-rmr.png"
+  },
+  "Vitality (Foil)": {
+    "class": "pink",
+    "name": "Vitality (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-vitality-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-vitality-foil-2020-rmr.png"
+  },
+  "Natus Vincere (Foil)": {
+    "class": "pink",
+    "name": "Natus Vincere (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-natus-vincere-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-natus-vincere-foil-2020-rmr.png"
+  },
+  "Spirit (Foil)": {
+    "class": "pink",
+    "name": "Spirit (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-spirit-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-spirit-foil-2020-rmr.png"
+  },
+  "Evil Geniuses (Foil)": {
+    "class": "pink",
+    "name": "Evil Geniuses (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-evil-geniuses-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-evil-geniuses-foil-2020-rmr.png"
+  },
+  "Heroic (Foil)": {
+    "class": "pink",
+    "name": "Heroic (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-heroic-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-heroic-foil-2020-rmr.png"
+  },
+  "Ninjas in Pyjamas (Foil)": {
+    "class": "pink",
+    "name": "Ninjas in Pyjamas (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-ninjas-in-pyjamas-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-ninjas-in-pyjamas-foil-2020-rmr.png"
+  },
+  "FURIA (Foil)": {
+    "class": "pink",
+    "name": "FURIA (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-furia-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-furia-foil-2020-rmr.png"
+  },
+  "100 Thieves (Foil)": {
+    "class": "pink",
+    "name": "100 Thieves (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-100-thieves-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-100-thieves-foil-2020-rmr.png"
+  },
+  "100 Thieves (Holo)": {
+    "class": "purple",
+    "name": "100 Thieves (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-100-thieves-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-100-thieves-holo-2020-rmr.png"
+  },
+  "Natus Vincere (Holo)": {
+    "class": "purple",
+    "name": "Natus Vincere (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-natus-vincere-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-natus-vincere-holo-2020-rmr.png"
+  },
+  "Spirit (Holo)": {
+    "class": "purple",
+    "name": "Spirit (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-spirit-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-spirit-holo-2020-rmr.png"
+  },
+  "FURIA (Holo)": {
+    "class": "purple",
+    "name": "FURIA (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-furia-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-furia-holo-2020-rmr.png"
+  },
+  "Evil Geniuses (Holo)": {
+    "class": "purple",
+    "name": "Evil Geniuses (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-evil-geniuses-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-evil-geniuses-holo-2020-rmr.png"
+  },
+  "Heroic (Holo)": {
+    "class": "purple",
+    "name": "Heroic (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-heroic-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-heroic-holo-2020-rmr.png"
+  },
+  "Ninjas in Pyjamas (Holo)": {
+    "class": "purple",
+    "name": "Ninjas in Pyjamas (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-ninjas-in-pyjamas-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-ninjas-in-pyjamas-holo-2020-rmr.png"
+  },
+  "Vitality (Holo)": {
+    "class": "purple",
+    "name": "Vitality (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-vitality-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-vitality-holo-2020-rmr.png"
+  },
+  "100 Thieves": {
+    "class": "blue",
+    "name": "100 Thieves | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-100-thieves-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-100-thieves-2020-rmr.png"
+  },
+  "Vitality": {
+    "class": "blue",
+    "name": "Vitality | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-vitality-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-vitality-2020-rmr.png"
+  },
+  "Natus Vincere": {
+    "class": "blue",
+    "name": "Natus Vincere | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-natus-vincere-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-natus-vincere-2020-rmr.png"
+  },
+  "Spirit": {
+    "class": "blue",
+    "name": "Spirit | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-spirit-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-spirit-2020-rmr.png"
+  },
+  "FURIA": {
+    "class": "blue",
+    "name": "FURIA | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-furia-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-furia-2020-rmr.png"
+  },
+  "Evil Geniuses": {
+    "class": "blue",
+    "name": "Evil Geniuses | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-evil-geniuses-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-evil-geniuses-2020-rmr.png"
+  },
+  "Heroic": {
+    "class": "blue",
+    "name": "Heroic | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-heroic-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-heroic-2020-rmr.png"
+  },
+  "Ninjas in Pyjamas": {
+    "class": "blue",
+    "name": "Ninjas in Pyjamas | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-ninjas-in-pyjamas-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-ninjas-in-pyjamas-2020-rmr.png"
+  }
+}

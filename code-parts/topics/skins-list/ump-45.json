@@ -1,0 +1,408 @@
+{
+  "Continuum": {
+    "class": "purple",
+    "image": "/img/skins/ump-45/continuum.webp",
+    "name": "UMP-45 | Continuum",
+    "color": [
+      "Cyan",
+      "Blue"
+    ],
+    "case": "The Ginesis Collection"
+  },
+  "K.O. Factory": {
+    "class": "pink",
+    "image": "/img/skins/ump-45/ko-factory.webp",
+    "name": "UMP-45 | K.O. Factory",
+    "color": [
+      "Cyan",
+      "Red"
+    ],
+    "case": "Fever Case"
+  },
+  "Late Night Transit": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/late-night-transit.webp",
+    "name": "UMP-45 | Late Night Transit",
+    "color": [
+      "Black"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Neo-Noir": {
+    "class": "pink",
+    "image": "/img/skins/ump-45/neo-noir.webp",
+    "name": "UMP-45 | Neo-Noir",
+    "color": [
+      "Pink",
+      "White"
+    ],
+    "case": "Gallery Case"
+  },
+  "Labyrinth": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/labyrinth.webp",
+    "name": "UMP-45 | Labyrinth",
+    "color": [
+      "White"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Gunsmoke": {
+    "class": "lblue",
+    "image": "/img/skins/ump-45/gunsmoke.webp",
+    "name": "UMP-45 | Gunsmoke",
+    "color": [
+      "Brown",
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Arctic Wolf": {
+    "class": "purple",
+    "image": "/img/skins/ump-45/arctic-wolf.webp",
+    "name": "UMP-45 | Arctic Wolf",
+    "color": [
+      "Gray",
+      "White"
+    ],
+    "case": "Clutch Case"
+  },
+  "Urban DDPAT": {
+    "class": "white",
+    "image": "/img/skins/ump-45/urban-ddpat.webp",
+    "name": "UMP-45 | Urban DDPAT",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Gold Bismuth": {
+    "class": "purple",
+    "image": "/img/skins/ump-45/gold-bismuth.webp",
+    "name": "UMP-45 | Gold Bismuth",
+    "color": [
+      "Brown",
+      "White"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Briefing": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/briefing.webp",
+    "name": "UMP-45 | Briefing",
+    "color": [
+      "Gray"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Motorized": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/motorized.webp",
+    "name": "UMP-45 | Motorized",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Scorched": {
+    "class": "white",
+    "image": "/img/skins/ump-45/scorched.webp",
+    "name": "UMP-45 | Scorched",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Metal Flowers": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/metal-flowers.webp",
+    "name": "UMP-45 | Metal Flowers",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Roadblock": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/roadblock.webp",
+    "name": "UMP-45 | Roadblock",
+    "color": [
+      "Black"
+    ],
+    "case": "Recoil Case"
+  },
+  "Carbon Fiber": {
+    "class": "lblue",
+    "image": "/img/skins/ump-45/carbon-fiber.webp",
+    "name": "UMP-45 | Carbon Fiber",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Mechanism": {
+    "class": "lblue",
+    "image": "/img/skins/ump-45/mechanism.webp",
+    "name": "UMP-45 | Mechanism",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Houndstooth": {
+    "class": "white",
+    "image": "/img/skins/ump-45/houndstooth.webp",
+    "name": "UMP-45 | Houndstooth",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Mudder": {
+    "class": "white",
+    "image": "/img/skins/ump-45/mudder.webp",
+    "name": "UMP-45 | Mudder",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Corporal": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/corporal.webp",
+    "name": "UMP-45 | Corporal",
+    "color": [],
+    "case": "Operation Phoenix Weapon Case"
+  },
+  "Grand Prix": {
+    "class": "purple",
+    "image": "/img/skins/ump-45/grand-prix.webp",
+    "name": "UMP-45 | Grand Prix",
+    "color": [],
+    "case": "Chroma 2 Case"
+  },
+  "Momentum": {
+    "class": "pink",
+    "image": "/img/skins/ump-45/momentum.webp",
+    "name": "UMP-45 | Momentum",
+    "color": [
+      "Cyan",
+      "Red"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Fallout Warning": {
+    "class": "lblue",
+    "image": "/img/skins/ump-45/fallout-warning.webp",
+    "name": "UMP-45 | Fallout Warning",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Nuke Collection"
+  },
+  "Fade": {
+    "class": "pink",
+    "image": "/img/skins/ump-45/fade.webp",
+    "name": "UMP-45 | Fade",
+    "color": [
+      "Pink",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Full Stop": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/full-stop.webp",
+    "name": "UMP-45 | Full Stop",
+    "color": [
+      "Red"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Oscillator": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/oscillator.webp",
+    "name": "UMP-45 | Oscillator",
+    "color": [
+      "Orange"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Blaze": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/blaze.webp",
+    "name": "UMP-45 | Blaze",
+    "color": [
+      "Orange",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Caramel": {
+    "class": "white",
+    "image": "/img/skins/ump-45/caramel.webp",
+    "name": "UMP-45 | Caramel",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Assault Collection"
+  },
+  "Delusion": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/delusion.webp",
+    "name": "UMP-45 | Delusion",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Riot": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/riot.webp",
+    "name": "UMP-45 | Riot",
+    "color": [
+      "Green"
+    ],
+    "case": "Falchion Case"
+  },
+  "Plastique": {
+    "class": "purple",
+    "image": "/img/skins/ump-45/plastique.webp",
+    "name": "UMP-45 | Plastique",
+    "color": [
+      "Green"
+    ],
+    "case": "CS20 Case"
+  },
+  "Bone Pile": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/bone-pile.webp",
+    "name": "UMP-45 | Bone Pile",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Day Lily": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/day-lily.webp",
+    "name": "UMP-45 | Day Lily",
+    "color": [
+      "Green"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Primal Saber": {
+    "class": "pink",
+    "image": "/img/skins/ump-45/primal-saber.webp",
+    "name": "UMP-45 | Primal Saber",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Scaffold": {
+    "class": "purple",
+    "image": "/img/skins/ump-45/scaffold.webp",
+    "name": "UMP-45 | Scaffold",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Facility Dark": {
+    "class": "white",
+    "image": "/img/skins/ump-45/facility-dark.webp",
+    "name": "UMP-45 | Facility Dark",
+    "color": [],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Exposure": {
+    "class": "purple",
+    "image": "/img/skins/ump-45/exposure.webp",
+    "name": "UMP-45 | Exposure",
+    "color": [
+      "Blue"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Indigo": {
+    "class": "white",
+    "image": "/img/skins/ump-45/indigo.webp",
+    "name": "UMP-45 | Indigo",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Minotaur's Labyrinth": {
+    "class": "blue",
+    "image": "/img/skins/ump-45/minotaurs-labyrinth.webp",
+    "name": "UMP-45 | Minotaur's Labyrinth",
+    "color": [
+      "Purple"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Moonrise": {
+    "class": "purple",
+    "image": "/img/skins/ump-45/moonrise.webp",
+    "name": "UMP-45 | Moonrise",
+    "color": [
+      "Purple"
+    ],
+    "case": "Prisma Case"
+  },
+  "Crime Scene": {
+    "class": "purple",
+    "image": "/img/skins/ump-45/crime-scene.webp",
+    "name": "UMP-45 | Crime Scene",
+    "color": [
+      "Blue",
+      "Red"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Wild Child": {
+    "class": "pink",
+    "image": "/img/skins/ump-45/wild-child.webp",
+    "name": "UMP-45 | Wild Child",
+    "color": [
+      "Cyan",
+      "Pink",
+      "Purple"
+    ],
+    "case": "Revolution Case"
+  },
+  "Crimson Foil": {
+    "class": "purple",
+    "image": "/img/skins/ump-45/crimson-foil.webp",
+    "name": "UMP-45 | Crimson Foil",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Green Swirl": {
+    "class": "white",
+    "image": "/img/skins/ump-45/green-swirl.webp",
+    "name": "UMP-45 | Green Swirl",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

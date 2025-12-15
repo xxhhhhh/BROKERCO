@@ -1,0 +1,386 @@
+{
+  "Broken Record": {
+    "class": "blue",
+    "image": "/img/skins/mp9/broken-record.webp",
+    "name": "MP9 | Broken Record",
+    "color": [
+      "Gray"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Airlock": {
+    "class": "pink",
+    "image": "/img/skins/mp9/airlock.webp",
+    "name": "MP9 | Airlock",
+    "color": [
+      "White"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Latte Rush": {
+    "class": "pink",
+    "image": "/img/skins/mp9/latte-rush.webp",
+    "name": "MP9 | Latte Rush",
+    "color": [
+      "Pink"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Nexus": {
+    "class": "blue",
+    "image": "/img/skins/mp9/nexus.webp",
+    "name": "MP9 | Nexus",
+    "color": [
+      "Black"
+    ],
+    "case": "Fever Case"
+  },
+  "Starlight Protector": {
+    "class": "red",
+    "image": "/img/skins/mp9/starlight-protector.webp",
+    "name": "MP9 | Starlight Protector",
+    "color": [
+      "White"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Hypnotic": {
+    "class": "purple",
+    "image": "/img/skins/mp9/hypnotic.webp",
+    "name": "MP9 | Hypnotic",
+    "color": [
+      "Black",
+      "Silver",
+      "White"
+    ],
+    "case": "CS:GO Weapon Case 2"
+  },
+  "Featherweight": {
+    "class": "blue",
+    "image": "/img/skins/mp9/featherweight.webp",
+    "name": "MP9 | Featherweight",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "case": "Revolution Case"
+  },
+  "Capillary": {
+    "class": "blue",
+    "image": "/img/skins/mp9/capillary.webp",
+    "name": "MP9 | Capillary",
+    "color": [
+      "Gray"
+    ],
+    "case": "Horizon Case"
+  },
+  "Dart": {
+    "class": "blue",
+    "image": "/img/skins/mp9/dart.webp",
+    "name": "MP9 | Dart",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Dark Age": {
+    "class": "blue",
+    "image": "/img/skins/mp9/dark-age.webp",
+    "name": "MP9 | Dark Age",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Goo": {
+    "class": "purple",
+    "image": "/img/skins/mp9/goo.webp",
+    "name": "MP9 | Goo",
+    "color": [
+      "Black"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Music Box": {
+    "class": "blue",
+    "image": "/img/skins/mp9/music-box.webp",
+    "name": "MP9 | Music Box",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Sand Scale": {
+    "class": "blue",
+    "image": "/img/skins/mp9/sand-scale.webp",
+    "name": "MP9 | Sand Scale",
+    "color": [
+      "Gray"
+    ],
+    "case": "Glove Case"
+  },
+  "Sand Dashed": {
+    "class": "white",
+    "image": "/img/skins/mp9/sand-dashed.webp",
+    "name": "MP9 | Sand Dashed",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Black Sand": {
+    "class": "blue",
+    "image": "/img/skins/mp9/black-sand.webp",
+    "name": "MP9 | Black Sand",
+    "color": [],
+    "case": "Clutch Case"
+  },
+  "Hot Rod": {
+    "class": "blue",
+    "image": "/img/skins/mp9/hot-rod.webp",
+    "name": "MP9 | Hot Rod",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Ruby Poison Dart": {
+    "class": "purple",
+    "image": "/img/skins/mp9/ruby-poison-dart.webp",
+    "name": "MP9 | Ruby Poison Dart",
+    "color": [
+      "Red"
+    ],
+    "case": "Falchion Case"
+  },
+  "Setting Sun": {
+    "class": "blue",
+    "image": "/img/skins/mp9/setting-sun.webp",
+    "name": "MP9 | Setting Sun",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Food Chain": {
+    "class": "pink",
+    "image": "/img/skins/mp9/food-chain.webp",
+    "name": "MP9 | Food Chain",
+    "color": [],
+    "case": "Snakebite Case"
+  },
+  "Orange Peel": {
+    "class": "lblue",
+    "image": "/img/skins/mp9/orange-peel.webp",
+    "name": "MP9 | Orange Peel",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Modest Threat": {
+    "class": "blue",
+    "image": "/img/skins/mp9/modest-threat.webp",
+    "name": "MP9 | Modest Threat",
+    "color": [
+      "Orange"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Rose Iron": {
+    "class": "purple",
+    "image": "/img/skins/mp9/rose-iron.webp",
+    "name": "MP9 | Rose Iron",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Slide": {
+    "class": "white",
+    "image": "/img/skins/mp9/slide.webp",
+    "name": "MP9 | Slide",
+    "color": [],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Bulldozer": {
+    "class": "purple",
+    "image": "/img/skins/mp9/bulldozer.webp",
+    "name": "MP9 | Bulldozer",
+    "color": [
+      "Yellow"
+    ],
+    "collection": "The Assault Collection"
+  },
+  "Dry Season": {
+    "class": "white",
+    "image": "/img/skins/mp9/dry-season.webp",
+    "name": "MP9 | Dry Season",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "collection": "The Alpha Collection"
+  },
+  "Hydra": {
+    "class": "pink",
+    "image": "/img/skins/mp9/hydra.webp",
+    "name": "MP9 | Hydra",
+    "color": [
+      "Green"
+    ],
+    "case": "CS20 Case"
+  },
+  "Bioleak": {
+    "class": "blue",
+    "image": "/img/skins/mp9/bioleak.webp",
+    "name": "MP9 | Bioleak",
+    "color": [
+      "Green"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Deadly Poison": {
+    "class": "blue",
+    "image": "/img/skins/mp9/deadly-poison.webp",
+    "name": "MP9 | Deadly Poison",
+    "color": [
+      "Green"
+    ],
+    "case": "Chroma Case"
+  },
+  "Old Roots": {
+    "class": "lblue",
+    "image": "/img/skins/mp9/old-roots.webp",
+    "name": "MP9 | Old Roots",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Green Plaid": {
+    "class": "white",
+    "image": "/img/skins/mp9/green-plaid.webp",
+    "name": "MP9 | Green Plaid",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Army Sheen": {
+    "class": "white",
+    "image": "/img/skins/mp9/army-sheen.webp",
+    "name": "MP9 | Army Sheen",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Storm": {
+    "class": "white",
+    "image": "/img/skins/mp9/storm.webp",
+    "name": "MP9 | Storm",
+    "color": [
+      "Cyan"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Stained Glass": {
+    "class": "purple",
+    "image": "/img/skins/mp9/stained.webp",
+    "name": "MP9 | Stained Glass",
+    "color": [
+      "Blue",
+      "Cyan"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Pandora's Box": {
+    "class": "blue",
+    "image": "/img/skins/mp9/pandoras-box.webp",
+    "name": "MP9 | Pandora's Box",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Wild Lily": {
+    "class": "pink",
+    "image": "/img/skins/mp9/wild-lily.webp",
+    "name": "MP9 | Wild Lily",
+    "color": [
+      "Purple"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Mount Fuji": {
+    "class": "purple",
+    "image": "/img/skins/mp9/mount-fuji.webp",
+    "name": "MP9 | Mount Fuji",
+    "color": [
+      "Pink"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "Arctic Tri-Tone": {
+    "class": "purple",
+    "image": "/img/skins/mp9/arctic-tri-tone.webp",
+    "name": "MP9 | Arctic Tri-Tone",
+    "color": [
+      "White"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Cobalt Paisley": {
+    "class": "blue",
+    "image": "/img/skins/mp9/cobalt-paisley.webp",
+    "name": "MP9 | Cobalt Paisley",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Buff Blue": {
+    "class": "white",
+    "image": "/img/skins/mp9/buff-blue.webp",
+    "name": "MP9 | Buff Blue",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Shredded": {
+    "class": "blue",
+    "image": "/img/skins/mp9/shredded.webp",
+    "name": "MP9 | Shredded",
+    "color": [],
+    "collection": "The Radiant Collection"
+  },
+  "Multi-Terrain": {
+    "class": "white",
+    "image": "/img/skins/mp9/multi-terrain.webp",
+    "name": "MP9 | Multi-Terrain",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Pine": {
+    "class": "white",
+    "image": "/img/skins/mp9/pine.webp",
+    "name": "MP9 | Pine",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

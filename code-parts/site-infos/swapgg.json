@@ -1,0 +1,43 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/trade-skins\" aria-label=\"Trade Skins\" class=\"trade-skins\"></a>",
+        "<a href=\"/csgo/instant-sell\" aria-label=\"Instant Sell Skins\" class=\"instant-sell\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"Team Fortress 2 Items\" class=\"tf2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"Team Fortress 2 Items\" class=\"tf2\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 4.5,
+        "Payments": 3,
+        "Pricing": 4
+    },
+    "name": "Swap.gg",
+    "languages": "en, ru, tr, es",
+    "link": "https://swap.gg/?r=V7qjm4NE6t2WBF-Rbk4pY",
+    "Main Mode": "trading",
+    "featuresContent": ["DepositBonus"],
+    "Sites Alternatives"  : ["tradeit", "csmoney", "pirateswap", "dmarket"]
+}

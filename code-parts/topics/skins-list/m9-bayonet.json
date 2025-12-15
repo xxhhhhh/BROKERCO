@@ -1,0 +1,212 @@
+{
+  "Vanilla": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-vanilla.webp",
+    "name": "M9 Bayonet",
+    "color": []
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-stained.webp",
+    "name": "M9 Bayonet | Stained",
+    "color": ["Gray"]
+  },
+  "Rust Coat": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-rust-coat.webp",
+    "name": "M9 Bayonet | Rust Coat",
+    "color": []
+  },
+  "Rust Coat BS": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-rust-coat-bs.webp",
+    "name": "M9 Bayonet | Rust Coat (Battle-Scarred)",
+    "color": ["Brown"]
+  },
+  "Damascus Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-damascus.webp",
+    "name": "M9 Bayonet | Damascus Steel",
+    "color": ["White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-urban-masked.webp",
+    "name": "M9 Bayonet | Urban Masked",
+    "color": ["Gray"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-scorched.webp",
+    "name": "M9 Bayonet | Scorched",
+    "color": ["Black", "Gray"]
+  },
+  "Black Laminate": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-black-laminate.webp",
+    "name": "M9 Bayonet | Black Laminate",
+    "color": ["Black", "Gray"]
+  },
+  "Night": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-night.webp",
+    "name": "M9 Bayonet | Night",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-blue-steel.webp",
+    "name": "M9 Bayonet | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-safari-mesh.webp",
+    "name": "M9 Bayonet | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-boreal.webp",
+    "name": "M9 Bayonet | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-ddpat.webp",
+    "name": "M9 Bayonet | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Doppler Ruby": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-bayonet-ruby.webp",
+    "name": "M9 Bayonet | Doppler Ruby",
+    "color": ["Red"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-bayonet-crimson-web.webp",
+    "name": "M9 Bayonet | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-slaughter.webp",
+    "name": "M9 Bayonet | Slaughter",
+    "color": ["Red"]
+  },
+  "Autotronic": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-bayonet-autotronic.webp",
+    "name": "M9 Bayonet | Autotronic",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-fade.webp",
+    "name": "M9 Bayonet | Fade",
+    "color": []
+  },
+  "Marble Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-marble-fade.webp",
+    "name": "M9 Bayonet | Marble Fade",
+    "color": []
+  },
+  "Tiger Tooth": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-tiger-tooth.webp",
+    "name": "M9 Bayonet | Tiger Tooth",
+    "color": ["Orange", "Yellow"]
+  },
+  "Lore": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-lore.webp",
+    "name": "M9 Bayonet | Lore",
+    "color": []
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-case-hardened.webp",
+    "name": "M9 Bayonet | Case Hardened",
+    "color": ["Golden", "Yellow"]
+  },
+  "Gamma Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-gamma-doppler-phase-3.webp",
+    "name": "M9 Bayonet | Gamma Doppler Phase 3",
+    "color": ["Cyan", "Green"]
+  },
+  "Gamma Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-gamma-doppler-phase-4.webp",
+    "name": "M9 Bayonet | Gamma Doppler Phase 4",
+    "color": ["Cyan", "Green"]
+  },
+  "Gamma Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-gamma-doppler-phase-2.webp",
+    "name": "M9 Bayonet | Gamma Doppler Phase 2",
+    "color": ["Green"]
+  },
+  "Gamma Doppler Emerald": {
+    "class": "red",
+    "image": "/img/skins/knives/m9bayonet-emerald.webp",
+    "name": "M9 Bayonet | Gamma Doppler Emerald",
+    "color": ["Green"]
+  },
+  "Gamma Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-gamma-doppler-phase-1.webp",
+    "name": "M9 Bayonet | Gamma Doppler Phase 1",
+    "color": []
+  },
+  "Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-doppler-phase-3.webp",
+    "name": "M9 Bayonet | Doppler Phase 3",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-doppler-phase-4.webp",
+    "name": "M9 Bayonet | Doppler Phase 4",
+    "color": ["Blue"]
+  },
+  "Doppler Sapphire": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-doppler-sapphire.webp",
+    "name": "M9 Bayonet | Doppler Sapphire",
+    "color": ["Blue"]
+  },
+  "Bright Water": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-bright-water.webp",
+    "name": "M9 Bayonet | Bright Water",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-doppler-phase-1.webp",
+    "name": "M9 Bayonet | Doppler Phase 1",
+    "color": ["Purple"]
+  },
+  "Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-doppler-phase-2.webp",
+    "name": "M9 Bayonet | Doppler Phase 2",
+    "color": ["Pink", "Purple"]
+  },
+  "Freehand": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-freehand.webp",
+    "name": "M9 Bayonet | Freehand",
+    "color": ["Purple"]
+  },
+  "Ultraviolet": {
+    "class": "red",
+    "image": "/img/skins/knives/m9-ultraviolet.webp",
+    "name": "M9 Bayonet | Ultraviolet",
+    "color": ["Black", "Purple"]
+  }
+}

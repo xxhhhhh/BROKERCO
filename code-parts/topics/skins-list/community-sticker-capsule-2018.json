@@ -1,0 +1,86 @@
+{
+  "Camper (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Camper (Foil)",
+    "image": "/img/skins/stickers/community-2018/sticker-camper-foil.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-camper-foil.png"
+  },
+  "Bullet Rain (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Bullet Rain (Foil)",
+    "image": "/img/skins/stickers/community-2018/sticker-bullet-rain-foil.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-bullet-rain-foil.png"
+  },
+  "Devouring Flame (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Devouring Flame (Holo)",
+    "image": "/img/skins/stickers/community-2018/sticker-devouring-flame-holo.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-devouring-flame-holo.png"
+  },
+  "Friendly Fire (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Friendly Fire (Holo)",
+    "image": "/img/skins/stickers/community-2018/sticker-friendly-fire-holo.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-friendly-fire-holo.png"
+  },
+  "Small Arms (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Small Arms (Holo)",
+    "image": "/img/skins/stickers/community-2018/sticker-small-arms-holo.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-small-arms-holo.png"
+  },
+  "Retake Expert (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Retake Expert (Holo)",
+    "image": "/img/skins/stickers/community-2018/sticker-retake-expert-holo.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-retake-expert-holo.png"
+  },
+  "Friendly Fire": {
+    "class": "blue",
+    "name": "Sticker | Friendly Fire",
+    "image": "/img/skins/stickers/community-2018/sticker-friendly-fire.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-friendly-fire.png"
+  },
+  "Small Arms": {
+    "class": "blue",
+    "name": "Sticker | Small Arms",
+    "image": "/img/skins/stickers/community-2018/sticker-small-arms.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-small-arms.png"
+  },
+  "Bullet Rain": {
+    "class": "blue",
+    "name": "Sticker | Bullet Rain",
+    "image": "/img/skins/stickers/community-2018/sticker-bullet-rain.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-bullet-rain.png"
+  },
+  "Devouring Flame": {
+    "class": "blue",
+    "name": "Sticker | Devouring Flame",
+    "image": "/img/skins/stickers/community-2018/sticker-devouring-flame.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-devouring-flame.png"
+  },
+  "Camper": {
+    "class": "blue",
+    "name": "Sticker | Camper",
+    "image": "/img/skins/stickers/community-2018/sticker-camper.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-camper.png"
+  },
+  "Entry Fragger": {
+    "class": "blue",
+    "name": "Sticker | Entry Fragger",
+    "image": "/img/skins/stickers/community-2018/sticker-entry-fragger.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-entry-fragger.png"
+  },
+  "Dessert Eagle": {
+    "class": "blue",
+    "name": "Sticker | Dessert Eagle",
+    "image": "/img/skins/stickers/community-2018/sticker-dessert-eagle.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-dessert-eagle.png"
+  },
+  "Retake Expert": {
+    "class": "blue",
+    "name": "Sticker | Retake Expert",
+    "image": "/img/skins/stickers/community-2018/sticker-retake-expert.png",
+    "imageOG": "/img/skins/stickers/community-2018/small/sticker-retake-expert.png"
+  }
+}

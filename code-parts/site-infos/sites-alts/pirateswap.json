@@ -1,0 +1,9 @@
+{
+    "name": "PirateSwap",
+    "logo": "/img/pirateswap-logo.webp",
+    "reward": "Get <strong>+$5.00</strong> for your trade",
+    "reward_ru": "Получите <strong>до 10.00$</strong> на Обмен",
+    "reward_tr": "Ayrıca <strong>+5,00 $</strong> kazanın",
+    "link": "https://pirateswap.com/?ref=broker",
+    "code": "BROKER"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Tradeit",
+    "logo": "/img/tradeit-logo.webp",
+    "reward": "Get <strong>35% Store bonus</strong>. Also <strong>get +$5.00</strong> for your trade",
+    "reward_ru": "Получите <strong>+35% к Депозиту</strong>, Так же <strong>Получите до 5.00$ на Обмен</strong>",
+    "reward_tr": "<strong>%35 Mağaza bonusu</strong> alın. Ayrıca <strong>+5,00 $</strong> kazanın",
+    "link": "https://tradeit.gg/?aff=csgobroker",
+    "code": "csgobroker"
+}

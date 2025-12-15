@@ -1,0 +1,176 @@
+{
+  "BullHit (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | BullHit (Lenticular)",
+    "image": "/img/skins/stickers/2025-community/sticker-bullhit-lenticular.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-bullhit-lenticular.webp"
+  },
+  "Neon MVP (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Neon MVP (Lenticular)",
+    "image": "/img/skins/stickers/2025-community/sticker-neon-mvp-lenticular.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-neon-mvp-lenticular.webp"
+  },
+  "Digi-Strike (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Digi-Strike (Lenticular)",
+    "image": "/img/skins/stickers/2025-community/sticker-digi-strike-lenticular.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-digi-strike-lenticular.webp"
+  },
+  "Queen Ava (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Queen Ava (Foil)",
+    "image": "/img/skins/stickers/2025-community/sticker-queen-ava-foil.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-queen-ava-foil.webp"
+  },
+  "King Crasswater (Foil)": {
+    "class": "pink",
+    "name": "Sticker | King Crasswater (Foil)",
+    "image": "/img/skins/stickers/2025-community/sticker-king-crasswater-foil.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-king-crasswater-foil.webp"
+  },
+  "Hands Off (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Hands Off (Foil)",
+    "image": "/img/skins/stickers/2025-community/sticker-hands-off-foil.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-hands-off-foil.webp"
+  },
+  "Good As New (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Good As New (Foil)",
+    "image": "/img/skins/stickers/2025-community/sticker-good-as-new-foil.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-good-as-new-foil.webp"
+  },
+  "Eyes In The Sky (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Eyes In The Sky (Foil)",
+    "image": "/img/skins/stickers/2025-community/sticker-eyes-in-the-sky-foil.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-eyes-in-the-sky-foil.webp"
+  },
+  "Ain't A Rental (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Ain't A Rental (Foil)",
+    "image": "/img/skins/stickers/2025-community/sticker-ain-t-a-rental-foil.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-ain-t-a-rental-foil.webp"
+  },
+  "Froggles (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Froggles (Holo)",
+    "image": "/img/skins/stickers/2025-community/sticker-froggles-holo.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-froggles-holo.webp"
+  },
+  "Evidence (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Evidence (Holo)",
+    "image": "/img/skins/stickers/2025-community/sticker-evidence-holo.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-evidence-holo.webp"
+  },
+  "Cutie (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Cutie (Holo)",
+    "image": "/img/skins/stickers/2025-community/sticker-cutie-holo.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-cutie-holo.webp"
+  },
+  "Chrome Dome (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Chrome Dome (Holo)",
+    "image": "/img/skins/stickers/2025-community/sticker-chrome-dome-holo.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-chrome-dome-holo.webp"
+  },
+  "Bomb Planted (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Bomb Planted (Holo)",
+    "image": "/img/skins/stickers/2025-community/sticker-bomb-planted-holo.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-bomb-planted-holo.webp"
+  },
+  "T Tracks (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | T Tracks (Glitter)",
+    "image": "/img/skins/stickers/2025-community/sticker-t-tracks-glitter.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-t-tracks-glitter.webp"
+  },
+  "Overloaded (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Overloaded (Glitter)",
+    "image": "/img/skins/stickers/2025-community/sticker-overloaded-glitter.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-overloaded-glitter.webp"
+  },
+  "CT Tracks (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | CT Tracks (Glitter)",
+    "image": "/img/skins/stickers/2025-community/sticker-ct-tracks-glitter.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-ct-tracks-glitter.webp"
+  },
+  "Vice Cursor": {
+    "class": "blue",
+    "name": "Sticker | Vice Cursor",
+    "image": "/img/skins/stickers/2025-community/sticker-vice-cursor.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-vice-cursor.webp"
+  },
+  "Skelly Stabby": {
+    "class": "blue",
+    "name": "Sticker | Skelly Stabby",
+    "image": "/img/skins/stickers/2025-community/sticker-skelly-stabby.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-skelly-stabby.webp"
+  },
+  "Sent With Love": {
+    "class": "blue",
+    "name": "Sticker | Sent With Love",
+    "image": "/img/skins/stickers/2025-community/sticker-sent-with-love.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-sent-with-love.webp"
+  },
+  "POTS": {
+    "class": "blue",
+    "name": "Sticker | POTS",
+    "image": "/img/skins/stickers/2025-community/sticker-pots.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-pots.webp"
+  },
+  "Pop Pup": {
+    "class": "blue",
+    "name": "Sticker | Pop Pup",
+    "image": "/img/skins/stickers/2025-community/sticker-pop-pup.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-pop-pup.webp"
+  },
+  "Mimicapsule": {
+    "class": "blue",
+    "name": "Sticker | Mimicapsule",
+    "image": "/img/skins/stickers/2025-community/sticker-mimicapsule.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-mimicapsule.webp"
+  },
+  "Lock In": {
+    "class": "blue",
+    "name": "Sticker | Lock In",
+    "image": "/img/skins/stickers/2025-community/sticker-lock-in.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-lock-in.webp"
+  },
+  "Gloves On": {
+    "class": "blue",
+    "name": "Sticker | Gloves On",
+    "image": "/img/skins/stickers/2025-community/sticker-gloves-on.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-gloves-on.webp"
+  },
+  "Fade Mangos": {
+    "class": "blue",
+    "name": "Sticker | Fade Mangos",
+    "image": "/img/skins/stickers/2025-community/sticker-fade-mangos.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-fade-mangos.webp"
+  },
+  "Eyes of Farlow": {
+    "class": "blue",
+    "name": "Sticker | Eyes of Farlow",
+    "image": "/img/skins/stickers/2025-community/sticker-eyes-of-farlow.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-eyes-of-farlow.webp"
+  },
+  "Cubix Connexion": {
+    "class": "blue",
+    "name": "Sticker | Cubix Connexion",
+    "image": "/img/skins/stickers/2025-community/sticker-cubix-connexion.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-cubix-connexion.webp"
+  },
+  "Candy Apples": {
+    "class": "blue",
+    "name": "Sticker | Candy Apples",
+    "image": "/img/skins/stickers/2025-community/sticker-candy-apples.webp",
+    "imageOG": "/img/skins/stickers/2025-community/small/sticker-candy-apples.webp"
+  }
+}

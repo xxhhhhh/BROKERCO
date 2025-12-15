@@ -1,0 +1,74 @@
+[
+  {
+    "weapon": "awp",
+    "skin-id": "Gungnir"
+  },
+  {
+    "weapon": "negev",
+    "skin-id": "Mjölnir"
+  },
+  {
+    "weapon": "desert-eagle",
+    "skin-id": "Emerald Jörmungandr"
+  },
+  {
+    "weapon": "p90",
+    "skin-id": "Astral Jörmungandr"
+  },
+  {
+    "weapon": "aug",
+    "skin-id": "Flame Jörmungandr"
+  },
+  {
+    "weapon": "scar-20",
+    "skin-id": "Brass"
+  },
+  {
+    "weapon": "mac-10",
+    "skin-id": "Copper Borre"
+  },
+  {
+    "weapon": "xm1014",
+    "skin-id": "Frost Borre"
+  },
+  {
+    "weapon": "cz75-auto",
+    "skin-id": "Emerald Quartz"
+  },
+  {
+    "weapon": "m4a1-s",
+    "skin-id": "Moss Quartz"
+  },
+  {
+    "weapon": "dual-berettas",
+    "skin-id": "Pyre"
+  },
+  {
+    "weapon": "mag-7",
+    "skin-id": "Chainmail"
+  },
+  {
+    "weapon": "usp-s",
+    "skin-id": "Pathfinder"
+  },
+  {
+    "weapon": "ssg-08",
+    "skin-id": "Red Stone"
+  },
+  {
+    "weapon": "galil-ar",
+    "skin-id": "Tornado"
+  },
+  {
+    "weapon": "mp7",
+    "skin-id": "Scorched"
+  },
+  {
+    "weapon": "famas",
+    "skin-id": "Night Borre"
+  },
+  {
+    "weapon": "sg-553",
+    "skin-id": "Barricade"
+  }
+]

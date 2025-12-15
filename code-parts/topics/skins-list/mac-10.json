@@ -1,0 +1,501 @@
+{
+  "Cat Fight": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/cat-fight.webp",
+    "name": "MAC-10 | Cat Fight",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Toybox": {
+    "class": "pink",
+    "image": "/img/skins/mac-10/toybox.webp",
+    "name": "MAC-10 | Toybox",
+    "color": [],
+    "case": "Operation Riptide Case"
+  },
+  "Derailment": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/derailment.webp",
+    "name": "MAC-10 | Derailment",
+    "color": [
+      "Red",
+      "Cyan"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Urban DDPAT": {
+    "class": "white",
+    "image": "/img/skins/mac-10/urban-ddpat.webp",
+    "name": "MAC-10 | Urban DDPAT",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Vertigo Collection"
+  },
+  "Button Masher": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/button-masher.webp",
+    "name": "MAC-10 | Button Masher",
+    "color": [
+      "Gray"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Saibā Oni": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/saibā-oni.webp",
+    "name": "MAC-10 | Saibā Oni",
+    "color": [
+      "Pink"
+    ],
+    "case": "Gallery Case"
+  },
+  "Ensnared": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/ensnared.webp",
+    "name": "MAC-10 | Ensnared",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Silver": {
+    "class": "lblue",
+    "image": "/img/skins/mac-10/silver.webp",
+    "name": "MAC-10 | Silver",
+    "color": [
+      "Gray",
+      "Silver",
+      "White"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Whitefish": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/whitefish.webp",
+    "name": "MAC-10 | Whitefish",
+    "color": [
+      "Gray"
+    ],
+    "case": "Prisma Case"
+  },
+  "Strats": {
+    "class": "white",
+    "image": "/img/skins/mac-10/strats.webp",
+    "name": "MAC-10 | Strats",
+    "color": [
+      "Blue",
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Light Box": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/light-box.webp",
+    "name": "MAC-10 | Light Box",
+    "color": [
+      "Black",
+      "Purple"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Hot Snakes": {
+    "class": "pink",
+    "image": "/img/skins/mac-10/hot-snakes.webp",
+    "name": "MAC-10 | Hot Snakes",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Calf Skin": {
+    "class": "lblue",
+    "image": "/img/skins/mac-10/calf-skin.webp",
+    "name": "MAC-10 | Calf Skin",
+    "color": [
+      "Brown",
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Rangeen": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/rangeen.webp",
+    "name": "MAC-10 | Rangeen",
+    "color": [],
+    "case": "Shadow Case"
+  },
+  "Echoing Sands": {
+    "class": "lblue",
+    "image": "/img/skins/mac-10/echoing-sands.webp",
+    "name": "MAC-10 | Echoing Sands",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Sienna Damask": {
+    "class": "white",
+    "image": "/img/skins/mac-10/sienna-damask.webp",
+    "name": "MAC-10 | Sienna Damask",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Palm": {
+    "class": "lblue",
+    "image": "/img/skins/mac-10/palm.webp",
+    "name": "MAC-10 | Palm",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Monkeyflage": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/monkeyflage.webp",
+    "name": "MAC-10 | Monkeyflage",
+    "color": [],
+    "case": "Recoil Case"
+  },
+  "Commuter": {
+    "class": "lblue",
+    "image": "/img/skins/mac-10/commuter.webp",
+    "name": "MAC-10 | Commuter",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Case Hardened": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/case-hardened.webp",
+    "name": "MAC-10 | Case Hardened",
+    "color": [],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Copper Borre": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/copper-borre.webp",
+    "name": "MAC-10 | Copper Borre",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Last Dive": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/last-dive.webp",
+    "name": "MAC-10 | Last Dive",
+    "color": [
+      "Cyan",
+      "Orange"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Candy Apple": {
+    "class": "lblue",
+    "image": "/img/skins/mac-10/candy-apple.webp",
+    "name": "MAC-10 | Candy Apple",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Carnivore": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/carnivore.webp",
+    "name": "MAC-10 | Carnivore",
+    "color": [
+      "Red"
+    ],
+    "case": "Gamma Case"
+  },
+  "Propaganda": {
+    "class": "pink",
+    "image": "/img/skins/mac-10/propaganda.webp",
+    "name": "MAC-10 | Propaganda",
+    "color": [
+      "Red"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Sakkaku": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/sakkaku.webp",
+    "name": "MAC-10 | Sakkaku",
+    "color": [
+      "Red"
+    ],
+    "case": "Revolution Case"
+  },
+  "Aloha": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/aloha.webp",
+    "name": "MAC-10 | Aloha",
+    "color": [
+      "Red"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Tatter": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/tatter.webp",
+    "name": "MAC-10 | Tatter",
+    "color": [
+      "Red"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Pipe Down": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/pipe-down.webp",
+    "name": "MAC-10 | Pipe Down",
+    "color": [
+      "Red"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Red Filigree": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/red-filigree.webp",
+    "name": "MAC-10 | Red Filigree",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Heat": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/heat.webp",
+    "name": "MAC-10 | Heat",
+    "color": [
+      "Orange"
+    ],
+    "case": "Operation Phoenix Weapon Case"
+  },
+  "Amber Fade": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/amber-fade.webp",
+    "name": "MAC-10 | Amber Fade",
+    "color": [
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Allure": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/allure.webp",
+    "name": "MAC-10 | Allure",
+    "color": [],
+    "case": "Fracture Case"
+  },
+  "Stalker": {
+    "class": "red",
+    "image": "/img/skins/mac-10/stalker.webp",
+    "name": "MAC-10 | Stalker",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Gold Brick": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/gold-brick.webp",
+    "name": "MAC-10 | Gold Brick",
+    "color": [
+      "Golden",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Nuclear Garden": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/nuclear-garden.webp",
+    "name": "MAC-10 | Nuclear Garden",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Graven": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/graven.webp",
+    "name": "MAC-10 | Graven",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Surfwood": {
+    "class": "white",
+    "image": "/img/skins/mac-10/surfwood.webp",
+    "name": "MAC-10 | Surfwood",
+    "color": [
+      "Green"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Classic Crate": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/classic-crate.webp",
+    "name": "MAC-10 | Classic Crate",
+    "color": [
+      "Green"
+    ],
+    "case": "CS20 Case"
+  },
+  "Malachite": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/malachite.webp",
+    "name": "MAC-10 | Malachite",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Chroma Case"
+  },
+  "Oceanic": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/oceanic.webp",
+    "name": "MAC-10 | Oceanic",
+    "color": [
+      "Blue",
+      "Cyan"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Lapis Gator": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/lapis-gator.webp",
+    "name": "MAC-10 | Lapis Gator",
+    "color": [
+      "Blue"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Indigo": {
+    "class": "white",
+    "image": "/img/skins/mac-10/indigo.webp",
+    "name": "MAC-10 | Indigo",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Tornado": {
+    "class": "white",
+    "image": "/img/skins/mac-10/tornado.webp",
+    "name": "MAC-10 | Tornado",
+    "color": [],
+    "collection": "The Militia Collection"
+  },
+  "Ultraviolet": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/ultraviolet.webp",
+    "name": "MAC-10 | Ultraviolet",
+    "color": [
+      "Black",
+      "Purple"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Fade": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/fade.webp",
+    "name": "MAC-10 | Fade",
+    "color": [
+      "Pink",
+      "Yellow"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Neon Rider": {
+    "class": "red",
+    "image": "/img/skins/mac-10/neon-rider.webp",
+    "name": "MAC-10 | Neon Rider",
+    "color": [
+      "Cyan",
+      "Pink"
+    ],
+    "case": "Chroma 2 Case"
+  },
+  "Disco Tech": {
+    "class": "pink",
+    "image": "/img/skins/mac-10/disco-tech.webp",
+    "name": "MAC-10 | Disco Tech",
+    "color": [
+      "Pink",
+      "Purple"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Curse": {
+    "class": "purple",
+    "image": "/img/skins/mac-10/curse.webp",
+    "name": "MAC-10 | Curse",
+    "color": [
+      "Pink"
+    ],
+    "collection": "The Huntsman Collection"
+  },
+  "Pipsqueak": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/pipsqueak.webp",
+    "name": "MAC-10 | Pipsqueak",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Storm Camo": {
+    "class": "white",
+    "image": "/img/skins/mac-10/storm-camo.webp",
+    "name": "MAC-10 | Storm Camo",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Bronzer": {
+    "class": "white",
+    "image": "/img/skins/mac-10/bronzer.webp",
+    "name": "MAC-10 | Bronzer",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Poplar Thicket": {
+    "class": "blue",
+    "image": "/img/skins/mac-10/poplar-thicket.webp",
+    "name": "MAC-10 | Poplar Thicket",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  },
+  "Acid Hex": {
+    "class": "lblue",
+    "image": "/img/skins/mac-10/acid-hex.webp",
+    "name": "MAC-10 | Acid Hex",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

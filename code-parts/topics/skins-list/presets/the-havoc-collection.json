@@ -1,0 +1,78 @@
+[
+  {
+    "weapon": "ak-47",
+    "skin-id": "X-Ray"
+  },
+  {
+    "weapon": "awp",
+    "skin-id": "Silk Tiger"
+  },
+  {
+    "weapon": "mac-10",
+    "skin-id": "Hot Snakes"
+  },
+  {
+    "weapon": "galil-ar",
+    "skin-id": "Phoenix Blacklight"
+  },
+  {
+    "weapon": "glock-18",
+    "skin-id": "Franklin"
+  },
+  {
+    "weapon": "sg-553",
+    "skin-id": "Hypnotic"
+  },
+  {
+    "weapon": "desert-eagle",
+    "skin-id": "Night Heist"
+  },
+  {
+    "weapon": "p90",
+    "skin-id": "Tiger Pit"
+  },
+  {
+    "weapon": "p250",
+    "skin-id": "Bengal Tiger"
+  },
+  {
+    "weapon": "negev",
+    "skin-id": "Phoenix Stencil"
+  },
+  {
+    "weapon": "r8-revolver",
+    "skin-id": "Phoenix Marker"
+  },
+  {
+    "weapon": "nova",
+    "skin-id": "Rust Coat"
+  },
+  {
+    "weapon": "ump-45",
+    "skin-id": "Houndstooth"
+  },
+  {
+    "weapon": "mp7",
+    "skin-id": "Vault Heist"
+  },
+  {
+    "weapon": "sawed-off",
+    "skin-id": "Clay Ambush"
+  },
+  {
+    "weapon": "pp-bizon",
+    "skin-id": "Death Rattle"
+  },
+  {
+    "weapon": "dual-berettas",
+    "skin-id": "Heist"
+  },
+  {
+    "weapon": "tec-9",
+    "skin-id": "Phoenix Chalk"
+  },
+  {
+    "weapon": "m249",
+    "skin-id": "Predator"
+  }
+]

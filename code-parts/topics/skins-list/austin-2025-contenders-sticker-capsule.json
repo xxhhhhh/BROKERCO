@@ -1,0 +1,410 @@
+{
+  "BLAST.tv (Gold)": {
+    "class": "red",
+    "name": "BLAST.tv (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-blast-tv-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-blast-tv-gold-austin-2025.webp"
+  },
+  "Legacy (Gold)": {
+    "class": "red",
+    "name": "Legacy (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-legacy-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-legacy-gold-austin-2025.webp"
+  },
+  "Lynn Vision (Gold)": {
+    "class": "red",
+    "name": "Lynn Vision (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-lynn-vision-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-lynn-vision-gold-austin-2025.webp"
+  },
+  "Chinggis Warriors (Gold)": {
+    "class": "red",
+    "name": "Chinggis Warriors (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-chinggis-warriors-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-chinggis-warriors-gold-austin-2025.webp"
+  },
+  "Fluxo (Gold)": {
+    "class": "red",
+    "name": "Fluxo (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-fluxo-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-fluxo-gold-austin-2025.webp"
+  },
+  "TYLOO (Gold)": {
+    "class": "red",
+    "name": "TYLOO (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-tyloo-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-tyloo-gold-austin-2025.webp"
+  },
+  "Metizport (Gold)": {
+    "class": "red",
+    "name": "Metizport (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-metizport-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-metizport-gold-austin-2025.webp"
+  },
+  "FlyQuest (Gold)": {
+    "class": "red",
+    "name": "FlyQuest (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-flyquest-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-flyquest-gold-austin-2025.webp"
+  },
+  "NRG (Gold)": {
+    "class": "red",
+    "name": "NRG (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nrg-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nrg-gold-austin-2025.webp"
+  },
+  "Imperial Esports (Gold)": {
+    "class": "red",
+    "name": "Imperial Esports (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-imperial-esports-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-imperial-esports-gold-austin-2025.webp"
+  },
+  "BetBoom (Gold)": {
+    "class": "red",
+    "name": "BetBoom (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-betboom-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-betboom-gold-austin-2025.webp"
+  },
+  "Nemiga (Gold)": {
+    "class": "red",
+    "name": "Nemiga (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nemiga-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nemiga-gold-austin-2025.webp"
+  },
+  "OG (Gold)": {
+    "class": "red",
+    "name": "OG (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-og-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-og-gold-austin-2025.webp"
+  },
+  "B8 (Gold)": {
+    "class": "red",
+    "name": "B8 (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-b8-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-b8-gold-austin-2025.webp"
+  },
+  "HEROIC (Gold)": {
+    "class": "red",
+    "name": "HEROIC (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-heroic-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-heroic-gold-austin-2025.webp"
+  },
+  "Wildcard (Gold)": {
+    "class": "red",
+    "name": "Wildcard (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-wildcard-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-wildcard-gold-austin-2025.webp"
+  },
+  "Complexity Gaming (Gold)": {
+    "class": "red",
+    "name": "Complexity Gaming (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-complexity-gaming-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-complexity-gaming-gold-austin-2025.webp"
+  },
+  "BLAST.tv (Holo)": {
+    "class": "pink",
+    "name": "BLAST.tv (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-blast-tv-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-blast-tv-holo-austin-2025.webp"
+  },
+  "Legacy (Holo)": {
+    "class": "pink",
+    "name": "Legacy (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-legacy-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-legacy-holo-austin-2025.webp"
+  },
+  "Lynn Vision (Holo)": {
+    "class": "pink",
+    "name": "Lynn Vision (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-lynn-vision-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-lynn-vision-holo-austin-2025.webp"
+  },
+  "Chinggis Warriors (Holo)": {
+    "class": "pink",
+    "name": "Chinggis Warriors (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-chinggis-warriors-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-chinggis-warriors-holo-austin-2025.webp"
+  },
+  "Fluxo (Holo)": {
+    "class": "pink",
+    "name": "Fluxo (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-fluxo-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-fluxo-holo-austin-2025.webp"
+  },
+  "TYLOO (Holo)": {
+    "class": "pink",
+    "name": "TYLOO (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-tyloo-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-tyloo-holo-austin-2025.webp"
+  },
+  "Metizport (Holo)": {
+    "class": "pink",
+    "name": "Metizport (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-metizport-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-metizport-holo-austin-2025.webp"
+  },
+  "FlyQuest (Holo)": {
+    "class": "pink",
+    "name": "FlyQuest (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-flyquest-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-flyquest-holo-austin-2025.webp"
+  },
+  "NRG (Holo)": {
+    "class": "pink",
+    "name": "NRG (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nrg-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nrg-holo-austin-2025.webp"
+  },
+  "Imperial Esports (Holo)": {
+    "class": "pink",
+    "name": "Imperial Esports (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-imperial-esports-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-imperial-esports-holo-austin-2025.webp"
+  },
+  "BetBoom (Holo)": {
+    "class": "pink",
+    "name": "BetBoom (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-betboom-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-betboom-holo-austin-2025.webp"
+  },
+  "Nemiga (Holo)": {
+    "class": "pink",
+    "name": "Nemiga (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nemiga-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nemiga-holo-austin-2025.webp"
+  },
+  "OG (Holo)": {
+    "class": "pink",
+    "name": "OG (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-og-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-og-holo-austin-2025.webp"
+  },
+  "B8 (Holo)": {
+    "class": "pink",
+    "name": "B8 (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-b8-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-b8-holo-austin-2025.webp"
+  },
+  "HEROIC (Holo)": {
+    "class": "pink",
+    "name": "HEROIC (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-heroic-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-heroic-holo-austin-2025.webp"
+  },
+  "Wildcard (Holo)": {
+    "class": "pink",
+    "name": "Wildcard (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-wildcard-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-wildcard-holo-austin-2025.webp"
+  },
+  "Complexity Gaming (Holo)": {
+    "class": "pink",
+    "name": "Complexity Gaming (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-complexity-gaming-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-complexity-gaming-holo-austin-2025.webp"
+  },
+  "BLAST.tv (Foil)": {
+    "class": "purple",
+    "name": "BLAST.tv (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-blast-tv-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-blast-tv-foil-austin-2025.webp"
+  },
+  "Legacy (Foil)": {
+    "class": "purple",
+    "name": "Legacy (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-legacy-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-legacy-foil-austin-2025.webp"
+  },
+  "Lynn Vision (Foil)": {
+    "class": "purple",
+    "name": "Lynn Vision (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-lynn-vision-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-lynn-vision-foil-austin-2025.webp"
+  },
+  "Chinggis Warriors (Foil)": {
+    "class": "purple",
+    "name": "Chinggis Warriors (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-chinggis-warriors-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-chinggis-warriors-foil-austin-2025.webp"
+  },
+  "Fluxo (Foil)": {
+    "class": "purple",
+    "name": "Fluxo (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-fluxo-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-fluxo-foil-austin-2025.webp"
+  },
+  "TYLOO (Foil)": {
+    "class": "purple",
+    "name": "TYLOO (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-tyloo-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-tyloo-foil-austin-2025.webp"
+  },
+  "Metizport (Foil)": {
+    "class": "purple",
+    "name": "Metizport (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-metizport-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-metizport-foil-austin-2025.webp"
+  },
+  "FlyQuest (Foil)": {
+    "class": "purple",
+    "name": "FlyQuest (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-flyquest-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-flyquest-foil-austin-2025.webp"
+  },
+  "NRG (Foil)": {
+    "class": "purple",
+    "name": "NRG (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nrg-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nrg-foil-austin-2025.webp"
+  },
+  "Imperial Esports (Foil)": {
+    "class": "purple",
+    "name": "Imperial Esports (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-imperial-esports-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-imperial-esports-foil-austin-2025.webp"
+  },
+  "BetBoom (Foil)": {
+    "class": "purple",
+    "name": "BetBoom (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-betboom-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-betboom-foil-austin-2025.webp"
+  },
+  "Nemiga (Foil)": {
+    "class": "purple",
+    "name": "Nemiga (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nemiga-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nemiga-foil-austin-2025.webp"
+  },
+  "OG (Foil)": {
+    "class": "purple",
+    "name": "OG (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-og-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-og-foil-austin-2025.webp"
+  },
+  "B8 (Foil)": {
+    "class": "purple",
+    "name": "B8 (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-b8-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-b8-foil-austin-2025.webp"
+  },
+  "HEROIC (Foil)": {
+    "class": "purple",
+    "name": "HEROIC (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-heroic-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-heroic-foil-austin-2025.webp"
+  },
+  "Wildcard (Foil)": {
+    "class": "purple",
+    "name": "Wildcard (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-wildcard-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-wildcard-foil-austin-2025.webp"
+  },
+  "Complexity Gaming (Foil)": {
+    "class": "purple",
+    "name": "Complexity Gaming (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-complexity-gaming-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-complexity-gaming-foil-austin-2025.webp"
+  },
+  "BLAST.tv": {
+    "class": "blue",
+    "name": "BLAST.tv | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-blast-tv-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-blast-tv-austin-2025.webp"
+  },
+  "Legacy": {
+    "class": "blue",
+    "name": "Legacy | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-legacy-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-legacy-austin-2025.webp"
+  },
+  "Lynn Vision": {
+    "class": "blue",
+    "name": "Lynn Vision | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-lynn-vision-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-lynn-vision-austin-2025.webp"
+  },
+  "Chinggis Warriors": {
+    "class": "blue",
+    "name": "Chinggis Warriors | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-chinggis-warriors-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-chinggis-warriors-austin-2025.webp"
+  },
+  "Fluxo": {
+    "class": "blue",
+    "name": "Fluxo | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-fluxo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-fluxo-austin-2025.webp"
+  },
+  "TYLOO": {
+    "class": "blue",
+    "name": "TYLOO | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-tyloo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-tyloo-austin-2025.webp"
+  },
+  "Metizport": {
+    "class": "blue",
+    "name": "Metizport | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-metizport-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-metizport-austin-2025.webp"
+  },
+  "FlyQuest": {
+    "class": "blue",
+    "name": "FlyQuest | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-flyquest-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-flyquest-austin-2025.webp"
+  },
+  "NRG": {
+    "class": "blue",
+    "name": "NRG | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nrg-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nrg-austin-2025.webp"
+  },
+  "Imperial Esports": {
+    "class": "blue",
+    "name": "Imperial Esports | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-imperial-esports-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-imperial-esports-austin-2025.webp"
+  },
+  "BetBoom": {
+    "class": "blue",
+    "name": "BetBoom | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-betboom-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-betboom-austin-2025.webp"
+  },
+  "Nemiga": {
+    "class": "blue",
+    "name": "Nemiga | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nemiga-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nemiga-austin-2025.webp"
+  },
+  "OG": {
+    "class": "blue",
+    "name": "OG | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-og-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-og-austin-2025.webp"
+  },
+  "B8": {
+    "class": "blue",
+    "name": "B8 | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-b8-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-b8-austin-2025.webp"
+  },
+  "HEROIC": {
+    "class": "blue",
+    "name": "HEROIC | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-heroic-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-heroic-austin-2025.webp"
+  },
+  "Wildcard": {
+    "class": "blue",
+    "name": "Wildcard | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-wildcard-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-wildcard-austin-2025.webp"
+  },
+  "Complexity Gaming": {
+    "class": "blue",
+    "name": "Complexity Gaming | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-complexity-gaming-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-complexity-gaming-austin-2025.webp"
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "Smoking Kills": {
+    "class": "pink",
+    "image": "/img/skins/mp7/smoking-kills.webp",
+    "name": "MP7 | Smoking Kills",
+    "color": [
+      "Cyan",
+      "Pink",
+      "Purple"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Astrolabe": {
+    "class": "lblue",
+    "image": "/img/skins/mp7/astrolabe.webp",
+    "name": "MP7 | Astrolabe",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Whiteout": {
+    "class": "blue",
+    "image": "/img/skins/mp7/whiteout.webp",
+    "name": "MP7 | Whiteout",
+    "color": [
+      "White"
+    ],
+    "collection": "The Office Collection"
+  },
+  "Gunsmoke": {
+    "class": "lblue",
+    "image": "/img/skins/mp7/gunsmoke.webp",
+    "name": "MP7 | Gunsmoke",
+    "color": [
+      "Brown",
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Special Delivery": {
+    "class": "purple",
+    "image": "/img/skins/mp7/special-delivery.webp",
+    "name": "MP7 | Special Delivery",
+    "color": [
+      "Gray"
+    ],
+    "case": "Shadow Case"
+  },
+  "Skulls": {
+    "class": "blue",
+    "image": "/img/skins/mp7/skulls.webp",
+    "name": "MP7 | Skulls",
+    "color": [
+      "Gray",
+      "Purple"
+    ],
+    "case": "CS:GO Weapon Case"
+  },
+  "Vault Heist": {
+    "class": "lblue",
+    "image": "/img/skins/mp7/vault-heist.webp",
+    "name": "MP7 | Vault Heist",
+    "color": [
+      "Gray",
+      "Yellow"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Armor Core": {
+    "class": "blue",
+    "image": "/img/skins/mp7/armor-core.webp",
+    "name": "MP7 | Armor Core",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "case": "Chroma 2 Case"
+  },
+  "Scorched": {
+    "class": "white",
+    "image": "/img/skins/mp7/scorched.webp",
+    "name": "MP7 | Scorched",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Prey": {
+    "class": "white",
+    "image": "/img/skins/mp7/prey.webp",
+    "name": "MP7 | Prey",
+    "color": [],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Sunbaked": {
+    "class": "white",
+    "image": "/img/skins/mp7/sunbaked.webp",
+    "name": "MP7 | Sunbaked",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Army Recon": {
+    "class": "white",
+    "image": "/img/skins/mp7/army-recon.webp",
+    "name": "MP7 | Army Recon",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Bloodsport": {
+    "class": "red",
+    "image": "/img/skins/mp7/bloodsport.webp",
+    "name": "MP7 | Bloodsport",
+    "color": [
+      "Red",
+      "White"
+    ],
+    "case": "Clutch Case"
+  },
+  "Mischief": {
+    "class": "blue",
+    "image": "/img/skins/mp7/mischief.webp",
+    "name": "MP7 | Mischief",
+    "color": [
+      "Red"
+    ],
+    "case": "Prisma Case"
+  },
+  "Fade": {
+    "class": "purple",
+    "image": "/img/skins/mp7/fade.webp",
+    "name": "MP7 | Fade",
+    "color": [
+      "Pink",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Full Stop": {
+    "class": "blue",
+    "image": "/img/skins/mp7/full-stop.webp",
+    "name": "MP7 | Full Stop",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Orange Peel": {
+    "class": "lblue",
+    "image": "/img/skins/mp7/orange-peel.webp",
+    "name": "MP7 | Orange Peel",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Urban Hazard": {
+    "class": "blue",
+    "image": "/img/skins/mp7/urban-hazard.webp",
+    "name": "MP7 | Urban Hazard",
+    "color": [
+      "Orange"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Abyssal Apparition": {
+    "class": "pink",
+    "image": "/img/skins/mp7/abyssal-apparition.webp",
+    "name": "MP7 | Abyssal Apparition",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Nemesis": {
+    "class": "pink",
+    "image": "/img/skins/mp7/nemesis.webp",
+    "name": "MP7 | Nemesis",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Falchion Case"
+  },
+  "Powercore": {
+    "class": "purple",
+    "image": "/img/skins/mp7/powercore.webp",
+    "name": "MP7 | Powercore",
+    "color": [
+      "Green"
+    ],
+    "case": "Horizon Case"
+  },
+  "Tall Grass": {
+    "class": "lblue",
+    "image": "/img/skins/mp7/tall-grass.webp",
+    "name": "MP7 | Tall Grass",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Impire": {
+    "class": "purple",
+    "image": "/img/skins/mp7/impire.webp",
+    "name": "MP7 | Impire",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Akoben": {
+    "class": "blue",
+    "image": "/img/skins/mp7/akoben.webp",
+    "name": "MP7 | Akoben",
+    "color": [
+      "Blue",
+      "Yellow"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Groundwater": {
+    "class": "white",
+    "image": "/img/skins/mp7/groundwater.webp",
+    "name": "MP7 | Groundwater",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Alpha Collection"
+  },
+  "Motherboard": {
+    "class": "lblue",
+    "image": "/img/skins/mp7/motherboard.webp",
+    "name": "MP7 | Motherboard",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Neon Ply": {
+    "class": "purple",
+    "image": "/img/skins/mp7/neon-ply.webp",
+    "name": "MP7 | Neon Ply",
+    "color": [
+      "Green"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Teal Blossom": {
+    "class": "blue",
+    "image": "/img/skins/mp7/teal-blossom.webp",
+    "name": "MP7 | Teal Blossom",
+    "color": [
+      "Green"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Guerrilla": {
+    "class": "blue",
+    "image": "/img/skins/mp7/guerilla.webp",
+    "name": "MP7 | Guerrilla",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "Forest DDPAT": {
+    "class": "white",
+    "image": "/img/skins/mp7/ddpat.webp",
+    "name": "MP7 | Forest DDPAT",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Olive Plaid": {
+    "class": "white",
+    "image": "/img/skins/mp7/olive-plaid.webp",
+    "name": "MP7 | Olive Plaid",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Just Smile": {
+    "class": "purple",
+    "image": "/img/skins/mp7/just-smile.webp",
+    "name": "MP7 | Just Smile",
+    "color": [
+      "Cyan",
+      "Yellow"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Cirrus": {
+    "class": "blue",
+    "image": "/img/skins/mp7/cirrus.webp",
+    "name": "MP7 | Cirrus",
+    "color": [
+      "Blue"
+    ],
+    "case": "Glove Case"
+  },
+  "Asterion": {
+    "class": "white",
+    "image": "/img/skins/mp7/asterion.webp",
+    "name": "MP7 | Asterion",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Ocean Foam": {
+    "class": "purple",
+    "image": "/img/skins/mp7/ocean-foam.webp",
+    "name": "MP7 | Ocean Foam",
+    "color": [
+      "Blue"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Anodized Navy": {
+    "class": "blue",
+    "image": "/img/skins/mp7/anodized-navy.webp",
+    "name": "MP7 | Anodized Navy",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Short Ochre": {
+    "class": "white",
+    "image": "/img/skins/mp7/short-ochre.webp",
+    "name": "MP7 | Short Ochre",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Radiant Collection"
+  }
+}

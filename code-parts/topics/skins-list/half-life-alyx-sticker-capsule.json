@@ -1,0 +1,80 @@
+{
+  "Health (Gold)": {
+    "class": "pink",
+    "name": "Sticker | Health (Gold)",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-health-gold.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-health-gold.png"
+  },
+  "Last Vance (Gold)": {
+    "class": "pink",
+    "name": "Sticker | Last Vance (Gold)",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-last-vance-gold.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-last-vance-gold.png"
+  },
+  "Lambda (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Lambda (Holo)",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-lambda-holo.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-lambda-holo.png"
+  },
+  "Vortigaunt (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Vortigaunt (Holo)",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-vortigaunt-holo.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-vortigaunt-holo.png"
+  },
+  "Combine Helmet (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Combine Helmet (Holo)",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-combine-helmet-holo.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-combine-helmet-holo.png"
+  },
+  "Big Hugs (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Big Hugs (Holo)",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-big-hugs-holo.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-big-hugs-holo.png"
+  },
+  "Lambda": {
+    "class": "blue",
+    "name": "Sticker | Lambda",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-lambda.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-lambda.png"
+  },
+  "Gnome Mercy": {
+    "class": "blue",
+    "name": "Sticker | Gnome Mercy",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-gnome-mercy.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-gnome-mercy.png"
+  },
+  "Combine Helmet": {
+    "class": "blue",
+    "name": "Sticker | Combine Helmet",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-combine-helmet.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-combine-helmet.png"
+  },
+  "Greetings": {
+    "class": "blue",
+    "name": "Sticker | Greetings",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-greetings.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-greetings.png"
+  },
+  "Last Vance": {
+    "class": "blue",
+    "name": "Sticker | Last Vance",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-last-vance.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-last-vance.png"
+  },
+  "Big Hugs": {
+    "class": "blue",
+    "name": "Sticker | Big Hugs",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-big-hugs.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-big-hugs.png"
+  },
+  "Vortigaunt the Painter": {
+    "class": "blue",
+    "name": "Sticker | Vortigaunt the Painter",
+    "image": "/img/skins/stickers/half-life-alyx/sticker-vortigaunt-the-painter.png",
+    "imageOG": "/img/skins/stickers/half-life-alyx/small/sticker-vortigaunt-the-painter.png"
+  }
+}

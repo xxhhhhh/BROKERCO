@@ -1,0 +1,49 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/steam/levelup\" aria-label=\"Steam Top Up\" class=\"steamlvlup\"></a>",
+        "<a href=\"/steam/topup\" aria-label=\"Steam Top Up\" class=\"steamtopup\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"Team Fortress 2 Items\" class=\"tf2\"></a>",
+        "<a href=\"/\" aria-label=\"Steam Trading Cards\" class=\"tradingcards\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/\" aria-label=\"SBP\" class=\"sbp\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Avalanche\" class=\"avalanche\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/\" aria-label=\"Team Fortress 2 Items\" class=\"tf2\"></a>",
+        "<a href=\"/\" aria-label=\"Steam Trading Cards\" class=\"tradingcards\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4.5,
+        "Support": 4,
+        "Payments": 4.5,
+        "Functional": 5
+    },
+    "codes": {
+        "Free Else": "100 Gems"
+    },
+    "name": "STEAMLVLUP",
+    "languages": "en, ru, tr, es",
+    "link": "https://slvlup.com/r/jt6p95",
+    "code": "6AD56-1C6F3-A899A",
+    "Main Mode": "steamlvlup",
+    "featuresContent": ["SignUpBonus", "Giveaways"],
+    "Sites Alternatives"  : ["steamlevelu", "steamlevels"]
+}

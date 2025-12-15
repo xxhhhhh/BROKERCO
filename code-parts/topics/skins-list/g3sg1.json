@@ -1,0 +1,283 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/g3sg1/vanilla.webp",
+    "name": "G3SG1 | Vanilla",
+    "color": []
+  },
+  "Polar Camo": {
+    "class": "white",
+    "image": "/img/skins/g3sg1/polar-camo.webp",
+    "name": "G3SG1 | Polar Camo",
+    "color": [
+      "Gray",
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Arctic Camo": {
+    "class": "lblue",
+    "image": "/img/skins/g3sg1/arctic-camo.webp",
+    "name": "G3SG1 | Arctic Camo",
+    "color": [
+      "Gray",
+      "White"
+    ],
+    "collection": "The Office Collection"
+  },
+  "Murky": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/murky.webp",
+    "name": "G3SG1 | Murky",
+    "color": [
+      "Black"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Ventilator": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/ventilator.webp",
+    "name": "G3SG1 | Ventilator",
+    "color": [
+      "Black"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Digital Mesh": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/digital-mesh.webp",
+    "name": "G3SG1 | Digital Mesh",
+    "color": [],
+    "case": "Operation Broken Fang Case"
+  },
+  "Keeping Tabs": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/keeping-tabs.webp",
+    "name": "G3SG1 | Keeping Tabs",
+    "color": [],
+    "case": "Operation Riptide Case"
+  },
+  "High Seas": {
+    "class": "purple",
+    "image": "/img/skins/g3sg1/high-seas.webp",
+    "name": "G3SG1 | High Seas",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "case": "Horizon Case"
+  },
+  "Scavenger": {
+    "class": "purple",
+    "image": "/img/skins/g3sg1/scavenger.webp",
+    "name": "G3SG1 | Scavenger",
+    "color": [
+      "Brown"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Hunter": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/hunter.webp",
+    "name": "G3SG1 | Hunter",
+    "color": [
+      "Brown"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Black Sand": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/black-sand.webp",
+    "name": "G3SG1 | Black Sand",
+    "color": [
+      "Black",
+      "Green"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Desert Storm": {
+    "class": "white",
+    "image": "/img/skins/g3sg1/desert-storm.webp",
+    "name": "G3SG1 | Desert Storm",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "VariCamo": {
+    "class": "lblue",
+    "image": "/img/skins/g3sg1/varicamo.webp",
+    "name": "G3SG1 | VariCamo",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Safari Mesh": {
+    "class": "white",
+    "image": "/img/skins/g3sg1/safari-mesh.webp",
+    "name": "G3SG1 | Safari Mesh",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Contractor": {
+    "class": "white",
+    "image": "/img/skins/g3sg1/contractor.webp",
+    "name": "G3SG1 | Contractor",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Ancient Ritual": {
+    "class": "lblue",
+    "image": "/img/skins/g3sg1/ancient-ritual.webp",
+    "name": "G3SG1 | Ancient Ritual",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "The Executioner": {
+    "class": "pink",
+    "image": "/img/skins/g3sg1/the-executioner.webp",
+    "name": "G3SG1 | The Executioner",
+    "color": [
+      "Red"
+    ],
+    "case": "Revolver Case"
+  },
+  "Orange Crash": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/orange-crash.webp",
+    "name": "G3SG1 | Orange Crash",
+    "color": [
+      "Orange"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Orange Kimono": {
+    "class": "white",
+    "image": "/img/skins/g3sg1/orange-kimono.webp",
+    "name": "G3SG1 | Orange Kimono",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Stinger": {
+    "class": "purple",
+    "image": "/img/skins/g3sg1/stinger.webp",
+    "name": "G3SG1 | Stinger",
+    "color": [
+      "Black",
+      "Yellow"
+    ],
+    "case": "Glove Case"
+  },
+  "New Roots": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/new-roots.webp",
+    "name": "G3SG1 | New Roots",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Jungle Dashed": {
+    "class": "white",
+    "image": "/img/skins/g3sg1/jungle-dashed.webp",
+    "name": "G3SG1 | Jungle Dashed",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Dream Glade": {
+    "class": "purple",
+    "image": "/img/skins/g3sg1/dream-glade.webp",
+    "name": "G3SG1 | Dream Glade",
+    "color": [
+      "Cyan",
+      "Green"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Green Apple": {
+    "class": "lblue",
+    "image": "/img/skins/g3sg1/green-apple.webp",
+    "name": "G3SG1 | Green Apple",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Demeter": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/demeter.webp",
+    "name": "G3SG1 | Demeter",
+    "color": [
+      "Blue"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Chronos": {
+    "class": "purple",
+    "image": "/img/skins/g3sg1/chronos.webp",
+    "name": "G3SG1 | Chronos",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Azure Zebra": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/azure-zebra.webp",
+    "name": "G3SG1 | Azure Zebra",
+    "color": [
+      "Blue"
+    ],
+    "case": "eSports 2013 Winter Case"
+  },
+  "Violet Murano": {
+    "class": "blue",
+    "image": "/img/skins/g3sg1/violet-murano.webp",
+    "name": "G3SG1 | Violet Murano",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Flux": {
+    "class": "pink",
+    "image": "/img/skins/g3sg1/flux.webp",
+    "name": "G3SG1 | Flux",
+    "color": [
+      "Purple"
+    ],
+    "case": "Shadow Case"
+  },
+  "Red Jasper": {
+    "class": "white",
+    "image": "/img/skins/g3sg1/red-jasper.webp",
+    "name": "G3SG1 | Red Jasper",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Green Cell": {
+    "class": "white",
+    "image": "/img/skins/g3sg1/green-cell.webp",
+    "name": "G3SG1 | Green Cell",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

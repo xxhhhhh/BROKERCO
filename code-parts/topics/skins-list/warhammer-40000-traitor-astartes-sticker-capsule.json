@@ -1,0 +1,110 @@
+{
+  "Alpha Legion 2": {
+    "class": "blue",
+    "name": "Sticker | Alpha Legion 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-alpha-legion-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-alpha-legion-2.webp"
+  },
+  "Alpha Legion 1": {
+    "class": "blue",
+    "name": "Sticker | Alpha Legion 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-alpha-legion-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-alpha-legion-1.webp"
+  },
+  "Black Legion 2": {
+    "class": "blue",
+    "name": "Sticker | Black Legion 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-black-legion-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-black-legion-2.webp"
+  },
+  "Black Legion 1": {
+    "class": "blue",
+    "name": "Sticker | Black Legion 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-black-legion-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-black-legion-1.webp"
+  },
+  "Death Guard 2": {
+    "class": "blue",
+    "name": "Sticker | Death Guard 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-death-guard-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-death-guard-2.webp"
+  },
+  "Death Guard 1": {
+    "class": "blue",
+    "name": "Sticker | Death Guard 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-death-guard-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-death-guard-1.webp"
+  },
+  "Emperor's Children 2": {
+    "class": "blue",
+    "name": "Sticker | Emperor's Children 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-emperor-s-children-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-emperor-s-children-2.webp"
+  },
+  "Emperor's Children 1": {
+    "class": "blue",
+    "name": "Sticker | Emperor's Children 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-emperor-s-children-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-emperor-s-children-1.webp"
+  },
+  "Iron Warriors 2": {
+    "class": "blue",
+    "name": "Sticker | Iron Warriors 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-iron-warriors-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-iron-warriors-2.webp"
+  },
+  "Iron Warriors 1": {
+    "class": "blue",
+    "name": "Sticker | Iron Warriors 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-iron-warriors-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-iron-warriors-1.webp"
+  },
+  "Night Lords 2": {
+    "class": "blue",
+    "name": "Sticker | Night Lords 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-night-lords-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-night-lords-2.webp"
+  },
+  "Night Lords 1": {
+    "class": "blue",
+    "name": "Sticker | Night Lords 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-night-lords-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-night-lords-1.webp"
+  },
+  "Thousand Sons 2": {
+    "class": "blue",
+    "name": "Sticker | Thousand Sons 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-thousand-sons-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-thousand-sons-2.webp"
+  },
+  "Thousand Sons 1": {
+    "class": "blue",
+    "name": "Sticker | Thousand Sons 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-thousand-sons-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-thousand-sons-1.webp"
+  },
+  "Word Bearers 2": {
+    "class": "blue",
+    "name": "Sticker | Word Bearers 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-word-bearers-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-word-bearers-2.webp"
+  },
+  "Word Bearers 1": {
+    "class": "blue",
+    "name": "Sticker | Word Bearers 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-word-bearers-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-word-bearers-1.webp"
+  },
+  "World Eaters 2": {
+    "class": "blue",
+    "name": "Sticker | World Eaters 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-world-eaters-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-world-eaters-2.webp"
+  },
+  "World Eaters 1": {
+    "class": "blue",
+    "name": "Sticker | World Eaters 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-world-eaters-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-world-eaters-1.webp"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "Spruce DDPAT": {
+    "class": "red",
+    "image": "/img/skins/gloves/spruce-ddpat.webp",
+    "name": "Hand Wraps | Spruce DDPAT",
+    "color": ["Gray"]
+  },
+  "Duct Tape": {
+    "class": "red",
+    "image": "/img/skins/gloves/duct-tape.webp",
+    "name": "Hand Wraps | Duct Tape",
+    "color": ["Gray"]
+  },
+  "Leather": {
+    "class": "red",
+    "image": "/img/skins/gloves/leather.webp",
+    "name": "Hand Wraps | Leather",
+    "color": ["Brown"]
+  },
+  "Constrictor": {
+    "class": "red",
+    "image": "/img/skins/gloves/constrictor.webp",
+    "name": "Hand Wraps | Constrictor",
+    "color": ["Brown"]
+  },
+  "Desert Shamagh": {
+    "class": "red",
+    "image": "/img/skins/gloves/desert-shamagh.webp",
+    "name": "Hand Wraps | Desert Shamagh",
+    "color": ["Brown"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/gloves/slaughter.webp",
+    "name": "Hand Wraps | Slaughter",
+    "color": ["Red"]
+  },
+  "Badlands": {
+    "class": "red",
+    "image": "/img/skins/gloves/badlands.webp",
+    "name": "Hand Wraps | Badlands",
+    "color": ["Orange"]
+  },
+  "Giraffe": {
+    "class": "red",
+    "image": "/img/skins/gloves/giraffe.webp",
+    "name": "Hand Wraps | Giraffe",
+    "color": ["Orange"]
+  },
+  "CAUTION!": {
+    "class": "red",
+    "image": "/img/skins/gloves/caution.webp",
+    "name": "Hand Wraps | CAUTION!",
+    "color": ["Yellow"]
+  },
+  "Arboreal": {
+    "class": "red",
+    "image": "/img/skins/gloves/arboreal.webp",
+    "name": "Hand Wraps | Arboreal",
+    "color": ["Brown", "Green"]
+  },
+  "Overprint": {
+    "class": "red",
+    "image": "/img/skins/gloves/overprint.webp",
+    "name": "Hand Wraps | Overprint",
+    "color": ["Cyan"]
+  },
+  "Cobalt Skulls": {
+    "class": "red",
+    "image": "/img/skins/gloves/cobalt-skulls.webp",
+    "name": "Hand Wraps | Cobalt Skulls",
+    "color": ["Blue"]
+  }
+}

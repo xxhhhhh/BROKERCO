@@ -1,0 +1,366 @@
+{
+  "Kami": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/kami.webp",
+    "name": "Five-SeveN | Kami",
+    "color": [
+      "White"
+    ],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Silver Quartz": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/silver-quartz.webp",
+    "name": "Five-SeveN | Silver Quartz",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Scumbria": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/scumbria.webp",
+    "name": "Five-SeveN | Scumbria",
+    "color": [
+      "Gray"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Anodized Gunmetal": {
+    "class": "white",
+    "image": "/img/skins/five-seven/anodized-gunmetal.webp",
+    "name": "Five-SeveN | Anodized Gunmetal",
+    "color": [
+      "Gray",
+      "Silver"
+    ],
+    "collection": "The Alpha Collection"
+  },
+  "Capillary": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/capillary.webp",
+    "name": "Five-SeveN | Capillary",
+    "color": [
+      "Gray"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Copper Galaxy": {
+    "class": "purple",
+    "image": "/img/skins/five-seven/copper-galaxy.webp",
+    "name": "Five-SeveN | Copper Galaxy",
+    "color": [
+      "Brown"
+    ],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Candy Apple": {
+    "class": "lblue",
+    "image": "/img/skins/five-seven/candy-apple.webp",
+    "name": "Five-SeveN | Candy Apple",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "collection": "The Assault Collection"
+  },
+  "Urban Hazard": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/urban-hazard.webp",
+    "name": "Five-SeveN | Urban Hazard",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Berries And Cherries": {
+    "class": "purple",
+    "image": "/img/skins/five-seven/berries.webp",
+    "name": "Five-SeveN | Berries And Cherries",
+    "color": [
+      "Blue",
+      "Red"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Boost Protocol": {
+    "class": "purple",
+    "image": "/img/skins/five-seven/boost-protocol.webp",
+    "name": "Five-SeveN | Boost Protocol",
+    "color": [
+      "Red",
+      "White"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "Crimson Blossom": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/crimson-blossom.webp",
+    "name": "Five-SeveN | Crimson Blossom",
+    "color": [
+      "Red"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Hyper Beast": {
+    "class": "red",
+    "image": "/img/skins/five-seven/hyper-beast.webp",
+    "name": "Five-SeveN | Hyper Beast",
+    "color": [
+      "Green",
+      "Pink"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Angry Mob": {
+    "class": "red",
+    "image": "/img/skins/five-seven/angry-mob.webp",
+    "name": "Five-SeveN | Angry Mob",
+    "color": [
+      "Blue",
+      "Orange"
+    ],
+    "case": "Prisma Case"
+  },
+  "Fall Hazard": {
+    "class": "red",
+    "image": "/img/skins/five-seven/fall-hazard.webp",
+    "name": "Five-SeveN | Fall Hazard",
+    "color": [
+      "Blue",
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Nitro": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/nitro.webp",
+    "name": "Five-SeveN | Nitro",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Orange Peel": {
+    "class": "lblue",
+    "image": "/img/skins/five-seven/orange-peel.webp",
+    "name": "Five-SeveN | Orange Peel",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Retrobution": {
+    "class": "purple",
+    "image": "/img/skins/five-seven/retrobution.webp",
+    "name": "Five-SeveN | Retrobution",
+    "color": [
+      "White"
+    ],
+    "case": "Revolver Case"
+  },
+  "Contractor": {
+    "class": "white",
+    "image": "/img/skins/five-seven/contractor.webp",
+    "name": "Five-SeveN | Contractor",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Buddy": {
+    "class": "purple",
+    "image": "/img/skins/five-seven/buddy.webp",
+    "name": "Five-SeveN | Buddy",
+    "color": [
+      "Blue",
+      "Brown",
+      "Yellow"
+    ],
+    "case": "CS20 Case"
+  },
+  "Triumvirate": {
+    "class": "purple",
+    "image": "/img/skins/five-seven/triumvirate.webp",
+    "name": "Five-SeveN | Triumvirate",
+    "color": [
+      "Blue"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Monkey Business": {
+    "class": "pink",
+    "image": "/img/skins/five-seven/monkey-business.webp",
+    "name": "Five-SeveN | Monkey Business",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Chroma 2 Case"
+  },
+  "Scrawl": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/scrawl.webp",
+    "name": "Five-SeveN | Scrawl",
+    "color": [
+      "Green"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Coolant": {
+    "class": "white",
+    "image": "/img/skins/five-seven/coolant.webp",
+    "name": "Five-SeveN | Coolant",
+    "color": [
+      "Cyan"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Hot Shot": {
+    "class": "lblue",
+    "image": "/img/skins/five-seven/hot-shot.webp",
+    "name": "Five-SeveN | Hot Shot",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Neon Kimono": {
+    "class": "purple",
+    "image": "/img/skins/five-seven/neon-kimono.webp",
+    "name": "Five-SeveN | Neon Kimono",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Jungle": {
+    "class": "white",
+    "image": "/img/skins/five-seven/jungle.webp",
+    "name": "Five-SeveN | Jungle",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Aztec Collection"
+  },
+  "Fowl Play": {
+    "class": "pink",
+    "image": "/img/skins/five-seven/fowl-play.webp",
+    "name": "Five-SeveN | Fowl Play",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Forest Night": {
+    "class": "white",
+    "image": "/img/skins/five-seven/forest-night.webp",
+    "name": "Five-SeveN | Forest Night",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Nightshade": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/nightshade.webp",
+    "name": "Five-SeveN | Nightshade",
+    "color": [],
+    "case": "eSports 2013 Winter Case"
+  },
+  "Case Hardened": {
+    "class": "purple",
+    "image": "/img/skins/five-seven/case-hardened.webp",
+    "name": "Five-SeveN | Case Hardened",
+    "color": [],
+    "case": "Case Hardened"
+  },
+  "Withered Vine": {
+    "class": "lblue",
+    "image": "/img/skins/five-seven/withered-vine.webp",
+    "name": "Five-SeveN | Withered Vine",
+    "color": [
+      "Purple"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Hybrid": {
+    "class": "purple",
+    "image": "/img/skins/five-seven/hybrid.webp",
+    "name": "Five-SeveN | Hybrid",
+    "color": [
+      "Purple"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Fairy Tale": {
+    "class": "pink",
+    "image": "/img/skins/five-seven/fairy-tale.webp",
+    "name": "Five-SeveN | Fairy Tale",
+    "color": [
+      "Pink",
+      "Purple",
+      "White"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Violent Daimyo": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/violent-daimyo.webp",
+    "name": "Five-SeveN | Violent Daimyo",
+    "color": [
+      "Purple"
+    ],
+    "case": "Gamma Case"
+  },
+  "Flame Test": {
+    "class": "blue",
+    "image": "/img/skins/five-seven/flame-test.webp",
+    "name": "Five-SeveN | Flame Test",
+    "color": [
+      "Purple"
+    ],
+    "case": "Clutch Case"
+  },
+  "Midnight Paintover": {
+    "class": "lblue",
+    "image": "/img/skins/five-seven/midnight-paintover.webp",
+    "name": "Five-SeveN | Midnight Paintover",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Heat Treated": {
+    "class": "purple",
+    "image": "/img/skins/five-seven/heat-treated.webp",
+    "name": "Five-SeveN | Heat Treated",
+    "color": [],
+    "collection": "The Sport & Field Collection"
+  },
+  "Sky Blue": {
+    "class": "lblue",
+    "image": "/img/skins/five-seven/sky-blue.webp",
+    "name": "Five-SeveN | Sky Blue",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Autumn Thicket": {
+    "class": "white",
+    "image": "/img/skins/five-seven/autumn-thicket.webp",
+    "name": "Five-SeveN | Autumn Thicket",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Radiant Collection"
+  }
+}

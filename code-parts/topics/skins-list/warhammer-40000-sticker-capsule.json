@@ -1,0 +1,104 @@
+{
+  "Emperor (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Emperor (Foil)",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-emperor-foil.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-emperor-foil.webp"
+  },
+  "Chaos Marine (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Chaos Marine (Foil)",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-chaos-marine-foil.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-chaos-marine-foil.webp"
+  },
+  "Bloodthirster (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Bloodthirster (Foil)",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-bloodthirster-foil.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-bloodthirster-foil.webp"
+  },
+  "Heresy (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Heresy (Holo)",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-heresy-holo.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-heresy-holo.webp"
+  },
+  "Space Marine (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Space Marine (Holo)",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-space-marine-holo.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-space-marine-holo.webp"
+  },
+  "Tyranids Hive Tyrant (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Tyranids Hive Tyrant (Holo)",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-tyranids-hive-tyrant-holo.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-tyranids-hive-tyrant-holo.webp"
+  },
+  "Lord of Skulls (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Lord of Skulls (Holo)",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-lord-of-skulls-holo.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-lord-of-skulls-holo.webp"
+  },
+  "Primaris Keychain": {
+    "class": "blue",
+    "name": "Sticker | Primaris Keychain",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-primaris-keychain.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-primaris-keychain.webp"
+  },
+  "Adepta Sororitas": {
+    "class": "blue",
+    "name": "Sticker | Adepta Sororitas",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-adepta-sororitas.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-adepta-sororitas.webp"
+  },
+  "Tyranids Ravener": {
+    "class": "blue",
+    "name": "Sticker | Tyranids Ravener",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-tyranids-ravener.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-tyranids-ravener.webp"
+  },
+  "Heresy": {
+    "class": "blue",
+    "name": "Sticker | Heresy",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-heresy.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-heresy.webp"
+  },
+  "Space Marine": {
+    "class": "blue",
+    "name": "Sticker | Space Marine",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-space-marine.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-space-marine.webp"
+  },
+  "Repulsor": {
+    "class": "blue",
+    "name": "Sticker | Repulsor",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-repulsor.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-repulsor.webp"
+  },
+  "Necron": {
+    "class": "blue",
+    "name": "Sticker | Necron",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-necron.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-necron.webp"
+  },
+  "Ork Waaagh!": {
+    "class": "blue",
+    "name": "Sticker | Ork Waaagh!",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-ork-waaagh.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-ork-waaagh.webp"
+  },
+  "Full Buy": {
+    "class": "blue",
+    "name": "Sticker | Full Buy",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-full-buy.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-full-buy.webp"
+  },
+  "Aeldari Avatar": {
+    "class": "blue",
+    "name": "Sticker | Aeldari Avatar",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-aeldari-avatar.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-aeldari-avatar.webp"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "Lil' Boo": {
+    "class": "red",
+    "name": "Charm | Lil' Boo",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-boo.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-boo.png"
+  },
+  "Quick Silver": {
+    "class": "red",
+    "name": "Charm | Quick Silver",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-quick-silver.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-quick-silver.png"
+  },
+  "Lil' Eldritch": {
+    "class": "red",
+    "name": "Charm | Lil' Eldritch",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-eldritch.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-eldritch.png"
+  },
+  "Lil' Serpent": {
+    "class": "red",
+    "name": "Charm | Lil' Serpent",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-serpent.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-serpent.png"
+  },
+  "Lil' Chirp": {
+    "class": "pink",
+    "name": "Charm | Lil' Chirp",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-chirp.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-chirp.png"
+  },
+  "Lil' Hero": {
+    "class": "pink",
+    "name": "Charm | Lil' Hero",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-hero.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-hero.png"
+  },
+  "Piñatita": {
+    "class": "pink",
+    "name": "Charm | Piñatita",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-pi-atita.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-pi-atita.png"
+  },
+  "Lil' Happy": {
+    "class": "pink",
+    "name": "Charm | Lil' Happy",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-happy.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-happy.png"
+  },
+  "Lil' Prick": {
+    "class": "pink",
+    "name": "Charm | Lil' Prick",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-prick.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-prick.png"
+  },
+  "Lil' Moments": {
+    "class": "purple",
+    "name": "Charm | Lil' Moments",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-moments.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-moments.png"
+  },
+  "Hang Loose": {
+    "class": "purple",
+    "name": "Charm | Hang Loose",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-hang-loose.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-hang-loose.png"
+  },
+  "Lil' Goop": {
+    "class": "purple",
+    "name": "Charm | Lil' Goop",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-goop.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-goop.png"
+  },
+  "Pocket Pop": {
+    "class": "purple",
+    "name": "Charm | Pocket Pop",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-pocket-pop.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-pocket-pop.png"
+  },
+  "Magmatude": {
+    "class": "purple",
+    "name": "Charm | Magmatude",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-magmatude.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-magmatude.png"
+  },
+  "Lil' Buns": {
+    "class": "purple",
+    "name": "Charm | Lil' Buns",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-buns.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-buns.png"
+  },
+  "Lil' Vino": {
+    "class": "blue",
+    "name": "Charm | Lil' Vino",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-vino.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-vino.png"
+  },
+  "Lil' Tusk": {
+    "class": "blue",
+    "name": "Charm | Lil' Tusk",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-tusk.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-tusk.png"
+  },
+  "Lil' No. 2": {
+    "class": "blue",
+    "name": "Charm | Lil' No. 2",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-no-2.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-no-2.png"
+  },
+  "Lil' Cackle": {
+    "class": "blue",
+    "name": "Charm | Lil' Cackle",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-cackle.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-cackle.png"
+  },
+  "Lil' Smokey": {
+    "class": "blue",
+    "name": "Charm | Lil' Smokey",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-smokey.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-smokey.png"
+  },
+  "Dead Weight": {
+    "class": "blue",
+    "name": "Charm | Dead Weight",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-dead-weight.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-dead-weight.png"
+  },
+  "Lil' Baller": {
+    "class": "blue",
+    "name": "Charm | Lil' Baller",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-baller.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-baller.png"
+  },
+  "Lil' Curse": {
+    "class": "blue",
+    "name": "Charm | Lil' Curse",
+    "image": "/img/skins/charms/missing-link-community-charms/charm-lil-curse.png",
+    "imageOG": "/img/skins/charms/missing-link-community-charms/small/charm-lil-curse.png"
+  }
+}

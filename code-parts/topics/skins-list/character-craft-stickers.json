@@ -1,0 +1,152 @@
+{
+  "Googly Eye (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Googly Eye (Lenticular)",
+    "image": "/img/skins/stickers/character-craft/sticker-googly-eye-lenticular.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-googly-eye-lenticular.png"
+  },
+  "Side Eyes (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Side Eyes (Lenticular)",
+    "image": "/img/skins/stickers/character-craft/sticker-side-eyes-lenticular.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-side-eyes-lenticular.png"
+  },
+  "Red Shades (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Red Shades (Foil)",
+    "image": "/img/skins/stickers/character-craft/sticker-red-shades-foil.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-red-shades-foil.png"
+  },
+  "Gold Teef (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Gold Teef (Foil)",
+    "image": "/img/skins/stickers/character-craft/sticker-gold-teef-foil.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-gold-teef-foil.png"
+  },
+  "Mustachio (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Mustachio (Foil)",
+    "image": "/img/skins/stickers/character-craft/sticker-mustachio-foil.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-mustachio-foil.png"
+  },
+  "Hypnoteyes (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Hypnoteyes (Holo)",
+    "image": "/img/skins/stickers/character-craft/sticker-hypnoteyes-holo.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-hypnoteyes-holo.png"
+  },
+  "Taste Buddy (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Taste Buddy (Holo)",
+    "image": "/img/skins/stickers/character-craft/sticker-taste-buddy-holo.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-taste-buddy-holo.png"
+  },
+  "Kawaii Eyes (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Kawaii Eyes (Glitter)",
+    "image": "/img/skins/stickers/character-craft/sticker-kawaii-eyes-glitter.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-kawaii-eyes-glitter.png"
+  },
+  "Say Cheese (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Say Cheese (Holo)",
+    "image": "/img/skins/stickers/character-craft/sticker-say-cheese-holo.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-say-cheese-holo.png"
+  },
+  "From The Deep (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | From The Deep (Glitter)",
+    "image": "/img/skins/stickers/character-craft/sticker-from-the-deep-glitter.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-from-the-deep-glitter.png"
+  },
+  "Flex": {
+    "class": "blue",
+    "name": "Sticker | Flex",
+    "image": "/img/skins/stickers/character-craft/sticker-flex.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-flex.png"
+  },
+  "Ribbon Tie": {
+    "class": "blue",
+    "name": "Sticker | Ribbon Tie",
+    "image": "/img/skins/stickers/character-craft/sticker-ribbon-tie.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-ribbon-tie.png"
+  },
+  "Blinky": {
+    "class": "blue",
+    "name": "Sticker | Blinky",
+    "image": "/img/skins/stickers/character-craft/sticker-blinky.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-blinky.png"
+  },
+  "Chompers": {
+    "class": "blue",
+    "name": "Sticker | Chompers",
+    "image": "/img/skins/stickers/character-craft/sticker-chompers.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-chompers.png"
+  },
+  "Taste Bud": {
+    "class": "blue",
+    "name": "Sticker | Taste Bud",
+    "image": "/img/skins/stickers/character-craft/sticker-taste-bud.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-taste-bud.png"
+  },
+  "Quick Peek": {
+    "class": "blue",
+    "name": "Sticker | Quick Peek",
+    "image": "/img/skins/stickers/character-craft/sticker-quick-peek.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-quick-peek.png"
+  },
+  "Strike A Pose": {
+    "class": "blue",
+    "name": "Sticker | Strike A Pose",
+    "image": "/img/skins/stickers/character-craft/sticker-strike-a-pose.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-strike-a-pose.png"
+  },
+  "Clown Wig": {
+    "class": "blue",
+    "name": "Sticker | Clown Wig",
+    "image": "/img/skins/stickers/character-craft/sticker-clown-wig.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-clown-wig.png"
+  },
+  "From The Deep": {
+    "class": "blue",
+    "name": "Sticker | From The Deep",
+    "image": "/img/skins/stickers/character-craft/sticker-from-the-deep.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-from-the-deep.png"
+  },
+  "Glare": {
+    "class": "blue",
+    "name": "Sticker | Glare",
+    "image": "/img/skins/stickers/character-craft/sticker-glare.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-glare.png"
+  },
+  "Lefty (CT)": {
+    "class": "blue",
+    "name": "Sticker | Lefty (CT)",
+    "image": "/img/skins/stickers/character-craft/sticker-lefty-ct.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-lefty-ct.png"
+  },
+  "Fly High": {
+    "class": "blue",
+    "name": "Sticker | Fly High",
+    "image": "/img/skins/stickers/character-craft/sticker-fly-high.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-fly-high.png"
+  },
+  "Clown Nose": {
+    "class": "blue",
+    "name": "Sticker | Clown Nose",
+    "image": "/img/skins/stickers/character-craft/sticker-clown-nose.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-clown-nose.png"
+  },
+  "XD": {
+    "class": "blue",
+    "name": "Sticker | XD",
+    "image": "/img/skins/stickers/character-craft/sticker-xd.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-xd.png"
+  },
+  "Lefty (T)": {
+    "class": "blue",
+    "name": "Sticker | Lefty (T)",
+    "image": "/img/skins/stickers/character-craft/sticker-lefty-t.png",
+    "imageOG": "/img/skins/stickers/character-craft/small/sticker-lefty-t.png"
+  }
+}

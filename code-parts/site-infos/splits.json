@@ -1,0 +1,52 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/rust/roulette\" aria-label=\"Wheel of Fortune\" class=\"wheel\"></a>",
+        "<a href=\"/rust\" aria-label=\"Mines\" class=\"mines\"></a>",
+        "<a href=\"/rust\" aria-label=\"Plinko\" class=\"plinko\"></a>",
+        "<a href=\"/csgo/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/rust\" aria-label=\"Hilo\" class=\"hilo\"></a>",
+        "<a href=\"/rust/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>",
+        "<a href=\"/rust\" aria-label=\"Duels\" class=\"duels\"></a>",
+        "<a href=\"/rust\" aria-label=\"Towers\" class=\"towers\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Cardano\" class=\"cardano\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3,
+        "Support": 3.5,
+        "Payments": 3,
+        "Playability": 3.5
+    },
+    "codes": {
+        "Free Bonus": "0.50$",
+        "Deposit Bonus": "+5%"
+    },
+    "name": "Splits",
+    "languages": "en, ru, tr, es",
+    "link": "https://splits.gg/r/BROKER",
+    "code": "broker",
+    "Main Mode": "classic",
+    "featuresContent": ["SignUpBonus", "DepositBonus", "Rakeback", "Faucet", "Rain"],
+    "Sites Alternatives"  : ["howlgg", "banditcamp", "rustmagic", "rustyloot"]
+}

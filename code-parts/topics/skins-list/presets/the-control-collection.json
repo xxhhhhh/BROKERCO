@@ -1,0 +1,78 @@
+[
+  {
+    "weapon": "awp",
+    "skin-id": "Fade"
+  },
+  {
+    "weapon": "m4a1-s",
+    "skin-id": "Blue Phosphor"
+  },
+  {
+    "weapon": "usp-s",
+    "skin-id": "Target Acquired"
+  },
+  {
+    "weapon": "famas",
+    "skin-id": "Prime Conspiracy"
+  },
+  {
+    "weapon": "ump-45",
+    "skin-id": "Crime Scene"
+  },
+  {
+    "weapon": "five-seven",
+    "skin-id": "Berries And Cherries"
+  },
+  {
+    "weapon": "m4a4",
+    "skin-id": "Global Offensive"
+  },
+  {
+    "weapon": "p2000",
+    "skin-id": "Dispatch"
+  },
+  {
+    "weapon": "ssg-08",
+    "skin-id": "Threat Detected"
+  },
+  {
+    "weapon": "scar-20",
+    "skin-id": "Magna Carta"
+  },
+  {
+    "weapon": "desert-eagle",
+    "skin-id": "The Bronze"
+  },
+  {
+    "weapon": "mp5-sd",
+    "skin-id": "Nitro"
+  },
+  {
+    "weapon": "mag-7",
+    "skin-id": "Carbon Fiber"
+  },
+  {
+    "weapon": "dual-berettas",
+    "skin-id": "Switch Board"
+  },
+  {
+    "weapon": "xm1014",
+    "skin-id": "Charter"
+  },
+  {
+    "weapon": "aug",
+    "skin-id": "Surveillance"
+  },
+  {
+    "weapon": "p250",
+    "skin-id": "Forest Night"
+  },
+  {
+    "weapon": "cz75-auto",
+    "skin-id": "Jungle Dashed"
+  },
+  {
+    "weapon": "mp9",
+    "skin-id": "Army Sheen"
+  }
+]

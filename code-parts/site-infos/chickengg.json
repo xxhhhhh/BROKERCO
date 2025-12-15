@@ -1,0 +1,48 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/csgo/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/csgo/roulette\" aria-label=\"Roulette\" class=\"roulette\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"Team Fortress 2 Items\" class=\"tf2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Cardano\" class=\"cardano\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>",
+        "<a href=\"/\" aria-label=\"Google Pay\" class=\"gpay\"></a>",
+        "<a href=\"/\" aria-label=\"Apple Pay\" class=\"apay\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3,
+        "Support": 4,
+        "Payments": 3.5,
+        "Playability": 3.5
+    },
+    "name": "ChickenGG",
+    "languages": "en, ru, tr, es",
+    "link": "https://chicken.gg/r/broker",
+    "featuresContent": ["DailyRewards", "ProgressiveRewards", "Rakeback", "Rain"],
+    "Main Mode": "cases",
+    "Sites Alternatives"  : ["csgo500", "csgopolygon", "csgofast", "clashgg"]
+}

@@ -1,0 +1,962 @@
+{
+  "XANTARES (Gold)": {
+    "class": "red",
+    "name": "XANTARES (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-xantares-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-xantares-gold-copenhagen-2024.png"
+  },
+  "hades (Gold)": {
+    "class": "red",
+    "name": "hades (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-hades-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-hades-gold-copenhagen-2024.png"
+  },
+  "gla1ve (Gold)": {
+    "class": "red",
+    "name": "gla1ve (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-gla1ve-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-gla1ve-gold-copenhagen-2024.png"
+  },
+  "roman (Gold)": {
+    "class": "red",
+    "name": "roman (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-roman-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-roman-gold-copenhagen-2024.png"
+  },
+  "MAJ3R (Gold)": {
+    "class": "red",
+    "name": "MAJ3R (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-maj3r-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-maj3r-gold-copenhagen-2024.png"
+  },
+  "FalleN (Gold)": {
+    "class": "red",
+    "name": "FalleN (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-fallen-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-fallen-gold-copenhagen-2024.png"
+  },
+  "CacaNito (Gold)": {
+    "class": "red",
+    "name": "CacaNito (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-cacanito-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-cacanito-gold-copenhagen-2024.png"
+  },
+  "Hobbit (Gold)": {
+    "class": "red",
+    "name": "Hobbit (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-hobbit-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-hobbit-gold-copenhagen-2024.png"
+  },
+  "Wicadia (Gold)": {
+    "class": "red",
+    "name": "Wicadia (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-wicadia-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-wicadia-gold-copenhagen-2024.png"
+  },
+  "electronic (Gold)": {
+    "class": "red",
+    "name": "electronic (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-electronic-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-electronic-gold-copenhagen-2024.png"
+  },
+  "Keoz (Gold)": {
+    "class": "red",
+    "name": "Keoz (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-keoz-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-keoz-gold-copenhagen-2024.png"
+  },
+  "nawwk (Gold)": {
+    "class": "red",
+    "name": "nawwk (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nawwk-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nawwk-gold-copenhagen-2024.png"
+  },
+  "STYKO (Gold)": {
+    "class": "red",
+    "name": "STYKO (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-styko-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-styko-gold-copenhagen-2024.png"
+  },
+  "story (Gold)": {
+    "class": "red",
+    "name": "story (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-story-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-story-gold-copenhagen-2024.png"
+  },
+  "MUTiRiS (Gold)": {
+    "class": "red",
+    "name": "MUTiRiS (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-mutiris-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-mutiris-gold-copenhagen-2024.png"
+  },
+  "ewjerkz (Gold)": {
+    "class": "red",
+    "name": "ewjerkz (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-ewjerkz-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-ewjerkz-gold-copenhagen-2024.png"
+  },
+  "arrozdoce (Gold)": {
+    "class": "red",
+    "name": "arrozdoce (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-arrozdoce-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-arrozdoce-gold-copenhagen-2024.png"
+  },
+  "volt (Gold)": {
+    "class": "red",
+    "name": "volt (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-volt-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-volt-gold-copenhagen-2024.png"
+  },
+  "Snax (Gold)": {
+    "class": "red",
+    "name": "Snax (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-snax-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-snax-gold-copenhagen-2024.png"
+  },
+  "isak (Gold)": {
+    "class": "red",
+    "name": "isak (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-isak-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-isak-gold-copenhagen-2024.png"
+  },
+  "acoR (Gold)": {
+    "class": "red",
+    "name": "acoR (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-acor-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-acor-gold-copenhagen-2024.png"
+  },
+  "sense (Gold)": {
+    "class": "red",
+    "name": "sense (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-sense-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-sense-gold-copenhagen-2024.png"
+  },
+  "jkaem (Gold)": {
+    "class": "red",
+    "name": "jkaem (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-jkaem-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-jkaem-gold-copenhagen-2024.png"
+  },
+  "woxic (Gold)": {
+    "class": "red",
+    "name": "woxic (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-woxic-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-woxic-gold-copenhagen-2024.png"
+  },
+  "Calyx (Gold)": {
+    "class": "red",
+    "name": "Calyx (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-calyx-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-calyx-gold-copenhagen-2024.png"
+  },
+  "TeSeS (Gold)": {
+    "class": "red",
+    "name": "TeSeS (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-teses-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-teses-gold-copenhagen-2024.png"
+  },
+  "sjuush (Gold)": {
+    "class": "red",
+    "name": "sjuush (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-sjuush-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-sjuush-gold-copenhagen-2024.png"
+  },
+  "nicoodoz (Gold)": {
+    "class": "red",
+    "name": "nicoodoz (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nicoodoz-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nicoodoz-gold-copenhagen-2024.png"
+  },
+  "NertZ (Gold)": {
+    "class": "red",
+    "name": "NertZ (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nertz-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nertz-gold-copenhagen-2024.png"
+  },
+  "kyxsan (Gold)": {
+    "class": "red",
+    "name": "kyxsan (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kyxsan-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kyxsan-gold-copenhagen-2024.png"
+  },
+  "yuurih (Gold)": {
+    "class": "red",
+    "name": "yuurih (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-yuurih-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-yuurih-gold-copenhagen-2024.png"
+  },
+  "KSCERATO (Gold)": {
+    "class": "red",
+    "name": "KSCERATO (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kscerato-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kscerato-gold-copenhagen-2024.png"
+  },
+  "chelo (Gold)": {
+    "class": "red",
+    "name": "chelo (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-chelo-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-chelo-gold-copenhagen-2024.png"
+  },
+  "arT (Gold)": {
+    "class": "red",
+    "name": "arT (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-art-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-art-gold-copenhagen-2024.png"
+  },
+  "Dycha (Gold)": {
+    "class": "red",
+    "name": "Dycha (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-dycha-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-dycha-gold-copenhagen-2024.png"
+  },
+  "Kylar (Gold)": {
+    "class": "red",
+    "name": "Kylar (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kylar-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kylar-gold-copenhagen-2024.png"
+  },
+  "Goofy (Gold)": {
+    "class": "red",
+    "name": "Goofy (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-goofy-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-goofy-gold-copenhagen-2024.png"
+  },
+  "Perfecto (Gold)": {
+    "class": "red",
+    "name": "Perfecto (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-perfecto-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-perfecto-gold-copenhagen-2024.png"
+  },
+  "Boombl4 (Gold)": {
+    "class": "red",
+    "name": "Boombl4 (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-boombl4-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-boombl4-gold-copenhagen-2024.png"
+  },
+  "Ax1Le (Gold)": {
+    "class": "red",
+    "name": "Ax1Le (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-ax1le-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-ax1le-gold-copenhagen-2024.png"
+  },
+  "XANTARES (Holo)": {
+    "class": "pink",
+    "name": "XANTARES (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-xantares-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-xantares-holo-copenhagen-2024.png"
+  },
+  "Perfecto (Holo)": {
+    "class": "pink",
+    "name": "Perfecto (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-perfecto-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-perfecto-holo-copenhagen-2024.png"
+  },
+  "KSCERATO (Holo)": {
+    "class": "pink",
+    "name": "KSCERATO (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kscerato-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kscerato-holo-copenhagen-2024.png"
+  },
+  "Snax (Holo)": {
+    "class": "pink",
+    "name": "Snax (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-snax-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-snax-holo-copenhagen-2024.png"
+  },
+  "story (Holo)": {
+    "class": "pink",
+    "name": "story (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-story-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-story-holo-copenhagen-2024.png"
+  },
+  "Wicadia (Holo)": {
+    "class": "pink",
+    "name": "Wicadia (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-wicadia-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-wicadia-holo-copenhagen-2024.png"
+  },
+  "woxic (Holo)": {
+    "class": "pink",
+    "name": "woxic (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-woxic-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-woxic-holo-copenhagen-2024.png"
+  },
+  "FalleN (Holo)": {
+    "class": "pink",
+    "name": "FalleN (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-fallen-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-fallen-holo-copenhagen-2024.png"
+  },
+  "gla1ve (Holo)": {
+    "class": "pink",
+    "name": "gla1ve (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-gla1ve-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-gla1ve-holo-copenhagen-2024.png"
+  },
+  "chelo (Holo)": {
+    "class": "pink",
+    "name": "chelo (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-chelo-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-chelo-holo-copenhagen-2024.png"
+  },
+  "MUTiRiS (Holo)": {
+    "class": "pink",
+    "name": "MUTiRiS (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-mutiris-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-mutiris-holo-copenhagen-2024.png"
+  },
+  "Boombl4 (Holo)": {
+    "class": "pink",
+    "name": "Boombl4 (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-boombl4-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-boombl4-holo-copenhagen-2024.png"
+  },
+  "volt (Holo)": {
+    "class": "pink",
+    "name": "volt (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-volt-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-volt-holo-copenhagen-2024.png"
+  },
+  "electronic (Holo)": {
+    "class": "pink",
+    "name": "electronic (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-electronic-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-electronic-holo-copenhagen-2024.png"
+  },
+  "yuurih (Holo)": {
+    "class": "pink",
+    "name": "yuurih (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-yuurih-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-yuurih-holo-copenhagen-2024.png"
+  },
+  "hades (Holo)": {
+    "class": "pink",
+    "name": "hades (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-hades-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-hades-holo-copenhagen-2024.png"
+  },
+  "roman (Holo)": {
+    "class": "pink",
+    "name": "roman (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-roman-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-roman-holo-copenhagen-2024.png"
+  },
+  "TeSeS (Holo)": {
+    "class": "pink",
+    "name": "TeSeS (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-teses-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-teses-holo-copenhagen-2024.png"
+  },
+  "NertZ (Holo)": {
+    "class": "pink",
+    "name": "NertZ (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nertz-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nertz-holo-copenhagen-2024.png"
+  },
+  "Ax1Le (Holo)": {
+    "class": "pink",
+    "name": "Ax1Le (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-ax1le-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-ax1le-holo-copenhagen-2024.png"
+  },
+  "Keoz (Holo)": {
+    "class": "pink",
+    "name": "Keoz (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-keoz-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-keoz-holo-copenhagen-2024.png"
+  },
+  "nicoodoz (Holo)": {
+    "class": "pink",
+    "name": "nicoodoz (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nicoodoz-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nicoodoz-holo-copenhagen-2024.png"
+  },
+  "kyxsan (Holo)": {
+    "class": "pink",
+    "name": "kyxsan (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kyxsan-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kyxsan-holo-copenhagen-2024.png"
+  },
+  "Kylar (Holo)": {
+    "class": "pink",
+    "name": "Kylar (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kylar-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kylar-holo-copenhagen-2024.png"
+  },
+  "nawwk (Holo)": {
+    "class": "pink",
+    "name": "nawwk (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nawwk-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nawwk-holo-copenhagen-2024.png"
+  },
+  "ewjerkz (Holo)": {
+    "class": "pink",
+    "name": "ewjerkz (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-ewjerkz-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-ewjerkz-holo-copenhagen-2024.png"
+  },
+  "sense (Holo)": {
+    "class": "pink",
+    "name": "sense (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-sense-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-sense-holo-copenhagen-2024.png"
+  },
+  "acoR (Holo)": {
+    "class": "pink",
+    "name": "acoR (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-acor-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-acor-holo-copenhagen-2024.png"
+  },
+  "Dycha (Holo)": {
+    "class": "pink",
+    "name": "Dycha (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-dycha-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-dycha-holo-copenhagen-2024.png"
+  },
+  "Goofy (Holo)": {
+    "class": "pink",
+    "name": "Goofy (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-goofy-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-goofy-holo-copenhagen-2024.png"
+  },
+  "jkaem (Holo)": {
+    "class": "pink",
+    "name": "jkaem (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-jkaem-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-jkaem-holo-copenhagen-2024.png"
+  },
+  "arrozdoce (Holo)": {
+    "class": "pink",
+    "name": "arrozdoce (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-arrozdoce-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-arrozdoce-holo-copenhagen-2024.png"
+  },
+  "isak (Holo)": {
+    "class": "pink",
+    "name": "isak (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-isak-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-isak-holo-copenhagen-2024.png"
+  },
+  "STYKO (Holo)": {
+    "class": "pink",
+    "name": "STYKO (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-styko-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-styko-holo-copenhagen-2024.png"
+  },
+  "CacaNito (Holo)": {
+    "class": "pink",
+    "name": "CacaNito (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-cacanito-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-cacanito-holo-copenhagen-2024.png"
+  },
+  "MAJ3R (Holo)": {
+    "class": "pink",
+    "name": "MAJ3R (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-maj3r-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-maj3r-holo-copenhagen-2024.png"
+  },
+  "Calyx (Holo)": {
+    "class": "pink",
+    "name": "Calyx (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-calyx-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-calyx-holo-copenhagen-2024.png"
+  },
+  "sjuush (Holo)": {
+    "class": "pink",
+    "name": "sjuush (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-sjuush-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-sjuush-holo-copenhagen-2024.png"
+  },
+  "arT (Holo)": {
+    "class": "pink",
+    "name": "arT (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-art-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-art-holo-copenhagen-2024.png"
+  },
+  "Hobbit (Holo)": {
+    "class": "pink",
+    "name": "Hobbit (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-hobbit-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-hobbit-holo-copenhagen-2024.png"
+  },
+  "XANTARES (Glitter)": {
+    "class": "purple",
+    "name": "XANTARES (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-xantares-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-xantares-glitter-copenhagen-2024.png"
+  },
+  "Wicadia (Glitter)": {
+    "class": "purple",
+    "name": "Wicadia (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-wicadia-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-wicadia-glitter-copenhagen-2024.png"
+  },
+  "electronic (Glitter)": {
+    "class": "purple",
+    "name": "electronic (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-electronic-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-electronic-glitter-copenhagen-2024.png"
+  },
+  "FalleN (Glitter)": {
+    "class": "purple",
+    "name": "FalleN (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-fallen-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-fallen-glitter-copenhagen-2024.png"
+  },
+  "woxic (Glitter)": {
+    "class": "purple",
+    "name": "woxic (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-woxic-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-woxic-glitter-copenhagen-2024.png"
+  },
+  "MAJ3R (Glitter)": {
+    "class": "purple",
+    "name": "MAJ3R (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-maj3r-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-maj3r-glitter-copenhagen-2024.png"
+  },
+  "Snax (Glitter)": {
+    "class": "purple",
+    "name": "Snax (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-snax-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-snax-glitter-copenhagen-2024.png"
+  },
+  "roman (Glitter)": {
+    "class": "purple",
+    "name": "roman (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-roman-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-roman-glitter-copenhagen-2024.png"
+  },
+  "arrozdoce (Glitter)": {
+    "class": "purple",
+    "name": "arrozdoce (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-arrozdoce-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-arrozdoce-glitter-copenhagen-2024.png"
+  },
+  "Boombl4 (Glitter)": {
+    "class": "purple",
+    "name": "Boombl4 (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-boombl4-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-boombl4-glitter-copenhagen-2024.png"
+  },
+  "Ax1Le (Glitter)": {
+    "class": "purple",
+    "name": "Ax1Le (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-ax1le-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-ax1le-glitter-copenhagen-2024.png"
+  },
+  "Hobbit (Glitter)": {
+    "class": "purple",
+    "name": "Hobbit (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-hobbit-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-hobbit-glitter-copenhagen-2024.png"
+  },
+  "Perfecto (Glitter)": {
+    "class": "purple",
+    "name": "Perfecto (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-perfecto-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-perfecto-glitter-copenhagen-2024.png"
+  },
+  "ewjerkz (Glitter)": {
+    "class": "purple",
+    "name": "ewjerkz (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-ewjerkz-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-ewjerkz-glitter-copenhagen-2024.png"
+  },
+  "Calyx (Glitter)": {
+    "class": "purple",
+    "name": "Calyx (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-calyx-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-calyx-glitter-copenhagen-2024.png"
+  },
+  "nawwk (Glitter)": {
+    "class": "purple",
+    "name": "nawwk (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nawwk-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nawwk-glitter-copenhagen-2024.png"
+  },
+  "sjuush (Glitter)": {
+    "class": "purple",
+    "name": "sjuush (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-sjuush-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-sjuush-glitter-copenhagen-2024.png"
+  },
+  "MUTiRiS (Glitter)": {
+    "class": "purple",
+    "name": "MUTiRiS (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-mutiris-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-mutiris-glitter-copenhagen-2024.png"
+  },
+  "TeSeS (Glitter)": {
+    "class": "purple",
+    "name": "TeSeS (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-teses-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-teses-glitter-copenhagen-2024.png"
+  },
+  "story (Glitter)": {
+    "class": "purple",
+    "name": "story (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-story-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-story-glitter-copenhagen-2024.png"
+  },
+  "sense (Glitter)": {
+    "class": "purple",
+    "name": "sense (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-sense-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-sense-glitter-copenhagen-2024.png"
+  },
+  "nicoodoz (Glitter)": {
+    "class": "purple",
+    "name": "nicoodoz (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nicoodoz-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nicoodoz-glitter-copenhagen-2024.png"
+  },
+  "isak (Glitter)": {
+    "class": "purple",
+    "name": "isak (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-isak-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-isak-glitter-copenhagen-2024.png"
+  },
+  "hades (Glitter)": {
+    "class": "purple",
+    "name": "hades (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-hades-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-hades-glitter-copenhagen-2024.png"
+  },
+  "volt (Glitter)": {
+    "class": "purple",
+    "name": "volt (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-volt-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-volt-glitter-copenhagen-2024.png"
+  },
+  "Keoz (Glitter)": {
+    "class": "purple",
+    "name": "Keoz (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-keoz-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-keoz-glitter-copenhagen-2024.png"
+  },
+  "jkaem (Glitter)": {
+    "class": "purple",
+    "name": "jkaem (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-jkaem-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-jkaem-glitter-copenhagen-2024.png"
+  },
+  "kyxsan (Glitter)": {
+    "class": "purple",
+    "name": "kyxsan (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kyxsan-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kyxsan-glitter-copenhagen-2024.png"
+  },
+  "CacaNito (Glitter)": {
+    "class": "purple",
+    "name": "CacaNito (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-cacanito-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-cacanito-glitter-copenhagen-2024.png"
+  },
+  "yuurih (Glitter)": {
+    "class": "purple",
+    "name": "yuurih (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-yuurih-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-yuurih-glitter-copenhagen-2024.png"
+  },
+  "NertZ (Glitter)": {
+    "class": "purple",
+    "name": "NertZ (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nertz-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nertz-glitter-copenhagen-2024.png"
+  },
+  "acoR (Glitter)": {
+    "class": "purple",
+    "name": "acoR (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-acor-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-acor-glitter-copenhagen-2024.png"
+  },
+  "Dycha (Glitter)": {
+    "class": "purple",
+    "name": "Dycha (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-dycha-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-dycha-glitter-copenhagen-2024.png"
+  },
+  "STYKO (Glitter)": {
+    "class": "purple",
+    "name": "STYKO (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-styko-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-styko-glitter-copenhagen-2024.png"
+  },
+  "chelo (Glitter)": {
+    "class": "purple",
+    "name": "chelo (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-chelo-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-chelo-glitter-copenhagen-2024.png"
+  },
+  "Goofy (Glitter)": {
+    "class": "purple",
+    "name": "Goofy (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-goofy-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-goofy-glitter-copenhagen-2024.png"
+  },
+  "KSCERATO (Glitter)": {
+    "class": "purple",
+    "name": "KSCERATO (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kscerato-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kscerato-glitter-copenhagen-2024.png"
+  },
+  "Kylar (Glitter)": {
+    "class": "purple",
+    "name": "Kylar (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kylar-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kylar-glitter-copenhagen-2024.png"
+  },
+  "gla1ve (Glitter)": {
+    "class": "purple",
+    "name": "gla1ve (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-gla1ve-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-gla1ve-glitter-copenhagen-2024.png"
+  },
+  "arT (Glitter)": {
+    "class": "purple",
+    "name": "arT (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-art-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-art-glitter-copenhagen-2024.png"
+  },
+  "XANTARES": {
+    "class": "blue",
+    "name": "XANTARES | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-xantares-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-xantares-copenhagen-2024.png"
+  },
+  "woxic": {
+    "class": "blue",
+    "name": "woxic | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-woxic-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-woxic-copenhagen-2024.png"
+  },
+  "FalleN": {
+    "class": "blue",
+    "name": "FalleN | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-fallen-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-fallen-copenhagen-2024.png"
+  },
+  "MAJ3R": {
+    "class": "blue",
+    "name": "MAJ3R | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-maj3r-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-maj3r-copenhagen-2024.png"
+  },
+  "Wicadia": {
+    "class": "blue",
+    "name": "Wicadia | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-wicadia-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-wicadia-copenhagen-2024.png"
+  },
+  "Kylar": {
+    "class": "blue",
+    "name": "Kylar | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kylar-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kylar-copenhagen-2024.png"
+  },
+  "isak": {
+    "class": "blue",
+    "name": "isak | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-isak-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-isak-copenhagen-2024.png"
+  },
+  "gla1ve": {
+    "class": "blue",
+    "name": "gla1ve | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-gla1ve-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-gla1ve-copenhagen-2024.png"
+  },
+  "Ax1Le": {
+    "class": "blue",
+    "name": "Ax1Le | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-ax1le-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-ax1le-copenhagen-2024.png"
+  },
+  "electronic": {
+    "class": "blue",
+    "name": "electronic | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-electronic-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-electronic-copenhagen-2024.png"
+  },
+  "Goofy": {
+    "class": "blue",
+    "name": "Goofy | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-goofy-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-goofy-copenhagen-2024.png"
+  },
+  "Perfecto": {
+    "class": "blue",
+    "name": "Perfecto | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-perfecto-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-perfecto-copenhagen-2024.png"
+  },
+  "NertZ": {
+    "class": "blue",
+    "name": "NertZ | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nertz-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nertz-copenhagen-2024.png"
+  },
+  "Boombl4": {
+    "class": "blue",
+    "name": "Boombl4 | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-boombl4-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-boombl4-copenhagen-2024.png"
+  },
+  "Snax": {
+    "class": "blue",
+    "name": "Snax | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-snax-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-snax-copenhagen-2024.png"
+  },
+  "MUTiRiS": {
+    "class": "blue",
+    "name": "MUTiRiS | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-mutiris-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-mutiris-copenhagen-2024.png"
+  },
+  "Calyx": {
+    "class": "blue",
+    "name": "Calyx | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-calyx-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-calyx-copenhagen-2024.png"
+  },
+  "ewjerkz": {
+    "class": "blue",
+    "name": "ewjerkz | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-ewjerkz-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-ewjerkz-copenhagen-2024.png"
+  },
+  "kyxsan": {
+    "class": "blue",
+    "name": "kyxsan | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kyxsan-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kyxsan-copenhagen-2024.png"
+  },
+  "Hobbit": {
+    "class": "blue",
+    "name": "Hobbit | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-hobbit-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-hobbit-copenhagen-2024.png"
+  },
+  "roman": {
+    "class": "blue",
+    "name": "roman | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-roman-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-roman-copenhagen-2024.png"
+  },
+  "story": {
+    "class": "blue",
+    "name": "story | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-story-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-story-copenhagen-2024.png"
+  },
+  "volt": {
+    "class": "blue",
+    "name": "volt | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-volt-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-volt-copenhagen-2024.png"
+  },
+  "CacaNito": {
+    "class": "blue",
+    "name": "CacaNito | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-cacanito-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-cacanito-copenhagen-2024.png"
+  },
+  "arT": {
+    "class": "blue",
+    "name": "arT | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-art-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-art-copenhagen-2024.png"
+  },
+  "arrozdoce": {
+    "class": "blue",
+    "name": "arrozdoce | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-arrozdoce-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-arrozdoce-copenhagen-2024.png"
+  },
+  "acoR": {
+    "class": "blue",
+    "name": "acoR | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-acor-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-acor-copenhagen-2024.png"
+  },
+  "sense": {
+    "class": "blue",
+    "name": "sense | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-sense-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-sense-copenhagen-2024.png"
+  },
+  "TeSeS": {
+    "class": "blue",
+    "name": "TeSeS | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-teses-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-teses-copenhagen-2024.png"
+  },
+  "nicoodoz": {
+    "class": "blue",
+    "name": "nicoodoz | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nicoodoz-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nicoodoz-copenhagen-2024.png"
+  },
+  "yuurih": {
+    "class": "blue",
+    "name": "yuurih | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-yuurih-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-yuurih-copenhagen-2024.png"
+  },
+  "chelo": {
+    "class": "blue",
+    "name": "chelo | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-chelo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-chelo-copenhagen-2024.png"
+  },
+  "hades": {
+    "class": "blue",
+    "name": "hades | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-hades-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-hades-copenhagen-2024.png"
+  },
+  "nawwk": {
+    "class": "blue",
+    "name": "nawwk | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-nawwk-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-nawwk-copenhagen-2024.png"
+  },
+  "STYKO": {
+    "class": "blue",
+    "name": "STYKO | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-styko-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-styko-copenhagen-2024.png"
+  },
+  "Keoz": {
+    "class": "blue",
+    "name": "Keoz | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-keoz-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-keoz-copenhagen-2024.png"
+  },
+  "sjuush": {
+    "class": "blue",
+    "name": "sjuush | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-sjuush-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-sjuush-copenhagen-2024.png"
+  },
+  "KSCERATO": {
+    "class": "blue",
+    "name": "KSCERATO | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-kscerato-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-kscerato-copenhagen-2024.png"
+  },
+  "jkaem": {
+    "class": "blue",
+    "name": "jkaem | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-jkaem-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-jkaem-copenhagen-2024.png"
+  },
+  "Dycha": {
+    "class": "blue",
+    "name": "Dycha | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-dycha-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-dycha-copenhagen-2024.png"
+  }
+}

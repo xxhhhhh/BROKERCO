@@ -1,0 +1,86 @@
+{
+  "Great Wave (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Great Wave (Foil)",
+    "image": "/img/skins/stickers/operation-riptide/sticker-great-wave-foil.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-great-wave-foil.webp"
+  },
+  "Seeing Red (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Seeing Red (Foil)",
+    "image": "/img/skins/stickers/operation-riptide/sticker-seeing-red-foil.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-seeing-red-foil.webp"
+  },
+  "Great Wave (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Great Wave (Holo)",
+    "image": "/img/skins/stickers/operation-riptide/sticker-great-wave-holo.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-great-wave-holo.webp"
+  },
+  "Liquid Fire (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Liquid Fire (Holo)",
+    "image": "/img/skins/stickers/operation-riptide/sticker-liquid-fire-holo.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-liquid-fire-holo.webp"
+  },
+  "Kill Count (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Kill Count (Holo)",
+    "image": "/img/skins/stickers/operation-riptide/sticker-kill-count-holo.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-kill-count-holo.webp"
+  },
+  "Dead Eye (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Dead Eye (Holo)",
+    "image": "/img/skins/stickers/operation-riptide/sticker-dead-eye-holo.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-dead-eye-holo.webp"
+  },
+  "Chicken of the Sky": {
+    "class": "blue",
+    "name": "Sticker | Chicken of the Sky",
+    "image": "/img/skins/stickers/operation-riptide/sticker-chicken-of-the-sky.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-chicken-of-the-sky.webp"
+  },
+  "Liquid Fire": {
+    "class": "blue",
+    "name": "Sticker | Liquid Fire",
+    "image": "/img/skins/stickers/operation-riptide/sticker-liquid-fire.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-liquid-fire.webp"
+  },
+  "Gutted": {
+    "class": "blue",
+    "name": "Sticker | Gutted",
+    "image": "/img/skins/stickers/operation-riptide/sticker-gutted.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-gutted.webp"
+  },
+  "Dead Eye": {
+    "class": "blue",
+    "name": "Sticker | Dead Eye",
+    "image": "/img/skins/stickers/operation-riptide/sticker-dead-eye.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-dead-eye.webp"
+  },
+  "Great Wave": {
+    "class": "blue",
+    "name": "Sticker | Great Wave",
+    "image": "/img/skins/stickers/operation-riptide/sticker-great-wave.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-great-wave.webp"
+  },
+  "Kill Count": {
+    "class": "blue",
+    "name": "Sticker | Kill Count",
+    "image": "/img/skins/stickers/operation-riptide/sticker-kill-count.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-kill-count.webp"
+  },
+  "Seeing Red": {
+    "class": "blue",
+    "name": "Sticker | Seeing Red",
+    "image": "/img/skins/stickers/operation-riptide/sticker-seeing-red.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-seeing-red.webp"
+  },
+  "Operation Riptide": {
+    "class": "blue",
+    "name": "Sticker | Operation Riptide",
+    "image": "/img/skins/stickers/operation-riptide/sticker-operation-riptide.webp",
+    "imageOG": "/img/skins/stickers/operation-riptide/small/sticker-operation-riptide.webp"
+  }
+}

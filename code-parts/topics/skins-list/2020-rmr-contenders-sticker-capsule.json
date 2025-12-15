@@ -1,0 +1,194 @@
+{
+  "TYLOO (Gold)": {
+    "class": "red",
+    "name": "TYLOO (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-tyloo-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-tyloo-gold-2020-rmr.png"
+  },
+  "Virtus.pro (Gold)": {
+    "class": "red",
+    "name": "Virtus.pro (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-virtus-pro-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-virtus-pro-gold-2020-rmr.png"
+  },
+  "FaZe (Gold)": {
+    "class": "red",
+    "name": "FaZe (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-faze-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-faze-gold-2020-rmr.png"
+  },
+  "Gen.G (Gold)": {
+    "class": "red",
+    "name": "Gen.G (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-gen-g-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-gen-g-gold-2020-rmr.png"
+  },
+  "North (Gold)": {
+    "class": "red",
+    "name": "North (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-north-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-north-gold-2020-rmr.png"
+  },
+  "Renegades (Gold)": {
+    "class": "red",
+    "name": "Renegades (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-renegades-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-renegades-gold-2020-rmr.png"
+  },
+  "ESPADA (Gold)": {
+    "class": "red",
+    "name": "ESPADA (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-espada-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-espada-gold-2020-rmr.png"
+  },
+  "Boom (Gold)": {
+    "class": "red",
+    "name": "Boom (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-boom-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-boom-gold-2020-rmr.png"
+  },
+  "FaZe (Foil)": {
+    "class": "pink",
+    "name": "FaZe (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-faze-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-faze-foil-2020-rmr.png"
+  },
+  "TYLOO (Foil)": {
+    "class": "pink",
+    "name": "TYLOO (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-tyloo-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-tyloo-foil-2020-rmr.png"
+  },
+  "Boom (Foil)": {
+    "class": "pink",
+    "name": "Boom (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-boom-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-boom-foil-2020-rmr.png"
+  },
+  "North (Foil)": {
+    "class": "pink",
+    "name": "North (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-north-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-north-foil-2020-rmr.png"
+  },
+  "Renegades (Foil)": {
+    "class": "pink",
+    "name": "Renegades (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-renegades-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-renegades-foil-2020-rmr.png"
+  },
+  "Gen.G (Foil)": {
+    "class": "pink",
+    "name": "Gen.G (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-gen-g-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-gen-g-foil-2020-rmr.png"
+  },
+  "Virtus.pro (Foil)": {
+    "class": "pink",
+    "name": "Virtus.pro (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-virtus-pro-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-virtus-pro-foil-2020-rmr.png"
+  },
+  "ESPADA (Foil)": {
+    "class": "pink",
+    "name": "ESPADA (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-espada-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-espada-foil-2020-rmr.png"
+  },
+  "TYLOO (Holo)": {
+    "class": "purple",
+    "name": "TYLOO (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-tyloo-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-tyloo-holo-2020-rmr.png"
+  },
+  "Gen.G (Holo)": {
+    "class": "purple",
+    "name": "Gen.G (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-gen-g-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-gen-g-holo-2020-rmr.png"
+  },
+  "FaZe (Holo)": {
+    "class": "purple",
+    "name": "FaZe (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-faze-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-faze-holo-2020-rmr.png"
+  },
+  "North (Holo)": {
+    "class": "purple",
+    "name": "North (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-north-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-north-holo-2020-rmr.png"
+  },
+  "Boom (Holo)": {
+    "class": "purple",
+    "name": "Boom (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-boom-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-boom-holo-2020-rmr.png"
+  },
+  "Renegades (Holo)": {
+    "class": "purple",
+    "name": "Renegades (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-renegades-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-renegades-holo-2020-rmr.png"
+  },
+  "Virtus.pro (Holo)": {
+    "class": "purple",
+    "name": "Virtus.pro (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-virtus-pro-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-virtus-pro-holo-2020-rmr.png"
+  },
+  "ESPADA (Holo)": {
+    "class": "purple",
+    "name": "ESPADA (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-espada-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-espada-holo-2020-rmr.png"
+  },
+  "TYLOO": {
+    "class": "blue",
+    "name": "TYLOO | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-tyloo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-tyloo-2020-rmr.png"
+  },
+  "FaZe": {
+    "class": "blue",
+    "name": "FaZe | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-faze-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-faze-2020-rmr.png"
+  },
+  "Renegades": {
+    "class": "blue",
+    "name": "Renegades | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-renegades-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-renegades-2020-rmr.png"
+  },
+  "North": {
+    "class": "blue",
+    "name": "North | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-north-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-north-2020-rmr.png"
+  },
+  "Boom": {
+    "class": "blue",
+    "name": "Boom | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-boom-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-boom-2020-rmr.png"
+  },
+  "Virtus.pro": {
+    "class": "blue",
+    "name": "Virtus.pro | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-virtus-pro-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-virtus-pro-2020-rmr.png"
+  },
+  "Gen.G": {
+    "class": "blue",
+    "name": "Gen.G | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-gen-g-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-gen-g-2020-rmr.png"
+  },
+  "ESPADA": {
+    "class": "blue",
+    "name": "ESPADA | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-espada-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-espada-2020-rmr.png"
+  }
+}

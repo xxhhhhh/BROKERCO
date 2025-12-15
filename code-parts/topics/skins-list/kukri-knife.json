@@ -1,0 +1,80 @@
+{
+  "Vanilla": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-vanilla.webp",
+    "name": "Kukri Knife",
+    "color": ["Black"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-scorched.webp",
+    "name": "Kukri Knife | Scorched",
+    "color": ["Gray"]
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-stained.webp",
+    "name": "Kukri Knife | Stained",
+    "color": ["Gray", "White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-urban-masked.webp",
+    "name": "Kukri Knife | Urban Masked",
+    "color": ["Gray", "White"]
+  },
+  "Night Stripe": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-night-stripe.webp",
+    "name": "Kukri Knife | Night Stripe",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-blue-steel.webp",
+    "name": "Kukri Knife | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-safari-mesh.webp",
+    "name": "Kukri Knife | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-boreal-forest.webp",
+    "name": "Kukri Knife | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-forest-ddpat.webp",
+    "name": "Kukri Knife | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-crimson-web.webp",
+    "name": "Kukri Knife | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-slaughter.webp",
+    "name": "Kukri Knife | Slaughter",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-fade.webp",
+    "name": "Kukri Knife | Fade",
+    "color": []
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/kukri-case-hardened.webp",
+    "name": "Kukri Knife | Case Hardened",
+    "color": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Freecash",
+    "logo": "/img/freecash-logo.webp",
+    "reward": "Receive <strong>Free Case</strong> with chance to <strong>win 250$</strong>",
+    "reward_ru": "Получите <strong>Бесплатно Кейс</strong> с шансом <strong>выиграть до 250$</strong>",
+    "reward_tr": "<strong>250$ Kazanma</strong> şansı ile <strong>Ücretsiz Kasa</strong> alın",
+    "link": "https://freecash.com/r/csgobroker",
+    "code": "csgobroker"
+}

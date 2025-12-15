@@ -1,0 +1,510 @@
+{
+  "Bullfrog": {
+    "class": "blue",
+    "image": "/img/skins/p250/bullfrog.webp",
+    "name": "P250 | Bullfrog",
+    "color": [
+      "Brown",
+      "Gray"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Whiteout": {
+    "class": "blue",
+    "image": "/img/skins/p250/whiteout.webp",
+    "name": "P250 | Whiteout",
+    "color": [
+      "White"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Constructivist": {
+    "class": "lblue",
+    "image": "/img/skins/p250/constructivist.webp",
+    "name": "P250 | Constructivist",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Epicenter": {
+    "class": "pink",
+    "image": "/img/skins/p250/epicenter.webp",
+    "name": "P250 | Epicenter",
+    "color": [
+      "Pink"
+    ],
+    "case": "Gallery Case"
+  },
+  "Franklin": {
+    "class": "pink",
+    "image": "/img/skins/p250/franklin.webp",
+    "name": "P250 | Franklin",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Asiimov": {
+    "class": "pink",
+    "image": "/img/skins/p250/asiimov.webp",
+    "name": "P250 | Asiimov",
+    "color": [
+      "Orange",
+      "White"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Bengal Tiger": {
+    "class": "blue",
+    "image": "/img/skins/p250/bengal-tiger.webp",
+    "name": "P250 | Bengal Tiger",
+    "color": [
+      "Orange",
+      "White"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Mint Kimono": {
+    "class": "white",
+    "image": "/img/skins/p250/mint-kimono.webp",
+    "name": "P250 | Mint Kimono",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Gunsmoke": {
+    "class": "lblue",
+    "image": "/img/skins/p250/gunsmoke.webp",
+    "name": "P250 | Gunsmoke",
+    "color": [
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The Inferno Collection"
+  },
+  "Modern Hunter": {
+    "class": "blue",
+    "image": "/img/skins/p250/modern-hunter.webp",
+    "name": "P250 | Modern Hunter",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Militia Collection"
+  },
+  "Steel Disruption": {
+    "class": "blue",
+    "image": "/img/skins/p250/steel-disruption.webp",
+    "name": "P250 | Steel Disruption",
+    "color": [
+      "Gray"
+    ],
+    "case": "eSports 2013 Winter Case"
+  },
+  "Facets": {
+    "class": "lblue",
+    "image": "/img/skins/p250/facets.webp",
+    "name": "P250 | Facets",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Alpha Collection"
+  },
+  "Re.built": {
+    "class": "blue",
+    "image": "/img/skins/p250/re-built.webp",
+    "name": "P250 | Re.built",
+    "color": [
+      "Gray"
+    ],
+    "case": "Revolution Case"
+  },
+  "Cassette": {
+    "class": "blue",
+    "image": "/img/skins/p250/cassette.webp",
+    "name": "P250 | Cassette",
+    "color": [
+      "Gray"
+    ],
+    "case": "Fracture Case"
+  },
+  "Valence": {
+    "class": "blue",
+    "image": "/img/skins/p250/valence.webp",
+    "name": "P250 | Valence",
+    "color": [
+      "Blue",
+      "Gray"
+    ],
+    "case": "Chroma 2 Case"
+  },
+  "Cyber Shell": {
+    "class": "purple",
+    "image": "/img/skins/p250/cyber-shell.webp",
+    "name": "P250 | Cyber Shell",
+    "color": [
+      "Gray"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Cartel": {
+    "class": "pink",
+    "image": "/img/skins/p250/cartel.webp",
+    "name": "P250 | Cartel",
+    "color": [
+      "Black",
+      "Gray",
+      "Silver"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Dark Filigree": {
+    "class": "lblue",
+    "image": "/img/skins/p250/dark-filigree.webp",
+    "name": "P250 | Dark Filigree",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Metallic DDPAT": {
+    "class": "lblue",
+    "image": "/img/skins/p250/metallic-ddpat.webp",
+    "name": "P250 | Metallic DDPAT",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Black & Tan": {
+    "class": "blue",
+    "image": "/img/skins/p250/black-tan.webp",
+    "name": "P250 | Black & Tan",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Exchanger": {
+    "class": "blue",
+    "image": "/img/skins/p250/exchanger.webp",
+    "name": "P250 | Exchanger",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Bone Mask": {
+    "class": "white",
+    "image": "/img/skins/p250/bone-mask.webp",
+    "name": "P250 | Bone Mask",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Sand Dune": {
+    "class": "white",
+    "image": "/img/skins/p250/sand-dune.webp",
+    "name": "P250 | Sand Dune",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Contamination": {
+    "class": "lblue",
+    "image": "/img/skins/p250/contamination.webp",
+    "name": "P250 | Contamination",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Supernova": {
+    "class": "purple",
+    "image": "/img/skins/p250/supernova.webp",
+    "name": "P250 | Supernova",
+    "color": [],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Facility Draft": {
+    "class": "white",
+    "image": "/img/skins/p250/facility-draft.webp",
+    "name": "P250 | Facility Draft",
+    "color": [],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Crimson Kimono": {
+    "class": "lblue",
+    "image": "/img/skins/p250/crimson-kimono.webp",
+    "name": "P250 | Crimson Kimono",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Contaminant": {
+    "class": "blue",
+    "image": "/img/skins/p250/contaminant.webp",
+    "name": "P250 | Contaminant",
+    "color": [
+      "Red"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Nevermore": {
+    "class": "purple",
+    "image": "/img/skins/p250/nevermore.webp",
+    "name": "P250 | Nevermore",
+    "color": [
+      "Red"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Muertos": {
+    "class": "pink",
+    "image": "/img/skins/p250/muertos.webp",
+    "name": "P250 | Muertos",
+    "color": [
+      "Red"
+    ],
+    "case": "Chroma Case"
+  },
+  "Hive": {
+    "class": "blue",
+    "image": "/img/skins/p250/hive.webp",
+    "name": "P250 | Hive",
+    "color": [
+      "Brown"
+    ],
+    "case": "CS:GO Weapon Case 2"
+  },
+  "Apep's Curse": {
+    "class": "pink",
+    "image": "/img/skins/p250/apeps-curse.webp",
+    "name": "P250 | Apep's Curse",
+    "color": [
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Verdigris": {
+    "class": "blue",
+    "image": "/img/skins/p250/verdigris.webp",
+    "name": "P250 | Verdigris",
+    "color": [
+      "Brown"
+    ],
+    "case": "Prisma Case"
+  },
+  "Inferno": {
+    "class": "purple",
+    "image": "/img/skins/p250/inferno.webp",
+    "name": "P250 | Inferno",
+    "color": [
+      "Brown"
+    ],
+    "case": "CS20 Case"
+  },
+  "Red Rock": {
+    "class": "purple",
+    "image": "/img/skins/p250/red-rock.webp",
+    "name": "P250 | Red Rock",
+    "color": [],
+    "case": "Operation Hydra Case"
+  },
+  "Mehndi": {
+    "class": "pink",
+    "image": "/img/skins/p250/mehndi.webp",
+    "name": "P250 | Mehndi",
+    "color": [
+      "Orange"
+    ],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Splash": {
+    "class": "purple",
+    "image": "/img/skins/p250/splash.webp",
+    "name": "P250 | Splash",
+    "color": [
+      "Orange"
+    ],
+    "case": "eSports 2013 Case"
+  },
+  "Wingshot": {
+    "class": "purple",
+    "image": "/img/skins/p250/wingshot.webp",
+    "name": "P250 | Wingshot",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Shadow Case"
+  },
+  "Boreal Forest": {
+    "class": "white",
+    "image": "/img/skins/p250/boreal.webp",
+    "name": "P250 | Boreal Forest",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Iron Clad": {
+    "class": "blue",
+    "image": "/img/skins/p250/iron-clad.webp",
+    "name": "P250 | Iron Clad",
+    "color": [
+      "Green"
+    ],
+    "case": "Gamma Case"
+  },
+  "Visions": {
+    "class": "pink",
+    "image": "/img/skins/p250/visions.webp",
+    "name": "P250 | Visions",
+    "color": [
+      "Green"
+    ],
+    "case": "Recoil Case"
+  },
+  "See Ya Later": {
+    "class": "red",
+    "image": "/img/skins/p250/see-ya-later.webp",
+    "name": "P250 | See Ya Later",
+    "color": [
+      "Green"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Nuclear Threat": {
+    "class": "purple",
+    "image": "/img/skins/p250/nuclear.webp",
+    "name": "P250 | Nuclear Threat",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Nuke Collection"
+  },
+  "Ripple": {
+    "class": "blue",
+    "image": "/img/skins/p250/ripple.webp",
+    "name": "P250 | Ripple",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Undertow": {
+    "class": "pink",
+    "image": "/img/skins/p250/undertow.webp",
+    "name": "P250 | Undertow",
+    "color": [
+      "Blue",
+      "Cyan"
+    ],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "X-Ray": {
+    "class": "purple",
+    "image": "/img/skins/p250/x-ray.webp",
+    "name": "P250 | X-Ray",
+    "color": [
+      "Cyan"
+    ]
+  },
+  "Forest Night": {
+    "class": "white",
+    "image": "/img/skins/p250/forest-night.webp",
+    "name": "P250 | Forest Night",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Drought": {
+    "class": "white",
+    "image": "/img/skins/p250/drought.webp",
+    "name": "P250 | Drought",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Digital Architect": {
+    "class": "purple",
+    "image": "/img/skins/p250/digital-architect.webp",
+    "name": "P250 | Digital Architect",
+    "color": [
+      "Cyan",
+      "Purple"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Vino Primo": {
+    "class": "purple",
+    "image": "/img/skins/p250/vino-primo.webp",
+    "name": "P250 | Vino Primo",
+    "color": [
+      "Purple"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Small Game": {
+    "class": "blue",
+    "image": "/img/skins/p250/small-game.webp",
+    "name": "P250 | Small Game",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Plum Netting": {
+    "class": "white",
+    "image": "/img/skins/p250/plum-netting.webp",
+    "name": "P250 | Plum Netting",
+    "color": [
+      "Purple"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Red Tide": {
+    "class": "blue",
+    "image": "/img/skins/p250/red-tide.webp",
+    "name": "P250 | Red Tide",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Sedimentary": {
+    "class": "lblue",
+    "image": "/img/skins/p250/sedimentary.webp",
+    "name": "P250 | Sedimentary",
+    "color": [
+      "Yellow"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Copper Oxide": {
+    "class": "white",
+    "image": "/img/skins/p250/copper-oxide.webp",
+    "name": "P250 | Copper Oxide",
+    "color": [
+      "Brown",
+      "Cyan"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

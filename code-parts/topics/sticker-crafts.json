@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "fake-ibuypower-holo",
+    "img": "/img/skins/topics/stickers-crafts/fake-ibuypower-holo/craft-mini.png",
+    "title": "Fake iBUYPOWER (Holo)",
+    "skin": "AK-47 | Slate",
+    "range": "cheap",
+    "skins": [
+      {
+        "weapon": "shanghai-2024-legends-autograph-capsule",
+        "skin_id": "Lucky (Glitter)"
+      },
+      {
+        "weapon": "shanghai-2024-challengers-autograph-capsule",
+        "skin_id": "NQZ (Glitter)"
+      },
+      {
+        "weapon": "shanghai-2024-legends-autograph-capsule",
+        "skin_id": "ropz (Glitter)"
+      },
+      {
+        "weapon": "shanghai-2024-legends-sticker-capsule",
+        "skin_id": "3DMAX (Glitter)"
+      },
+      {
+        "weapon": "shanghai-2024-legends-autograph-capsule",
+        "skin_id": "ropz (Glitter)"
+      }
+    ]
+  },
+  {
+    "id": "galil-ar-eco-hydra",
+    "img": "/img/skins/topics/stickers-crafts/galil-ar-eco-hydra/craft-mini.png",
+    "title": "Hydra",
+    "skin": "Galil AR | Eco",
+    "range": "cheap",
+    "skins": [
+      {
+        "weapon": "warhammer-40000-traitor-astartes-sticker-capsule",
+        "skin_id": "Alpha Legion 1"
+      },
+      {
+        "weapon": "warhammer-40000-traitor-astartes-sticker-capsule",
+        "skin_id": "Alpha Legion 2"
+      },
+      {
+        "weapon": "warhammer-40000-traitor-astartes-sticker-capsule",
+        "skin_id": "Alpha Legion 2"
+      },
+      {
+        "weapon": "warhammer-40000-traitor-astartes-sticker-capsule",
+        "skin_id": "Alpha Legion 1"
+      },
+      {
+        "weapon": "",
+        "skin_id": ""
+      }
+    ]
+  },
+  {
+    "id": "ak47-halo-chief-master",
+    "img": "/img/skins/topics/stickers-crafts/ak47-halo-chief-master/craft-mini.png",
+    "title": "Halo Master Chief",
+    "skin": "AK-47 | Safari Mesh",
+    "range": "cheap",
+    "skins": [
+      {
+        "weapon": "halo-sticker-capsule",
+        "skin_id": "Chief"
+      },
+      {
+        "weapon": "halo-sticker-capsule",
+        "skin_id": "Chief"
+      },
+      {
+        "weapon": "broken-fang-sticker-capsule",
+        "skin_id": "Ancient Beast"
+      },
+      {
+        "weapon": "broken-fang-sticker-capsule",
+        "skin_id": "Ancient Beast"
+      },
+      {
+        "weapon": "halo-sticker-capsule",
+        "skin_id": "Chief (Holo)"
+      }
+    ]
+  },
+  {
+    "id": "m4a4-converter-howl",
+    "img": "/img/skins/topics/stickers-crafts/m4a4-converter-howl/craft-mini.png",
+    "title": "Howl",
+    "skin": "M4A4 | Converter",
+    "range": "mid",
+    "skins": [
+      { "weapon": "elemental-craft-stickers", "skin_id": "Boom Trail" },
+      { "weapon": "elemental-craft-stickers", "skin_id": "High Heat" },
+      { "weapon": "elemental-craft-stickers", "skin_id": "High Heat" },
+      { "weapon": "elemental-craft-stickers", "skin_id": "Scorch Loop" },
+      { "weapon": "elemental-craft-stickers", "skin_id": "Winding Scorch" }
+    ]
+  },
+  {
+    "id": "ak47-purple-lightning",
+    "img": "/img/skins/topics/stickers-crafts/ak47-purple-lightning/craft-mini.png",
+    "title": "Purple Lightning",
+    "skin": "AK-47 | Slate",
+    "range": "mid",
+    "skins": [
+      { "weapon": "elemental-craft-stickers", "skin_id": "Bolt Charge (Foil)" },
+      { "weapon": "elemental-craft-stickers", "skin_id": "Bolt Strike (Foil)" },
+      { "weapon": "elemental-craft-stickers", "skin_id": "Bolt Strike (Foil)" },
+      { "weapon": "elemental-craft-stickers", "skin_id": "Bolt Charge (Foil)" },
+      { "weapon": "elemental-craft-stickers", "skin_id": "Bolt Energy (Foil)" }
+    ]
+  },
+  {
+    "id": "ak47-gray-dragon",
+    "img": "/img/skins/topics/stickers-crafts/ak47-gray-dragon/craft-mini.png",
+    "title": "Gray Dragon",
+    "skin": "AK-47 | Slate",
+    "range": "mid",
+    "skins": [
+      {
+        "weapon": "feral-predators-sticker-capsule",
+        "skin_id": "Baited"
+      },
+      {
+        "weapon": "feral-predators-sticker-capsule",
+        "skin_id": "First Blood"
+      },
+      {
+        "weapon": "broken-fang-sticker-capsule",
+        "skin_id": "Broken Fang"
+      },
+      {
+        "weapon": "broken-fang-sticker-capsule",
+        "skin_id": "Broken Fang"
+      },
+      {
+        "weapon": "10-year-birthday-sticker-capsule",
+        "skin_id": "B-Day"
+      }
+    ]
+  },
+  {
+    "id": "ak47-octopus",
+    "img": "/img/skins/topics/stickers-crafts/ak47-octopus/craft-mini.png",
+    "title": "Octopus",
+    "skin": "AK-47 | Slate",
+    "range": "mid",
+    "skins": [
+      {
+        "weapon": "feral-predators-sticker-capsule",
+        "skin_id": "Free Hugs"
+      },
+      {
+        "weapon": "feral-predators-sticker-capsule",
+        "skin_id": "Free Hugs"
+      },
+      {
+        "weapon": "feral-predators-sticker-capsule",
+        "skin_id": "Free Hugs"
+      },
+      {
+        "weapon": "feral-predators-sticker-capsule",
+        "skin_id": "Free Hugs"
+      },
+      {
+        "weapon": "halo-sticker-capsule",
+        "skin_id": "Legendary"
+      }
+    ]
+  },
+  {
+    "id": "m4a4-godzilla",
+    "img": "/img/skins/topics/stickers-crafts/m4a4-godzilla/craft-mini.png",
+    "title": "Godzilla",
+    "skin": "M4A4 | Urban DDPAT",
+    "range": "mid",
+    "skins": [
+      {
+        "weapon": "feral-predators-sticker-capsule",
+        "skin_id": "First Blood"
+      },
+      {
+        "weapon": "10-year-birthday-sticker-capsule",
+        "skin_id": "Zeusception (Holo)"
+      },
+      {
+        "weapon": "2021-community-sticker-capsule",
+        "skin_id": "Fast Banana"
+      },
+      {
+        "weapon": "2021-community-sticker-capsule",
+        "skin_id": "Fast Banana"
+      },
+      {
+        "weapon": "2021-community-sticker-capsule",
+        "skin_id": "War"
+      }
+    ]
+  },
+  {
+    "id": "desert-eagle-neon-blaze",
+    "img": "/img/skins/topics/stickers-crafts/desert-eagle-neon-blaze/craft-mini.png",
+    "title": "Neon Blaze",
+    "skin": "Desert Eagle | Night",
+    "range": "exp",
+    "skins": [
+      {
+        "weapon": "cs20-sticker-capsule",
+        "skin_id": "Fire in the Hole (Holo)"
+      },
+      {
+        "weapon": "cs20-sticker-capsule",
+        "skin_id": "Fire in the Hole (Holo)"
+      },
+      {
+        "weapon": "cs20-sticker-capsule",
+        "skin_id": "Fire in the Hole (Holo)"
+      },
+      {
+        "weapon": "cs20-sticker-capsule",
+        "skin_id": "Fire in the Hole (Holo)"
+      },
+      {
+        "weapon": "cs20-sticker-capsule",
+        "skin_id": "Fire in the Hole (Holo)"
+      }
+    ]
+  },
+  {
+    "id": "desert-eagle-night-lightning",
+    "img": "/img/skins/topics/stickers-crafts/desert-eagle-night-lightning/craft-mini.png",
+    "title": "Purple Lightning",
+    "skin": "Desert Eagle | Night",
+    "range": "exp",
+    "skins": [
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge (Foil)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge (Foil)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge (Foil)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge (Foil)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Strike (Foil)"
+      }
+    ]
+  },
+  {
+    "id": "desert-eagle-night-budget-blaze",
+    "img": "/img/skins/topics/stickers-crafts/desert-eagle-night-budget-blaze/craft-mini.png",
+    "title": "Budget Blaze",
+    "skin": "Desert Eagle | Night",
+    "range": "exp",
+    "skins": [
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "High Heat"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "High Heat"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "High Heat"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "High Heat"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "High Heat"
+      }
+    ]
+  },
+  {
+    "id": "glock-18-vogue-flaming-eyes",
+    "img": "/img/skins/topics/stickers-crafts/glock-18-vogue-flaming-eyes/craft-mini.png",
+    "title": "Flaming Eyes",
+    "skin": "Glock-18 | Vogue",
+    "range": "mid",
+    "skins": [
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Winding Scorch"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Winding Scorch"
+      },
+      {
+        "weapon": "",
+        "skin_id": ""
+      },
+      {
+        "weapon": "",
+        "skin_id": ""
+      },
+      {
+        "weapon": "",
+        "skin_id": ""
+      }
+    ]
+  },
+  {
+    "id": "m4a1-s-nitro-apeks-edition",
+    "img": "/img/skins/topics/stickers-crafts/m4a1-s-nitro-apeks-edition/craft-mini.png",
+    "title": "Apeks edition",
+    "skin": "M4A1-S | Nitro",
+    "range": "cheap",
+    "skins": [
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "Apeks"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "Apeks"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "Apeks"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "Apeks"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "Apeks"
+      }
+    ]
+  },
+  {
+    "id": "p250-upgraded-asiimov",
+    "img": "/img/skins/topics/stickers-crafts/p250-upgraded-asiimov/craft-mini.png",
+    "title": "Upgraded",
+    "skin": "P250 | Asiimov",
+    "range": "cheap",
+    "skins": [
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "Apeks"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "Apeks"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "Apeks"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "Apeks"
+      },
+      {
+        "weapon": "",
+        "skin_id": ""
+      }
+    ]
+  },
+  {
+    "id": "ak47-upgraded-redline",
+    "img": "/img/skins/topics/stickers-crafts/ak47-upgraded-redline/craft-mini.png",
+    "title": "Upgraded",
+    "skin": "AK-47 | Redline",
+    "range": "exp",
+    "skins": [
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Ruby Wave (Lenticular)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Ruby Wave (Lenticular)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Ruby Wave (Lenticular)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Ruby Wave (Lenticular)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Ruby Wave (Lenticular)"
+      }
+    ]
+  },
+  {
+    "id": "m4a4-purple-star",
+    "img": "/img/skins/topics/stickers-crafts/m4a4-purple-star/craft-mini.webp",
+    "title": "Purple Star",
+    "skin": "M4A4 | Magnesium",
+    "range": "mid",
+    "skins": [
+      {
+        "weapon": "rio-2022-challengers-sticker-capsule",
+        "skin_id": "9z Team (Glitter)"
+      },
+      {
+        "weapon": "rio-2022-challengers-sticker-capsule",
+        "skin_id": "9z Team (Glitter)"
+      },
+      {
+        "weapon": "rio-2022-challengers-sticker-capsule",
+        "skin_id": "9z Team (Glitter)"
+      },
+      {
+        "weapon": "rio-2022-challengers-sticker-capsule",
+        "skin_id": "9z Team (Glitter)"
+      },
+      {
+        "weapon": "rio-2022-challengers-sticker-capsule",
+        "skin_id": "9z Team (Glitter)"
+      }
+    ]
+  },
+  {
+    "id": "glock-18-candy-apple-fluxo-edition",
+    "img": "/img/skins/topics/stickers-crafts/glock-18-candy-apple-fluxo-edition/craft-mini.png",
+    "title": "Fluxo edition",
+    "skin": "Glock-18 | Candy Apple",
+    "range": "cheap",
+    "skins": [
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo"
+      }
+    ]
+  },
+  {
+    "id": "p250-cassette-metal-black",
+    "img": "/img/skins/topics/stickers-crafts/p250-cassette-metal-black/craft-mini.png",
+    "title": "Metal-Black",
+    "skin": "P250 | Cassette",
+    "range": "mid",
+    "skins": [
+      {
+        "weapon": "recoil-sticker-capsule",
+        "skin_id": "Hello XM1014 (Gold)"
+      },
+      {
+        "weapon": "recoil-sticker-capsule",
+        "skin_id": "Hello XM1014 (Gold)"
+      },
+      {
+        "weapon": "recoil-sticker-capsule",
+        "skin_id": "Hello XM1014 (Gold)"
+      },
+      {
+        "weapon": "recoil-sticker-capsule",
+        "skin_id": "Hello XM1014 (Gold)"
+      },
+      {
+        "weapon": "recoil-sticker-capsule",
+        "skin_id": "Hello XM1014 (Gold)"
+      }
+    ]
+  },
+  {
+    "id": "usp-s-torque-amkal",
+    "img": "/img/skins/topics/stickers-crafts/usp-s-torque-amkal/craft-mini.png",
+    "title": "Amkal edition",
+    "skin": "USP-S | Torque",
+    "range": "cheap",
+    "extra": "unzoomed",
+    "skins": [
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "AMKAL ESPORTS"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "AMKAL ESPORTS"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "AMKAL ESPORTS"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "AMKAL ESPORTS"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "AMKAL ESPORTS"
+      }
+    ]
+  },
+  {
+    "id": "usp-s-blueprint-line",
+    "img": "/img/skins/topics/stickers-crafts/usp-s-blueprint-line/craft-mini.png",
+    "title": "Line",
+    "skin": "USP-S | Blueprint",
+    "range": "mid",
+    "extra": "unzoomed",
+    "skins": [
+      {
+        "weapon": "shanghai-2024-challengers-autograph-capsule",
+        "skin_id": "Twistzz"
+      },
+      {
+        "weapon": "shanghai-2024-challengers-autograph-capsule",
+        "skin_id": "Twistzz"
+      },
+      {
+        "weapon": "shanghai-2024-challengers-autograph-capsule",
+        "skin_id": "Twistzz"
+      },
+      {
+        "weapon": "shanghai-2024-challengers-autograph-capsule",
+        "skin_id": "Twistzz"
+      },
+      {
+        "weapon": "shanghai-2024-challengers-autograph-capsule",
+        "skin_id": "Twistzz"
+      }
+    ]
+  },
+  {
+    "id": "usp-s-whiteout-purple-lightning",
+    "img": "/img/skins/topics/stickers-crafts/usp-s-whiteout-purple-lightning/craft-mini.png",
+    "title": "Purple Lightning",
+    "skin": "USP-S | Whiteout",
+    "range": "exp",
+    "extra": "unzoomed",
+    "skins": [
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge (Foil)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Energy (Foil)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge (Foil)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Strike (Foil)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge (Foil)"
+      }
+    ]
+  },
+  {
+    "id": "usp-s-royal-guard-fluxo-golden",
+    "img": "/img/skins/topics/stickers-crafts/usp-s-royal-guard-fluxo-golden/craft-mini.png",
+    "title": "Fluxo Golden",
+    "skin": "USP-S | Royal Guard",
+    "range": "mid",
+    "extra": "unzoomed",
+    "skins": [
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo (Gold)"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo (Gold)"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo (Gold)"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo (Gold)"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo (Gold)"
+      }
+    ]
+  },
+  {
+    "id": "usp-s-monster-mashup-upgrade",
+    "img": "/img/skins/topics/stickers-crafts/usp-s-monster-mashup-upgrade/craft-mini.png",
+    "title": "Upgrade",
+    "skin": "USP-S | Monster Mashup",
+    "range": "mid",
+    "extra": "unzoomed",
+    "skins": [
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Blast (Glitter)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Trail (Glitter)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Trail (Glitter)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Trail (Glitter)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Detonation (Glitter)"
+      }
+    ]
+  },
+  {
+    "id": "p250-see-ya-later-monstro",
+    "img": "/img/skins/topics/stickers-crafts/p250-see-ya-later-monstro/craft-mini.png",
+    "title": "Monstro",
+    "skin": "P250 | See Ya Later",
+    "range": "mid",
+    "skins": [
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Detonation (Glitter)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Trail (Glitter)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Trail (Glitter)"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Trail (Glitter)"
+      },
+      {
+        "weapon": "character-craft-stickers",
+        "skin_id": "Chompers"
+      }
+    ]
+  },
+  {
+    "id": "desert-eagle-conspiracy-lightning",
+    "img": "/img/skins/topics/stickers-crafts/desert-eagle-conspiracy-lightning/craft-mini.png",
+    "title": "Lightning",
+    "skin": "Desert Eagle | Conspiracy",
+    "range": "exp",
+    "skins": [
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Strike"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Charge"
+      }
+    ]
+  },
+  {
+    "id": "desert-eagle-golden-conspiracy",
+    "img": "/img/skins/topics/stickers-crafts/desert-eagle-golden-conspiracy/craft-mini.webp",
+    "title": "Golden",
+    "skin": "Desert Eagle | Conspiracy",
+    "range": "exp",
+    "skins": [
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW (Gold)"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW (Gold)"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW (Gold)"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW (Gold)"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW (Gold)"
+      }
+    ]
+  },
+  {
+    "id": "desert-eagle-ice-blaze",
+    "img": "/img/skins/topics/stickers-crafts/desert-eagle-ice-blaze/craft-mini.png",
+    "title": "Ice Blaze",
+    "skin": "Desert Eagle | Printstream",
+    "range": "exp",
+    "skins": [
+      {
+        "weapon": "operation-riptide-sticker-capsule",
+        "skin_id": "Liquid Fire"
+      },
+      {
+        "weapon": "operation-riptide-sticker-capsule",
+        "skin_id": "Liquid Fire"
+      },
+      {
+        "weapon": "operation-riptide-sticker-capsule",
+        "skin_id": "Liquid Fire"
+      },
+      {
+        "weapon": "operation-riptide-sticker-capsule",
+        "skin_id": "Liquid Fire"
+      },
+      {
+        "weapon": "operation-riptide-sticker-capsule",
+        "skin_id": "Liquid Fire"
+      }
+    ]
+  },
+  {
+    "id": "ak47-empress-holo-hair",
+    "img": "/img/skins/topics/stickers-crafts/ak47-empress-holo-hair/craft-mini.png",
+    "title": "Holo Hair",
+    "skin": "AK-47 | The Empress",
+    "range": "exp",
+    "skins": [
+      {
+        "weapon": "stockholm-2021-contenders-sticker-capsule",
+        "skin_id": "Copenhagen Flames (Holo)"
+      },
+      {
+        "weapon": "stockholm-2021-contenders-sticker-capsule",
+        "skin_id": "Copenhagen Flames (Holo)"
+      },
+      {
+        "weapon": "stockholm-2021-contenders-sticker-capsule",
+        "skin_id": "Copenhagen Flames (Holo)"
+      },
+      {
+        "weapon": "stockholm-2021-contenders-sticker-capsule",
+        "skin_id": "Copenhagen Flames (Holo)"
+      },
+      {
+        "weapon": "stockholm-2021-contenders-sticker-capsule",
+        "skin_id": "Copenhagen Flames (Holo)"
+      }
+    ]
+  },
+  {
+    "id": "ak47-holo-hearts",
+    "img": "/img/skins/topics/stickers-crafts/ak47-holo-hearts/craft-mini.png",
+    "title": "Holo Hearts",
+    "skin": "AK-47 | Slate",
+    "range": "exp",
+    "skins": [
+      {
+        "weapon": "antwerp-2022-legends-sticker-capsule",
+        "skin_id": "Copenhagen Flames (Holo)"
+      },
+      {
+        "weapon": "antwerp-2022-legends-sticker-capsule",
+        "skin_id": "Copenhagen Flames (Holo)"
+      },
+      {
+        "weapon": "antwerp-2022-legends-sticker-capsule",
+        "skin_id": "Copenhagen Flames (Holo)"
+      },
+      {
+        "weapon": "antwerp-2022-legends-sticker-capsule",
+        "skin_id": "Copenhagen Flames (Holo)"
+      },
+      {
+        "weapon": "",
+        "skin_id": ""
+      }
+    ]
+  },
+  {
+    "id": "ak47-glitter-star",
+    "img": "/img/skins/topics/stickers-crafts/ak47-glitter-star/craft-mini.png",
+    "title": "Glitter Star",
+    "skin": "AK-47 | Slate",
+    "range": "cheap",
+    "skins": [
+      {
+        "weapon": "paris-2023-legends-sticker-capsule",
+        "skin_id": "Into The Breach (Glitter)"
+      },
+      {
+        "weapon": "paris-2023-challengers-sticker-capsule",
+        "skin_id": "paiN Gaming (Glitter)"
+      },
+      {
+        "weapon": "paris-2023-challengers-sticker-capsule",
+        "skin_id": "paiN Gaming (Glitter)"
+      },
+      {
+        "weapon": "paris-2023-challengers-sticker-capsule",
+        "skin_id": "paiN Gaming (Glitter)"
+      },
+      {
+        "weapon": "paris-2023-challengers-sticker-capsule",
+        "skin_id": "paiN Gaming (Glitter)"
+      }
+    ]
+  },
+  {
+    "id": "m4a1-s-basilisk-flame",
+    "img": "/img/skins/topics/stickers-crafts/m4a1-s-basilisk-flame/craft-mini.png",
+    "title": "Flame",
+    "skin": "M4A1-S | Basilisk",
+    "range": "cheap",
+    "skins": [
+      {
+        "weapon": "character-craft-stickers",
+        "skin_id": "Chompers"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Blast"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Trail"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Trail"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Boom Detonation"
+      }
+    ]
+  },
+  {
+    "id": "galil-ar-tuxedo-kitten-face",
+    "img": "/img/skins/topics/stickers-crafts/galil-ar-tuxedo-kitten-face/craft-mini.png",
+    "title": "Kitten Face",
+    "skin": "Galil AR | Tuxedo",
+    "range": "mid",
+    "skins": [
+      {
+        "weapon": "halo-sticker-capsule",
+        "skin_id": "Noble"
+      },
+      {
+        "weapon": "halo-sticker-capsule",
+        "skin_id": "Noble"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Hydro Wave"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Hydro Wave"
+      },
+      {
+        "weapon": "character-craft-stickers",
+        "skin_id": "Kawaii Eyes (Glitter)"
+      }
+    ]
+  },
+  {
+    "id": "galil-ar-tuxedo-extra-white",
+    "img": "/img/skins/topics/stickers-crafts/galil-ar-tuxedo-extra-white/craft-mini.png",
+    "title": "Extra White",
+    "skin": "Galil AR | Tuxedo",
+    "range": "cheap",
+    "skins": [
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW"
+      }
+    ]
+  },
+  {
+    "id": "galil-ar-tuxedo-fluxo-edition",
+    "img": "/img/skins/topics/stickers-crafts/galil-ar-tuxedo-fluxo-edition/craft-mini.png",
+    "title": "Fluxo edition",
+    "skin": "Galil AR | Tuxedo",
+    "range": "cheap",
+    "skins": [
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo"
+      },
+      {
+        "weapon": "paris-2023-contenders-sticker-capsule",
+        "skin_id": "Fluxo"
+      }
+    ]
+  },
+  {
+    "id": "zeus-x27-charged-up-pikachu",
+    "img": "/img/skins/topics/stickers-crafts/zeus-x27-charged-up-pikachu/craft-mini.png",
+    "title": "Pikachu",
+    "skin": "Zeus x27 | Charged Up",
+    "range": "mid",
+    "skins": [
+      {
+        "weapon": "character-craft-stickers",
+        "skin_id": "Clown Nose"
+      },
+      {
+        "weapon": "character-craft-stickers",
+        "skin_id": "Clown Nose"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Energy"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Energy"
+      },
+      {
+        "weapon": "character-craft-stickers",
+        "skin_id": "Blinky"
+      }
+    ]
+  },
+  {
+    "id": "mp9-pikachu",
+    "img": "/img/skins/topics/stickers-crafts/mp9-pikachu/craft-mini.png",
+    "title": "Pikachu",
+    "skin": "MP9 | Bulldozer",
+    "range": "mid",
+    "extra": "semizoomed",
+    "skins": [
+      {
+        "weapon": "character-craft-stickers",
+        "skin_id": "Clown Nose"
+      },
+      {
+        "weapon": "character-craft-stickers",
+        "skin_id": "Clown Nose"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Energy"
+      },
+      {
+        "weapon": "elemental-craft-stickers",
+        "skin_id": "Bolt Energy"
+      },
+      {
+        "weapon": "character-craft-stickers",
+        "skin_id": "Blinky"
+      }
+    ]
+  },
+  {
+    "id": "mac-10-light-box-pink-line",
+    "img": "/img/skins/topics/stickers-crafts/mac-10-light-box-pink-line/craft-mini.png",
+    "title": "Pink Line",
+    "skin": "MAC-10 | Light Box",
+    "range": "cheap",
+    "extra": "zoomed",
+    "skins": [
+      {
+        "weapon": "shanghai-2024-contenders-sticker-capsule",
+        "skin_id": "Rare Atom (Glitter)"
+      },
+      {
+        "weapon": "shanghai-2024-contenders-sticker-capsule",
+        "skin_id": "Rare Atom (Glitter)"
+      },
+      {
+        "weapon": "shanghai-2024-contenders-sticker-capsule",
+        "skin_id": "Rare Atom (Glitter)"
+      },
+      {
+        "weapon": "shanghai-2024-contenders-sticker-capsule",
+        "skin_id": "Rare Atom (Glitter)"
+      },
+      {
+        "weapon": "shanghai-2024-contenders-sticker-capsule",
+        "skin_id": "Rare Atom (Glitter)"
+      }
+    ]
+  },
+  {
+    "id": "mac-10-silver-pain-edition",
+    "img": "/img/skins/topics/stickers-crafts/mac-10-silver-pain-edition/craft-mini.png",
+    "title": "paiN edition",
+    "skin": "MAC-10 | Silver",
+    "range": "cheap",
+    "extra": "zoomed",
+    "skins": [
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      }
+    ]
+  },
+  {
+    "id": "mac-10-pain-edition",
+    "img": "/img/skins/topics/stickers-crafts/mac-10-pain-edition/craft-mini.png",
+    "title": "paiN edition",
+    "skin": "MAC-10 | Candy Apple",
+    "range": "cheap",
+    "extra": "zoomed",
+    "skins": [
+      {
+        "weapon": "paris-2023-challengers-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "paris-2023-challengers-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "paris-2023-challengers-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "paris-2023-challengers-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "paris-2023-challengers-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      }
+    ]
+  },
+  {
+    "id": "mac-10-pain-edition-black",
+    "img": "/img/skins/topics/stickers-crafts/mac-10-pain-edition-black/craft-mini.png",
+    "title": "paiN edition Black",
+    "skin": "MAC-10 | Candy Apple",
+    "range": "cheap",
+    "extra": "zoomed",
+    "skins": [
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      },
+      {
+        "weapon": "copenhagen-2024-contenders-sticker-capsule",
+        "skin_id": "paiN Gaming"
+      }
+    ]
+  },
+  {
+    "id": "mac-10-saw-edition",
+    "img": "/img/skins/topics/stickers-crafts/mac-10-saw-edition/craft-mini.png",
+    "title": "SAW edition",
+    "skin": "MAC-10 | Candy Apple",
+    "range": "cheap",
+    "extra": "zoomed",
+    "skins": [
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW"
+      },
+      {
+        "weapon": "copenhagen-2024-challengers-sticker-capsule",
+        "skin_id": "SAW"
+      }
+    ]
+  },
+  {
+    "id": "mac-10-glitter-hearts",
+    "img": "/img/skins/topics/stickers-crafts/mac-10-glitter-hearts/craft-mini.png",
+    "title": "Glitter Hearts",
+    "skin": "MAC-10 | Candy Apple",
+    "range": "mid",
+    "extra": "zoomed",
+    "skins": [
+      {
+        "weapon": "copenhagen-2024-legends-autograph-capsule",
+        "skin_id": "ropz (Glitter)"
+      },
+      {
+        "weapon": "copenhagen-2024-legends-autograph-capsule",
+        "skin_id": "ropz (Glitter)"
+      },
+      {
+        "weapon": "copenhagen-2024-legends-autograph-capsule",
+        "skin_id": "ropz (Glitter)"
+      },
+      {
+        "weapon": "copenhagen-2024-legends-autograph-capsule",
+        "skin_id": "ropz (Glitter)"
+      },
+      {
+        "weapon": "copenhagen-2024-legends-autograph-capsule",
+        "skin_id": "ropz (Glitter)"
+      }
+    ]
+  },
+  {
+    "id": "mac-10-heated-star",
+    "img": "/img/skins/topics/stickers-crafts/mac-10-heated-star/craft-mini.png",
+    "title": "Heated Star",
+    "skin": "MAC-10 | Heat",
+    "range": "mid",
+    "extra": "zoomed",
+    "skins": [
+      {
+        "weapon": "stockholm-2021-finalists-autograph-capsule",
+        "skin_id": "YEKINDAR (Holo)"
+      },
+      {
+        "weapon": "stockholm-2021-legends-sticker-capsule",
+        "skin_id": "Vitality (Holo)"
+      },
+      {
+        "weapon": "stockholm-2021-legends-sticker-capsule",
+        "skin_id": "Vitality (Holo)"
+      },
+      {
+        "weapon": "stockholm-2021-legends-sticker-capsule",
+        "skin_id": "Vitality (Holo)"
+      },
+      {
+        "weapon": "stockholm-2021-legends-sticker-capsule",
+        "skin_id": "Vitality (Holo)"
+      }
+    ]
+  }
+]

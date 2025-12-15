@@ -1,0 +1,962 @@
+{
+  "ropz (Gold)": {
+    "class": "red",
+    "name": "ropz (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ropz-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ropz-gold-paris-2023.png"
+  },
+  "dexter (Gold)": {
+    "class": "red",
+    "name": "dexter (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-dexter-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-dexter-gold-paris-2023.png"
+  },
+  "xertioN (Gold)": {
+    "class": "red",
+    "name": "xertioN (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-xertion-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-xertion-gold-paris-2023.png"
+  },
+  "SunPayus (Gold)": {
+    "class": "red",
+    "name": "SunPayus (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sunpayus-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sunpayus-gold-paris-2023.png"
+  },
+  "broky (Gold)": {
+    "class": "red",
+    "name": "broky (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-broky-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-broky-gold-paris-2023.png"
+  },
+  "Twistzz (Gold)": {
+    "class": "red",
+    "name": "Twistzz (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-twistzz-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-twistzz-gold-paris-2023.png"
+  },
+  "karrigan (Gold)": {
+    "class": "red",
+    "name": "karrigan (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-karrigan-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-karrigan-gold-paris-2023.png"
+  },
+  "torzsi (Gold)": {
+    "class": "red",
+    "name": "torzsi (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-torzsi-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-torzsi-gold-paris-2023.png"
+  },
+  "v$m (Gold)": {
+    "class": "red",
+    "name": "v$m (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-v-m-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-v-m-gold-paris-2023.png"
+  },
+  "NAF (Gold)": {
+    "class": "red",
+    "name": "NAF (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-naf-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-naf-gold-paris-2023.png"
+  },
+  "YEKINDAR (Gold)": {
+    "class": "red",
+    "name": "YEKINDAR (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-yekindar-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-yekindar-gold-paris-2023.png"
+  },
+  "Techno4K (Gold)": {
+    "class": "red",
+    "name": "Techno4K (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-techno4k-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-techno4k-gold-paris-2023.png"
+  },
+  "Snappi (Gold)": {
+    "class": "red",
+    "name": "Snappi (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-snappi-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-snappi-gold-paris-2023.png"
+  },
+  "vexite (Gold)": {
+    "class": "red",
+    "name": "vexite (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-vexite-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-vexite-gold-paris-2023.png"
+  },
+  "EliGE (Gold)": {
+    "class": "red",
+    "name": "EliGE (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-elige-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-elige-gold-paris-2023.png"
+  },
+  "Dycha (Gold)": {
+    "class": "red",
+    "name": "Dycha (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-dycha-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-dycha-gold-paris-2023.png"
+  },
+  "Liazz (Gold)": {
+    "class": "red",
+    "name": "Liazz (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-liazz-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-liazz-gold-paris-2023.png"
+  },
+  "INS (Gold)": {
+    "class": "red",
+    "name": "INS (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ins-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ins-gold-paris-2023.png"
+  },
+  "NertZ (Gold)": {
+    "class": "red",
+    "name": "NertZ (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-nertz-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-nertz-gold-paris-2023.png"
+  },
+  "oSee (Gold)": {
+    "class": "red",
+    "name": "oSee (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-osee-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-osee-gold-paris-2023.png"
+  },
+  "WOOD7 (Gold)": {
+    "class": "red",
+    "name": "WOOD7 (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-wood7-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-wood7-gold-paris-2023.png"
+  },
+  "History (Gold)": {
+    "class": "red",
+    "name": "History (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-history-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-history-gold-paris-2023.png"
+  },
+  "bLitz (Gold)": {
+    "class": "red",
+    "name": "bLitz (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blitz-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blitz-gold-paris-2023.png"
+  },
+  "FaNg (Gold)": {
+    "class": "red",
+    "name": "FaNg (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fang-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fang-gold-paris-2023.png"
+  },
+  "Sico (Gold)": {
+    "class": "red",
+    "name": "Sico (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sico-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sico-gold-paris-2023.png"
+  },
+  "sk0R (Gold)": {
+    "class": "red",
+    "name": "sk0R (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sk0r-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sk0r-gold-paris-2023.png"
+  },
+  "aliStair (Gold)": {
+    "class": "red",
+    "name": "aliStair (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-alistair-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-alistair-gold-paris-2023.png"
+  },
+  "nitr0 (Gold)": {
+    "class": "red",
+    "name": "nitr0 (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-nitr0-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-nitr0-gold-paris-2023.png"
+  },
+  "ANNIHILATION (Gold)": {
+    "class": "red",
+    "name": "ANNIHILATION (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-annihilation-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-annihilation-gold-paris-2023.png"
+  },
+  "maden (Gold)": {
+    "class": "red",
+    "name": "maden (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-maden-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-maden-gold-paris-2023.png"
+  },
+  "Bart4k (Gold)": {
+    "class": "red",
+    "name": "Bart4k (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-bart4k-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-bart4k-gold-paris-2023.png"
+  },
+  "Lucaozy (Gold)": {
+    "class": "red",
+    "name": "Lucaozy (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-lucaozy-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-lucaozy-gold-paris-2023.png"
+  },
+  "felps (Gold)": {
+    "class": "red",
+    "name": "felps (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-felps-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-felps-gold-paris-2023.png"
+  },
+  "JT (Gold)": {
+    "class": "red",
+    "name": "JT (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-jt-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-jt-gold-paris-2023.png"
+  },
+  "hallzerk (Gold)": {
+    "class": "red",
+    "name": "hallzerk (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-hallzerk-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-hallzerk-gold-paris-2023.png"
+  },
+  "Grim (Gold)": {
+    "class": "red",
+    "name": "Grim (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-grim-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-grim-gold-paris-2023.png"
+  },
+  "floppy (Gold)": {
+    "class": "red",
+    "name": "floppy (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-floppy-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-floppy-gold-paris-2023.png"
+  },
+  "JDC (Gold)": {
+    "class": "red",
+    "name": "JDC (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-jdc-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-jdc-gold-paris-2023.png"
+  },
+  "frozen (Gold)": {
+    "class": "red",
+    "name": "frozen (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-frozen-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-frozen-gold-paris-2023.png"
+  },
+  "rain (Gold)": {
+    "class": "red",
+    "name": "rain (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-rain-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-rain-gold-paris-2023.png"
+  },
+  "dexter (Holo)": {
+    "class": "pink",
+    "name": "dexter (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-dexter-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-dexter-holo-paris-2023.png"
+  },
+  "v$m (Holo)": {
+    "class": "pink",
+    "name": "v$m (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-v-m-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-v-m-holo-paris-2023.png"
+  },
+  "ropz (Holo)": {
+    "class": "pink",
+    "name": "ropz (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ropz-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ropz-holo-paris-2023.png"
+  },
+  "Twistzz (Holo)": {
+    "class": "pink",
+    "name": "Twistzz (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-twistzz-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-twistzz-holo-paris-2023.png"
+  },
+  "SunPayus (Holo)": {
+    "class": "pink",
+    "name": "SunPayus (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sunpayus-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sunpayus-holo-paris-2023.png"
+  },
+  "felps (Holo)": {
+    "class": "pink",
+    "name": "felps (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-felps-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-felps-holo-paris-2023.png"
+  },
+  "Lucaozy (Holo)": {
+    "class": "pink",
+    "name": "Lucaozy (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-lucaozy-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-lucaozy-holo-paris-2023.png"
+  },
+  "History (Holo)": {
+    "class": "pink",
+    "name": "History (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-history-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-history-holo-paris-2023.png"
+  },
+  "JT (Holo)": {
+    "class": "pink",
+    "name": "JT (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-jt-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-jt-holo-paris-2023.png"
+  },
+  "sk0R (Holo)": {
+    "class": "pink",
+    "name": "sk0R (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sk0r-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sk0r-holo-paris-2023.png"
+  },
+  "WOOD7 (Holo)": {
+    "class": "pink",
+    "name": "WOOD7 (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-wood7-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-wood7-holo-paris-2023.png"
+  },
+  "karrigan (Holo)": {
+    "class": "pink",
+    "name": "karrigan (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-karrigan-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-karrigan-holo-paris-2023.png"
+  },
+  "xertioN (Holo)": {
+    "class": "pink",
+    "name": "xertioN (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-xertion-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-xertion-holo-paris-2023.png"
+  },
+  "hallzerk (Holo)": {
+    "class": "pink",
+    "name": "hallzerk (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-hallzerk-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-hallzerk-holo-paris-2023.png"
+  },
+  "EliGE (Holo)": {
+    "class": "pink",
+    "name": "EliGE (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-elige-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-elige-holo-paris-2023.png"
+  },
+  "Sico (Holo)": {
+    "class": "pink",
+    "name": "Sico (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sico-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sico-holo-paris-2023.png"
+  },
+  "ANNIHILATION (Holo)": {
+    "class": "pink",
+    "name": "ANNIHILATION (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-annihilation-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-annihilation-holo-paris-2023.png"
+  },
+  "frozen (Holo)": {
+    "class": "pink",
+    "name": "frozen (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-frozen-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-frozen-holo-paris-2023.png"
+  },
+  "bLitz (Holo)": {
+    "class": "pink",
+    "name": "bLitz (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blitz-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blitz-holo-paris-2023.png"
+  },
+  "floppy (Holo)": {
+    "class": "pink",
+    "name": "floppy (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-floppy-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-floppy-holo-paris-2023.png"
+  },
+  "nitr0 (Holo)": {
+    "class": "pink",
+    "name": "nitr0 (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-nitr0-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-nitr0-holo-paris-2023.png"
+  },
+  "Techno4K (Holo)": {
+    "class": "pink",
+    "name": "Techno4K (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-techno4k-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-techno4k-holo-paris-2023.png"
+  },
+  "NertZ (Holo)": {
+    "class": "pink",
+    "name": "NertZ (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-nertz-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-nertz-holo-paris-2023.png"
+  },
+  "rain (Holo)": {
+    "class": "pink",
+    "name": "rain (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-rain-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-rain-holo-paris-2023.png"
+  },
+  "broky (Holo)": {
+    "class": "pink",
+    "name": "broky (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-broky-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-broky-holo-paris-2023.png"
+  },
+  "YEKINDAR (Holo)": {
+    "class": "pink",
+    "name": "YEKINDAR (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-yekindar-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-yekindar-holo-paris-2023.png"
+  },
+  "INS (Holo)": {
+    "class": "pink",
+    "name": "INS (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ins-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ins-holo-paris-2023.png"
+  },
+  "Bart4k (Holo)": {
+    "class": "pink",
+    "name": "Bart4k (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-bart4k-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-bart4k-holo-paris-2023.png"
+  },
+  "vexite (Holo)": {
+    "class": "pink",
+    "name": "vexite (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-vexite-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-vexite-holo-paris-2023.png"
+  },
+  "Snappi (Holo)": {
+    "class": "pink",
+    "name": "Snappi (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-snappi-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-snappi-holo-paris-2023.png"
+  },
+  "Dycha (Holo)": {
+    "class": "pink",
+    "name": "Dycha (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-dycha-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-dycha-holo-paris-2023.png"
+  },
+  "oSee (Holo)": {
+    "class": "pink",
+    "name": "oSee (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-osee-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-osee-holo-paris-2023.png"
+  },
+  "maden (Holo)": {
+    "class": "pink",
+    "name": "maden (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-maden-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-maden-holo-paris-2023.png"
+  },
+  "torzsi (Holo)": {
+    "class": "pink",
+    "name": "torzsi (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-torzsi-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-torzsi-holo-paris-2023.png"
+  },
+  "Liazz (Holo)": {
+    "class": "pink",
+    "name": "Liazz (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-liazz-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-liazz-holo-paris-2023.png"
+  },
+  "Grim (Holo)": {
+    "class": "pink",
+    "name": "Grim (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-grim-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-grim-holo-paris-2023.png"
+  },
+  "aliStair (Holo)": {
+    "class": "pink",
+    "name": "aliStair (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-alistair-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-alistair-holo-paris-2023.png"
+  },
+  "FaNg (Holo)": {
+    "class": "pink",
+    "name": "FaNg (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fang-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fang-holo-paris-2023.png"
+  },
+  "NAF (Holo)": {
+    "class": "pink",
+    "name": "NAF (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-naf-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-naf-holo-paris-2023.png"
+  },
+  "JDC (Holo)": {
+    "class": "pink",
+    "name": "JDC (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-jdc-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-jdc-holo-paris-2023.png"
+  },
+  "v$m (Glitter)": {
+    "class": "purple",
+    "name": "v$m (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-v-m-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-v-m-glitter-paris-2023.png"
+  },
+  "ropz (Glitter)": {
+    "class": "purple",
+    "name": "ropz (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ropz-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ropz-glitter-paris-2023.png"
+  },
+  "dexter (Glitter)": {
+    "class": "purple",
+    "name": "dexter (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-dexter-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-dexter-glitter-paris-2023.png"
+  },
+  "YEKINDAR (Glitter)": {
+    "class": "purple",
+    "name": "YEKINDAR (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-yekindar-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-yekindar-glitter-paris-2023.png"
+  },
+  "History (Glitter)": {
+    "class": "purple",
+    "name": "History (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-history-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-history-glitter-paris-2023.png"
+  },
+  "JDC (Glitter)": {
+    "class": "purple",
+    "name": "JDC (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-jdc-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-jdc-glitter-paris-2023.png"
+  },
+  "Dycha (Glitter)": {
+    "class": "purple",
+    "name": "Dycha (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-dycha-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-dycha-glitter-paris-2023.png"
+  },
+  "Sico (Glitter)": {
+    "class": "purple",
+    "name": "Sico (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sico-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sico-glitter-paris-2023.png"
+  },
+  "Bart4k (Glitter)": {
+    "class": "purple",
+    "name": "Bart4k (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-bart4k-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-bart4k-glitter-paris-2023.png"
+  },
+  "SunPayus (Glitter)": {
+    "class": "purple",
+    "name": "SunPayus (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sunpayus-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sunpayus-glitter-paris-2023.png"
+  },
+  "WOOD7 (Glitter)": {
+    "class": "purple",
+    "name": "WOOD7 (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-wood7-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-wood7-glitter-paris-2023.png"
+  },
+  "INS (Glitter)": {
+    "class": "purple",
+    "name": "INS (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ins-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ins-glitter-paris-2023.png"
+  },
+  "xertioN (Glitter)": {
+    "class": "purple",
+    "name": "xertioN (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-xertion-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-xertion-glitter-paris-2023.png"
+  },
+  "NertZ (Glitter)": {
+    "class": "purple",
+    "name": "NertZ (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-nertz-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-nertz-glitter-paris-2023.png"
+  },
+  "maden (Glitter)": {
+    "class": "purple",
+    "name": "maden (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-maden-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-maden-glitter-paris-2023.png"
+  },
+  "Lucaozy (Glitter)": {
+    "class": "purple",
+    "name": "Lucaozy (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-lucaozy-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-lucaozy-glitter-paris-2023.png"
+  },
+  "Snappi (Glitter)": {
+    "class": "purple",
+    "name": "Snappi (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-snappi-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-snappi-glitter-paris-2023.png"
+  },
+  "torzsi (Glitter)": {
+    "class": "purple",
+    "name": "torzsi (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-torzsi-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-torzsi-glitter-paris-2023.png"
+  },
+  "Liazz (Glitter)": {
+    "class": "purple",
+    "name": "Liazz (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-liazz-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-liazz-glitter-paris-2023.png"
+  },
+  "bLitz (Glitter)": {
+    "class": "purple",
+    "name": "bLitz (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blitz-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blitz-glitter-paris-2023.png"
+  },
+  "Techno4K (Glitter)": {
+    "class": "purple",
+    "name": "Techno4K (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-techno4k-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-techno4k-glitter-paris-2023.png"
+  },
+  "NAF (Glitter)": {
+    "class": "purple",
+    "name": "NAF (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-naf-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-naf-glitter-paris-2023.png"
+  },
+  "frozen (Glitter)": {
+    "class": "purple",
+    "name": "frozen (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-frozen-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-frozen-glitter-paris-2023.png"
+  },
+  "felps (Glitter)": {
+    "class": "purple",
+    "name": "felps (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-felps-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-felps-glitter-paris-2023.png"
+  },
+  "oSee (Glitter)": {
+    "class": "purple",
+    "name": "oSee (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-osee-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-osee-glitter-paris-2023.png"
+  },
+  "karrigan (Glitter)": {
+    "class": "purple",
+    "name": "karrigan (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-karrigan-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-karrigan-glitter-paris-2023.png"
+  },
+  "rain (Glitter)": {
+    "class": "purple",
+    "name": "rain (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-rain-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-rain-glitter-paris-2023.png"
+  },
+  "nitr0 (Glitter)": {
+    "class": "purple",
+    "name": "nitr0 (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-nitr0-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-nitr0-glitter-paris-2023.png"
+  },
+  "JT (Glitter)": {
+    "class": "purple",
+    "name": "JT (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-jt-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-jt-glitter-paris-2023.png"
+  },
+  "FaNg (Glitter)": {
+    "class": "purple",
+    "name": "FaNg (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fang-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fang-glitter-paris-2023.png"
+  },
+  "sk0R (Glitter)": {
+    "class": "purple",
+    "name": "sk0R (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sk0r-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sk0r-glitter-paris-2023.png"
+  },
+  "ANNIHILATION (Glitter)": {
+    "class": "purple",
+    "name": "ANNIHILATION (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-annihilation-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-annihilation-glitter-paris-2023.png"
+  },
+  "EliGE (Glitter)": {
+    "class": "purple",
+    "name": "EliGE (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-elige-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-elige-glitter-paris-2023.png"
+  },
+  "hallzerk (Glitter)": {
+    "class": "purple",
+    "name": "hallzerk (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-hallzerk-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-hallzerk-glitter-paris-2023.png"
+  },
+  "Grim (Glitter)": {
+    "class": "purple",
+    "name": "Grim (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-grim-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-grim-glitter-paris-2023.png"
+  },
+  "floppy (Glitter)": {
+    "class": "purple",
+    "name": "floppy (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-floppy-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-floppy-glitter-paris-2023.png"
+  },
+  "aliStair (Glitter)": {
+    "class": "purple",
+    "name": "aliStair (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-alistair-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-alistair-glitter-paris-2023.png"
+  },
+  "Twistzz (Glitter)": {
+    "class": "purple",
+    "name": "Twistzz (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-twistzz-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-twistzz-glitter-paris-2023.png"
+  },
+  "vexite (Glitter)": {
+    "class": "purple",
+    "name": "vexite (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-vexite-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-vexite-glitter-paris-2023.png"
+  },
+  "broky (Glitter)": {
+    "class": "purple",
+    "name": "broky (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-broky-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-broky-glitter-paris-2023.png"
+  },
+  "bLitz": {
+    "class": "blue",
+    "name": "bLitz | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blitz-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blitz-paris-2023.png"
+  },
+  "ANNIHILATION": {
+    "class": "blue",
+    "name": "ANNIHILATION | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-annihilation-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-annihilation-paris-2023.png"
+  },
+  "WOOD7": {
+    "class": "blue",
+    "name": "WOOD7 | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-wood7-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-wood7-paris-2023.png"
+  },
+  "dexter": {
+    "class": "blue",
+    "name": "dexter | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-dexter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-dexter-paris-2023.png"
+  },
+  "Lucaozy": {
+    "class": "blue",
+    "name": "Lucaozy | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-lucaozy-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-lucaozy-paris-2023.png"
+  },
+  "torzsi": {
+    "class": "blue",
+    "name": "torzsi | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-torzsi-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-torzsi-paris-2023.png"
+  },
+  "History": {
+    "class": "blue",
+    "name": "History | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-history-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-history-paris-2023.png"
+  },
+  "oSee": {
+    "class": "blue",
+    "name": "oSee | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-osee-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-osee-paris-2023.png"
+  },
+  "v$m": {
+    "class": "blue",
+    "name": "v$m | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-v-m-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-v-m-paris-2023.png"
+  },
+  "Snappi": {
+    "class": "blue",
+    "name": "Snappi | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-snappi-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-snappi-paris-2023.png"
+  },
+  "hallzerk": {
+    "class": "blue",
+    "name": "hallzerk | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-hallzerk-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-hallzerk-paris-2023.png"
+  },
+  "felps": {
+    "class": "blue",
+    "name": "felps | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-felps-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-felps-paris-2023.png"
+  },
+  "SunPayus": {
+    "class": "blue",
+    "name": "SunPayus | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sunpayus-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sunpayus-paris-2023.png"
+  },
+  "karrigan": {
+    "class": "blue",
+    "name": "karrigan | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-karrigan-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-karrigan-paris-2023.png"
+  },
+  "NAF": {
+    "class": "blue",
+    "name": "NAF | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-naf-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-naf-paris-2023.png"
+  },
+  "NertZ": {
+    "class": "blue",
+    "name": "NertZ | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-nertz-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-nertz-paris-2023.png"
+  },
+  "floppy": {
+    "class": "blue",
+    "name": "floppy | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-floppy-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-floppy-paris-2023.png"
+  },
+  "xertioN": {
+    "class": "blue",
+    "name": "xertioN | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-xertion-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-xertion-paris-2023.png"
+  },
+  "EliGE": {
+    "class": "blue",
+    "name": "EliGE | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-elige-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-elige-paris-2023.png"
+  },
+  "YEKINDAR": {
+    "class": "blue",
+    "name": "YEKINDAR | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-yekindar-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-yekindar-paris-2023.png"
+  },
+  "nitr0": {
+    "class": "blue",
+    "name": "nitr0 | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-nitr0-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-nitr0-paris-2023.png"
+  },
+  "Dycha": {
+    "class": "blue",
+    "name": "Dycha | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-dycha-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-dycha-paris-2023.png"
+  },
+  "aliStair": {
+    "class": "blue",
+    "name": "aliStair | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-alistair-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-alistair-paris-2023.png"
+  },
+  "maden": {
+    "class": "blue",
+    "name": "maden | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-maden-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-maden-paris-2023.png"
+  },
+  "Techno4K": {
+    "class": "blue",
+    "name": "Techno4K | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-techno4k-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-techno4k-paris-2023.png"
+  },
+  "frozen": {
+    "class": "blue",
+    "name": "frozen | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-frozen-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-frozen-paris-2023.png"
+  },
+  "rain": {
+    "class": "blue",
+    "name": "rain | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-rain-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-rain-paris-2023.png"
+  },
+  "sk0R": {
+    "class": "blue",
+    "name": "sk0R | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sk0r-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sk0r-paris-2023.png"
+  },
+  "INS": {
+    "class": "blue",
+    "name": "INS | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ins-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ins-paris-2023.png"
+  },
+  "Liazz": {
+    "class": "blue",
+    "name": "Liazz | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-liazz-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-liazz-paris-2023.png"
+  },
+  "Bart4k": {
+    "class": "blue",
+    "name": "Bart4k | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-bart4k-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-bart4k-paris-2023.png"
+  },
+  "JT": {
+    "class": "blue",
+    "name": "JT | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-jt-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-jt-paris-2023.png"
+  },
+  "ropz": {
+    "class": "blue",
+    "name": "ropz | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ropz-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ropz-paris-2023.png"
+  },
+  "FaNg": {
+    "class": "blue",
+    "name": "FaNg | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fang-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fang-paris-2023.png"
+  },
+  "vexite": {
+    "class": "blue",
+    "name": "vexite | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-vexite-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-vexite-paris-2023.png"
+  },
+  "broky": {
+    "class": "blue",
+    "name": "broky | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-broky-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-broky-paris-2023.png"
+  },
+  "Twistzz": {
+    "class": "blue",
+    "name": "Twistzz | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-twistzz-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-twistzz-paris-2023.png"
+  },
+  "JDC": {
+    "class": "blue",
+    "name": "JDC | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-jdc-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-jdc-paris-2023.png"
+  },
+  "Grim": {
+    "class": "blue",
+    "name": "Grim | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-grim-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-grim-paris-2023.png"
+  },
+  "Sico": {
+    "class": "blue",
+    "name": "Sico | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-sico-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-sico-paris-2023.png"
+  }
+}

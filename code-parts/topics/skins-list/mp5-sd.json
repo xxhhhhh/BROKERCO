@@ -1,0 +1,202 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/mp5-sd/vanilla.webp",
+    "name": "MP5-SD | Vanilla",
+    "color": []
+  },
+  "Focus": {
+    "class": "blue",
+    "image": "/img/skins/mp5-sd/focus.webp",
+    "name": "MP5-SD | Focus",
+    "color": [
+      "Gray"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Kitbash": {
+    "class": "purple",
+    "image": "/img/skins/mp5-sd/kitbash.webp",
+    "name": "MP5-SD | Kitbash",
+    "color": [],
+    "case": "Fracture Case"
+  },
+  "Gauss": {
+    "class": "purple",
+    "image": "/img/skins/mp5-sd/gauss.webp",
+    "name": "MP5-SD | Gauss",
+    "color": [
+      "Gray"
+    ],
+    "case": "Prisma Case"
+  },
+  "Desert Strike": {
+    "class": "blue",
+    "image": "/img/skins/mp5-sd/desert-strike.webp",
+    "name": "MP5-SD | Desert Strike",
+    "color": [
+      "Black"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Statics": {
+    "class": "blue",
+    "image": "/img/skins/mp5-sd/statics.webp",
+    "name": "MP5-SD | Statics",
+    "color": [
+      "Blue"
+    ],
+    "case": "Gallery Case"
+  },
+  "Dirt Drop": {
+    "class": "white",
+    "image": "/img/skins/mp5-sd/dirt-drop.webp",
+    "name": "MP5-SD | Dirt Drop",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Lab Rats": {
+    "class": "purple",
+    "image": "/img/skins/mp5-sd/lab-rats.webp",
+    "name": "MP5-SD | Lab Rats",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Blacksite Collection"
+  },
+  "Autumn Twilly": {
+    "class": "purple",
+    "image": "/img/skins/mp5-sd/autumn-twilly.webp",
+    "name": "MP5-SD | Autumn Twilly",
+    "color": [
+      "Red"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Oxide Oasis": {
+    "class": "pink",
+    "image": "/img/skins/mp5-sd/oxide-oasis.webp",
+    "name": "MP5-SD | Oxide Oasis",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Nitro": {
+    "class": "lblue",
+    "image": "/img/skins/mp5-sd/nitro.webp",
+    "name": "MP5-SD | Nitro",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Necro Jr.": {
+    "class": "blue",
+    "image": "/img/skins/mp5-sd/necro-jr.webp",
+    "name": "MP5-SD | Necro Jr.",
+    "color": [],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Phosphor": {
+    "class": "pink",
+    "image": "/img/skins/mp5-sd/phosphor.webp",
+    "name": "MP5-SD | Phosphor",
+    "color": [
+      "Blue",
+      "Green"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Bamboo Garden": {
+    "class": "white",
+    "image": "/img/skins/mp5-sd/bamboo-garden.webp",
+    "name": "MP5-SD | Bamboo Garden",
+    "color": [],
+    "collection": "The St. Marc Collection"
+  },
+  "Co-Processor": {
+    "class": "blue",
+    "image": "/img/skins/mp5-sd/co-processor.webp",
+    "name": "MP5-SD | Co-Processor",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Condition Zero": {
+    "class": "blue",
+    "image": "/img/skins/mp5-sd/condition-zero.webp",
+    "name": "MP5-SD | Condition Zero",
+    "color": [
+      "Blue",
+      "Yellow"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Acid Wash": {
+    "class": "blue",
+    "image": "/img/skins/mp5-sd/acid-wash.webp",
+    "name": "MP5-SD | Acid Wash",
+    "color": [],
+    "case": "Shattered Web Case"
+  },
+  "Agent": {
+    "class": "purple",
+    "image": "/img/skins/mp5-sd/agent.webp",
+    "name": "MP5-SD | Agent",
+    "color": [
+      "Blue",
+      "Yellow"
+    ],
+    "case": "CS20 Case"
+  },
+  "Liquidation": {
+    "class": "blue",
+    "image": "/img/skins/mp5-sd/liquidation.webp",
+    "name": "MP5-SD | Liquidation",
+    "color": [
+      "Blue"
+    ],
+    "case": "Revolution Case"
+  },
+  "Neon Squeezer": {
+    "class": "lblue",
+    "image": "/img/skins/mp5-sd/neon-squeezer.webp",
+    "name": "MP5-SD | Neon Squeezer",
+    "color": [
+      "Purple"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Savannah Halftone": {
+    "class": "lblue",
+    "image": "/img/skins/mp5-sd/savannah-halftone.webp",
+    "name": "MP5-SD | Savannah Halftone",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Lime Hex": {
+    "class": "white",
+    "image": "/img/skins/mp5-sd/lime-hex.webp",
+    "name": "MP5-SD | Lime Hex",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Gold Leaf": {
+    "class": "blue",
+    "image": "/img/skins/mp5-sd/gold-leaf.webp",
+    "name": "MP5-SD | Gold Leaf",
+    "color": [],
+    "collection": "The Boreal Collection"
+  }
+}

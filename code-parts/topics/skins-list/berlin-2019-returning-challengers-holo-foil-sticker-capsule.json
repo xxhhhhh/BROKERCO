@@ -1,0 +1,74 @@
+{
+  "StarLadder (Foil)": {
+    "class": "pink",
+    "name": "StarLadder (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-starladder-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-starladder-foil-berlin-2019.png"
+  },
+  "G2 Esports (Foil)": {
+    "class": "pink",
+    "name": "G2 Esports (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-g2-esports-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-g2-esports-foil-berlin-2019.png"
+  },
+  "compLexity Gaming (Foil)": {
+    "class": "pink",
+    "name": "compLexity Gaming (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-complexity-gaming-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-complexity-gaming-foil-berlin-2019.png"
+  },
+  "Vitality (Foil)": {
+    "class": "pink",
+    "name": "Vitality (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-vitality-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-vitality-foil-berlin-2019.png"
+  },
+  "Avangar (Foil)": {
+    "class": "pink",
+    "name": "Avangar (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-avangar-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-avangar-foil-berlin-2019.png"
+  },
+  "HellRaisers (Foil)": {
+    "class": "pink",
+    "name": "HellRaisers (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-hellraisers-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-hellraisers-foil-berlin-2019.png"
+  },
+  "HellRaisers (Holo)": {
+    "class": "purple",
+    "name": "HellRaisers (Holo) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-hellraisers-holo-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-hellraisers-holo-berlin-2019.png"
+  },
+  "Avangar (Holo)": {
+    "class": "purple",
+    "name": "Avangar (Holo) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-avangar-holo-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-avangar-holo-berlin-2019.png"
+  },
+  "StarLadder (Holo)": {
+    "class": "purple",
+    "name": "StarLadder (Holo) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-starladder-holo-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-starladder-holo-berlin-2019.png"
+  },
+  "Vitality (Holo)": {
+    "class": "purple",
+    "name": "Vitality (Holo) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-vitality-holo-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-vitality-holo-berlin-2019.png"
+  },
+  "G2 Esports (Holo)": {
+    "class": "purple",
+    "name": "G2 Esports (Holo) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-g2-esports-holo-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-g2-esports-holo-berlin-2019.png"
+  },
+  "compLexity Gaming (Holo)": {
+    "class": "purple",
+    "name": "compLexity Gaming (Holo) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-complexity-gaming-holo-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-complexity-gaming-holo-berlin-2019.png"
+  }
+}

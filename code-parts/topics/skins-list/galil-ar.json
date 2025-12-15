@@ -1,0 +1,393 @@
+{
+  "NV": {
+    "class": "lblue",
+    "image": "/img/skins/galil-ar/nv.webp",
+    "name": "Galil AR | NV",
+    "color": [
+      "Gray",
+      "Green"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Green Apple": {
+    "class": "lblue",
+    "image": "/img/skins/galil-ar/green-apple.webp",
+    "name": "Galil AR | Green Apple",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Control": {
+    "class": "purple",
+    "image": "/img/skins/galil-ar/control.webp",
+    "name": "Galil AR | Control",
+    "color": [
+      "Orange"
+    ],
+    "case": "Fever Case"
+  },
+  "Tuxedo": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/tuxedo.webp",
+    "name": "Galil AR | Tuxedo",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Destroyer": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/destroyer.webp",
+    "name": "Galil AR | Destroyer",
+    "color": [
+      "Black"
+    ],
+    "case": "Recoil Case"
+  },
+  "Kami": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/kami.webp",
+    "name": "Galil AR | Kami",
+    "color": [
+      "White"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Shattered": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/shattered.webp",
+    "name": "Galil AR | Shattered",
+    "color": [
+      "Gray",
+      "White"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Winter Forest": {
+    "class": "lblue",
+    "image": "/img/skins/galil-ar/winter-forest.webp",
+    "name": "Galil AR | Winter Forest",
+    "color": [
+      "Gray",
+      "White"
+    ],
+    "collection": "The Office Collection"
+  },
+  "Sage Spray": {
+    "class": "white",
+    "image": "/img/skins/galil-ar/sage-spray.webp",
+    "name": "Galil AR | Sage Spray",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Akoben": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/akoben.webp",
+    "name": "Galil AR | Akoben",
+    "color": [
+      "White"
+    ],
+    "case": "Prisma Case"
+  },
+  "Urban Rubble": {
+    "class": "lblue",
+    "image": "/img/skins/galil-ar/urban-rubble.webp",
+    "name": "Galil AR | Urban Rubble",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Black Sand": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/black-sand.webp",
+    "name": "Galil AR | Black Sand",
+    "color": [
+      "Black"
+    ],
+    "case": "Glove Case"
+  },
+  "Hunting Blind": {
+    "class": "white",
+    "image": "/img/skins/galil-ar/hunting-blind.webp",
+    "name": "Galil AR | Hunting Blind",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "VariCamo": {
+    "class": "lblue",
+    "image": "/img/skins/galil-ar/varicamo.webp",
+    "name": "Galil AR | VariCamo",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Sandstorm": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/sandstorm.webp",
+    "name": "Galil AR | Sandstorm",
+    "color": [],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Tornado": {
+    "class": "white",
+    "image": "/img/skins/galil-ar/tornado.webp",
+    "name": "Galil AR | Tornado",
+    "color": [],
+    "collection": "The Norse Collection"
+  },
+  "Amber Fade": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/amber-fade.webp",
+    "name": "Galil AR | Amber Fade",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Connexion": {
+    "class": "purple",
+    "image": "/img/skins/galil-ar/connexion.webp",
+    "name": "Galil AR | Connexion",
+    "color": [],
+    "case": "Fracture Case"
+  },
+  "Signal": {
+    "class": "purple",
+    "image": "/img/skins/galil-ar/signal.webp",
+    "name": "Galil AR | Signal",
+    "color": [
+      "Red"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Firefight": {
+    "class": "purple",
+    "image": "/img/skins/galil-ar/firefight.webp",
+    "name": "Galil AR | Firefight",
+    "color": [
+      "Red"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Crimson Tsunami": {
+    "class": "purple",
+    "image": "/img/skins/galil-ar/crimson-tsunami.webp",
+    "name": "Galil AR | Crimson Tsunami",
+    "color": [
+      "Red"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Dusk Ruins": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/dusk-ruins.webp",
+    "name": "Galil AR | Dusk Ruins",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Orange DDPAT": {
+    "class": "purple",
+    "image": "/img/skins/galil-ar/orange-ddpat.webp",
+    "name": "Galil AR | Orange DDPAT",
+    "color": [
+      "Gray",
+      "Orange"
+    ],
+    "case": "eSports 2013 Case"
+  },
+  "Chatterbox": {
+    "class": "red",
+    "image": "/img/skins/galil-ar/chatterbox.webp",
+    "name": "Galil AR | Chatterbox",
+    "color": [
+      "Orange"
+    ],
+    "case": "Chroma Case"
+  },
+  "CAUTION!": {
+    "class": "purple",
+    "image": "/img/skins/galil-ar/caution.webp",
+    "name": "Galil AR | CAUTION!",
+    "color": [
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Cerberus": {
+    "class": "purple",
+    "image": "/img/skins/galil-ar/cerberus.webp",
+    "name": "Galil AR | Cerberus",
+    "color": [
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Vandal": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/vandal.webp",
+    "name": "Galil AR | Vandal",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Eco": {
+    "class": "pink",
+    "image": "/img/skins/galil-ar/eco.webp",
+    "name": "Galil AR | Eco",
+    "color": [
+      "Green"
+    ],
+    "case": "Chroma 2 Case"
+  },
+  "Cold Fusion": {
+    "class": "lblue",
+    "image": "/img/skins/galil-ar/cold-fusion.webp",
+    "name": "Galil AR | Cold Fusion",
+    "color": [
+      "Cyan"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Aqua Terrace": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/aqua-terrace.webp",
+    "name": "Galil AR | Aqua Terrace",
+    "color": [
+      "Cyan",
+      "White"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Stone Cold": {
+    "class": "purple",
+    "image": "/img/skins/galil-ar/stone-cold.webp",
+    "name": "Galil AR | Stone Cold",
+    "color": [
+      "Blue"
+    ],
+    "case": "Shadow Case"
+  },
+  "Blue Titanium": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/blue-titanium.webp",
+    "name": "Galil AR | Blue Titanium",
+    "color": [
+      "Blue"
+    ],
+    "case": "eSports 2013 Winter Case"
+  },
+  "Rocket Pop": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/rocket-pop.webp",
+    "name": "Galil AR | Rocket Pop",
+    "color": [
+      "Blue",
+      "White"
+    ],
+    "case": "Falchion Case"
+  },
+  "Phoenix Blacklight": {
+    "class": "purple",
+    "image": "/img/skins/galil-ar/phoenix-blacklight.webp",
+    "name": "Galil AR | Phoenix Blacklight",
+    "color": [
+      "Pink",
+      "Purple"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Sugar Rush": {
+    "class": "pink",
+    "image": "/img/skins/galil-ar/sugar-rush.webp",
+    "name": "Galil AR | Sugar Rush",
+    "color": [
+      "Blue",
+      "Pink",
+      "Purple"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Chromatic Aberration": {
+    "class": "pink",
+    "image": "/img/skins/galil-ar/chromatic-aberration.webp",
+    "name": "Galil AR | Chromatic Aberration",
+    "color": [
+      "Black",
+      "Pink",
+      "Purple"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Metallic Squeezer": {
+    "class": "blue",
+    "image": "/img/skins/galil-ar/metallic-squeezer.webp",
+    "name": "Galil AR | Metallic Squeezer",
+    "color": [
+      "Silver"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Rainbow Spoon": {
+    "class": "pink",
+    "image": "/img/skins/galil-ar/rainbow-spoon.webp",
+    "name": "Galil AR | Rainbow Spoon",
+    "color": [
+      "Purple"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Robin's Egg": {
+    "class": "lblue",
+    "image": "/img/skins/galil-ar/robin-s-egg.webp",
+    "name": "Galil AR | Robin's Egg",
+    "color": [
+      "Cyan"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Grey Smoke": {
+    "class": "white",
+    "image": "/img/skins/galil-ar/grey-smoke.webp",
+    "name": "Galil AR | Grey Smoke",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "O-Ranger": {
+    "class": "lblue",
+    "image": "/img/skins/galil-ar/o-ranger.webp",
+    "name": "Galil AR | O-Ranger",
+    "color": [],
+    "collection": "The Radiant Collection"
+  },
+  "Acid Dart": {
+    "class": "lblue",
+    "image": "/img/skins/galil-ar/acid-dart.webp",
+    "name": "Galil AR | Acid Dart",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

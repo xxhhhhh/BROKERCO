@@ -1,0 +1,46 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/csgo/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/csgo/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Cardano\" class=\"cardano\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Avalanche\" class=\"avalanche\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>",
+        "<a href=\"/\" aria-label=\"UnionPay\" class=\"unionpay\"></a>",
+        "<a href=\"/\" aria-label=\"PaySafeCard\" class=\"paysafe\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>"
+    ],
+    "ratings": {
+        "Trust": 1.5,
+        "Support": 3,
+        "Payments": 3,
+        "Playability": 3
+    },
+    "name": "Farmskins",
+    "languages": "en, ru, tr, es",
+    "link": "https://farmskins.com/ref-csgobroker",
+    "featuresContent": ["SignUpBonus", "DailyRewards"],
+    "code": "csgobroker",
+    "Main Mode": "cases",
+    "Sites Alternatives"  : ["ggdrop", "key-drop", "skinbox", "datdrop"]
+}

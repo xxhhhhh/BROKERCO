@@ -1,0 +1,28 @@
+{
+    "items": [
+      {
+        "id": "dr-boom-charms",
+        "title": "Dr Boom Charms",
+        "img": "/img/skins/charms/dr-boom-charms.webp",
+        "date": "01.10.25"
+      },
+      {
+        "id": "missing-link-community-charms",
+        "title": "Missing Link Community Charms",
+        "img": "/img/skins/charms/missing-link-community-charms.webp",
+        "date": "01.10.25"
+      },
+      {
+        "id": "missing-link-charms",
+        "title": "Missing Link Charms",
+        "img": "/img/skins/charms/missing-link-charms.webp",
+        "date": "02.10.24"
+      },
+      {
+        "id": "small-arms-charms",
+        "title": "Small Arms Charms",
+        "img": "/img/skins/charms/small-arms-charms.webp",
+        "date": "02.10.24"
+      }
+    ]
+  }

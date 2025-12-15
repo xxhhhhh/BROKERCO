@@ -1,0 +1,212 @@
+{
+  "Vanilla": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-vanilla.webp",
+    "name": "Bayonet",
+    "color": []
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-stained.webp",
+    "name": "Bayonet | Stained",
+    "color": ["Gray", "White"]
+  },
+  "Rust Coat": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-rust-coat.webp",
+    "name": "Bayonet | Rust Coat",
+    "color": []
+  },
+  "Rust Coat BS": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-rust-coat-bs.webp",
+    "name": "Bayonet | Rust Coat (Battle-Scarred)",
+    "color": ["Brown"]
+  },
+  "Damascus Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-damascus.webp",
+    "name": "Bayonet | Damascus Steel",
+    "color": ["White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-urban-masked.webp",
+    "name": "Bayonet | Urban Masked",
+    "color": ["Gray"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-scorched.webp",
+    "name": "Bayonet | Scorched",
+    "color": ["Black", "Gray"]
+  },
+  "Black Laminate": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-black-laminate.webp",
+    "name": "Bayonet | Black Laminate",
+    "color": ["Black", "Gray"]
+  },
+  "Night": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-night.webp",
+    "name": "Bayonet | Night",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-blue-steel.webp",
+    "name": "Bayonet | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-safari-mesh.webp",
+    "name": "Bayonet | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-boreal.webp",
+    "name": "Bayonet | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-ddpat.webp",
+    "name": "Bayonet | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Doppler Ruby": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-ruby.webp",
+    "name": "Bayonet | Doppler Ruby",
+    "color": ["Red"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-crimson-web.webp",
+    "name": "Bayonet | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-slaughter.webp",
+    "name": "Bayonet | Slaughter",
+    "color": ["Red"]
+  },
+  "Autotronic": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-autotronic.webp",
+    "name": "Bayonet | Autotronic",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-fade.webp",
+    "name": "Bayonet | Fade",
+    "color": []
+  },
+  "Marble Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-marble-fade.webp",
+    "name": "Bayonet | Marble Fade",
+    "color": []
+  },
+  "Tiger Tooth": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-tiger-tooth.webp",
+    "name": "Bayonet | Tiger Tooth",
+    "color": ["Orange", "Yellow"]
+  },
+  "Lore": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-lore.webp",
+    "name": "Bayonet | Lore",
+    "color": ["Golden", "Yellow"]
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-case-hardened.webp",
+    "name": "Bayonet | Case Hardened",
+    "color": []
+  },
+  "Gamma Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-gamma-doppler-phase-3.webp",
+    "name": "Bayonet | Gamma Doppler Phase 3",
+    "color": ["Cyan", "Green"]
+  },
+  "Gamma Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-gamma-doppler-phase-4.webp",
+    "name": "Bayonet | Gamma Doppler Phase 4",
+    "color": ["Cyan", "Green"]
+  },
+  "Gamma Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-gamma-doppler-phase-2.webp",
+    "name": "Bayonet | Gamma Doppler Phase 2",
+    "color": ["Green"]
+  },
+  "Gamma Doppler Emerald": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-emerald.webp",
+    "name": "Bayonet | Gamma Doppler Emerald",
+    "color": ["Green"]
+  },
+  "Gamma Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-gamma-doppler-phase-1.webp",
+    "name": "Bayonet | Gamma Doppler Phase 1",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-doppler-phase-3.webp",
+    "name": "Bayonet | Doppler Phase 3",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-doppler-phase-4.webp",
+    "name": "Bayonet | Doppler Phase 4",
+    "color": ["Blue"]
+  },
+  "Doppler Sapphire": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-doppler-sapphire.webp",
+    "name": "Bayonet | Doppler Sapphire",
+    "color": ["Blue"]
+  },
+  "Bright Water": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-bright-water.webp",
+    "name": "Bayonet | Bright Water",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-doppler-phase-1.webp",
+    "name": "Bayonet | Doppler Phase 1",
+    "color": ["Purple"]
+  },
+  "Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-doppler-phase-2.webp",
+    "name": "Bayonet | Doppler Phase 2",
+    "color": ["Pink", "Purple"]
+  },
+  "Freehand": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-freehand.webp",
+    "name": "Bayonet | Freehand",
+    "color": ["Purple", "White"]
+  },
+  "Ultraviolet": {
+    "class": "red",
+    "image": "/img/skins/knives/bayonet-ultraviolet.webp",
+    "name": "Bayonet | Ultraviolet",
+    "color": ["Black", "Purple"]
+  }
+}

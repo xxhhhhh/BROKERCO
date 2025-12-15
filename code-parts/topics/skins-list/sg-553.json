@@ -1,0 +1,352 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/sg-553/vanilla.webp",
+    "name": "SG 553 | Vanilla",
+    "color": []
+  },
+  "Berry Gel Coat": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/berry-gel-coat.webp",
+    "name": "SG 553 | Berry Gel Coat",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Heavy Metal": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/heavy-metal.webp",
+    "name": "SG 553 | Heavy Metal",
+    "color": [
+      "Black"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Damascus Steel": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/damascus-steel.webp",
+    "name": "SG 553 | Damascus Steel",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Hypnotic": {
+    "class": "purple",
+    "image": "/img/skins/sg-553/hypnotic.webp",
+    "name": "SG 553 | Hypnotic",
+    "color": [
+      "Black",
+      "Silver",
+      "White"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Barricade": {
+    "class": "white",
+    "image": "/img/skins/sg-553/barricade.webp",
+    "name": "SG 553 | Barricade",
+    "color": [
+      "Gray",
+      "Green"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Aerial": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/aerial.webp",
+    "name": "SG 553 | Aerial",
+    "color": [],
+    "case": "Gamma Case"
+  },
+  "Traveler": {
+    "class": "lblue",
+    "image": "/img/skins/sg-553/traveler.webp",
+    "name": "SG 553 | Traveler",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Ol' Rusty": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/ol-rusty.webp",
+    "name": "SG 553 | Ol' Rusty",
+    "color": [],
+    "case": "Fracture Case"
+  },
+  "Triarch": {
+    "class": "purple",
+    "image": "/img/skins/sg-553/triarch.webp",
+    "name": "SG 553 | Triarch",
+    "color": [
+      "Brown"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Bleached": {
+    "class": "white",
+    "image": "/img/skins/sg-553/bleached.webp",
+    "name": "SG 553 | Bleached",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Tornado": {
+    "class": "white",
+    "image": "/img/skins/sg-553/tornado.webp",
+    "name": "SG 553 | Tornado",
+    "color": [],
+    "collection": "The Assault Collection"
+  },
+  "Integrale": {
+    "class": "pink",
+    "image": "/img/skins/sg-553/integrale.webp",
+    "name": "SG 553 | Integrale",
+    "color": [
+      "Blue",
+      "Red",
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Candy Apple": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/candy-apple.webp",
+    "name": "SG 553 | Candy Apple",
+    "color": [],
+    "collection": "The Canals Collection"
+  },
+  "Cyrex": {
+    "class": "pink",
+    "image": "/img/skins/sg-553/cyrex.webp",
+    "name": "SG 553 | Cyrex",
+    "color": [
+      "Red"
+    ],
+    "case": "Falchion Case"
+  },
+  "Darkwing": {
+    "class": "purple",
+    "image": "/img/skins/sg-553/darkwing.webp",
+    "name": "SG 553 | Darkwing",
+    "color": [
+      "Red"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Fallout Warning": {
+    "class": "lblue",
+    "image": "/img/skins/sg-553/fallout-warning.webp",
+    "name": "SG 553 | Fallout Warning",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Cyberforce": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/cyberforce.webp",
+    "name": "SG 553 | Cyberforce",
+    "color": [
+      "Red"
+    ],
+    "case": "Revolution Case"
+  },
+  "Danger Close": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/danger-close.webp",
+    "name": "SG 553 | Danger Close",
+    "color": [
+      "Orange"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Tiger Moth": {
+    "class": "purple",
+    "image": "/img/skins/sg-553/tiger-moth.webp",
+    "name": "SG 553 | Tiger Moth",
+    "color": [
+      "Orange"
+    ],
+    "case": "Revolver Case"
+  },
+  "Colony IV": {
+    "class": "pink",
+    "image": "/img/skins/sg-553/colony-iv.webp",
+    "name": "SG 553 | Colony IV",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Hazard Pay": {
+    "class": "pink",
+    "image": "/img/skins/sg-553/hazard-pay.webp",
+    "name": "SG 553 | Hazard Pay",
+    "color": [
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Bulldozer": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/bulldozer.webp",
+    "name": "SG 553 | Bulldozer",
+    "color": [
+      "Black",
+      "Yellow"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Gator Mesh": {
+    "class": "lblue",
+    "image": "/img/skins/sg-553/gator-mesh.webp",
+    "name": "SG 553 | Gator Mesh",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Army Sheen": {
+    "class": "white",
+    "image": "/img/skins/sg-553/army-sheen.webp",
+    "name": "SG 553 | Army Sheen",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Lush Ruins": {
+    "class": "white",
+    "image": "/img/skins/sg-553/lush-ruins.webp",
+    "name": "SG 553 | Lush Ruins",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Atlas": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/atlas.webp",
+    "name": "SG 553 | Atlas",
+    "color": [
+      "Green"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Dragon Tech": {
+    "class": "purple",
+    "image": "/img/skins/sg-553/dragon-tech.webp",
+    "name": "SG 553 | Dragon Tech",
+    "color": [
+      "Green"
+    ],
+    "case": "Recoil Case"
+  },
+  "Waves Perforated": {
+    "class": "white",
+    "image": "/img/skins/sg-553/waves-perforated.webp",
+    "name": "SG 553 | Waves Perforated",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Wave Spray": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/wave-spray.webp",
+    "name": "SG 553 | Wave Spray",
+    "color": [
+      "Blue"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Anodized Navy": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/anodized-navy.webp",
+    "name": "SG 553 | Anodized Navy",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Phantom": {
+    "class": "purple",
+    "image": "/img/skins/sg-553/phantom.webp",
+    "name": "SG 553 | Phantom",
+    "color": [
+      "Gray"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Aloha": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/aloha.webp",
+    "name": "SG 553 | Aloha",
+    "color": [
+      "Blue",
+      "Purple"
+    ],
+    "case": "Clutch Case"
+  },
+  "Ultraviolet": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/ultraviolet.webp",
+    "name": "SG 553 | Ultraviolet",
+    "color": [
+      "Purple"
+    ],
+    "case": "CS:GO Weapon Case"
+  },
+  "Pulse": {
+    "class": "purple",
+    "image": "/img/skins/sg-553/pulse.webp",
+    "name": "SG 553 | Pulse",
+    "color": [
+      "Pink",
+      "Purple"
+    ],
+    "case": "Operation Phoenix Weapon Case"
+  },
+  "Desert Blossom": {
+    "class": "blue",
+    "image": "/img/skins/sg-553/desert-blossom.webp",
+    "name": "SG 553 | Desert Blossom",
+    "color": [
+      "Pink"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Night Camo": {
+    "class": "white",
+    "image": "/img/skins/sg-553/night-camo.webp",
+    "name": "SG 553 | Night Camo",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Basket Halftone": {
+    "class": "lblue",
+    "image": "/img/skins/sg-553/basket-halftone.webp",
+    "name": "SG 553 | Basket Halftone",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Radiant Collection"
+  }
+}

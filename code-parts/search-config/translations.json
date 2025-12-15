@@ -1,0 +1,3778 @@
+{
+  "/": {
+    "en": "All Sites",
+    "ru": "Все Сайты",
+    "keywords": []
+  },
+  "/crypto": {
+    "en": "Best Crypto Sites",
+    "ru": "Лучшие Крипто Сайты",
+    "keywords": []
+  },
+  "/crypto/casino": {
+    "en": "Best Cripto Casinos",
+    "ru": "Лучшие Крипто-Казино",
+    "keywords": [
+      "слоты",
+      "slots"
+    ]
+  },
+  "/crypto/coinflip": {
+    "en": "Crypto Sites with Coinflip",
+    "ru": "Крипто-Сайты с Монеткой",
+    "keywords": []
+  },
+  "/crypto/crash": {
+    "en": "Crypto Sites with Crash",
+    "ru": "Крипто-Сайты с Крашем",
+    "keywords": []
+  },
+  "/crypto/matchbetting": {
+    "en": "Crypto Sites for MatchBetting",
+    "ru": "Крипто-Сайты для Ставок",
+    "keywords": []
+  },
+  "/crypto/roulette": {
+    "en": "Crypto Sites with Roulette",
+    "ru": "Крипто-Сайты с Рулеткой",
+    "keywords": []
+  },
+  "/cs2": {
+    "en": "Top CS2 Sites",
+    "ru": "Лучшие Сайты CS2",
+    "keywords": []
+  },
+  "/csgo/buy-skins": {
+    "en": "Buy CS2 Skins",
+    "ru": "Купить Скины CS2",
+    "keywords": [
+      "предметы",
+      "items"
+    ]
+  },
+  "/csgo/case-battle": {
+    "en": "Top CS2 Sites with Case-Battle",
+    "ru": "Сайты CS2 с Битвой Кейсов",
+    "keywords": [
+      "битва кейсов"
+    ]
+  },
+  "/csgo/caseopening": {
+    "en": "Best CS2 Case Opening Sites",
+    "ru": "Сайты CS2 с Кейсами",
+    "keywords": [
+      "открытие кейсов"
+    ]
+  },
+  "/csgo/casino": {
+    "en": "Best CS2 Casinos",
+    "ru": "Сайты CS2 со Слотами",
+    "keywords": [
+      "слоты",
+      "казино"
+    ]
+  },
+  "/csgo/coinflip": {
+    "en": "Best CS2 Coinflip Sites",
+    "ru": "Сайты CS2 с Монеткой",
+    "keywords": [
+      "коинфлип"
+    ]
+  },
+  "/csgo/crash": {
+    "en": "Best CS2 Crash Sites",
+    "ru": "Сайты CS2 с Крашем",
+    "keywords": []
+  },
+  "/csgo/dice": {
+    "en": "Best CS2 Dice Sites",
+    "ru": "Сайты CS2 с Костями",
+    "keywords": []
+  },
+  "/csgo/earn-by-play-csgo": {
+    "en": "Earn by Play CS2",
+    "ru": "Заработок на игре в CS2",
+    "keywords": []
+  },
+  "/csgo/instant-sell": {
+    "en": "Instant Sell CS2 Skins",
+    "ru": "Быстрая Продажа Скинов CS2",
+    "keywords": [
+      "fast sell"
+    ]
+  },
+  "/csgo/jackpot": {
+    "en": "Best CS2 Jackpot Sites",
+    "ru": "Сайты CS2 с Джекпотом",
+    "keywords": []
+  },
+  "/csgo/marketplaces": {
+    "en": "CS2 Marketplaces",
+    "ru": "Торговые Площадки CS2",
+    "keywords": []
+  },
+  "/csgo/matchbetting": {
+    "en": "Best CS2 Match Betting Sites",
+    "ru": "Сайты для Ставок CS2",
+    "keywords": []
+  },
+  "/csgo/mines": {
+    "en": "Best CS2 Mines Sites",
+    "ru": "Сайты CS2 с Минами",
+    "keywords": []
+  },
+  "/csgo/plinko": {
+    "en": "Best CS2 Plinko Sites",
+    "ru": "Сайты CS2 с Плинко",
+    "keywords": []
+  },
+  "/csgo/roulette": {
+    "en": "Best CS2 Roulette Sites",
+    "ru": "Сайты CS2 с Рулеткой",
+    "keywords": []
+  },
+  "/csgo/sell-skins": {
+    "en": "Sell CS2 Skins",
+    "ru": "Продать Скины CS2",
+    "keywords": [
+      "продать предметы",
+      "sell items",
+      "продажа"
+    ]
+  },
+  "/csgo/trade-skins": {
+    "en": "Trade CS2 Skins",
+    "ru": "Обмен Скинов CS2",
+    "keywords": [
+      "обменять предметы",
+      "trade items"
+    ]
+  },
+  "/csgo/upgrader": {
+    "en": "Best CS2 Upgrader Sites",
+    "ru": "Сайты CS2 с Апгрейдером",
+    "keywords": [
+      "улучшение"
+    ]
+  },
+  "/dota": {
+    "en": "Best Dota 2 Sites",
+    "ru": "Лучшие Сайты Dota 2",
+    "keywords": []
+  },
+  "/dota/buy-items": {
+    "en": "Sell Dota 2 Items",
+    "ru": "Купить предметы Dota 2",
+    "keywords": []
+  },
+  "/dota/caseopening": {
+    "en": "Best Dota 2 Case Opening Sites",
+    "ru": "Сайты Dota 2 с Кейсами",
+    "keywords": [
+      "открытие кейсов"
+    ]
+  },
+  "/dota/instant-sell": {
+    "en": "Instant Sell Dota 2 Items",
+    "ru": "Быстрая Продажа предметов Dota 2",
+    "keywords": [
+      "fast sell"
+    ]
+  },
+  "/dota/marketplaces": {
+    "en": "Dota 2 Marketplaces",
+    "ru": "Торговые Площадки Dota 2",
+    "keywords": []
+  },
+  "/dota/matchbetting": {
+    "en": "Best Dota 2 Match Betting Sites",
+    "ru": "Сайты для Ставок Dota 2",
+    "keywords": []
+  },
+  "/dota/roulette": {
+    "en": "Best Dota 2 Roulette Sites",
+    "ru": "Сайты Dota 2 с Рулеткой",
+    "keywords": []
+  },
+  "/dota/sell-items": {
+    "en": "Sell Dota 2 Items",
+    "ru": "Продать Предметы Dota 2",
+    "keywords": [
+      "продать скины",
+      "sell skins",
+      "продажа"
+    ]
+  },
+  "/dota/trade-items": {
+    "en": "Trade Dota 2 Items",
+    "ru": "Обмен Предметов Dota 2",
+    "keywords": [
+      "обменять скины",
+      "trade skins"
+    ]
+  },
+  "/dota/upgrader": {
+    "en": "Best Dota 2 Upgrader Sites",
+    "ru": "Сайты Dota 2 с Апгрейдером",
+    "keywords": [
+      "улучшение"
+    ]
+  },
+  "/earning": {
+    "en": "Best Earning Sites",
+    "ru": "Лучшие Сайты для Заработка",
+    "keywords": []
+  },
+  "/earning/earn-by-play": {
+    "en": "Earn by Play",
+    "ru": "Заработок на Играх",
+    "keywords": []
+  },
+  "/earning/offerwalls": {
+    "en": "Best Offerwall Sites",
+    "ru": "Лучшие Сайты с Заданиями",
+    "keywords": []
+  },
+  "/freebies": {
+    "en": "Freebies",
+    "ru": "Сайты с Бонусами",
+    "keywords": [
+      "халява"
+    ]
+  },
+  "/freebies/bonuses-to-sale": {
+    "en": "All CS2 and Rust Sites with Skin Sale Bonuses",
+    "ru": "Все Сайты с Бонусом к Продаже Скинов",
+    "keywords": []
+  },
+  "/freebies/daily-rewards": {
+    "en": "Sites with Daily Bonuses",
+    "ru": "Сайты с Ежедневными Наградами",
+    "keywords": []
+  },
+  "/freebies/deposit-bonuses": {
+    "en": "Sites with Deposit Bonuses",
+    "ru": "Сайты с Бонусами к Депозиту",
+    "keywords": []
+  },
+  "/freebies/faucet-system": {
+    "en": "All Sites with Faucet System ",
+    "ru": "Все Сайты с Системой Кранов",
+    "keywords": []
+  },
+  "/freebies/giveaways": {
+    "en": "Sites with Giveaways",
+    "ru": "Сайты с Розыгрышами",
+    "keywords": []
+  },
+  "/freebies/progressive-rewards": {
+    "en": "Progressive Rewards",
+    "ru": "Сайты с Прогрессивными Наградами",
+    "keywords": []
+  },
+  "/freebies/rain-system": {
+    "en": "All Sites with a Rain System",
+    "ru": "Все Сайты с Системой Дождей",
+    "keywords": []
+  },
+  "/freebies/rakeback-system": {
+    "en": "All Sites with Rakeback System",
+    "ru": "Все Сайты с Рейкбек Системой",
+    "keywords": []
+  },
+  "/freebies/sign-up-bonuses": {
+    "en": "Sites with Sign up Bonuses",
+    "ru": "Сайты с Бонусами за Регистрацию",
+    "keywords": []
+  },
+  "/mirrors/csgo500": {
+    "en": "500 Casino Mirrors List",
+    "ru": "Зеркала 500 Casino",
+    "keywords": [
+      "CSGO500"
+    ],
+    "icon": ""
+  },
+  "/mirrors/csgoempire": {
+    "en": "CSGOEmpire Mirrors List",
+    "ru": "Зеркала CSGOEmpire",
+    "keywords": [],
+    "icon": ""
+  },
+  "/mirrors/csgofast": {
+    "en": "CSGOFast Mirrors List",
+    "ru": "Зеркала CSGOFast",
+    "keywords": [],
+    "icon": ""
+  },
+  "/mirrors/csgopolygon": {
+    "en": "CSGOPolygon Mirrors List",
+    "ru": "Зеркала CSGOPolygon",
+    "keywords": [],
+    "icon": ""
+  },
+  "/mirrors/csgopositive": {
+    "en": "CSGOPositive Mirrors List",
+    "ru": "Зеркала CSGOPositive",
+    "keywords": [],
+    "icon": ""
+  },
+  "/mirrors/duelbits": {
+    "en": "Duelbits Mirrors List",
+    "ru": "Зеркала Duelbits",
+    "keywords": [],
+    "icon": ""
+  },
+  "/mirrors/gamdom": {
+    "en": "Gamdom Mirrors List",
+    "ru": "Зеркала Gamdom",
+    "keywords": [],
+    "icon": ""
+  },
+  "/mirrors/hellcase": {
+    "en": "Hellcase Mirrors List",
+    "ru": "Зеркала Hellcase",
+    "keywords": [],
+    "icon": ""
+  },
+  "/mirrors/insanegg": {
+    "en": "InsaneGG Mirrors List",
+    "ru": "Зеркала InsaneGG",
+    "keywords": [],
+    "icon": ""
+  },
+  "/mirrors/roobet": {
+    "en": "Roobet Mirrors List",
+    "ru": "Зеркала Roobet",
+    "keywords": [],
+    "icon": ""
+  },
+  "/newest": {
+    "en": "Newest Sites",
+    "ru": "Новые Сайты",
+    "keywords": [
+      "недавно добавленные"
+    ]
+  },
+  "/reviews/aimmarket": {
+    "og": "Aim.market",
+    "keywords": [
+      "aimmarket",
+      "продать",
+      "sell",
+      "обзор",
+      "review"
+    ],
+    "en": "Aim.market Review",
+    "ru": "Обзор Aim.market",
+    "icon": ""
+  },
+  "/reviews/avanmarket": {
+    "og": "Avan.Market",
+    "keywords": [
+      "avanmarket",
+      "продать",
+      "sell",
+      "обзор",
+      "review"
+    ],
+    "en": "Avan.Market Review",
+    "ru": "Обзор Avan.Market",
+    "icon": ""
+  },
+  "/reviews/banditcamp": {
+    "og": "bandit.camp",
+    "keywords": [
+      "banditcamp",
+      "обзор",
+      "review"
+    ],
+    "en": "BanditCamp Review",
+    "ru": "Обзор BanditCamp",
+    "icon": ""
+  },
+  "/reviews/bcgame": {
+    "og": "BCGame",
+    "keywords": [
+      "обзор",
+      "review",
+      "bcgame"
+    ],
+    "en": "BC.Game Review",
+    "ru": "Обзор BC.Game",
+    "icon": ""
+  },
+  "/reviews/bets4pro": {
+    "og": "Bets4.pro",
+    "keywords": [
+      "bets4pro",
+      "ставки",
+      "matchbetting",
+      "обзор",
+      "review"
+    ],
+    "en": "Bets4.pro Review",
+    "ru": "Обзор Bets4.pro",
+    "icon": ""
+  },
+  "/reviews/bitskins": {
+    "og": "BitSkins",
+    "keywords": [
+      "обзор",
+      "review",
+      "bitskins"
+    ],
+    "en": "BitSkins Review",
+    "ru": "Обзор BitSkins",
+    "icon": ""
+  },
+  "/reviews/bounty-stars": {
+    "og": "Bounty Stars",
+    "keywords": [
+      "rustix",
+      "обзор",
+      "review",
+      "bounty-stars"
+    ],
+    "en": "Bounty Stars Review",
+    "ru": "Обзор Bounty Stars",
+    "icon": ""
+  },
+  "/reviews/chickengg": {
+    "og": "Chicken.GG",
+    "keywords": [
+      "обзор",
+      "review",
+      "chickengg"
+    ],
+    "en": "Chicken.GG Review",
+    "ru": "Обзор Chicken.GG",
+    "icon": ""
+  },
+  "/reviews/clashgg": {
+    "og": "ClashGG",
+    "keywords": [
+      "обзор",
+      "review",
+      "clashgg"
+    ],
+    "en": "ClashGG Review",
+    "ru": "Обзор ClashGG",
+    "icon": ""
+  },
+  "/reviews/cobaltlab": {
+    "og": "Cobalt Lab",
+    "keywords": [
+      "обзор",
+      "review",
+      "cobaltlab"
+    ],
+    "en": "Cobalt Lab Review",
+    "ru": "Обзор Cobalt Lab",
+    "icon": ""
+  },
+  "/reviews/csbattle": {
+    "og": "CSBattle",
+    "keywords": [
+      "обзор",
+      "review",
+      "csbattle"
+    ],
+    "en": "CSBattle Review 2025",
+    "ru": "Обзор CSBattle",
+    "icon": ""
+  },
+  "/reviews/csdeals": {
+    "og": "CS.Deals",
+    "keywords": [
+      "csdeals",
+      "обмен",
+      "trade",
+      "обзор",
+      "review"
+    ],
+    "en": "CS.Deals Review",
+    "ru": "Обзор CS.Deals",
+    "icon": ""
+  },
+  "/reviews/csfail": {
+    "og": "CSFAIL",
+    "keywords": [
+      "обзор",
+      "review",
+      "csfail"
+    ],
+    "en": "CSFAIL Review",
+    "ru": "Обзор CSFAIL",
+    "icon": ""
+  },
+  "/reviews/csgo-market": {
+    "og": "CSGO Market",
+    "keywords": [
+      "обзор",
+      "review",
+      "csgo-market"
+    ],
+    "en": "CSGO Market Review",
+    "ru": "Обзор CSGO Market",
+    "icon": ""
+  },
+  "/reviews/csgo-skins": {
+    "og": "CSGO-SKINS",
+    "keywords": [
+      "обзор",
+      "review",
+      "csgo-skins"
+    ],
+    "en": "CSGO-SKINS Review",
+    "ru": "Обзор CSGO-SKINS",
+    "icon": ""
+  },
+  "/reviews/csgo500": {
+    "og": "500 Casino",
+    "keywords": [
+      "CSGO500",
+      "обзор",
+      "review"
+    ],
+    "en": "500 Casino Review",
+    "ru": "Обзор 500 Casino",
+    "icon": "/img/csgo500-logo.webp"
+  },
+  "/reviews/csgobig": {
+    "og": "CSGOBIG",
+    "keywords": [
+      "обзор",
+      "review",
+      "csgobig"
+    ],
+    "en": "CSGOBIG Review",
+    "ru": "Обзор CSGOBIG",
+    "icon": ""
+  },
+  "/reviews/csgoempire": {
+    "og": "CSGOEmpire",
+    "keywords": [
+      "обзор",
+      "review",
+      "csgoempire"
+    ],
+    "en": "CSGOEmpire Review",
+    "ru": "Обзор CSGOEmpire",
+    "icon": ""
+  },
+  "/reviews/csgofast": {
+    "og": "CSGOFast",
+    "keywords": [
+      "обзор",
+      "review",
+      "csgofast"
+    ],
+    "en": "CSGOFast Review",
+    "ru": "Обзор CSGOFast",
+    "icon": ""
+  },
+  "/reviews/csgoluck": {
+    "og": "CSGOLuck",
+    "keywords": [
+      "обзор",
+      "review",
+      "csgoluck"
+    ],
+    "en": "CSGOLuck Review",
+    "ru": "Обзор CSGOLuck",
+    "icon": ""
+  },
+  "/reviews/csgopolygon": {
+    "og": "CSGOPolygon",
+    "keywords": [
+      "plgbet",
+      "plg.bet",
+      "обзор",
+      "review",
+      "csgopolygon"
+    ],
+    "en": "CSGOPolygon Review",
+    "ru": "Обзор CSGOPolygon",
+    "icon": ""
+  },
+  "/reviews/csgopositive": {
+    "og": "CSGOPositive",
+    "keywords": [
+      "positive",
+      "обзор",
+      "review",
+      "csgopositive"
+    ],
+    "en": "CSGOPositive Review",
+    "ru": "Обзор CSGOPositive",
+    "icon": ""
+  },
+  "/reviews/csgoroll": {
+    "og": "CSGORoll",
+    "keywords": [
+      "обзор",
+      "review",
+      "csgoroll"
+    ],
+    "en": "CSGORoll Review",
+    "ru": "Обзор CSGORoll",
+    "icon": ""
+  },
+  "/reviews/csgorun": {
+    "og": "CSGORUN",
+    "keywords": [
+      "обзор",
+      "review",
+      "csgorun"
+    ],
+    "en": "CSGORUN Review",
+    "ru": "Обзор CSGORUN",
+    "icon": ""
+  },
+  "/reviews/csgostake": {
+    "og": "CSGOStake",
+    "keywords": [
+      "обзор",
+      "review",
+      "csgostake"
+    ],
+    "en": "CSGOStake Review",
+    "ru": "Обзор CSGOStake",
+    "icon": ""
+  },
+  "/reviews/csmoney": {
+    "og": "CSMoney",
+    "keywords": [
+      "обмен",
+      "trade",
+      "обзор",
+      "review",
+      "csmoney"
+    ],
+    "en": "CSMoney Review",
+    "ru": "Обзор CSMoney",
+    "icon": ""
+  },
+  "/reviews/cybershoke": {
+    "og": "CYBERSHOKE",
+    "keywords": [
+      "обзор",
+      "review",
+      "cybershoke"
+    ],
+    "en": "CYBERSHOKE Review",
+    "ru": "Обзор CYBERSHOKE",
+    "icon": ""
+  },
+  "/reviews/daddyskins": {
+    "og": "DaddySkins",
+    "keywords": [
+      "обзор",
+      "review",
+      "daddyskins"
+    ],
+    "en": "DaddySkins Review",
+    "ru": "Обзор DaddySkins",
+    "icon": ""
+  },
+  "/reviews/datdrop": {
+    "og": "DatDrop",
+    "keywords": [
+      "обзор",
+      "review",
+      "datdrop"
+    ],
+    "en": "DatDrop Review",
+    "ru": "Обзор DatDrop",
+    "icon": ""
+  },
+  "/reviews/dmarket": {
+    "og": "DMarket",
+    "keywords": [
+      "обзор",
+      "review",
+      "dmarket"
+    ],
+    "en": "DMarket Review",
+    "ru": "Обзор DMarket",
+    "icon": ""
+  },
+  "/reviews/duelbits": {
+    "og": "Duelbits",
+    "keywords": [
+      "обзор",
+      "review",
+      "duelbits"
+    ],
+    "en": "Duelbits Review",
+    "ru": "Обзор Duelbits",
+    "icon": ""
+  },
+  "/reviews/earnweb": {
+    "og": "EarnWeb",
+    "keywords": [
+      "earnweb",
+      "обзор",
+      "review"
+    ],
+    "en": "Earnweb Review",
+    "ru": "Обзор Earnweb",
+    "icon": ""
+  },
+  "/reviews/farmskins": {
+    "og": "Farmskins",
+    "keywords": [
+      "обзор",
+      "review",
+      "farmskins"
+    ],
+    "en": "Farmskins Review",
+    "ru": "Обзор Farmskins",
+    "icon": ""
+  },
+  "/reviews/flamecases": {
+    "og": "FlameCases",
+    "keywords": [
+      "обзор",
+      "review",
+      "flamecases"
+    ],
+    "en": "FlameCases Review",
+    "ru": "Обзор FlameCases",
+    "icon": ""
+  },
+  "/reviews/freecash": {
+    "og": "Freecash",
+    "keywords": [
+      "обзор",
+      "review",
+      "freecash"
+    ],
+    "en": "Freecash Review",
+    "ru": "Обзор Freecash",
+    "icon": ""
+  },
+  "/reviews/freeward": {
+    "og": "Freeward",
+    "keywords": [
+      "обзор",
+      "review",
+      "freeward"
+    ],
+    "en": "Freeward Review",
+    "ru": "Обзор Freeward",
+    "icon": ""
+  },
+  "/reviews/g2a": {
+    "og": "G2A",
+    "keywords": [
+      "обзор",
+      "review",
+      "g2a"
+    ],
+    "en": "G2A Review",
+    "ru": "Обзор G2A",
+    "icon": ""
+  },
+  "/reviews/gamdom": {
+    "og": "Gamdom",
+    "keywords": [
+      "обзор",
+      "review",
+      "gamdom"
+    ],
+    "en": "Gamdom Review",
+    "ru": "Обзор Gamdom",
+    "icon": ""
+  },
+  "/reviews/gamehag": {
+    "og": "Gamehag",
+    "keywords": [
+      "gamehag",
+      "обзор",
+      "review"
+    ],
+    "en": "Gamehag Review",
+    "ru": "Обзор Gamehag",
+    "icon": ""
+  },
+  "/reviews/gamerpay": {
+    "og": "GamerPay",
+    "keywords": [
+      "обзор",
+      "review",
+      "gamerpay"
+    ],
+    "en": "GamerPay Review",
+    "ru": "Обзор GamerPay",
+    "icon": ""
+  },
+  "/reviews/gametame": {
+    "og": "GameTame",
+    "keywords": [
+      "обзор",
+      "review",
+      "gametame"
+    ],
+    "en": "GameTame Review",
+    "ru": "Обзор GameTame",
+    "icon": ""
+  },
+  "/reviews/ggdrop": {
+    "og": "GGDROP",
+    "keywords": [
+      "обзор",
+      "review",
+      "ggdrop"
+    ],
+    "en": "GGDROP Review",
+    "ru": "Обзор GGDROP",
+    "icon": ""
+  },
+  "/reviews/grindbux": {
+    "og": "GrindBux",
+    "keywords": [
+      "обзор",
+      "review",
+      "grindbux"
+    ],
+    "en": "GrindBux Review",
+    "ru": "Обзор GrindBux",
+    "icon": ""
+  },
+  "/reviews/hellcase": {
+    "og": "Hellcase",
+    "keywords": [
+      "обзор",
+      "review",
+      "hellcase"
+    ],
+    "en": "Hellcase Review",
+    "ru": "Обзор Hellcase",
+    "icon": ""
+  },
+  "/reviews/hellstore": {
+    "og": "HellStore",
+    "keywords": [
+      "обзор",
+      "review",
+      "hellstore"
+    ],
+    "en": "HellStore Review",
+    "ru": "Обзор HellStore",
+    "icon": ""
+  },
+  "/reviews/howlgg": {
+    "og": "HowlGG",
+    "keywords": [
+      "обзор",
+      "review",
+      "howlgg"
+    ],
+    "en": "HowlGG Review",
+    "ru": "Обзор HowlGG",
+    "icon": ""
+  },
+  "/reviews/idle-empire": {
+    "og": "Idle-Empire",
+    "keywords": [
+      "обзор",
+      "review",
+      "idle-empire"
+    ],
+    "en": "Idle-Empire Review",
+    "ru": "Обзор Idle-Empire",
+    "icon": ""
+  },
+  "/reviews/insanegg": {
+    "og": "InsaneGG",
+    "keywords": [
+      "обзор",
+      "review",
+      "insanegg"
+    ],
+    "en": "InsaneGG Review",
+    "ru": "Обзор InsaneGG",
+    "icon": ""
+  },
+  "/reviews/itradegg": {
+    "og": "iTrade.GG",
+    "keywords": [
+      "trade",
+      "обмен",
+      "обзор",
+      "review",
+      "itradegg"
+    ],
+    "en": "iTrade.GG Review",
+    "ru": "Обзор iTrade.GG",
+    "icon": ""
+  },
+  "/reviews/key-drop": {
+    "og": "Key-Drop",
+    "keywords": [
+      "обзор",
+      "review",
+      "key-drop"
+    ],
+    "en": "Key-Drop Review",
+    "ru": "Обзор Key-Drop",
+    "icon": ""
+  },
+  "/reviews/knifex": {
+    "og": "KNIFEX",
+    "keywords": [
+      "обзор",
+      "review",
+      "knifex"
+    ],
+    "en": "KNIFEX Review",
+    "ru": "Обзор KNIFEX",
+    "icon": ""
+  },
+  "/reviews/lis-skins": {
+    "og": "Lis-Skins",
+    "keywords": [
+      "lisskins",
+      "продать",
+      "sell",
+      "lis-skins",
+      "обзор",
+      "review"
+    ],
+    "en": "Lis-Skins Review",
+    "ru": "Обзор Lis-Skins",
+    "icon": ""
+  },
+  "/reviews/lootfarm": {
+    "og": "LOOT.Farm",
+    "keywords": [
+      "обмен",
+      "trade",
+      "обзор",
+      "review",
+      "lootfarm"
+    ],
+    "en": "LOOT.Farm Review",
+    "ru": "Обзор LOOT.Farm",
+    "icon": ""
+  },
+  "/reviews/moonmarket": {
+    "og": "Moon.Market",
+    "keywords": [
+      "moonmarket",
+      "продать",
+      "sell",
+      "обзор",
+      "review"
+    ],
+    "en": "Moon.Market Review",
+    "ru": "Обзор Moon.Market",
+    "icon": ""
+  },
+  "/reviews/mycsgo": {
+    "keywords": [
+      "mycsgo",
+      "обзор",
+      "review"
+    ],
+    "en": "MYCSGO Review",
+    "ru": "Обзор MYCSGO",
+    "icon": ""
+  },
+  "/reviews/petuh": {
+    "en": "Petuh Review",
+    "ru": "Обзор Petuh",
+    "keywords": [
+      "petuh",
+      "обзор",
+      "review"
+    ],
+    "icon": ""
+  },
+  "/reviews/pirateswap": {
+    "og": "PirateSwap",
+    "keywords": [
+      "обмен",
+      "trade",
+      "обзор",
+      "review",
+      "pirateswap"
+    ],
+    "en": "PirateSwap Review",
+    "ru": "Обзор PirateSwap",
+    "icon": ""
+  },
+  "/reviews/plati": {
+    "og": "Plati",
+    "keywords": [
+      "plati",
+      "обзор",
+      "review"
+    ],
+    "ru": "Обзор Plati.Market",
+    "en": "Plati.Market Review",
+    "icon": ""
+  },
+  "/reviews/rainbet": {
+    "og": "Rainbet",
+    "keywords": [
+      "обзор",
+      "review",
+      "rainbet"
+    ],
+    "en": "Rainbet Review",
+    "ru": "Обзор Rainbet",
+    "icon": ""
+  },
+  "/reviews/rapidskins": {
+    "og": "RAPIDSKINS",
+    "keywords": [
+      "обмен",
+      "trade",
+      "обзор",
+      "review",
+      "rapidskins"
+    ],
+    "en": "RAPIDSKINS Review",
+    "ru": "Обзор RAPIDSKINS",
+    "icon": ""
+  },
+  "/reviews/rollbit": {
+    "og": "Rollbit",
+    "keywords": [
+      "обзор",
+      "review",
+      "rollbit"
+    ],
+    "en": "Rollbit Review",
+    "ru": "Обзор Rollbit",
+    "icon": ""
+  },
+  "/reviews/roobet": {
+    "og": "Roobet",
+    "keywords": [
+      "обзор",
+      "review",
+      "roobet"
+    ],
+    "en": "Roobet Review",
+    "ru": "Обзор Roobet",
+    "icon": ""
+  },
+  "/reviews/rustcases": {
+    "og": "RustCases",
+    "keywords": [
+      "обзор",
+      "review",
+      "rustcases"
+    ],
+    "en": "RustCases Review",
+    "ru": "Обзор RustCases",
+    "icon": ""
+  },
+  "/reviews/rustchance": {
+    "og": "RustChance",
+    "keywords": [
+      "обзор",
+      "review",
+      "rustchance"
+    ],
+    "en": "RustChance Review",
+    "ru": "Обзор RustChance",
+    "icon": ""
+  },
+  "/reviews/rustclash": {
+    "og": "RustClash",
+    "keywords": [
+      "обзор",
+      "review",
+      "rustclash"
+    ],
+    "en": "RustClash Review",
+    "ru": "Обзор RustClash",
+    "icon": ""
+  },
+  "/reviews/rustly": {
+    "og": "Rustly",
+    "keywords": [
+      "обзор",
+      "review",
+      "rustly"
+    ],
+    "en": "Rustly Review",
+    "ru": "Обзор Rustly",
+    "icon": ""
+  },
+  "/reviews/rustmagic": {
+    "og": "RustMagic",
+    "keywords": [
+      "обзор",
+      "review",
+      "rustmagic"
+    ],
+    "en": "RustMagic Review",
+    "ru": "Обзор RustMagic",
+    "icon": ""
+  },
+  "/reviews/rustreaper": {
+    "og": "RustReaper",
+    "keywords": [
+      "обзор",
+      "review",
+      "rustreaper"
+    ],
+    "en": "RustReaper Review",
+    "ru": "Обзор RustReaper",
+    "icon": ""
+  },
+  "/reviews/ruststake": {
+    "og": "RustStake",
+    "keywords": [
+      "обзор",
+      "review",
+      "ruststake"
+    ],
+    "en": "RustStake Review",
+    "ru": "Обзор RustStake",
+    "icon": ""
+  },
+  "/reviews/rustyloot": {
+    "og": "Rustyloot",
+    "keywords": [
+      "обзор",
+      "review",
+      "rustyloot"
+    ],
+    "en": "Rustyloot Review",
+    "ru": "Обзор Rustyloot",
+    "icon": ""
+  },
+  "/reviews/rustypot": {
+    "og": "RustyPot",
+    "keywords": [
+      "обзор",
+      "review",
+      "rustypot"
+    ],
+    "en": "RustyPot Review",
+    "ru": "Обзор RustyPot",
+    "icon": ""
+  },
+  "/reviews/salad": {
+    "og": "Salad",
+    "keywords": [
+      "обзор",
+      "review",
+      "salad"
+    ],
+    "en": "Salad Review",
+    "ru": "Обзор Salad",
+    "icon": ""
+  },
+  "/reviews/shadowpay": {
+    "og": "ShadowPay",
+    "keywords": [
+      "обзор",
+      "review",
+      "shadowpay",
+      "CS2BROKER"
+    ],
+    "en": "ShadowPay Review",
+    "ru": "Обзор ShadowPay",
+    "icon": ""
+  },
+  "/reviews/shuffle": {
+    "og": "Shuffle",
+    "keywords": [
+      "обзор",
+      "review",
+      "shuffle"
+    ],
+    "en": "Shuffle Review",
+    "ru": "Обзор Shuffle",
+    "icon": ""
+  },
+  "/reviews/skinbaron": {
+    "og": "SkinBaron",
+    "keywords": [
+      "обзор",
+      "review",
+      "skinbaron"
+    ],
+    "en": "SkinBaron Review",
+    "ru": "Обзор SkinBaron",
+    "icon": ""
+  },
+  "/reviews/skinbet": {
+    "og": "Skinbet",
+    "keywords": [
+      "обзор",
+      "review",
+      "skinbet"
+    ],
+    "en": "Skinbet Review",
+    "ru": "Обзор Skinbet",
+    "icon": ""
+  },
+  "/reviews/skinbid": {
+    "og": "SkinBid",
+    "keywords": [
+      "обзор",
+      "review",
+      "skinbid"
+    ],
+    "en": "SkinBid Review",
+    "ru": "Обзор SkinBid",
+    "icon": ""
+  },
+  "/reviews/skinbox": {
+    "og": "SKINBOX",
+    "keywords": [
+      "обзор",
+      "review",
+      "skinbox"
+    ],
+    "en": "SKINBOX Review",
+    "ru": "Обзор SKINBOX",
+    "icon": ""
+  },
+  "/reviews/skincashier": {
+    "og": "SkinCashier",
+    "keywords": [
+      "обзор",
+      "review",
+      "skincashier"
+    ],
+    "en": "SkinCashier Review",
+    "ru": "Обзор SkinCashier",
+    "icon": ""
+  },
+  "/reviews/skinfans": {
+    "og": "SKINFANS",
+    "keywords": [
+      "обзор",
+      "review",
+      "skinfans"
+    ],
+    "en": "SKINFANS Review",
+    "ru": "Обзор SKINFANS",
+    "icon": ""
+  },
+  "/reviews/skinrave": {
+    "og": "SkinRave.GG",
+    "keywords": [
+      "обзор",
+      "review",
+      "skinrave"
+    ],
+    "en": "SkinRave.GG Review",
+    "ru": "Обзор SkinRave.GG",
+    "icon": ""
+  },
+  "/reviews/skinscash": {
+    "og": "Skins.Cash",
+    "keywords": [
+      "обзор",
+      "review",
+      "skinscash"
+    ],
+    "en": "Skins.Cash Review",
+    "ru": "Обзор Skins.Cash",
+    "icon": ""
+  },
+  "/reviews/skinsly": {
+    "og": "Skinsly",
+    "keywords": [
+      "skinsly",
+      "обзор",
+      "review"
+    ],
+    "en": "SKINSLY Review",
+    "ru": "Обзор SKINSLY",
+    "icon": ""
+  },
+  "/reviews/skinswap": {
+    "og": "SkinSwap",
+    "keywords": [
+      "обмен",
+      "trade",
+      "обзор",
+      "review",
+      "skinswap"
+    ],
+    "en": "SkinSwap Review",
+    "ru": "Обзор SkinSwap",
+    "icon": ""
+  },
+  "/reviews/splits": {
+    "og": "Splits",
+    "keywords": [
+      "обзор",
+      "review",
+      "splits"
+    ],
+    "en": "Splits Review",
+    "ru": "Обзор Splits",
+    "icon": ""
+  },
+  "/reviews/steamgifts": {
+    "og": "SteamGifts",
+    "keywords": [
+      "обзор",
+      "review",
+      "steamgifts"
+    ],
+    "en": "SteamGifts Review",
+    "ru": "Обзор SteamGifts",
+    "icon": ""
+  },
+  "/reviews/steamify": {
+    "og": "Steamify",
+    "keywords": [
+      "продать",
+      "sell",
+      "обзор",
+      "review",
+      "steamify"
+    ],
+    "en": "Steamify Review",
+    "ru": "Обзор Steamify",
+    "icon": ""
+  },
+  "/reviews/steamlevels": {
+    "og": "SteamLevels",
+    "keywords": [
+      "обзор",
+      "review",
+      "steamlevels"
+    ],
+    "en": "SteamLevels Review",
+    "ru": "Обзор SteamLevels",
+    "icon": ""
+  },
+  "/reviews/steamlevelu": {
+    "og": "SteamLevelU",
+    "keywords": [
+      "обзор",
+      "review",
+      "steamlevelu"
+    ],
+    "en": "SteamLevelU Review",
+    "ru": "Обзор SteamLevelU",
+    "icon": ""
+  },
+  "/reviews/steamlvlup": {
+    "og": "SteamLvlUp",
+    "keywords": [
+      "обзор",
+      "review",
+      "steamlvlup"
+    ],
+    "en": "SteamLvlUp Review",
+    "ru": "Обзор SteamLvlUp",
+    "icon": ""
+  },
+  "/reviews/swapgg": {
+    "og": "Swap.gg",
+    "keywords": [
+      "swapgg",
+      "обмен",
+      "trade",
+      "обзор",
+      "review"
+    ],
+    "en": "Swap.gg Review",
+    "ru": "Обзор Swap.gg",
+    "icon": ""
+  },
+  "/reviews/tradeit": {
+    "og": "Tradeit",
+    "keywords": [
+      "обмен",
+      "trade",
+      "обзор",
+      "review",
+      "tradeit"
+    ],
+    "en": "Tradeit Review",
+    "ru": "Обзор Tradeit",
+    "icon": ""
+  },
+  "/reviews/upgrader": {
+    "ru": "Обзор Upgrader",
+    "keywords": [
+      "upgrader",
+      "обзор",
+      "review"
+    ],
+    "en": "Upgrader Review",
+    "icon": ""
+  },
+  "/reviews/vvvgamers": {
+    "og": "Gaming-Goods",
+    "keywords": [
+      "vvvgamers",
+      "обзор",
+      "review"
+    ],
+    "en": "Gaming-Goods Review",
+    "ru": "Обзор Gaming-Goods",
+    "icon": ""
+  },
+  "/reviews/whitemarket": {
+    "og": "White.Market",
+    "keywords": [
+      "обзор",
+      "review",
+      "whitemarket"
+    ],
+    "en": "White.Market Review",
+    "ru": "Обзор White.Market",
+    "icon": ""
+  },
+  "/reviews/xplay": {
+    "og": "xplay",
+    "keywords": [
+      "обзор",
+      "review",
+      "xplay"
+    ],
+    "en": "xplay Review",
+    "ru": "Обзор xplay",
+    "icon": ""
+  },
+  "/rust": {
+    "en": "Best Rust Sites",
+    "ru": "Лучшие Сайты Rust",
+    "keywords": []
+  },
+  "/rust/buy-skins": {
+    "en": "Buy Rust Skins",
+    "ru": "Купить Скины Rust",
+    "keywords": [
+      "предметы",
+      "items"
+    ]
+  },
+  "/rust/case-battle": {
+    "en": "Best Rust Sites with Case-Battle",
+    "ru": "Сайты Rust с Битвой Кейсов",
+    "keywords": [
+      "битва кейсов"
+    ]
+  },
+  "/rust/caseopening": {
+    "en": "Best Rust Case Opening Sites",
+    "ru": "Сайты Rust с Кейсами",
+    "keywords": [
+      "открытие кейсов"
+    ]
+  },
+  "/rust/casino": {
+    "en": "Best Rust Casinos",
+    "ru": "Сайты Rust со Слотами",
+    "keywords": [
+      "слоты",
+      "казино"
+    ]
+  },
+  "/rust/coinflip": {
+    "en": "Best Rust Coinflip Sites",
+    "ru": "Сайты Rust с Монеткой",
+    "keywords": [
+      "коинфлип"
+    ]
+  },
+  "/rust/crash": {
+    "en": "Best Rust Crash Sites",
+    "ru": "Сайты Rust с Крашем",
+    "keywords": []
+  },
+  "/rust/instant-sell": {
+    "en": "Instant Sell Rust Skins",
+    "ru": "Быстрая Продажа Скинов Rust",
+    "keywords": [
+      "fast sell"
+    ]
+  },
+  "/rust/jackpot": {
+    "en": "Best Rust Jackpot Sites",
+    "ru": "Сайты Rust с Джекпотом",
+    "keywords": []
+  },
+  "/rust/marketplaces": {
+    "en": "Rust Marketplaces",
+    "ru": "Торговые Площадки Rust",
+    "keywords": []
+  },
+  "/rust/matchbetting": {
+    "en": "Best Rust Match Betting Sites",
+    "ru": "Сайты для Ставок Rust",
+    "keywords": []
+  },
+  "/rust/roulette": {
+    "en": "Best Rust Roulette Sites",
+    "ru": "Сайты Rust с Рулеткой",
+    "keywords": []
+  },
+  "/rust/sell-skins": {
+    "en": "Sell Rust Skins",
+    "ru": "Продать Скины Rust",
+    "keywords": [
+      "продать предметы",
+      "sell items",
+      "продажа"
+    ]
+  },
+  "/rust/trade-skins": {
+    "en": "Trade Rust Skins",
+    "ru": "Обмен Скинов Rust",
+    "keywords": [
+      "обменять предметы",
+      "trade items"
+    ]
+  },
+  "/rust/upgrader": {
+    "en": "Best Rust Upgrader Sites",
+    "ru": "Сайты Rust с Апгрейдером",
+    "keywords": [
+      "улучшение"
+    ]
+  },
+  "/steam/buy-games": {
+    "en": "Buy Steam Games",
+    "ru": "Купить Игры Steam",
+    "keywords": []
+  },
+  "/steam/levelup": {
+    "en": "Steam Level Up",
+    "ru": "Увеличить Уровень Steam",
+    "keywords": []
+  },
+  "/steam/topup": {
+    "en": "Steam top Up",
+    "ru": "Пополнить Steam",
+    "keywords": []
+  },
+  "/tf2/buy-items": {
+    "en": "Sell Team Fortress 2 Items",
+    "ru": "Купить предметы Team Fortress 2",
+    "keywords": []
+  },
+  "/tf2/instant-sell": {
+    "en": "Instant Sell Team Fortress 2 Items",
+    "ru": "Быстрая Продажа предметов Team Fortress 2",
+    "keywords": [
+      "fast sell"
+    ]
+  },
+  "/tf2/marketplaces": {
+    "en": "Team Fortress 2 Marketplaces",
+    "ru": "Торговые Площадки Team Fortress 2",
+    "keywords": []
+  },
+  "/tf2/sell-items": {
+    "en": "Sell Team Fortress 2 Items",
+    "ru": "Продать Предметы Team Fortress 2",
+    "keywords": [
+      "продать скины",
+      "sell skins",
+      "продажа"
+    ]
+  },
+  "/tf2/trade-items": {
+    "en": "Trade Team Fortress 2 Items",
+    "ru": "Обмен Предметов Team Fortress 2",
+    "keywords": [
+      "обменять скины",
+      "trade skins"
+    ]
+  },
+  "/topic": {
+    "en": "Wiki",
+    "ru": "Википедия",
+    "keywords": [
+      "блог",
+      "blog",
+      "topic"
+    ]
+  },
+  "/topic/cases/chroma-2-case": {
+    "en": "Chroma 2 Case",
+    "ru": "Кейс Chroma 2",
+    "keywords": []
+  },
+  "/topic/cases/chroma-3-case": {
+    "en": "Chroma 3 Case",
+    "ru": "Кейс Chroma 3",
+    "keywords": []
+  },
+  "/topic/cases/chroma-case": {
+    "en": "Chroma Case",
+    "ru": "Кейс Chroma",
+    "keywords": []
+  },
+  "/topic/cases/clutch-case": {
+    "en": "Clutch Case",
+    "ru": "Кейс Clutch",
+    "keywords": []
+  },
+  "/topic/cases/cs20-case": {
+    "en": "CS20 Case",
+    "ru": "Кейс CS20",
+    "keywords": []
+  },
+  "/topic/cases/csgo-weapon-case": {
+    "en": "CS:GO Weapon Case",
+    "ru": "Оружейный Кейс CS:GO",
+    "keywords": []
+  },
+  "/topic/cases/csgo-weapon-case-2": {
+    "en": "CS:GO Weapon Case 2",
+    "ru": "Оружейный Кейс CS:GO, тираж #2",
+    "keywords": []
+  },
+  "/topic/cases/csgo-weapon-case-3": {
+    "en": "CS:GO Weapon Case 3",
+    "ru": "Оружейный Кейс CS:GO, тираж #3",
+    "keywords": []
+  },
+  "/topic/cases/danger-zone-case": {
+    "en": "Danzer Zone Case",
+    "ru": "Кейс «Запретная зона»",
+    "keywords": []
+  },
+  "/topic/cases/dreams-nightmares-case": {
+    "en": "Dreams & Nightmares Case",
+    "ru": "Кейс «Грёзы и кошмары»",
+    "keywords": []
+  },
+  "/topic/cases/esports-2013-case": {
+    "en": "eSports 2013 Case",
+    "ru": "Кейс eSports 2013",
+    "keywords": []
+  },
+  "/topic/cases/esports-2013-winter-case": {
+    "en": "eSports 2013 Winter Case",
+    "ru": "Зимний Кейс eSports 2013",
+    "keywords": []
+  },
+  "/topic/cases/esports-2014-summer-case": {
+    "en": "eSports 2014 Summer Case",
+    "ru": "Летний Кейс eSports 2014",
+    "keywords": []
+  },
+  "/topic/cases/falchion-case": {
+    "en": "Falchion Case",
+    "ru": "Кейс «Фальшион»",
+    "keywords": []
+  },
+  "/topic/cases/fever-case": {
+    "en": "Fever Case",
+    "ru": "Кейс Fever",
+    "keywords": []
+  },
+  "/topic/cases/fracture-case": {
+    "en": "Fracture Case",
+    "ru": "Кейс «Разлом»",
+    "keywords": []
+  },
+  "/topic/cases/gallery-case": {
+    "en": "Gallery Case",
+    "ru": "Галерейный кейс",
+    "keywords": []
+  },
+  "/topic/cases/gamma-2-case": {
+    "en": "Gamma 2 Case",
+    "ru": "Кейс Gamma 2",
+    "keywords": []
+  },
+  "/topic/cases/gamma-case": {
+    "en": "Gamma Case",
+    "ru": "Кейс Gamma",
+    "keywords": []
+  },
+  "/topic/cases/glove-case": {
+    "en": "Glove Case",
+    "ru": "Перчаточный Кейс",
+    "keywords": []
+  },
+  "/topic/cases/horizon-case": {
+    "en": "Horizon Case",
+    "ru": "Кейс «Горизонт»",
+    "keywords": []
+  },
+  "/topic/cases/huntsman-weapon-case": {
+    "en": "Huntsman Weapon Case",
+    "ru": "Охотничий Оружейный Кейс",
+    "keywords": []
+  },
+  "/topic/cases/kilowatt-case": {
+    "en": "Kilowatt Case",
+    "ru": "Кейс «Киловатт»",
+    "keywords": []
+  },
+  "/topic/cases/operation-bravo-case": {
+    "en": "Operation Bravo Case",
+    "ru": "Кейс операции «Браво»",
+    "keywords": []
+  },
+  "/topic/cases/operation-breakout-weapon-case": {
+    "en": "Operation Breakout Weapon Case",
+    "ru": "Оружейный кейс операции «Прорыв»",
+    "keywords": []
+  },
+  "/topic/cases/operation-broken-fang-case": {
+    "en": "Operation Broker Fang Case",
+    "ru": "Кейс операции «Сломанный клык»",
+    "keywords": []
+  },
+  "/topic/cases/operation-hydra-case": {
+    "en": "Operation Hydra Case",
+    "ru": "Кейс операции «Гидра»",
+    "keywords": []
+  },
+  "/topic/cases/operation-phoenix-weapon-case": {
+    "en": "Operation Phoenix Weapon Case",
+    "ru": "Оружейный кейс операции «Феникс»",
+    "keywords": []
+  },
+  "/topic/cases/operation-riptide-case": {
+    "en": "Operation Riptide Case",
+    "ru": "Кейс операции «Хищные воды»",
+    "keywords": []
+  },
+  "/topic/cases/operation-vanguard-weapon-case": {
+    "en": "Operation Vanguard Weapon Case",
+    "ru": "Оружейный кейс операции «Авангард»",
+    "keywords": []
+  },
+  "/topic/cases/operation-wildfire-case": {
+    "en": "Operation Wildfire Case",
+    "ru": "Кейс операции «Дикое пламя»",
+    "keywords": []
+  },
+  "/topic/cases/prisma-2-case": {
+    "en": "Prisma 2 Case",
+    "ru": "Кейс Prisma 2",
+    "keywords": []
+  },
+  "/topic/cases/prisma-case": {
+    "en": "Prisma Case",
+    "ru": "Кейс Prisma",
+    "keywords": []
+  },
+  "/topic/cases/recoil-case": {
+    "en": "Recoil Case",
+    "ru": "Кейс Recoil",
+    "keywords": []
+  },
+  "/topic/cases/revolution-case": {
+    "en": "Revolution Case",
+    "ru": "Кейс Revolution",
+    "keywords": []
+  },
+  "/topic/cases/revolver-case": {
+    "en": "Revolver Case",
+    "ru": "Револьверный Кейс",
+    "keywords": []
+  },
+  "/topic/cases/sealed-genesis-terminal": {
+    "en": "Sealed Genesis Terminal",
+    "ru": "Sealed Genesis Terminal",
+    "keywords": []
+  },
+  "/topic/cases/shadow-case": {
+    "en": "Shadow Case",
+    "ru": "Тёмный Кейс",
+    "keywords": []
+  },
+  "/topic/cases/shattered-web-case": {
+    "en": "Shattered Web Case",
+    "ru": "Кейс «Расколотая сеть»",
+    "keywords": []
+  },
+  "/topic/cases/snakebite-case": {
+    "en": "Snakebite Case",
+    "ru": "Кейс «Змеиный укус»",
+    "keywords": []
+  },
+  "/topic/cases/spectrum-2-case": {
+    "en": "Spectrum 2 Case",
+    "ru": "Кейс «Спектр 2»",
+    "keywords": []
+  },
+  "/topic/cases/spectrum-case": {
+    "en": "Spectrum Case",
+    "ru": "Кейс «Спектр»",
+    "keywords": []
+  },
+  "/topic/cases/winter-offensive-weapon-case": {
+    "en": "Winter Offensive Weapon Case",
+    "ru": "Кейс Winter Offensive Weapon",
+    "keywords": []
+  },
+  "/topic/charms/dr-boom-charms": {
+    "en": "Dr Boom Charms",
+    "ru": "Брелоки Dr Boom",
+    "keywords": []
+  },
+  "/topic/charms/missing-link-charms": {
+    "en": "Missing Link Charms",
+    "ru": "Брелоки Missing Link",
+    "keywords": []
+  },
+  "/topic/charms/missing-link-community-charms": {
+    "en": "Missing Link Community Charms",
+    "ru": "Брелоки Missing Link Community",
+    "keywords": []
+  },
+  "/topic/charms/small-arms-charms": {
+    "en": "Small Arms Charms",
+    "ru": "Брелоки Small Arms",
+    "keywords": []
+  },
+  "/topic/collections/the-2018-inferno-collection": {
+    "en": "The 2018 Inferno Collection",
+    "ru": "Коллекция «Inferno 2018»",
+    "keywords": []
+  },
+  "/topic/collections/the-2018-nuke-collection": {
+    "en": "The 2018 Nuke Collection",
+    "ru": "Коллекция «Nuke 2018»",
+    "keywords": []
+  },
+  "/topic/collections/the-2021-dust-2-collection": {
+    "en": "The 2021 Dust 2 Collection",
+    "ru": "Коллекция Dust 2 2021",
+    "keywords": []
+  },
+  "/topic/collections/the-2021-mirage-collection": {
+    "en": "The 2021 Mirage Collection",
+    "ru": "Коллекция Mirage 2021",
+    "keywords": []
+  },
+  "/topic/collections/the-2021-train-collection": {
+    "en": "The 2021 Train Collection",
+    "ru": "Коллекция Train 2021",
+    "keywords": []
+  },
+  "/topic/collections/the-2021-vertigo-collection": {
+    "en": "The 2021 Vertigo Collection",
+    "ru": "Коллекция Vertigo 2021",
+    "keywords": []
+  },
+  "/topic/collections/the-alpha-collection": {
+    "en": "The Alpha Collection",
+    "ru": "Коллекция «Альфа»",
+    "keywords": []
+  },
+  "/topic/collections/the-ancient-collection": {
+    "en": "The Ancient Collection",
+    "ru": "Коллекция «Ancient»",
+    "keywords": []
+  },
+  "/topic/collections/the-anubis-collection": {
+    "en": "The Anubis Collection",
+    "ru": "Коллекция «Anubis»",
+    "keywords": []
+  },
+  "/topic/collections/the-ascent-collection": {
+    "en": "The Ascent Collection",
+    "ru": "Коллекция «Ascent»",
+    "keywords": []
+  },
+  "/topic/collections/the-assault-collection": {
+    "en": "The Assault Collection",
+    "ru": "Коллекция «Assault»",
+    "keywords": []
+  },
+  "/topic/collections/the-aztec-collection": {
+    "en": "The Aztec Collection",
+    "ru": "Коллекция «Aztec»",
+    "keywords": []
+  },
+  "/topic/collections/the-baggage-collection": {
+    "en": "The Baggage Collection",
+    "ru": "Коллекция «Baggage»",
+    "keywords": []
+  },
+  "/topic/collections/the-bank-collection": {
+    "en": "The Bank Collection",
+    "ru": "Коллекция «Bank»",
+    "keywords": []
+  },
+  "/topic/collections/the-blacksite-collection": {
+    "en": "The BLacksite Collection",
+    "ru": "Коллекция «Blacksite»",
+    "keywords": []
+  },
+  "/topic/collections/the-boreal-collection": {
+    "en": "The Boreal Collection",
+    "ru": "Коллекция «Boreal»",
+    "keywords": []
+  },
+  "/topic/collections/the-cache-collection": {
+    "en": "The Cache Collection",
+    "ru": "Коллекция «Cache»",
+    "keywords": []
+  },
+  "/topic/collections/the-canals-collection": {
+    "en": "The Canals Collection",
+    "ru": "Коллекция «Canals»",
+    "keywords": []
+  },
+  "/topic/collections/the-chop-shop-collection": {
+    "en": "The Chop Chop Collection",
+    "ru": "Коллекция «Чик-чик»",
+    "keywords": []
+  },
+  "/topic/collections/the-cobblestone-collection": {
+    "en": "The Cobblestone Collection",
+    "ru": "Коллекция «Cobblestone»",
+    "keywords": []
+  },
+  "/topic/collections/the-control-collection": {
+    "en": "The Control Collection",
+    "ru": "Коллекция «Контроль»",
+    "keywords": []
+  },
+  "/topic/collections/the-dust-2-collection": {
+    "en": "The Dust 2 Collection",
+    "ru": "Коллекция «Dust 2»",
+    "keywords": []
+  },
+  "/topic/collections/the-dust-collection": {
+    "en": "The Dust Collection",
+    "ru": "Коллекция «Dust»",
+    "keywords": []
+  },
+  "/topic/collections/the-genesis-collection": {
+    "en": "The Genesis Collection",
+    "ru": "Коллекция Genesis",
+    "keywords": []
+  },
+  "/topic/collections/the-gods-and-monsters-collection": {
+    "en": "The Gods and Monsters Collection",
+    "ru": "Коллекция «Боги и чудовища»",
+    "keywords": []
+  },
+  "/topic/collections/the-graphic-design-collection": {
+    "en": "The Graphic Design Collection",
+    "ru": "Коллекция «Графический дизайн»",
+    "keywords": []
+  },
+  "/topic/collections/the-havoc-collection": {
+    "en": "The Havoc Collection",
+    "ru": "Коллекция «Хаос»",
+    "keywords": []
+  },
+  "/topic/collections/the-huntsman-collection": {
+    "ru": "Коллекция «The Huntsman»",
+    "keywords": [],
+    "en": "The Huntsman Collection"
+  },
+  "/topic/collections/the-inferno-collection": {
+    "en": "The Inferno Collection",
+    "ru": "Коллекция «Inferno»",
+    "keywords": []
+  },
+  "/topic/collections/the-italy-collection": {
+    "en": "The Italy Collection",
+    "ru": "Коллекция «Italy»",
+    "keywords": []
+  },
+  "/topic/collections/the-lake-collection": {
+    "en": "The Lake Collection",
+    "ru": "Коллекция «Lake»",
+    "keywords": []
+  },
+  "/topic/collections/the-militia-collection": {
+    "en": "The Militia Collection",
+    "ru": "Коллекция «Militia»",
+    "keywords": []
+  },
+  "/topic/collections/the-mirage-collection": {
+    "en": "The Mirage Collection",
+    "ru": "Коллекция «Mirage»",
+    "keywords": []
+  },
+  "/topic/collections/the-norse-collection": {
+    "en": "The Norse Collection",
+    "ru": "Коллекция «Север»",
+    "keywords": []
+  },
+  "/topic/collections/the-nuke-collection": {
+    "en": "The Nuke Collection",
+    "ru": "Коллекция «Nuke»",
+    "keywords": []
+  },
+  "/topic/collections/the-office-collection": {
+    "en": "The Office Collection",
+    "ru": "Коллекция «Office»",
+    "keywords": []
+  },
+  "/topic/collections/the-overpass-2024-collection": {
+    "en": "The Overpass 2024 Collection",
+    "ru": "Коллекция Overpass 2024",
+    "keywords": []
+  },
+  "/topic/collections/the-overpass-collection": {
+    "en": "The Overpass Collection",
+    "ru": "Коллекция «Overpass»",
+    "keywords": []
+  },
+  "/topic/collections/the-radiant-collection": {
+    "en": "The Radiant Collection",
+    "ru": "Коллекция «Radiant»",
+    "keywords": []
+  },
+  "/topic/collections/the-rising-sun-collection": {
+    "en": "The Rising Sun Collection",
+    "ru": "Коллекция «Рассвет»",
+    "keywords": []
+  },
+  "/topic/collections/the-safehouse-collection": {
+    "en": "The Safehouse Collection",
+    "ru": "Коллекция «Safehouse»",
+    "keywords": []
+  },
+  "/topic/collections/the-sport-field-collection": {
+    "en": "The Sport & Field Collection",
+    "ru": "Коллекция «Спорт и досуг»",
+    "keywords": []
+  },
+  "/topic/collections/the-st-marc-collection": {
+    "en": "The St. Marc Collection",
+    "ru": "Коллекция «St. Marc»",
+    "keywords": []
+  },
+  "/topic/collections/the-train-2025-collection": {
+    "en": "The Train 2025 Collection",
+    "ru": "Коллекция Train 2025",
+    "keywords": []
+  },
+  "/topic/collections/the-train-collection": {
+    "en": "The Train Collection",
+    "ru": "Коллекция «Train»",
+    "keywords": []
+  },
+  "/topic/collections/the-vertigo-collection": {
+    "en": "The Vertigo Collection",
+    "ru": "Коллекция «Vertigo»",
+    "keywords": []
+  },
+  "/topic/guides/how-to-level-up-steam-properly": {
+    "en": "How to Level Up Your Steam Profile Smartly and Cheaply",
+    "ru": "Как Правильно и Выгодно Повысить Уровень Steam",
+    "keywords": []
+  },
+  "/topic/guides/how-to-sell-skins-properly": {
+    "en": "Guide - How to Sell Skins Properly",
+    "ru": "Гайд - Как правильно Продавать Скины",
+    "keywords": []
+  },
+  "/topic/guides/how-to-trade-skins-properly": {
+    "en": "How to Trade CS2 Skins Profitably and Safely",
+    "ru": "Как Правильно и Выгодно Обменивать скины CS2",
+    "keywords": []
+  },
+  "/topic/items": {
+    "en": "All CS2 Items",
+    "ru": "Все Предметы CS2",
+    "keywords": [
+      "все скины",
+      "all skins",
+      "скины",
+      "skins",
+      "all items"
+    ]
+  },
+  "/topic/items-type/autograph-capsules": {
+    "en": "All CS2 Autograph Capsules",
+    "ru": "Все Капсулы CS2 с Автографами Игроков",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/items-type/cases": {
+    "en": "All CS2 Cases",
+    "ru": "Все Кейсы CS2",
+    "keywords": []
+  },
+  "/topic/items-type/charms": {
+    "en": "All CS2 Charms",
+    "ru": "Все Брелоки CS2",
+    "keywords": []
+  },
+  "/topic/items-type/collections": {
+    "en": "All CS2 Collections",
+    "ru": "Все Коллекции CS2",
+    "keywords": []
+  },
+  "/topic/items-type/gloves": {
+    "en": "All CS2 Gloves",
+    "ru": "Все Перчатки CS2",
+    "keywords": []
+  },
+  "/topic/items-type/knives": {
+    "en": "All CS2 Knives",
+    "ru": "Все Ножи CS2",
+    "keywords": []
+  },
+  "/topic/items-type/machineguns": {
+    "en": "All CS2 Machine Guns",
+    "ru": "Все Пулемёты CS2",
+    "keywords": []
+  },
+  "/topic/items-type/pistols": {
+    "en": "All CS2 Pistols",
+    "ru": "Все Пистолеты CS2",
+    "keywords": []
+  },
+  "/topic/items-type/rifles": {
+    "en": "All CS2 Rifles",
+    "ru": "Все Винтовки CS2",
+    "keywords": []
+  },
+  "/topic/items-type/shotguns": {
+    "en": "All CS2 Shotguns",
+    "ru": "Все Дробовики CS2",
+    "keywords": []
+  },
+  "/topic/items-type/smgs": {
+    "en": "All CS2 SMGs",
+    "ru": "Все Пистолеты-пулемёты CS2",
+    "keywords": []
+  },
+  "/topic/items-type/sniper-rifles": {
+    "en": "All CS2 Sniper Rifles",
+    "ru": "Все Снайперские Винтовки CS2",
+    "keywords": []
+  },
+  "/topic/items-type/sticker-capsules": {
+    "en": "All CS2 Sticker Capsules",
+    "ru": "Все Капсулы CS2 со Cтикерами",
+    "keywords": []
+  },
+  "/topic/items/agents": {
+    "en": "All CS2 Agents",
+    "ru": "Все Агенты CS2",
+    "keywords": []
+  },
+  "/topic/items/ak-47": {
+    "en": "All AK-47 Skins",
+    "ru": "Все Скины на AK-47",
+    "keywords": []
+  },
+  "/topic/items/aug": {
+    "en": "All AUG Skins",
+    "ru": "Все Скины на AUG",
+    "keywords": []
+  },
+  "/topic/items/awp": {
+    "en": "All AWP Skins",
+    "ru": "Все Скины на AWP",
+    "keywords": []
+  },
+  "/topic/items/bayonet": {
+    "en": "All Bayonet Skins",
+    "ru": "Все Скины на Bayonet",
+    "keywords": []
+  },
+  "/topic/items/bloodhound-gloves": {
+    "en": "All Bloodhound Gloves Skins",
+    "ru": "Все Скины на Bloodhound Gloves",
+    "keywords": []
+  },
+  "/topic/items/bowie-knife": {
+    "en": "All Bowie Knife Skins",
+    "ru": "Все Скины на Bowie Knife",
+    "keywords": []
+  },
+  "/topic/items/broken-fang-gloves": {
+    "en": "All Broken Fang Gloves Skins",
+    "ru": "Все Скины на Broken Fang Gloves",
+    "keywords": []
+  },
+  "/topic/items/butterfly-knife": {
+    "en": "All Butterfly Knife Skins",
+    "ru": "Все Скины на Butterfly Knife",
+    "keywords": []
+  },
+  "/topic/items/classic-knife": {
+    "en": "All Classic Knife Skins",
+    "ru": "Все Скины на Classic Knife",
+    "keywords": []
+  },
+  "/topic/items/cz75-auto": {
+    "en": "All CZ-75-Auto Skins",
+    "ru": "Все Скины на CZ-75-Auto",
+    "keywords": []
+  },
+  "/topic/items/desert-eagle": {
+    "en": "All Desert Eagle Skins",
+    "ru": "Все Скины на Desert Eagle",
+    "keywords": []
+  },
+  "/topic/items/driver-gloves": {
+    "en": "All Driver Gloves Skins",
+    "ru": "Все Скины на Driver Gloves",
+    "keywords": []
+  },
+  "/topic/items/dual-berettas": {
+    "en": "All Dual Berettas Skins",
+    "ru": "Все Скины на Dual Berettas",
+    "keywords": []
+  },
+  "/topic/items/falchion-knife": {
+    "en": "All Falchion Knife Skins",
+    "ru": "Все Скины на Falchion Knife",
+    "keywords": []
+  },
+  "/topic/items/famas": {
+    "en": "All FAMAS Skins",
+    "ru": "Все Скины на FAMAS",
+    "keywords": []
+  },
+  "/topic/items/five-seven": {
+    "en": "All Five-SeveN Skins",
+    "ru": "Все Скины на Five-SeveN",
+    "keywords": []
+  },
+  "/topic/items/flip-knife": {
+    "en": "All Flip Knife Skins",
+    "ru": "Все Скины на Flip Knife",
+    "keywords": []
+  },
+  "/topic/items/g3sg1": {
+    "en": "All G3SG1 Skins",
+    "ru": "Все Скины на G3SG1",
+    "keywords": []
+  },
+  "/topic/items/galil-ar": {
+    "en": "All Galil AR Skins",
+    "ru": "Все Скины на Galil AR",
+    "keywords": []
+  },
+  "/topic/items/glock-18": {
+    "en": "All Glock-18 Skins",
+    "ru": "Все Скины на Glock-18",
+    "keywords": []
+  },
+  "/topic/items/gut-knife": {
+    "en": "All Gut Knife Skins",
+    "ru": "Все Скины на Gut Knife",
+    "keywords": []
+  },
+  "/topic/items/hand-wraps": {
+    "en": "All Hand Wraps Skins",
+    "ru": "Все Скины на Hand Wraps",
+    "keywords": []
+  },
+  "/topic/items/huntsman-knife": {
+    "en": "All Huntsman Knife Skins",
+    "ru": "Все Скины на Huntsman Knife",
+    "keywords": []
+  },
+  "/topic/items/hydra-gloves": {
+    "en": "All Hydra Gloves Skins",
+    "ru": "Все Скины на Hydra Gloves",
+    "keywords": []
+  },
+  "/topic/items/karambit": {
+    "en": "All Karambit Skins",
+    "ru": "Все Скины на Karambit",
+    "keywords": []
+  },
+  "/topic/items/kukri-knife": {
+    "en": "All Kukri Knife Skins",
+    "ru": "Все Скины на Kukri Knife",
+    "keywords": []
+  },
+  "/topic/items/m249": {
+    "en": "All M249 Skins",
+    "ru": "Все Скины на M249",
+    "keywords": []
+  },
+  "/topic/items/m4a1-s": {
+    "en": "All M4A1-S Skins",
+    "ru": "Все Скины на M4A1-S",
+    "keywords": []
+  },
+  "/topic/items/m4a4": {
+    "en": "All M4A4 Skins",
+    "ru": "Все Скины на M4A4",
+    "keywords": []
+  },
+  "/topic/items/m9-bayonet": {
+    "en": "All M9 Bayonet Skins",
+    "ru": "Все Скины на M9 Bayonet",
+    "keywords": []
+  },
+  "/topic/items/mac-10": {
+    "en": "All MAC-10 Skins",
+    "ru": "Все Скины на MAC-10",
+    "keywords": []
+  },
+  "/topic/items/mag-7": {
+    "en": "All MAG-7 Skins",
+    "ru": "Все Скины на MAG-7",
+    "keywords": []
+  },
+  "/topic/items/moto-gloves": {
+    "en": "All Moto Gloves Skins",
+    "ru": "Все Скины на Moto Gloves",
+    "keywords": []
+  },
+  "/topic/items/mp5-sd": {
+    "en": "All MP5-SD Skins",
+    "ru": "Все Скины на MP5-SD",
+    "keywords": []
+  },
+  "/topic/items/mp7": {
+    "en": "All MP7 Skins",
+    "ru": "Все Скины на MP7",
+    "keywords": []
+  },
+  "/topic/items/mp9": {
+    "en": "All MP9 Skins",
+    "ru": "Все Скины на MP9",
+    "keywords": []
+  },
+  "/topic/items/navaja-knife": {
+    "en": "All Navaja Knife Skins",
+    "ru": "Все Скины на Navaja Knife",
+    "keywords": []
+  },
+  "/topic/items/negev": {
+    "en": "All Negev Skins",
+    "ru": "Все Скины на Negev",
+    "keywords": []
+  },
+  "/topic/items/nomad-knife": {
+    "en": "All Nomad Knife Skins",
+    "ru": "Все Скины на Nomad Knife",
+    "keywords": []
+  },
+  "/topic/items/nova": {
+    "en": "All Nova Skins",
+    "ru": "Все Скины на Nova",
+    "keywords": []
+  },
+  "/topic/items/p2000": {
+    "en": "All P2000 Skins",
+    "ru": "Все Скины на P2000",
+    "keywords": []
+  },
+  "/topic/items/p250": {
+    "en": "All P250 Skins",
+    "ru": "Все Скины на P250",
+    "keywords": []
+  },
+  "/topic/items/p90": {
+    "en": "All P90 Skins",
+    "ru": "Все Скины на P90",
+    "keywords": []
+  },
+  "/topic/items/paracord-knife": {
+    "en": "All Paracord Knife Skins",
+    "ru": "Все Скины на Paracord Knife",
+    "keywords": []
+  },
+  "/topic/items/pp-bizon": {
+    "en": "All PP-Bizon Skins",
+    "ru": "Все Скины на PP-Bizon",
+    "keywords": []
+  },
+  "/topic/items/r8-revolver": {
+    "en": "All R8 Revolver Skins",
+    "ru": "Все Скины на R8 Revolver",
+    "keywords": []
+  },
+  "/topic/items/sawed-off": {
+    "en": "All Sawed-Off Skins",
+    "ru": "Все Скины на Sawed-Off",
+    "keywords": []
+  },
+  "/topic/items/scar-20": {
+    "en": "All SCAR-20 Skins",
+    "ru": "Все Скины на SCAR-20",
+    "keywords": []
+  },
+  "/topic/items/sg-553": {
+    "en": "All SG-553 Skins",
+    "ru": "Все Скины на SG-553",
+    "keywords": []
+  },
+  "/topic/items/shadow-daggers": {
+    "en": "All Shadow Daggers Skins",
+    "ru": "Все Скины на Shadow Daggers",
+    "keywords": []
+  },
+  "/topic/items/skeleton-knife": {
+    "en": "All Skeleton Knife Skins",
+    "ru": "Все Скины на Skeleton Knife",
+    "keywords": []
+  },
+  "/topic/items/specialist-gloves": {
+    "en": "All Specialist Gloves Skins",
+    "ru": "Все Скины на Specialist Gloves",
+    "keywords": []
+  },
+  "/topic/items/sport-gloves": {
+    "en": "All Sport Gloves Skins",
+    "ru": "Все Скины на Sport Gloves",
+    "keywords": []
+  },
+  "/topic/items/ssg-08": {
+    "en": "All SSG-08 Skins",
+    "ru": "Все Скины на SSG-08",
+    "keywords": []
+  },
+  "/topic/items/stiletto-knife": {
+    "en": "All Stiletto Knife Skins",
+    "ru": "Все Скины на Stiletto Knife",
+    "keywords": []
+  },
+  "/topic/items/survival-knife": {
+    "en": "All Survival Knife Skins",
+    "ru": "Все Скины на Survival Knife",
+    "keywords": []
+  },
+  "/topic/items/talon-knife": {
+    "en": "All Talon Knife Skins",
+    "ru": "Все Скины на Talon Knife",
+    "keywords": []
+  },
+  "/topic/items/tec-9": {
+    "en": "All Tec-9 Skins",
+    "ru": "Все Скины на Tec-9",
+    "keywords": []
+  },
+  "/topic/items/ump-45": {
+    "en": "All UMP-45 Skins",
+    "ru": "Все Скины на UMP-45",
+    "keywords": []
+  },
+  "/topic/items/ursus-knife": {
+    "en": "All Ursus Knife Skins",
+    "ru": "Все Скины на Ursus Knife",
+    "keywords": []
+  },
+  "/topic/items/usp-s": {
+    "en": "All USP-S Skins",
+    "ru": "Все Скины на USP-S",
+    "keywords": []
+  },
+  "/topic/items/xm1014": {
+    "en": "All XM1014 Skins",
+    "ru": "Все Скины на XM1014",
+    "keywords": []
+  },
+  "/topic/items/zeus-x27": {
+    "en": "All Zeus x27 Skins",
+    "ru": "Все Скины на Zeus x27",
+    "keywords": []
+  },
+  "/topic/skins": {
+    "en": "CS2 Skins by Color",
+    "ru": "Скины CS2 по Цвету",
+    "keywords": [
+      "cyan",
+      "подборки",
+      "предметы",
+      "items",
+      "скины по цвету"
+    ]
+  },
+  "/topic/skins/best-black-skins": {
+    "en": "Best Black Inventory for CS2",
+    "ru": "Премиальный Черный Инвентарь CS2 ",
+    "keywords": []
+  },
+  "/topic/skins/best-blue-skins": {
+    "en": "Best Blue Inventory for CS2",
+    "ru": "Премиальный Синий Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/best-brown-skins": {
+    "en": "Best Brown Inventory for CS2",
+    "ru": "Премиальный Коричневый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/best-cyan-skins": {
+    "en": "Best Cyan Inventory for CS2",
+    "ru": "Премиальный Бирюзовый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/best-gray-skins": {
+    "en": "Best Gray Inventory for CS2",
+    "ru": "Премиальный Серый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/best-green-skins": {
+    "en": "Best Green Inventory for CS2",
+    "ru": "Премиальный Зелёный Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/best-orange-skins": {
+    "en": "Best Orange Inventory for CS2",
+    "ru": "Премиальный Оранжевый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/best-pink-skins": {
+    "en": "Best Pink Inventory for CS2",
+    "ru": "Премиальный Розовый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/best-purple-skins": {
+    "en": "Best Purple Inventory for CS2",
+    "ru": "Премиальный Фиолетовый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/best-red-skins": {
+    "en": "Best Red Inventory for CS2",
+    "ru": "Премиальный Красный Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/best-white-skins": {
+    "en": "Best White Inventory for CS2",
+    "ru": "Премиальный Белый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/best-yellow-skins": {
+    "en": "Best Yellow Inventory for CS2",
+    "ru": "Премиальный Желтый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/black-skins": {
+    "en": "Black Color Skins",
+    "ru": "Черные Скины",
+    "keywords": [
+      "темные",
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/blue-skins": {
+    "en": "Blue Color Skins",
+    "ru": "Синие Скины",
+    "keywords": [
+      "голубые",
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/brown-skins": {
+    "en": "Brown Color Skins",
+    "ru": "Коричневые Скины",
+    "keywords": [
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/cheapest-black-skins": {
+    "en": "Budget Black Inventory for CS2",
+    "ru": "Бюджетный Черный Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-blue-skins": {
+    "en": "Budget Blue Inventory for CS2",
+    "ru": "Бюджетный Синий Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-brown-skins": {
+    "en": "Budget Brown Inventory for CS2",
+    "ru": "Бюджетный Коричневый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-cyan-skins": {
+    "en": "Budget Cyan Inventory for CS2",
+    "ru": "Бюджетный Бирюзовый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-gray-skins": {
+    "en": "Budget Gray Inventory for CS2",
+    "ru": "Бюджетный Серый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-green-skins": {
+    "en": "Budget Green Inventory for CS2",
+    "ru": "Бюджетный Зелёный Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-orange-skins": {
+    "en": "Budget Orange Inventory for CS2",
+    "ru": "Бюджетный Оранжевый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-pink-skins": {
+    "en": "Budget Pink Inventory for CS2",
+    "ru": "Бюджетный Розовый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-purple-skins": {
+    "en": "Budget Purple Inventory for CS2",
+    "ru": "Бюджетный Фиолетовый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-red-skins": {
+    "en": "Budget Red Inventory for CS2",
+    "ru": "Бюджетный Красный Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-white-skins": {
+    "en": "Budget White Inventory for CS2",
+    "ru": "Бюджетный Белый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cheapest-yellow-skins": {
+    "en": "Budget Yellow Inventory for CS2",
+    "ru": "Бюджетный Желтый Инвентарь CS2",
+    "keywords": []
+  },
+  "/topic/skins/cyan-skins": {
+    "en": "Cyan Color Skins",
+    "ru": "Бирюзовые Скины",
+    "keywords": [
+      "голубые",
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/golden-skins": {
+    "en": "Golden Color Skins",
+    "ru": "Золотые Скины",
+    "keywords": [
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/gray-skins": {
+    "en": "Gray Color Skins",
+    "ru": "Серые Скины",
+    "keywords": [
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/green-skins": {
+    "en": "Green Color Skins",
+    "ru": "Зеленые Скины",
+    "keywords": [
+      "салатовые",
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/orange-skins": {
+    "en": "Orange Color Skins",
+    "ru": "Оранжевые Скины",
+    "keywords": [
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/pink-skins": {
+    "en": "Pink Color Skins",
+    "ru": "Розовые Скины",
+    "keywords": [
+      "purple",
+      "фиолетовые",
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/purple-skins": {
+    "en": "Purple Color Skins",
+    "ru": "Фиолетовые Скины",
+    "keywords": [
+      "pink",
+      "розовые",
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/red-skins": {
+    "en": "Red Color Skins",
+    "ru": "Красные Скины",
+    "keywords": [
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/silver-skins": {
+    "en": "Silver Color Skins",
+    "ru": "Серебряные Скины",
+    "keywords": [
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/white-skins": {
+    "en": "White Color Skins",
+    "ru": "Белые Скины",
+    "keywords": [
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/skins/yellow-skins": {
+    "en": "Yellow Color Skins",
+    "ru": "Желтые Скины",
+    "keywords": [
+      "items",
+      "предметы",
+      "цвет"
+    ]
+  },
+  "/topic/sticker-crafts": {
+    "en": "Sticker Crafts",
+    "ru": "Крафты со Стикерами",
+    "keywords": [
+      "стикер-крафты",
+      "стикер крафты",
+      "стикеры"
+    ]
+  },
+  "/topic/sticker-crafts/ak47-empress-holo-hair": {
+    "en": "How to Craft AK-47 | The Empress Holo Hair",
+    "ru": "Как создать AK-47 | The Empress Holo Hair",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/ak47-glitter-star": {
+    "en": "How to Craft AK-47 | Glitter Star",
+    "ru": "Как создать AK-47 | Glitter Star",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/ak47-gray-dragon": {
+    "en": "How to Craft AK-47 | Gray Dragon",
+    "ru": "Как создать AK-47 | Gray Dragon",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/ak47-halo-chief-master": {
+    "en": "How to Craft AK-47 | Halo Master Chief",
+    "ru": "Как создать AK-47 | Halo Master Chief",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/ak47-holo-hearts": {
+    "en": "How to Craft AK-47 | Holo Hearts",
+    "ru": "Как создать AK-47 | Holo Hearts",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/ak47-octopus": {
+    "en": "How to Craft AK-47 | Octopus",
+    "ru": "Как создать AK-47 | Octopus",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/ak47-purple-lightning": {
+    "en": "How to craft AK-47 | Purple Lightning",
+    "ru": "Как создать AK-47 | Purple Lightning",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/ak47-upgraded-redline": {
+    "en": "How to Craft AK-47 | Upgraded Redline",
+    "ru": "Как создать AK-47 | Upgraded Redline",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/desert-eagle-conspiracy-lightning": {
+    "en": "How to Craft Desert Eagle | Conspiracy Lightning",
+    "ru": "Как создать Desert Eagle | Conspiracy Lightning",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/desert-eagle-golden-conspiracy": {
+    "en": "How to Craft Desert Eagle | Golden Conspiracy",
+    "ru": "Как создать Desert Eagle | Golden Conspiracy",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/desert-eagle-ice-blaze": {
+    "en": "How to Craft Desert Eagle | Ice Blaze",
+    "ru": "Как создать Desert Eagle | Ice Blaze",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/desert-eagle-neon-blaze": {
+    "en": "How to Craft Desert Eagle | Neon Blaze",
+    "ru": "Как создать Desert Eagle | Neon Blaze",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/desert-eagle-night-budget-blaze": {
+    "en": "How to Craft Desert Eagle | Budget Blaze",
+    "ru": "Как создать Desert Eagle | Budget Blaze",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/desert-eagle-night-lightning": {
+    "en": "How to Craft Desert Eagle | Purple Lightning",
+    "ru": "Как создать Desert Eagle | Purple Lightning",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/fake-ibuypower-holo": {
+    "en": "How to Craft Fake iBUYPOWER (Holo)",
+    "ru": "Как создать Fake iBUYPOWER (Holo)",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/galil-ar-eco-hydra": {
+    "en": "How to Craft Galil AR | Eco Hydra",
+    "ru": "Как создать Galil AR | Eco Hydra",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/galil-ar-tuxedo-extra-white": {
+    "en": "How to Craft Galil AR | Tuxedo Extra White",
+    "ru": "Как создать Galil AR | Tuxedo Extra White",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/galil-ar-tuxedo-fluxo-edition": {
+    "en": "How to Craft Galil AR | Tuxedo Fluxo edition",
+    "ru": "Как создать Galil AR | Tuxedo Fluxo edition",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/galil-ar-tuxedo-kitten-face": {
+    "en": "How to Craft Galil AR | Tuxedo Kitten Face",
+    "ru": "Как создать Galil AR | Tuxedo Kitten Face",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/glock-18-candy-apple-fluxo-edition": {
+    "en": "How to Craft Glock-18 | Candy Apple Fluxo edition",
+    "ru": "Как создать Glock-18 | Candy Apple Fluxo edition",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/glock-18-vogue-flaming-eyes": {
+    "en": "How to Craft Glock-18 | Vogue Flaming Eyes",
+    "ru": "Как создать Glock-18 | Vogue Flaming Eyes",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/m4a1-s-basilisk-flame": {
+    "en": "How to Craft M4A1-S | Basilisk Flame",
+    "ru": "Как создать M4A1-S | Basilisk Flame",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/m4a1-s-nitro-apeks-edition": {
+    "en": "How to Craft M4A1-S | Nitro Apeks edition",
+    "ru": "Как создать M4A1-S | Nitro Apeks edition",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/m4a4-converter-howl": {
+    "en": "How to Craft M4A4 | Converter Howl",
+    "ru": "Как создать M4A4 | Converter Howl",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/m4a4-godzilla": {
+    "en": "How to Craft M4A4 | Godzilla",
+    "ru": "Как создать M4A4 | Godzilla",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/m4a4-purple-star": {
+    "en": "How to Craft M4A4 | Purple Star",
+    "ru": "Как создать M4A4 | Purple Star",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/mac-10-glitter-hearts": {
+    "en": "How to Craft MAC-10 | Glitter Hearts",
+    "ru": "Как создать MAC-10 | Glitter Hearts",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/mac-10-heated-star": {
+    "en": "How to Craft MAC-10 | Heated Star",
+    "ru": "Как создать MAC-10 | Heated Star",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/mac-10-light-box-pink-line": {
+    "en": "How to Craft MAC-10 | Light Box Pink Line",
+    "ru": "Как создать MAC-10 | Light Box Pink Line",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/mac-10-pain-edition": {
+    "en": "How to Craft MAC-10 | paiN edition",
+    "ru": "Как создать MAC-10 | paiN edition",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/mac-10-pain-edition-black": {
+    "en": "How to Craft MAC-10 | paiN edition Black",
+    "ru": "Как создать MAC-10 | paiN edition Black",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/mac-10-saw-edition": {
+    "en": "How to Craft MAC-10 | SAW edition",
+    "ru": "Как создать MAC-10 | SAW edition",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/mac-10-silver-pain-edition": {
+    "en": "How to Craft MAC-10 | Silver paiN edition",
+    "ru": "Как создать MAC-10 | Silver paiN edition",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/mp9-pikachu": {
+    "en": "How to Craft MP9 | Pikachu",
+    "ru": "Как создать MP9 | Pikachu",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/p250-cassette-metal-black": {
+    "en": "How to Craft P250 | Cassette Metal-Black",
+    "ru": "Как создать P250 | Cassette Metal-Black",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/p250-see-ya-later-monstro": {
+    "en": "How to Craft P250 | See Ya Later Monstro",
+    "ru": "Как создать P250 | See Ya Later Monstro",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/p250-upgraded-asiimov": {
+    "en": "How to Craft P250 | Upgraded Asiimov",
+    "ru": "Как создать P250 | Upgraded Asiimov",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/ak-47-redline": {
+    "en": "All Sticker-Crafting Guides for AK-47 | Redline",
+    "ru": "Все Гайды по Стикер-Крафтам для AK-47 | Redline",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/ak-47-safari-mesh": {
+    "en": "All Sticker-Crafting Guides for AK-47 | Safari Mesh",
+    "ru": "Все Гайды по Стикер-Крафтам для AK-47 | Safari Mesh",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/ak-47-slate": {
+    "en": "All Sticker-Crafting Guides for AK-47 | Slate",
+    "ru": "Все Гайды по Стикер-Крафтам для AK-47 | Slate",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/ak-47-the-empress": {
+    "en": "All Sticker-Crafting Guides for AK-47 | The Empress",
+    "ru": "Все Гайды по Стикер-Крафтам для AK-47 | The Empress",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/desert-eagle-conspiracy": {
+    "en": "All Sticker-Crafting Guides for Desert Eagle | Conspiracy",
+    "ru": "Все Гайды по Стикер-Крафтам для Desert Eagle | Conspiracy",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/desert-eagle-night": {
+    "en": "All Sticker-Crafting Guides for Desert Eagle | Night",
+    "ru": "Все Гайды по Стикер-Крафтам для Desert Eagle | Night",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/desert-eagle-printstream": {
+    "en": "All Sticker-Crafting Guides for Desert Eagle | Printstream",
+    "ru": "Все Гайды по Стикер-Крафтам для Desert Eagle | Printstream",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/galil-ar-eco": {
+    "en": "All Sticker-Crafting Guides for Galil AR | Eco",
+    "ru": "Все Гайды по Стикер-Крафтам для Galil AR | Eco",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/galil-ar-tuxedo": {
+    "en": "All Sticker-Crafting Guides for Galil AR | Tuxedo",
+    "ru": "Все Гайды по Стикер-Крафтам для Galil AR | Tuxedo",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/glock-18-candy-apple": {
+    "en": "All Sticker-Crafting Guides for Glock-18 | Candy Apple",
+    "ru": "Все Гайды по Стикер-Крафтам для Glock-18 | Candy Apple",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/glock-18-vogue": {
+    "en": "All Sticker-Crafting Guides for Glock-18 | Vogue",
+    "ru": "Все Гайды по Стикер-Крафтам для Glock-18 | Vogue",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/m4a1-s-basilisk": {
+    "en": "All Sticker-Crafting Guides for M4A1-S | Basilisk",
+    "ru": "Все Гайды по Стикер-Крафтам для M4A1-S | Basilisk",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/m4a1-s-nitro": {
+    "en": "All Sticker-Crafting Guides for M4A1-S | Nitro",
+    "ru": "Все Гайды по Стикер-Крафтам для M4A1-S | Nitro",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/m4a4-converter": {
+    "en": "All Sticker-Crafting Guides for M4A4 | Converter",
+    "ru": "Все Гайды по Стикер-Крафтам для M4A4 | Converter",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/m4a4-magnesium": {
+    "en": "All Sticker-Crafting Guides for M4A4 | Magnesium",
+    "ru": "Все Гайды по Стикер-Крафтам для M4A4 | Magnesium",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/m4a4-urban-ddpat": {
+    "en": "All Sticker-Crafting Guides for M4A4 | Urban DDPAT",
+    "ru": "Все Гайды по Стикер-Крафтам для M4A4 | Urban DDPAT",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/mac-10-candy-apple": {
+    "en": "All Sticker-Crafting Guides for MAC-10 | Candy Apple",
+    "ru": "Все Гайды по Стикер-Крафтам для MAC-10 | Candy Apple",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/mac-10-heat": {
+    "en": "All Sticker-Crafting Guides for MAC-10 | Heat",
+    "ru": "Все Гайды по Стикер-Крафтам для MAC-10 | Heat",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/mac-10-light-box": {
+    "en": "All Sticker-Crafting Guides for MAC-10 | Light Box",
+    "ru": "Все Гайды по Стикер-Крафтам для MAC-10 | Light Box",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/mac-10-silver": {
+    "en": "All Sticker-Crafting Guides for MAC-10 | Silver",
+    "ru": "Все Гайды по Стикер-Крафтам для MAC-10 | Silver",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/mp9-bulldozer": {
+    "en": "All Sticker-Crafting Guides for MP9 | Bulldozer",
+    "ru": "Все Гайды по Стикер-Крафтам для MP9 | Bulldozer",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/p250-asiimov": {
+    "en": "All Sticker-Crafting Guides for P250 | Asiimov",
+    "ru": "Все Гайды по Стикер-Крафтам для P250 | Asiimov",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/p250-cassette": {
+    "en": "All Sticker-Crafting Guides for P250 | Cassette",
+    "ru": "Все Гайды по Стикер-Крафтам для P250 | Cassette",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/p250-see-ya-later": {
+    "en": "All Sticker-Crafting Guides for P250 | See Ya Later",
+    "ru": "Все Гайды по Стикер-Крафтам для P250 | See Ya Later",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/usp-s-blueprint": {
+    "en": "All Sticker-Crafting Guides for USP-S | Blueprint",
+    "ru": "Все Гайды по Стикер-Крафтам для USP-S | Blueprint",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/usp-s-monster-mashup": {
+    "en": "All Sticker-Crafting Guides for USP-S | Monster Mashup",
+    "ru": "Все Гайды по Стикер-Крафтам для USP-S | Monster Mashup",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/usp-s-royal-guard": {
+    "en": "All Sticker-Crafting Guides for USP-S | Royal Guard",
+    "ru": "Все Гайды по Стикер-Крафтам для USP-S | Royal Guard",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/usp-s-torque": {
+    "en": "All Sticker-Crafting Guides for USP-S | Torque",
+    "ru": "Все Гайды по Стикер-Крафтам для USP-S | Torque",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/usp-s-whiteout": {
+    "en": "All Sticker-Crafting Guides for USP-S | Whiteout",
+    "ru": "Все Гайды по Стикер-Крафтам для USP-S | Whiteout",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/skin/zeus-x27-charged-up": {
+    "en": "All Sticker-Crafting Guides for Zeus x27 | Charged Up",
+    "ru": "Все Гайды по Стикер-Крафтам для Zeus x27 | Charged Up",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/usp-s-blueprint-line": {
+    "en": "How to Craft USP-S | Blueprint Line",
+    "ru": "Как создать USP-S | Blueprint Line",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/usp-s-monster-mashup-upgrade": {
+    "en": "How to Craft USP-S | Monster Mashup Upgrade",
+    "ru": "Как создать USP-S | Monster Mashup Upgrade",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/usp-s-royal-guard-fluxo-golden": {
+    "en": "How to Craft USP-S | Royal Guard Fluxo Golden",
+    "ru": "Как создать USP-S | Royal Guard Fluxo Golden",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/usp-s-torque-amkal": {
+    "en": "How to Craft USP-S | Torque Amkal edition",
+    "ru": "Как создать USP-S | Torque Amkal edition",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/usp-s-whiteout-purple-lightning": {
+    "en": "How to Craft USP-S | Whiteout Purple Lightning",
+    "ru": "Как создать USP-S | Whiteout Purple Lightning",
+    "keywords": []
+  },
+  "/topic/sticker-crafts/zeus-x27-charged-up-pikachu": {
+    "en": "How to Craft Zeus x27 | Charged Up Pikachu",
+    "ru": "Как создать Zeus x27 | Charged Up Pikachu",
+    "keywords": []
+  },
+  "/topic/stickers/10-year-birthday-sticker-capsule": {
+    "en": "10 Year Birthday Stickers",
+    "ru": "Стикеры Десятилетнего Юбилея",
+    "keywords": []
+  },
+  "/topic/stickers/2020-rmr-challengers-sticker-capsule": {
+    "en": "2020 RMR Challengers Stickers",
+    "ru": "Стикеры 2020 RMR Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/2020-rmr-contenders-sticker-capsule": {
+    "en": "2020 RMR Contenders Stickers",
+    "ru": "Стикеры 2020 RMR Contenders",
+    "keywords": []
+  },
+  "/topic/stickers/2020-rmr-legends-sticker-capsule": {
+    "en": "2020 RMR Legends Stickers",
+    "ru": "Стикеры 2020 RMR Legends",
+    "keywords": []
+  },
+  "/topic/stickers/2021-community-sticker-capsule": {
+    "en": "2021 Community Stickers",
+    "ru": "Стикеры 2021 Community",
+    "keywords": []
+  },
+  "/topic/stickers/2025-community-stickers": {
+    "en": "2025 Community Stickers",
+    "ru": "Стикеры 2025 Community",
+    "keywords": []
+  },
+  "/topic/stickers/ambush-sticker-capsule": {
+    "en": "Ambush Stickers",
+    "ru": "Стикеры Ambush",
+    "keywords": []
+  },
+  "/topic/stickers/antwerp-2022-challengers-autograph-capsule": {
+    "en": "Antwerp 2022 Challengers Autographs",
+    "ru": "Автографы Antwerp 2022 Challengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/antwerp-2022-challengers-sticker-capsule": {
+    "en": "Antwerp 2022 Challengers Stickers",
+    "ru": "Стикеры Antwerp 2022 Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/antwerp-2022-champions-autograph-capsule": {
+    "en": "Antwerp 2022 Champions Autographs",
+    "ru": "Автографы Antwerp 2022 Champions",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/antwerp-2022-contenders-autograph-capsule": {
+    "en": "Antwerp 2022 Contenders Autographs",
+    "ru": "Автографы Antwerp 2022 Contenders",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/antwerp-2022-contenders-sticker-capsule": {
+    "en": "Antwerp 2022 Contenders Stickers",
+    "ru": "Стикеры Antwerp 2022 Contenders",
+    "keywords": []
+  },
+  "/topic/stickers/antwerp-2022-legends-autograph-capsule": {
+    "en": "Antwerp 2022 Legends Autographs",
+    "ru": "Автографы Antwerp 2022 Legends",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/antwerp-2022-legends-sticker-capsule": {
+    "en": "Antwerp 2022 Legends Stickers",
+    "ru": "Стикеры Antwerp 2022 Legends",
+    "keywords": []
+  },
+  "/topic/stickers/austin-2025-challengers-autograph-capsule": {
+    "en": "2025 Challengers Autograph Capsule",
+    "ru": "Стикеры Austin 2025 Challengers Autograph",
+    "keywords": []
+  },
+  "/topic/stickers/austin-2025-challengers-sticker-capsule": {
+    "en": "2025 Challengers Sticker Capsule",
+    "ru": "Стикеры Austin 2025 Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/austin-2025-champions-autograph-capsule": {
+    "en": "2025 Champions Autograph Capsule",
+    "ru": "Стикеры Austin 2025 Champions Autograph",
+    "keywords": []
+  },
+  "/topic/stickers/austin-2025-contenders-autograph-capsule": {
+    "en": "2025 Contenders Autograph Capsule",
+    "ru": "Стикеры Austin 2025 Contenders Autograph",
+    "keywords": []
+  },
+  "/topic/stickers/austin-2025-contenders-sticker-capsule": {
+    "en": "2025 Contenders Sticker Capsule",
+    "ru": "Стикеры Austin 2025 Contenders",
+    "keywords": []
+  },
+  "/topic/stickers/austin-2025-legends-autograph-capsule": {
+    "en": "2025 Legends Autograph Capsule",
+    "ru": "Стикеры Austin 2025 Legends Autograph",
+    "keywords": []
+  },
+  "/topic/stickers/austin-2025-legends-sticker-capsule": {
+    "en": "2025 Legends Sticker Capsule",
+    "ru": "Стикеры Austin 2025 Legends",
+    "keywords": []
+  },
+  "/topic/stickers/battlefield-2042-sticker-capsule": {
+    "en": "Battlefield 2042 Stickers",
+    "ru": "Стикеры Battlefield 2042",
+    "keywords": []
+  },
+  "/topic/stickers/berlin-2019-legends-autograph-capsule": {
+    "en": "Berlin 2019 Legends Autographs",
+    "ru": "Автографы Berlin 2019 Legends",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/berlin-2019-legends-holo-foil-sticker-capsule": {
+    "en": "Berlin 2019 Legends Stickers",
+    "ru": "Стикеры Berlin 2019 Legends",
+    "keywords": []
+  },
+  "/topic/stickers/berlin-2019-minor-challengers-autograph-capsule": {
+    "en": "Berlin 2019 Minor Challengers Autographs",
+    "ru": "Автографы Berlin 2019 Minor Challengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/berlin-2019-minor-challengers-holo-foil-sticker-capsule": {
+    "en": "Berlin 2019 Minor Challengers Stickers",
+    "ru": "Стикеры Berlin 2019 Minor Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/berlin-2019-returning-challengers-autograph-capsule": {
+    "en": "Berlin 2019 Returning Challengers Autographs",
+    "ru": "Автографы Berlin 2019 Returning Challengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/berlin-2019-returning-challengers-holo-foil-sticker-capsule": {
+    "en": "Berlin 2019 Returning Challengers Stickers",
+    "ru": "Стикеры Berlin 2019 Returning Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/bestiary-sticker-capsule": {
+    "en": "Bestiary Stickers",
+    "ru": "Стикеры «Бестиарий»",
+    "keywords": []
+  },
+  "/topic/stickers/broken-fang-sticker-capsule": {
+    "en": "Broken Fang Stickers",
+    "ru": "Стикеры «Сломанный клык»",
+    "keywords": []
+  },
+  "/topic/stickers/budapest-2025-challengers-autograph-capsule": {
+    "en": "Budapest 2025 Challengers Autograph Capsule",
+    "ru": "Стикеры Budapest 2025 Challengers Autograph",
+    "keywords": []
+  },
+  "/topic/stickers/budapest-2025-challengers-sticker-capsule": {
+    "en": "Budapest 2025 Challengers Sticker Capsule",
+    "ru": "Стикеры Budapest 2025 Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/budapest-2025-contenders-autograph-capsule": {
+    "en": "Budapest 2025 Contenders Autograph Capsule",
+    "ru": "Стикеры Budapest 2025 Contenders Autograph",
+    "keywords": []
+  },
+  "/topic/stickers/budapest-2025-contenders-sticker-capsule": {
+    "en": "Budapest 2025 Contenders Sticker Capsule",
+    "ru": "Стикеры Budapest 2025 Contenders",
+    "keywords": []
+  },
+  "/topic/stickers/budapest-2025-legends-autograph-capsule": {
+    "en": "Budapest 2025 Legends Autograph Capsule",
+    "ru": "Стикеры Budapest 2025 Legends Autograph",
+    "keywords": []
+  },
+  "/topic/stickers/budapest-2025-legends-sticker-capsule": {
+    "en": "Budapest 2025 Legends Sticker Capsule",
+    "ru": "Стикеры Budapest 2025 Legends",
+    "keywords": []
+  },
+  "/topic/stickers/character-craft-stickers": {
+    "en": "Character Craft Stickers",
+    "ru": "Стикеры Character Craft",
+    "keywords": []
+  },
+  "/topic/stickers/chicken-sticker-capsule": {
+    "en": "Community Sticker Capsule Stickers",
+    "ru": "Стикеры Community Sticker Capsule",
+    "keywords": []
+  },
+  "/topic/stickers/community-sticker-capsule-1": {
+    "en": "Community Sticker Capsule 1 Stickers",
+    "ru": "Стикеры Community Sticker Capsule 1",
+    "keywords": []
+  },
+  "/topic/stickers/community-sticker-capsule-2018": {
+    "en": "Community Sticker Capsule 2018 Stickers",
+    "ru": "Стикеры Community Sticker Capsule 2018",
+    "keywords": []
+  },
+  "/topic/stickers/copenhagen-2024-challengers-autograph-capsule": {
+    "en": "Copenhagen 2024 Challengers Autographs",
+    "ru": "Автографы Copenhagen 2024 Challengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/copenhagen-2024-challengers-sticker-capsule": {
+    "en": "Copenhagen 2024 Challengers Stickers",
+    "ru": "Стикеры Copenhagen 2024 Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/copenhagen-2024-champions-autograph-capsule": {
+    "en": "Copenhagen 2024 Champions Autographs",
+    "ru": "Автографы Copenhagen 2024 Champions",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/copenhagen-2024-contenders-autograph-capsule": {
+    "en": "Copenhagen 2024 Contenders Autographs",
+    "ru": "Автографы Copenhagen 2024 Contenders",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/copenhagen-2024-contenders-sticker-capsule": {
+    "en": "Copenhagen 2024 Contenders Stickers",
+    "ru": "Стикеры Copenhagen 2024 Contenders",
+    "keywords": []
+  },
+  "/topic/stickers/copenhagen-2024-legends-autograph-capsule": {
+    "en": "Copenhagen 2024 Legends Autograph",
+    "ru": "Автографы Copenhagen 2024 Legends",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/copenhagen-2024-legends-sticker-capsule": {
+    "en": "Copenhagen 2024 Legends Stickers",
+    "ru": "Стикеры Copenhagen 2024 Legends",
+    "keywords": []
+  },
+  "/topic/stickers/cs20-sticker-capsule": {
+    "en": "CS20 Stickers",
+    "ru": "Стикеры CS20",
+    "keywords": []
+  },
+  "/topic/stickers/elemental-craft-stickers": {
+    "en": "Elemental Craft Stickers",
+    "ru": "Стикеры Elemental Craft",
+    "keywords": []
+  },
+  "/topic/stickers/enfu-sticker-capsule": {
+    "en": "Enfu Stickers",
+    "ru": "Стикеры Enfu",
+    "keywords": []
+  },
+  "/topic/stickers/espionage-sticker-capsule": {
+    "en": "Espionage Stickers",
+    "ru": "Стикеры Espionage",
+    "keywords": []
+  },
+  "/topic/stickers/feral-predators-sticker-capsule": {
+    "en": "Feral Predators Stickers",
+    "ru": "Стикеры «Дикие хищники»",
+    "keywords": []
+  },
+  "/topic/stickers/half-life-alyx-sticker-capsule": {
+    "en": "Half-Life: Alyx Stickers",
+    "ru": "Стикеры Half-Life: Alyx",
+    "keywords": []
+  },
+  "/topic/stickers/halo-sticker-capsule": {
+    "en": "Halo Stickers",
+    "ru": "Стикеры Halo",
+    "keywords": []
+  },
+  "/topic/stickers/katowice-2019-legends-autograph-capsule": {
+    "en": "Katowice 2019 Legends Autographs",
+    "ru": "Автографы Katowice 2019 Legends",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/katowice-2019-legends-holo-foil-sticker-capsule": {
+    "en": "Stickers",
+    "ru": "Стикеры",
+    "keywords": []
+  },
+  "/topic/stickers/katowice-2019-minor-challengers-autograph-capsule": {
+    "en": "Katowice 2019 Minor Challengers Autographs",
+    "ru": "Автографы Katowice 2019 Minor Challengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/katowice-2019-minor-challengers-holo-foil-sticker-capsule": {
+    "en": "Katowice 2019 Minor Challengers Stickers",
+    "ru": "Стикеры Katowice 2019 Minor Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/katowice-2019-returning-challengers-autograph-capsule": {
+    "en": "Katowice 2019 Returning Challengers Autographs",
+    "ru": "Автографы Katowice 2019 Returning Challengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/katowice-2019-returning-challengers-holo-foil-sticker-capsule": {
+    "en": "Katowice 2019 Returning Challengers Stickers",
+    "ru": "Стикеры Katowice 2019 Returning Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/london-2018-legends-autograph-capsule": {
+    "en": "London 2018 Legends Autographs",
+    "ru": "Автографы London 2018 Legends",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/london-2018-legends-holo-foil-sticker-capsule": {
+    "en": "London 2018 Legends tickers",
+    "ru": "Стикеры London 2018 Legends",
+    "keywords": []
+  },
+  "/topic/stickers/london-2018-minor-challengers-autograph-capsule": {
+    "en": "London 2018 Minor Challengers Autographs",
+    "ru": "Автографы London 2018 Minor Challengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/london-2018-minor-challengers-holo-foil-sticker-capsule": {
+    "en": "London 2018 Minor Challengers Stickers",
+    "ru": "Стикеры London 2018 Minor Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/london-2018-returning-challengers-autograph-capsule": {
+    "en": "London 2018 Returning Challengers Autographs",
+    "ru": "Автографы London 2018 Returning Challengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/london-2018-returning-challengers-holo-foil-sticker-capsule": {
+    "en": "London 2018 Returning Challengers Stickers",
+    "ru": "Стикеры London 2018 Returning Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/operation-riptide-sticker-capsule": {
+    "en": "Operation Riptide Stickers",
+    "ru": "Стикеры «Хищные воды»",
+    "keywords": []
+  },
+  "/topic/stickers/paris-2023-challengers-autograph-capsule": {
+    "en": "Paris 2023 Challengers Autographs",
+    "ru": "Автографы Paris 2023 Challengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/paris-2023-challengers-sticker-capsule": {
+    "en": "Paris 2023 Challengers Stickers",
+    "ru": "Стикеры Paris 2023 Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/paris-2023-champions-autograph-capsule": {
+    "en": "Paris 2023 Champions Autographs",
+    "ru": "Автографы Paris 2023 Champions",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/paris-2023-contenders-autograph-capsule": {
+    "en": "Paris 2023 Contenders Autographs",
+    "ru": "Автографы Paris 2023 Contenders",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/paris-2023-contenders-sticker-capsule": {
+    "en": "Paris 2023 Contenders Stickers",
+    "ru": "Стикеры Paris 2023 Contenders",
+    "keywords": []
+  },
+  "/topic/stickers/paris-2023-legends-autograph-capsule": {
+    "en": "Paris 2023 Legends Autographs",
+    "ru": "Автографы Paris 2023 Legends",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/paris-2023-legends-sticker-capsule": {
+    "en": "Paris 2023 Legends Stickers",
+    "ru": "Стикеры Paris 2023 Legends",
+    "keywords": []
+  },
+  "/topic/stickers/perfect-world-sticker-capsule-1": {
+    "en": "Perfect World 1 Stickers",
+    "ru": "Стикеры Perfect World 1",
+    "keywords": []
+  },
+  "/topic/stickers/perfect-world-sticker-capsule-2": {
+    "en": "Perfect World 2 Stickers",
+    "ru": "Стикеры Perfect World 2",
+    "keywords": []
+  },
+  "/topic/stickers/pinups-sticker-capsule": {
+    "en": "Pinups Stickers",
+    "ru": "Стикеры Pinups",
+    "keywords": []
+  },
+  "/topic/stickers/poorly-drawn-sticker-capsule": {
+    "en": "Poorly Drawn Stickers",
+    "ru": "Стикеры Poorly Drawn",
+    "keywords": []
+  },
+  "/topic/stickers/recoil-sticker-capsule": {
+    "en": "Recoil Stickers",
+    "ru": "Стикеры Recoil",
+    "keywords": []
+  },
+  "/topic/stickers/rio-2022-challengers-autograph-capsule": {
+    "en": "Rio 2022 Callengers Autographs",
+    "ru": "Автографы Rio 2022 Callengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/rio-2022-challengers-sticker-capsule": {
+    "en": "Rio 2022 Callengers Stickers",
+    "ru": "Стикеры Rio 2022 Callengers",
+    "keywords": []
+  },
+  "/topic/stickers/rio-2022-champions-autograph-capsule": {
+    "en": "Rio 2022 Champions Autographs",
+    "ru": "Автографы Rio 2022 Champions",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/rio-2022-contenders-autograph-capsule": {
+    "en": "Rio 2022 Сontenders Autographs",
+    "ru": "Автографы Rio 2022 Сontenders",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/rio-2022-contenders-sticker-capsule": {
+    "en": "Rio 2022 Сontenders Stickers",
+    "ru": "Стикеры Rio 2022 Сontenders",
+    "keywords": []
+  },
+  "/topic/stickers/rio-2022-legends-autograph-capsule": {
+    "en": "Rio 2022 Legends Autographs",
+    "ru": "Автографы Rio 2022 Legends",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/rio-2022-legends-sticker-capsule": {
+    "en": "Rio 2022 Legends Stickers",
+    "ru": "Стикеры Rio 2022 Legends",
+    "keywords": []
+  },
+  "/topic/stickers/riptide-surf-shop-sticker-capsule": {
+    "en": "Riptide Sutf Shop Stickers",
+    "ru": "Стикеры Riptide Surf Shop",
+    "keywords": []
+  },
+  "/topic/stickers/shanghai-2024-challengers-autograph-capsule": {
+    "en": "Shanghai 2024 Сhallengers Autographs",
+    "ru": "Автографы Shanghai 2024 Сhallengers",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/shanghai-2024-challengers-sticker-capsule": {
+    "en": "Shanghai 2024 Сhallengers Stickers",
+    "ru": "Стикеры Shanghai 2024 Сhallengers",
+    "keywords": []
+  },
+  "/topic/stickers/shanghai-2024-champions-autograph-capsule": {
+    "en": "Shanghai 2024 Champions Stickers",
+    "ru": "Автографы Shanghai 2024 Champions",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/shanghai-2024-contenders-autograph-capsule": {
+    "en": "Shanghai 2024 Contenders Autographs",
+    "ru": "Автографы Shanghai 2024 Contenders",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/shanghai-2024-contenders-sticker-capsule": {
+    "en": "Shanghai 2024 Contenders Stickers",
+    "ru": "Стикеры Shanghai 2024 Contenders",
+    "keywords": []
+  },
+  "/topic/stickers/shanghai-2024-legends-autograph-capsule": {
+    "en": "Shanghai 2024 Legends Autographs",
+    "ru": "Автографы Shanghai 2024 Legends",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/shanghai-2024-legends-sticker-capsule": {
+    "en": "Shanghai 2024 Legends Stickers",
+    "ru": "Стикеры Shanghai 2024 Legends",
+    "keywords": []
+  },
+  "/topic/stickers/shattered-web-sticker-capsule": {
+    "en": "Shattered Web Stickers",
+    "ru": "Стикеры «Расколотая сеть»",
+    "keywords": []
+  },
+  "/topic/stickers/skill-groups-sticker-capsule": {
+    "en": "Skill Groups Stickers",
+    "ru": "Стикеры Skill Groups",
+    "keywords": []
+  },
+  "/topic/stickers/slid3-sticker-capsule": {
+    "en": "Slid3 Stickers",
+    "ru": "Стикеры Slid3",
+    "keywords": []
+  },
+  "/topic/stickers/sticker-capsule": {
+    "en": "Stickers from the Sticker Capsule",
+    "ru": "Стикеры из Sticker Capsule",
+    "keywords": []
+  },
+  "/topic/stickers/sticker-capsule-2": {
+    "en": "Stickers from the Sticker Capsule 2",
+    "ru": "Стикеры из Sticker Capsule 2",
+    "keywords": []
+  },
+  "/topic/stickers/stockholm-2021-challengers-sticker-capsule": {
+    "en": "Stockholm 2021 Challengers Stickers",
+    "ru": "Стикеры Stockholm 2021 Challengers",
+    "keywords": []
+  },
+  "/topic/stickers/stockholm-2021-champions-autograph-capsule": {
+    "en": "Stockholm 2021 Champions Autographs",
+    "ru": "Автографы Stockholm 2021 Champions",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/stockholm-2021-contenders-sticker-capsule": {
+    "en": "Stockholm 2021 Contenders Stickers",
+    "ru": "Стикеры Stockholm 2021 Contenders",
+    "keywords": []
+  },
+  "/topic/stickers/stockholm-2021-finalists-autograph-capsule": {
+    "en": "Stockholm 2021 Finalists Autographs",
+    "ru": "Автографы Stockholm 2021 Finalists",
+    "keywords": [
+      "стикеры",
+      "stickers"
+    ]
+  },
+  "/topic/stickers/stockholm-2021-legends-sticker-capsule": {
+    "en": "Stockholm 2021 Legends Stickers",
+    "ru": "Стикеры Stockholm 2021 Legends",
+    "keywords": []
+  },
+  "/topic/stickers/sugarface-2-stickers": {
+    "en": "Sugarface Stickers",
+    "ru": "Стикеры Sugarface",
+    "keywords": []
+  },
+  "/topic/stickers/sugarface-sticker-capsule": {
+    "en": "Sugarface Stickers",
+    "ru": "Стикеры Sugarface",
+    "keywords": []
+  },
+  "/topic/stickers/team-roles-sticker-capsule": {
+    "en": "Team Roles Stickers",
+    "ru": "Стикеры Team Roles",
+    "keywords": []
+  },
+  "/topic/stickers/the-boardroom-sticker-capsule": {
+    "en": "The Boardroom Stickers",
+    "ru": "Стикеры The Boardroom",
+    "keywords": []
+  },
+  "/topic/stickers/warhammer-40000-adeptus-astartes-sticker-capsule": {
+    "en": "Warhammer 40,000 Adeptus Astartes Stickers",
+    "ru": "Стикеры «Warhammer 40,000: Adeptus Astartes»",
+    "keywords": []
+  },
+  "/topic/stickers/warhammer-40000-imperium-sticker-capsule": {
+    "en": "Warhammer 40,000 Imperium Stickers",
+    "ru": "Стикеры «Warhammer 40,000: Imperium»",
+    "keywords": []
+  },
+  "/topic/stickers/warhammer-40000-sticker-capsule": {
+    "en": "Warhammer 40000 Stickers",
+    "ru": "Стикеры Warhammer 40000",
+    "keywords": []
+  },
+  "/topic/stickers/warhammer-40000-traitor-astartes-sticker-capsule": {
+    "en": "Warhammer 40,000 Traitor Astartes Stickers",
+    "ru": "Стикеры «Warhammer 40,000: Traitor Astartes»",
+    "keywords": []
+  },
+  "/topic/stickers/warhammer-40000-xenos-sticker-capsule": {
+    "en": "Warhammer 40,000 Xenose Stickers",
+    "ru": "Стикеры «Warhammer 40,000: Xenos»",
+    "keywords": []
+  }
+}

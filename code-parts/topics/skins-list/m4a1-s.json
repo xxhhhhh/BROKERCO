@@ -1,0 +1,415 @@
+{
+  "Liquidation": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/liquidation.webp",
+    "name": "M4A1-S | Liquidation",
+    "color": [
+      "Purple",
+      "Blue"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Solitude": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/solitude.webp",
+    "name": "M4A1-S | Solitude",
+    "color": [
+      "Blue",
+      "White"
+    ],
+    "collection": "Limited Edition Item"
+  },
+  "Vaporwave": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/vaporwave.webp",
+    "name": "M4A1-S | Vaporwave",
+    "color": [
+      "Pink",
+      "Purple",
+      "White"
+    ],
+    "case": "Gallery Case"
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/fade.webp",
+    "name": "M4A1-S | Fade",
+    "color": [
+      "Pink",
+      "Purple"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Printstream": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/printstream.webp",
+    "name": "M4A1-S | Printstream",
+    "color": [
+      "White"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Mecha Industries": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/mecha-industries.webp",
+    "name": "M4A1-S | Mecha Industries",
+    "color": [
+      "White"
+    ],
+    "case": "Gamma Case"
+  },
+  "Briefing": {
+    "class": "blue",
+    "image": "/img/skins/m4a1-s/briefing.webp",
+    "name": "M4A1-S | Briefing",
+    "color": [
+      "Gray"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Control Panel": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/control-panel.webp",
+    "name": "M4A1-S | Control Panel",
+    "color": [
+      "Blue",
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Basilisk": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/basilisk.webp",
+    "name": "M4A1-S | Basilisk",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Dark Water": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/dark-water.webp",
+    "name": "M4A1-S | Dark Water",
+    "color": [
+      "Gray"
+    ],
+    "case": "CS:GO Weapon Case"
+  },
+  "Mud-Spec": {
+    "class": "lblue",
+    "image": "/img/skins/m4a1-s/mud-spec.webp",
+    "name": "M4A1-S | Mud-Spec",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "VariCamo": {
+    "class": "blue",
+    "image": "/img/skins/m4a1-s/varicamo.webp",
+    "name": "M4A1-S | VariCamo",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Fizzy POP": {
+    "class": "blue",
+    "image": "/img/skins/m4a1-s/fizzy-pop.webp",
+    "name": "M4A1-S | Fizzy POP",
+    "color": [],
+    "collection": "The 2021 Train Collection"
+  },
+  "Welcome to the Jungle": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/welcome-to-the-jungle.webp",
+    "name": "M4A1-S | Welcome to the Jungle",
+    "color": [
+      "Pink"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Cyrex": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/cyrex.webp",
+    "name": "M4A1-S | Cyrex",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Night Terror": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/night-terror.webp",
+    "name": "M4A1-S | Night Terror",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Blood Tiger": {
+    "class": "blue",
+    "image": "/img/skins/m4a1-s/blood-tiger.webp",
+    "name": "M4A1-S | Blood Tiger",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "case": "CS:GO Weapon Case 2"
+  },
+  "Hot Rod": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/hot-rod.webp",
+    "name": "M4A1-S | Hot Rod",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Atomic Alloy": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/atomic-alloy.webp",
+    "name": "M4A1-S | Atomic Alloy",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Leaded Glass": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/leaded-glass.webp",
+    "name": "M4A1-S | Leaded Glass",
+    "color": [
+      "Orange"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Golden Coil": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/golden-coil.webp",
+    "name": "M4A1-S | Golden Coil",
+    "color": [
+      "Golden",
+      "Yellow"
+    ],
+    "case": "Shadow Case"
+  },
+  "Nitro": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/nitro.webp",
+    "name": "M4A1-S | Nitro",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Player Two": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/player-two.webp",
+    "name": "M4A1-S | Player Two",
+    "color": [
+      "Blue",
+      "Orange"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Chantico's Fire": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/chantico-fire.webp",
+    "name": "M4A1-S | Chantico's Fire",
+    "color": [
+      "Red",
+      "Yellow"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Knight": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/knight.webp",
+    "name": "M4A1-S | Knight",
+    "color": [
+      "Black",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Imminent Danger": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/imminent-danger.webp",
+    "name": "M4A1-S | Imminent Danger",
+    "color": [],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Boreal Forest": {
+    "class": "lblue",
+    "image": "/img/skins/m4a1-s/boreal-forest.webp",
+    "name": "M4A1-S | Boreal Forest",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Moss Quartz": {
+    "class": "lblue",
+    "image": "/img/skins/m4a1-s/moss-quartz.webp",
+    "name": "M4A1-S | Moss Quartz",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Flashback": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/flashback.webp",
+    "name": "M4A1-S | Flashback",
+    "color": [
+      "Green"
+    ],
+    "case": "Glove Case"
+  },
+  "Emphorosaur-S": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/emphorosaur.webp",
+    "name": "M4A1-S | Emphorosaur-S",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "case": "Revolution Case"
+  },
+  "Icarus Fell": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/icarus-fell.webp",
+    "name": "M4A1-S | Icarus Fell",
+    "color": [
+      "Black",
+      "Cyan"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Nightmare": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/nightmare.webp",
+    "name": "M4A1-S | Nightmare",
+    "color": [
+      "Blue",
+      "Cyan"
+    ],
+    "case": "Horizon Case"
+  },
+  "Bright Water": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/bright-water.webp",
+    "name": "M4A1-S | Bright Water",
+    "color": [
+      "Blue"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Guardian": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/guardian.webp",
+    "name": "M4A1-S | Guardian",
+    "color": [
+      "Blue"
+    ],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Master Piece": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/master-piece.webp",
+    "name": "M4A1-S | Master Piece",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Hyper Beast": {
+    "class": "red",
+    "image": "/img/skins/m4a1-s/hyper-beast.webp",
+    "name": "M4A1-S | Hyper Beast",
+    "color": [
+      "Blue",
+      "Purple"
+    ],
+    "case": "Chroma 2 Case"
+  },
+  "Blue Phosphor": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/blue-phosphor.webp",
+    "name": "M4A1-S | Blue Phosphor",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Black Lotus": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/black-lotus.webp",
+    "name": "M4A1-S | Black Lotus",
+    "color": [
+      "Blue",
+      "Purple"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Decimator": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/deciminator.webp",
+    "name": "M4A1-S | Decimator",
+    "color": [
+      "Blue",
+      "Pink",
+      "Purple"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Wash me plz": {
+    "class": "lblue",
+    "image": "/img/skins/m4a1-s/wash-me-plz.webp",
+    "name": "M4A1-S | Wash me plz",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Stratosphere": {
+    "class": "pink",
+    "image": "/img/skins/m4a1-s/stratosphere.webp",
+    "name": "M4A1-S | Stratosphere",
+    "color": [
+      "Purple"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Glitched Paint": {
+    "class": "purple",
+    "image": "/img/skins/m4a1-s/glitched-paint.webp",
+    "name": "M4A1-S | Glitched Paint",
+    "color": [
+      "Pink"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Rose Hex": {
+    "class": "blue",
+    "image": "/img/skins/m4a1-s/rose-hex.webp",
+    "name": "M4A1-S | Rose Hex",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Radiant Collection"
+  }
+}

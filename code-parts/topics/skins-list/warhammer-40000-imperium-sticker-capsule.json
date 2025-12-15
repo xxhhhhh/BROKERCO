@@ -1,0 +1,110 @@
+{
+  "Rogue Trader": {
+    "class": "blue",
+    "name": "Sticker | Rogue Trader",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-rogue-trader.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-rogue-trader.webp"
+  },
+  "Adeptus Mechanicus 2": {
+    "class": "blue",
+    "name": "Sticker | Adeptus Mechanicus 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-adeptus-mechanicus-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-adeptus-mechanicus-2.webp"
+  },
+  "Adeptus Mechanicus 1": {
+    "class": "blue",
+    "name": "Sticker | Adeptus Mechanicus 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-adeptus-mechanicus-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-adeptus-mechanicus-1.webp"
+  },
+  "Adeptus Titanicus 2": {
+    "class": "blue",
+    "name": "Sticker | Adeptus Titanicus 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-adeptus-titanicus-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-adeptus-titanicus-2.webp"
+  },
+  "Adeptus Titanicus 1": {
+    "class": "blue",
+    "name": "Sticker | Adeptus Titanicus 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-adeptus-titanicus-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-adeptus-titanicus-1.webp"
+  },
+  "Catachan": {
+    "class": "blue",
+    "name": "Sticker | Catachan",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-catachan.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-catachan.webp"
+  },
+  "Adeptus Arbites": {
+    "class": "blue",
+    "name": "Sticker | Adeptus Arbites",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-adeptus-arbites.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-adeptus-arbites.webp"
+  },
+  "Sisters of Battle 2": {
+    "class": "blue",
+    "name": "Sticker | Sisters of Battle 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-sisters-of-battle-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-sisters-of-battle-2.webp"
+  },
+  "Sisters of Battle 1": {
+    "class": "blue",
+    "name": "Sticker | Sisters of Battle 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-sisters-of-battle-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-sisters-of-battle-1.webp"
+  },
+  "Officio Assassinorum": {
+    "class": "blue",
+    "name": "Sticker | Officio Assassinorum",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-officio-assassinorum.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-officio-assassinorum.webp"
+  },
+  "Adeptus Custodes 2": {
+    "class": "blue",
+    "name": "Sticker | Adeptus Custodes 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-adeptus-custodes-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-adeptus-custodes-2.webp"
+  },
+  "Adeptus Custodes 1": {
+    "class": "blue",
+    "name": "Sticker | Adeptus Custodes 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-adeptus-custodes-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-adeptus-custodes-1.webp"
+  },
+  "Cadia": {
+    "class": "blue",
+    "name": "Sticker | Cadia",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-cadia.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-cadia.webp"
+  },
+  "Astra Militarum 2": {
+    "class": "blue",
+    "name": "Sticker | Astra Militarum 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-astra-militarum-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-astra-militarum-2.webp"
+  },
+  "Astra Militarum 1": {
+    "class": "blue",
+    "name": "Sticker | Astra Militarum 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-astra-militarum-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-astra-militarum-1.webp"
+  },
+  "Imperial Knights": {
+    "class": "blue",
+    "name": "Sticker | Imperial Knights",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-imperial-knights.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-imperial-knights.webp"
+  },
+  "Inquisition": {
+    "class": "blue",
+    "name": "Sticker | Inquisition",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-inquisition.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-inquisition.webp"
+  },
+  "Ecclesiarchy": {
+    "class": "blue",
+    "name": "Sticker | Ecclesiarchy",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-ecclesiarchy.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-ecclesiarchy.webp"
+  }
+}

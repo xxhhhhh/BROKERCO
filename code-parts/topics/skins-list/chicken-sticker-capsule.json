@@ -1,0 +1,104 @@
+{
+  "Big Clucks (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Big Clucks (Foil)",
+    "image": "/img/skins/stickers/chicken/sticker-big-clucks-foil.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-big-clucks-foil.png"
+  },
+  "Roosty Boosty (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Roosty Boosty (Foil)",
+    "image": "/img/skins/stickers/chicken/sticker-roosty-boosty-foil.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-roosty-boosty-foil.png"
+  },
+  "Bonehead (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Bonehead (Holo)",
+    "image": "/img/skins/stickers/chicken/sticker-bonehead-holo.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-bonehead-holo.png"
+  },
+  "Nest Egg (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Nest Egg (Holo)",
+    "image": "/img/skins/stickers/chicken/sticker-nest-egg-holo.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-nest-egg-holo.png"
+  },
+  "Hot Wings (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Hot Wings (Holo)",
+    "image": "/img/skins/stickers/chicken/sticker-hot-wings-holo.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-hot-wings-holo.png"
+  },
+  "Fowl Play (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Fowl Play (Holo)",
+    "image": "/img/skins/stickers/chicken/sticker-fowl-play-holo.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-fowl-play-holo.png"
+  },
+  "Double Dip (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Double Dip (Holo)",
+    "image": "/img/skins/stickers/chicken/sticker-double-dip-holo.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-double-dip-holo.png"
+  },
+  "Hot Wings": {
+    "class": "blue",
+    "name": "Sticker | Hot Wings",
+    "image": "/img/skins/stickers/chicken/sticker-hot-wings.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-hot-wings.png"
+  },
+  "Bonehead": {
+    "class": "blue",
+    "name": "Sticker | Bonehead",
+    "image": "/img/skins/stickers/chicken/sticker-bonehead.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-bonehead.png"
+  },
+  "Fowl Play": {
+    "class": "blue",
+    "name": "Sticker | Fowl Play",
+    "image": "/img/skins/stickers/chicken/sticker-fowl-play.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-fowl-play.png"
+  },
+  "Heads Up": {
+    "class": "blue",
+    "name": "Sticker | Heads Up",
+    "image": "/img/skins/stickers/chicken/sticker-heads-up.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-heads-up.png"
+  },
+  "Nest Egg": {
+    "class": "blue",
+    "name": "Sticker | Nest Egg",
+    "image": "/img/skins/stickers/chicken/sticker-nest-egg.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-nest-egg.png"
+  },
+  "Roosty Boosty": {
+    "class": "blue",
+    "name": "Sticker | Roosty Boosty",
+    "image": "/img/skins/stickers/chicken/sticker-roosty-boosty.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-roosty-boosty.png"
+  },
+  "What What": {
+    "class": "blue",
+    "name": "Sticker | What What",
+    "image": "/img/skins/stickers/chicken/sticker-what-what.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-what-what.png"
+  },
+  "Big Clucks": {
+    "class": "blue",
+    "name": "Sticker | Big Clucks",
+    "image": "/img/skins/stickers/chicken/sticker-big-clucks.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-big-clucks.png"
+  },
+  "Double Dip": {
+    "class": "blue",
+    "name": "Sticker | Double Dip",
+    "image": "/img/skins/stickers/chicken/sticker-double-dip.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-double-dip.png"
+  },
+  "BukAWP": {
+    "class": "blue",
+    "name": "Sticker | BukAWP",
+    "image": "/img/skins/stickers/chicken/sticker-bukawp.png",
+    "imageOG": "/img/skins/stickers/chicken/small/sticker-bukawp.png"
+  }
+}

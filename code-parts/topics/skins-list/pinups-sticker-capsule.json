@@ -1,0 +1,74 @@
+{
+  "Ivette (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Ivette (Holo)",
+    "image": "/img/skins/stickers/pinups/sticker-ivette-holo.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-ivette-holo.png"
+  },
+  "Tamara (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Tamara (Holo)",
+    "image": "/img/skins/stickers/pinups/sticker-tamara-holo.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-tamara-holo.png"
+  },
+  "Kimberly (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Kimberly (Holo)",
+    "image": "/img/skins/stickers/pinups/sticker-kimberly-holo.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-kimberly-holo.png"
+  },
+  "Sherry (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Sherry (Holo)",
+    "image": "/img/skins/stickers/pinups/sticker-sherry-holo.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-sherry-holo.png"
+  },
+  "Merietta (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Merietta (Holo)",
+    "image": "/img/skins/stickers/pinups/sticker-merietta-holo.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-merietta-holo.png"
+  },
+  "Martha (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Martha (Holo)",
+    "image": "/img/skins/stickers/pinups/sticker-martha-holo.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-martha-holo.png"
+  },
+  "Kimberly": {
+    "class": "blue",
+    "name": "Sticker | Kimberly",
+    "image": "/img/skins/stickers/pinups/sticker-kimberly.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-kimberly.png"
+  },
+  "Tamara": {
+    "class": "blue",
+    "name": "Sticker | Tamara",
+    "image": "/img/skins/stickers/pinups/sticker-tamara.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-tamara.png"
+  },
+  "Ivette": {
+    "class": "blue",
+    "name": "Sticker | Ivette",
+    "image": "/img/skins/stickers/pinups/sticker-ivette.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-ivette.png"
+  },
+  "Sherry": {
+    "class": "blue",
+    "name": "Sticker | Sherry",
+    "image": "/img/skins/stickers/pinups/sticker-sherry.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-sherry.png"
+  },
+  "Merietta": {
+    "class": "blue",
+    "name": "Sticker | Merietta",
+    "image": "/img/skins/stickers/pinups/sticker-merietta.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-merietta.png"
+  },
+  "Martha": {
+    "class": "blue",
+    "name": "Sticker | Martha",
+    "image": "/img/skins/stickers/pinups/sticker-martha.png",
+    "imageOG": "/img/skins/stickers/pinups/small/sticker-martha.png"
+  }
+}

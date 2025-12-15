@@ -1,0 +1,411 @@
+{
+  "Trigger Discipline": {
+    "class": "blue",
+    "image": "/img/skins/aug/trigger-discipline.webp",
+    "name": "AUG | Trigger Discipline",
+    "color": [
+      "Gray"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Lil' Pig": {
+    "class": "pink",
+    "image": "/img/skins/aug/lil-pig.webp",
+    "name": "AUG | Lil' Pig",
+    "color": [
+      "Golden",
+      "Red"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Steel Sentinel": {
+    "class": "lblue",
+    "image": "/img/skins/aug/steel-sentinel.webp",
+    "name": "AUG | Steel Sentinel",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Akihabara Accept": {
+    "class": "red",
+    "image": "/img/skins/aug/akihabara-accept.webp",
+    "name": "AUG | Akihabara Accept",
+    "color": [
+      "Purple",
+      "White"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Arctic Wolf": {
+    "class": "purple",
+    "image": "/img/skins/aug/arctic-wolf.webp",
+    "name": "AUG | Arctic Wolf",
+    "color": [
+      "Gray",
+      "White"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Torque": {
+    "class": "purple",
+    "image": "/img/skins/aug/torque.webp",
+    "name": "AUG | Torque",
+    "color": [
+      "Black",
+      "White",
+      "Yellow"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Wings": {
+    "class": "blue",
+    "image": "/img/skins/aug/wings.webp",
+    "name": "AUG | Wings",
+    "color": [
+      "Black",
+      "Gray",
+      "White"
+    ],
+    "case": "CS:GO Weapon Case"
+  },
+  "Luxe Trim": {
+    "class": "blue",
+    "image": "/img/skins/aug/luxe-trim.webp",
+    "name": "AUG | Luxe Trim",
+    "color": [
+      "Black"
+    ],
+    "case": "Gallery Case"
+  },
+  "Plague": {
+    "class": "blue",
+    "image": "/img/skins/aug/plague.webp",
+    "name": "AUG | Plague",
+    "color": [
+      "Gray"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "Tom Cat": {
+    "class": "blue",
+    "image": "/img/skins/aug/tom-cat.webp",
+    "name": "AUG | Tom Cat",
+    "color": [
+      "Gray"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Spalted Wood": {
+    "class": "lblue",
+    "image": "/img/skins/aug/spalted-wood.webp",
+    "name": "AUG | Spalted Wood",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Copperhead": {
+    "class": "blue",
+    "image": "/img/skins/aug/copperhead.webp",
+    "name": "AUG | Copperhead",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Dust Collection"
+  },
+  "Daedalus": {
+    "class": "white",
+    "image": "/img/skins/aug/daedalus.webp",
+    "name": "AUG | Daedalus",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Random Access": {
+    "class": "purple",
+    "image": "/img/skins/aug/random-access.webp",
+    "name": "AUG | Random Access",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Syd Mead": {
+    "class": "pink",
+    "image": "/img/skins/aug/syd-mead.webp",
+    "name": "AUG | Syd Mead",
+    "color": [
+      "Red"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Hot Rod": {
+    "class": "blue",
+    "image": "/img/skins/aug/hot-rod.webp",
+    "name": "AUG | Hot Rod",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Assault Collection"
+  },
+  "Snake Pit": {
+    "class": "white",
+    "image": "/img/skins/aug/snake-pit.webp",
+    "name": "AUG | Snake Pit",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Bengal Tiger": {
+    "class": "pink",
+    "image": "/img/skins/aug/bengal-tiger.webp",
+    "name": "AUG | Bengal Tiger",
+    "color": [
+      "Orange",
+      "White"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Radiation Hazard": {
+    "class": "lblue",
+    "image": "/img/skins/aug/radiation-hazard.webp",
+    "name": "AUG | Radiation Hazard",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Sand Storm": {
+    "class": "purple",
+    "image": "/img/skins/aug/sand-storm.webp",
+    "name": "AUG | Sand Storm",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Flame Jörmungandr": {
+    "class": "purple",
+    "image": "/img/skins/aug/flame-jormungandr.webp",
+    "name": "AUG | Flame Jörmungandr",
+    "color": [
+      "Brown",
+      "Orange"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Stymphalian": {
+    "class": "pink",
+    "image": "/img/skins/aug/stymphalian.webp",
+    "name": "AUG | Stymphalian",
+    "color": [
+      "Brown",
+      "Orange"
+    ],
+    "case": "Clutch Case"
+  },
+  "Triqua": {
+    "class": "blue",
+    "image": "/img/skins/aug/triqua.webp",
+    "name": "AUG | Triqua",
+    "color": [
+      "Gray",
+      "Orange"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Sweeper": {
+    "class": "white",
+    "image": "/img/skins/aug/sweeper.webp",
+    "name": "AUG | Sweeper",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Condemned": {
+    "class": "lblue",
+    "image": "/img/skins/aug/condemned.webp",
+    "name": "AUG | Condemned",
+    "color": [
+      "Gray",
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Amber Slipstream": {
+    "class": "blue",
+    "image": "/img/skins/aug/amber-slipstream.webp",
+    "name": "AUG | Amber Slipstream",
+    "color": [
+      "Orange"
+    ],
+    "case": "Horizon Case"
+  },
+  "Amber Fade": {
+    "class": "blue",
+    "image": "/img/skins/aug/amber-fade.webp",
+    "name": "AUG | Amber Fade",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Colony": {
+    "class": "white",
+    "image": "/img/skins/aug/colony.webp",
+    "name": "AUG | Colony",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Contractor": {
+    "class": "white",
+    "image": "/img/skins/aug/contractor.webp",
+    "name": "AUG | Contractor",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Chameleon": {
+    "class": "red",
+    "image": "/img/skins/aug/chameleon.webp",
+    "name": "AUG | Chameleon",
+    "color": [
+      "Black",
+      "Gray",
+      "Green"
+    ],
+    "case": "Operation Phoenix Weapon Case"
+  },
+  "Carved Jade": {
+    "class": "blue",
+    "image": "/img/skins/aug/carved-jade.webp",
+    "name": "AUG | Carved Jade",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Surveillance": {
+    "class": "white",
+    "image": "/img/skins/aug/surveillance.webp",
+    "name": "AUG | Surveillance",
+    "color": [
+      "Cyan"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Ricochet": {
+    "class": "blue",
+    "image": "/img/skins/aug/ricochet.webp",
+    "name": "AUG | Ricochet",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Revolver Case"
+  },
+  "Momentum": {
+    "class": "pink",
+    "image": "/img/skins/aug/momentum.webp",
+    "name": "AUG | Momentum",
+    "color": [
+      "Cyan",
+      "Red"
+    ],
+    "case": "Prisma Case"
+  },
+  "Death by Puppy": {
+    "class": "pink",
+    "image": "/img/skins/aug/death-by-puppy.webp",
+    "name": "AUG | Death by Puppy",
+    "color": [
+      "Cyan",
+      "Pink"
+    ],
+    "case": "CS20 Case"
+  },
+  "Fleet Flock": {
+    "class": "pink",
+    "image": "/img/skins/aug/fleet-flock.webp",
+    "name": "AUG | Fleet Flock",
+    "color": [
+      "Gray",
+      "White"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Storm": {
+    "class": "white",
+    "image": "/img/skins/aug/storm.webp",
+    "name": "AUG | Storm",
+    "color": [
+      "Cyan"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Midnight Lily": {
+    "class": "purple",
+    "image": "/img/skins/aug/midnight-lily.webp",
+    "name": "AUG | Midnight Lily",
+    "color": [],
+    "collection": "The St. Marc Collection"
+  },
+  "Aristocrat": {
+    "class": "purple",
+    "image": "/img/skins/aug/aristocrat.webp",
+    "name": "AUG | Aristocrat",
+    "color": [
+      "Blue"
+    ],
+    "case": "Gamma Case"
+  },
+  "Anodized Navy": {
+    "class": "blue",
+    "image": "/img/skins/aug/anodized-navy.webp",
+    "name": "AUG | Anodized Navy",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Alpha Collection"
+  },
+  "Navy Murano": {
+    "class": "white",
+    "image": "/img/skins/aug/navy-murano.webp",
+    "name": "AUG | Navy Murano",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Eye of Zapems": {
+    "class": "purple",
+    "image": "/img/skins/aug/eye-of-zapems.webp",
+    "name": "AUG | Eye of Zapems",
+    "color": [
+      "Cyan",
+      "Red"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Commando Company": {
+    "class": "white",
+    "image": "/img/skins/aug/commando-company.webp",
+    "name": "AUG | Commando Company",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

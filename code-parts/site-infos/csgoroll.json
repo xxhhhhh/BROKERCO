@@ -1,0 +1,49 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/matchbetting\" aria-label=\"Esports Betting\" class=\"cs2\"></a>",
+        "<a href=\"/csgo/matchbetting\" aria-label=\"Sport Betting\" class=\"sport\"></a>",
+        "<a href=\"/csgo/roulette\" aria-label=\"Roulette\" class=\"roulette\"></a>",
+        "<a href=\"/csgo/crash\" aria-label=\"Crash\" class=\"crash\"></a>",
+        "<a href=\"/csgo/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/csgo/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/csgo/plinko\" aria-label=\"Plinko\" class=\"plinko\"></a>",
+        "<a href=\"/csgo/dice\" aria-label=\"Dice\" class=\"dice\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Cardano\" class=\"cardano\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>",
+        "<a href=\"/\" aria-label=\"Google Pay\" class=\"gpay\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 4,
+        "Payments": 3.5,
+        "Playability": 4.5
+    },
+    "codes": {
+        "Free Else": "3 Free Cases"
+    },
+    "name": "CSGORoll",
+    "languages": "en, ru, tr, es",
+    "link": "https://csgoroll.com/r/CSGOBROKER",
+    "featuresContent": ["SignUpBonus", "DailyRewards", "ProgressiveRewards"],
+    "code": "csgobroker",
+    "Main Mode": "classic",
+    "Sites Alternatives"  : ["csgo500", "csgopolygon", "gamdom", "clashgg"]
+}

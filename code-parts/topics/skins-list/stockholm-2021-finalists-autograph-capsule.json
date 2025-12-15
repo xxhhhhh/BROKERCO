@@ -1,0 +1,632 @@
+{
+  "huNter- (Gold)": {
+    "class": "red",
+    "name": "huNter- (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-hunter-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-hunter-gold-stockholm-2021.png"
+  },
+  "sh1ro (Gold)": {
+    "class": "red",
+    "name": "sh1ro (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-sh1ro-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-sh1ro-gold-stockholm-2021.png"
+  },
+  "shox (Gold)": {
+    "class": "red",
+    "name": "shox (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-shox-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-shox-gold-stockholm-2021.png"
+  },
+  "HObbit (Gold)": {
+    "class": "red",
+    "name": "HObbit (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-hobbit-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-hobbit-gold-stockholm-2021.png"
+  },
+  "nexa (Gold)": {
+    "class": "red",
+    "name": "nexa (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-nexa-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-nexa-gold-stockholm-2021.png"
+  },
+  "drop (Gold)": {
+    "class": "red",
+    "name": "drop (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-drop-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-drop-gold-stockholm-2021.png"
+  },
+  "sjuush (Gold)": {
+    "class": "red",
+    "name": "sjuush (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-sjuush-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-sjuush-gold-stockholm-2021.png"
+  },
+  "apEX (Gold)": {
+    "class": "red",
+    "name": "apEX (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-apex-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-apex-gold-stockholm-2021.png"
+  },
+  "Kyojin (Gold)": {
+    "class": "red",
+    "name": "Kyojin (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-kyojin-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-kyojin-gold-stockholm-2021.png"
+  },
+  "misutaaa (Gold)": {
+    "class": "red",
+    "name": "misutaaa (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-misutaaa-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-misutaaa-gold-stockholm-2021.png"
+  },
+  "ZywOo (Gold)": {
+    "class": "red",
+    "name": "ZywOo (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-zywoo-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-zywoo-gold-stockholm-2021.png"
+  },
+  "device (Gold)": {
+    "class": "red",
+    "name": "device (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-device-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-device-gold-stockholm-2021.png"
+  },
+  "Plopski (Gold)": {
+    "class": "red",
+    "name": "Plopski (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-plopski-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-plopski-gold-stockholm-2021.png"
+  },
+  "REZ (Gold)": {
+    "class": "red",
+    "name": "REZ (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-rez-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-rez-gold-stockholm-2021.png"
+  },
+  "LNZ (Gold)": {
+    "class": "red",
+    "name": "LNZ (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-lnz-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-lnz-gold-stockholm-2021.png"
+  },
+  "hampus (Gold)": {
+    "class": "red",
+    "name": "hampus (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-hampus-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-hampus-gold-stockholm-2021.png"
+  },
+  "FL1T (Gold)": {
+    "class": "red",
+    "name": "FL1T (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-fl1t-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-fl1t-gold-stockholm-2021.png"
+  },
+  "Jame (Gold)": {
+    "class": "red",
+    "name": "Jame (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-jame-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-jame-gold-stockholm-2021.png"
+  },
+  "YEKINDAR (Gold)": {
+    "class": "red",
+    "name": "YEKINDAR (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-yekindar-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-yekindar-gold-stockholm-2021.png"
+  },
+  "buster (Gold)": {
+    "class": "red",
+    "name": "buster (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-buster-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-buster-gold-stockholm-2021.png"
+  },
+  "Qikert (Gold)": {
+    "class": "red",
+    "name": "Qikert (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-qikert-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-qikert-gold-stockholm-2021.png"
+  },
+  "yuurih (Gold)": {
+    "class": "red",
+    "name": "yuurih (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-yuurih-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-yuurih-gold-stockholm-2021.png"
+  },
+  "arT (Gold)": {
+    "class": "red",
+    "name": "arT (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-art-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-art-gold-stockholm-2021.png"
+  },
+  "VINI (Gold)": {
+    "class": "red",
+    "name": "VINI (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-vini-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-vini-gold-stockholm-2021.png"
+  },
+  "KSCERATO (Gold)": {
+    "class": "red",
+    "name": "KSCERATO (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-kscerato-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-kscerato-gold-stockholm-2021.png"
+  },
+  "interz (Gold)": {
+    "class": "red",
+    "name": "interz (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-interz-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-interz-gold-stockholm-2021.png"
+  },
+  "Ax1Le (Gold)": {
+    "class": "red",
+    "name": "Ax1Le (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-ax1le-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-ax1le-gold-stockholm-2021.png"
+  },
+  "nafany (Gold)": {
+    "class": "red",
+    "name": "nafany (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-nafany-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-nafany-gold-stockholm-2021.png"
+  },
+  "cadiaN (Gold)": {
+    "class": "red",
+    "name": "cadiaN (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-cadian-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-cadian-gold-stockholm-2021.png"
+  },
+  "refrezh (Gold)": {
+    "class": "red",
+    "name": "refrezh (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-refrezh-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-refrezh-gold-stockholm-2021.png"
+  },
+  "stavn (Gold)": {
+    "class": "red",
+    "name": "stavn (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-stavn-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-stavn-gold-stockholm-2021.png"
+  },
+  "TeSeS (Gold)": {
+    "class": "red",
+    "name": "TeSeS (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-teses-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-teses-gold-stockholm-2021.png"
+  },
+  "AMANEK (Gold)": {
+    "class": "red",
+    "name": "AMANEK (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-amanek-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-amanek-gold-stockholm-2021.png"
+  },
+  "JACKZ (Gold)": {
+    "class": "red",
+    "name": "JACKZ (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-jackz-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-jackz-gold-stockholm-2021.png"
+  },
+  "NiKo (Gold)": {
+    "class": "red",
+    "name": "NiKo (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-niko-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-niko-gold-stockholm-2021.png"
+  },
+  "NiKo (Holo)": {
+    "class": "purple",
+    "name": "NiKo (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-niko-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-niko-holo-stockholm-2021.png"
+  },
+  "sh1ro (Holo)": {
+    "class": "purple",
+    "name": "sh1ro (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-sh1ro-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-sh1ro-holo-stockholm-2021.png"
+  },
+  "device (Holo)": {
+    "class": "purple",
+    "name": "device (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-device-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-device-holo-stockholm-2021.png"
+  },
+  "REZ (Holo)": {
+    "class": "purple",
+    "name": "REZ (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-rez-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-rez-holo-stockholm-2021.png"
+  },
+  "ZywOo (Holo)": {
+    "class": "purple",
+    "name": "ZywOo (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-zywoo-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-zywoo-holo-stockholm-2021.png"
+  },
+  "buster (Holo)": {
+    "class": "purple",
+    "name": "buster (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-buster-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-buster-holo-stockholm-2021.png"
+  },
+  "cadiaN (Holo)": {
+    "class": "purple",
+    "name": "cadiaN (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-cadian-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-cadian-holo-stockholm-2021.png"
+  },
+  "shox (Holo)": {
+    "class": "purple",
+    "name": "shox (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-shox-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-shox-holo-stockholm-2021.png"
+  },
+  "HObbit (Holo)": {
+    "class": "purple",
+    "name": "HObbit (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-hobbit-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-hobbit-holo-stockholm-2021.png"
+  },
+  "arT (Holo)": {
+    "class": "purple",
+    "name": "arT (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-art-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-art-holo-stockholm-2021.png"
+  },
+  "apEX (Holo)": {
+    "class": "purple",
+    "name": "apEX (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-apex-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-apex-holo-stockholm-2021.png"
+  },
+  "LNZ (Holo)": {
+    "class": "purple",
+    "name": "LNZ (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-lnz-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-lnz-holo-stockholm-2021.png"
+  },
+  "stavn (Holo)": {
+    "class": "purple",
+    "name": "stavn (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-stavn-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-stavn-holo-stockholm-2021.png"
+  },
+  "huNter- (Holo)": {
+    "class": "purple",
+    "name": "huNter- (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-hunter-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-hunter-holo-stockholm-2021.png"
+  },
+  "nexa (Holo)": {
+    "class": "purple",
+    "name": "nexa (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-nexa-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-nexa-holo-stockholm-2021.png"
+  },
+  "Jame (Holo)": {
+    "class": "purple",
+    "name": "Jame (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-jame-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-jame-holo-stockholm-2021.png"
+  },
+  "interz (Holo)": {
+    "class": "purple",
+    "name": "interz (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-interz-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-interz-holo-stockholm-2021.png"
+  },
+  "JACKZ (Holo)": {
+    "class": "purple",
+    "name": "JACKZ (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-jackz-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-jackz-holo-stockholm-2021.png"
+  },
+  "refrezh (Holo)": {
+    "class": "purple",
+    "name": "refrezh (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-refrezh-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-refrezh-holo-stockholm-2021.png"
+  },
+  "AMANEK (Holo)": {
+    "class": "purple",
+    "name": "AMANEK (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-amanek-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-amanek-holo-stockholm-2021.png"
+  },
+  "drop (Holo)": {
+    "class": "purple",
+    "name": "drop (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-drop-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-drop-holo-stockholm-2021.png"
+  },
+  "yuurih (Holo)": {
+    "class": "purple",
+    "name": "yuurih (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-yuurih-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-yuurih-holo-stockholm-2021.png"
+  },
+  "Ax1Le (Holo)": {
+    "class": "purple",
+    "name": "Ax1Le (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-ax1le-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-ax1le-holo-stockholm-2021.png"
+  },
+  "misutaaa (Holo)": {
+    "class": "purple",
+    "name": "misutaaa (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-misutaaa-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-misutaaa-holo-stockholm-2021.png"
+  },
+  "nafany (Holo)": {
+    "class": "purple",
+    "name": "nafany (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-nafany-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-nafany-holo-stockholm-2021.png"
+  },
+  "Qikert (Holo)": {
+    "class": "purple",
+    "name": "Qikert (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-qikert-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-qikert-holo-stockholm-2021.png"
+  },
+  "KSCERATO (Holo)": {
+    "class": "purple",
+    "name": "KSCERATO (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-kscerato-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-kscerato-holo-stockholm-2021.png"
+  },
+  "FL1T (Holo)": {
+    "class": "purple",
+    "name": "FL1T (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-fl1t-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-fl1t-holo-stockholm-2021.png"
+  },
+  "VINI (Holo)": {
+    "class": "purple",
+    "name": "VINI (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-vini-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-vini-holo-stockholm-2021.png"
+  },
+  "sjuush (Holo)": {
+    "class": "purple",
+    "name": "sjuush (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-sjuush-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-sjuush-holo-stockholm-2021.png"
+  },
+  "YEKINDAR (Holo)": {
+    "class": "purple",
+    "name": "YEKINDAR (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-yekindar-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-yekindar-holo-stockholm-2021.png"
+  },
+  "Kyojin (Holo)": {
+    "class": "purple",
+    "name": "Kyojin (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-kyojin-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-kyojin-holo-stockholm-2021.png"
+  },
+  "hampus (Holo)": {
+    "class": "purple",
+    "name": "hampus (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-hampus-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-hampus-holo-stockholm-2021.png"
+  },
+  "Plopski (Holo)": {
+    "class": "purple",
+    "name": "Plopski (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-plopski-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-plopski-holo-stockholm-2021.png"
+  },
+  "TeSeS (Holo)": {
+    "class": "purple",
+    "name": "TeSeS (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-teses-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-teses-holo-stockholm-2021.png"
+  },
+  "HObbit": {
+    "class": "blue",
+    "name": "HObbit | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-hobbit-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-hobbit-stockholm-2021.png"
+  },
+  "REZ": {
+    "class": "blue",
+    "name": "REZ | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-rez-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-rez-stockholm-2021.png"
+  },
+  "NiKo": {
+    "class": "blue",
+    "name": "NiKo | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-niko-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-niko-stockholm-2021.png"
+  },
+  "LNZ": {
+    "class": "blue",
+    "name": "LNZ | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-lnz-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-lnz-stockholm-2021.png"
+  },
+  "nafany": {
+    "class": "blue",
+    "name": "nafany | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-nafany-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-nafany-stockholm-2021.png"
+  },
+  "apEX": {
+    "class": "blue",
+    "name": "apEX | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-apex-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-apex-stockholm-2021.png"
+  },
+  "device": {
+    "class": "blue",
+    "name": "device | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-device-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-device-stockholm-2021.png"
+  },
+  "Jame": {
+    "class": "blue",
+    "name": "Jame | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-jame-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-jame-stockholm-2021.png"
+  },
+  "drop": {
+    "class": "blue",
+    "name": "drop | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-drop-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-drop-stockholm-2021.png"
+  },
+  "cadiaN": {
+    "class": "blue",
+    "name": "cadiaN | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-cadian-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-cadian-stockholm-2021.png"
+  },
+  "TeSeS": {
+    "class": "blue",
+    "name": "TeSeS | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-teses-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-teses-stockholm-2021.png"
+  },
+  "sh1ro": {
+    "class": "blue",
+    "name": "sh1ro | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-sh1ro-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-sh1ro-stockholm-2021.png"
+  },
+  "buster": {
+    "class": "blue",
+    "name": "buster | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-buster-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-buster-stockholm-2021.png"
+  },
+  "huNter-": {
+    "class": "blue",
+    "name": "huNter- | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-hunter-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-hunter-stockholm-2021.png"
+  },
+  "hampus": {
+    "class": "blue",
+    "name": "hampus | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-hampus-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-hampus-stockholm-2021.png"
+  },
+  "yuurih": {
+    "class": "blue",
+    "name": "yuurih | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-yuurih-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-yuurih-stockholm-2021.png"
+  },
+  "nexa": {
+    "class": "blue",
+    "name": "nexa | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-nexa-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-nexa-stockholm-2021.png"
+  },
+  "shox": {
+    "class": "blue",
+    "name": "shox | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-shox-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-shox-stockholm-2021.png"
+  },
+  "arT": {
+    "class": "blue",
+    "name": "arT | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-art-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-art-stockholm-2021.png"
+  },
+  "JACKZ": {
+    "class": "blue",
+    "name": "JACKZ | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-jackz-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-jackz-stockholm-2021.png"
+  },
+  "ZywOo": {
+    "class": "blue",
+    "name": "ZywOo | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-zywoo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-zywoo-stockholm-2021.png"
+  },
+  "interz": {
+    "class": "blue",
+    "name": "interz | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-interz-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-interz-stockholm-2021.png"
+  },
+  "stavn": {
+    "class": "blue",
+    "name": "stavn | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-stavn-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-stavn-stockholm-2021.png"
+  },
+  "Ax1Le": {
+    "class": "blue",
+    "name": "Ax1Le | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-ax1le-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-ax1le-stockholm-2021.png"
+  },
+  "misutaaa": {
+    "class": "blue",
+    "name": "misutaaa | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-misutaaa-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-misutaaa-stockholm-2021.png"
+  },
+  "FL1T": {
+    "class": "blue",
+    "name": "FL1T | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-fl1t-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-fl1t-stockholm-2021.png"
+  },
+  "AMANEK": {
+    "class": "blue",
+    "name": "AMANEK | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-amanek-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-amanek-stockholm-2021.png"
+  },
+  "YEKINDAR": {
+    "class": "blue",
+    "name": "YEKINDAR | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-yekindar-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-yekindar-stockholm-2021.png"
+  },
+  "VINI": {
+    "class": "blue",
+    "name": "VINI | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-vini-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-vini-stockholm-2021.png"
+  },
+  "KSCERATO": {
+    "class": "blue",
+    "name": "KSCERATO | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-kscerato-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-kscerato-stockholm-2021.png"
+  },
+  "Kyojin": {
+    "class": "blue",
+    "name": "Kyojin | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-kyojin-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-kyojin-stockholm-2021.png"
+  },
+  "refrezh": {
+    "class": "blue",
+    "name": "refrezh | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-refrezh-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-refrezh-stockholm-2021.png"
+  },
+  "sjuush": {
+    "class": "blue",
+    "name": "sjuush | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-sjuush-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-sjuush-stockholm-2021.png"
+  },
+  "Plopski": {
+    "class": "blue",
+    "name": "Plopski | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-plopski-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-plopski-stockholm-2021.png"
+  },
+  "Qikert": {
+    "class": "blue",
+    "name": "Qikert | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-qikert-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-qikert-stockholm-2021.png"
+  }
+}

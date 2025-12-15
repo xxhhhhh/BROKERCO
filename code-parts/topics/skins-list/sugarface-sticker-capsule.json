@@ -1,0 +1,86 @@
+{
+  "Jack (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Jack (Holo)",
+    "image": "/img/skins/stickers/sugarface/sticker-jack-holo.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-jack-holo.png"
+  },
+  "Perry (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Perry (Holo)",
+    "image": "/img/skins/stickers/sugarface/sticker-perry-holo.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-perry-holo.png"
+  },
+  "Joan (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Joan (Holo)",
+    "image": "/img/skins/stickers/sugarface/sticker-joan-holo.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-joan-holo.png"
+  },
+  "Boris (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Boris (Holo)",
+    "image": "/img/skins/stickers/sugarface/sticker-boris-holo.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-boris-holo.png"
+  },
+  "Stan (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Stan (Holo)",
+    "image": "/img/skins/stickers/sugarface/sticker-stan-holo.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-stan-holo.png"
+  },
+  "Max (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Max (Holo)",
+    "image": "/img/skins/stickers/sugarface/sticker-max-holo.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-max-holo.png"
+  },
+  "Viggo (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Viggo (Holo)",
+    "image": "/img/skins/stickers/sugarface/sticker-viggo-holo.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-viggo-holo.png"
+  },
+  "Viggo": {
+    "class": "blue",
+    "name": "Sticker | Viggo",
+    "image": "/img/skins/stickers/sugarface/sticker-viggo.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-viggo.png"
+  },
+  "Jack": {
+    "class": "blue",
+    "name": "Sticker | Jack",
+    "image": "/img/skins/stickers/sugarface/sticker-jack.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-jack.png"
+  },
+  "Perry": {
+    "class": "blue",
+    "name": "Sticker | Perry",
+    "image": "/img/skins/stickers/sugarface/sticker-perry.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-perry.png"
+  },
+  "Max": {
+    "class": "blue",
+    "name": "Sticker | Max",
+    "image": "/img/skins/stickers/sugarface/sticker-max.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-max.png"
+  },
+  "Boris": {
+    "class": "blue",
+    "name": "Sticker | Boris",
+    "image": "/img/skins/stickers/sugarface/sticker-boris.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-boris.png"
+  },
+  "Joan": {
+    "class": "blue",
+    "name": "Sticker | Joan",
+    "image": "/img/skins/stickers/sugarface/sticker-joan.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-joan.png"
+  },
+  "Stan": {
+    "class": "blue",
+    "name": "Sticker | Stan",
+    "image": "/img/skins/stickers/sugarface/sticker-stan.png",
+    "imageOG": "/img/skins/stickers/sugarface/small/sticker-stan.png"
+  }
+}

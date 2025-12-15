@@ -1,0 +1,152 @@
+{
+  "Vanilla": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-vanilla.webp",
+    "name": "Ursus Knife",
+    "color": []
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-stained.webp",
+    "name": "Ursus Knife | Stained",
+    "color": ["Gray", "White"]
+  },
+  "Rust Coat": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-rust-coat.webp",
+    "name": "Ursus Knife | Rust Coat",
+    "color": []
+  },
+  "Rust Coat BS": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-rust-coat-bs.webp",
+    "name": "Ursus Knife | Rust Coat (Battle-Scarred)",
+    "color": ["Brown"]
+  },
+  "Damascus Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-damascus.webp",
+    "name": "Ursus Knife | Damascus Steel",
+    "color": ["White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-urban-masked.webp",
+    "name": "Ursus Knife | Urban Masked",
+    "color": ["Gray"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-scorched.webp",
+    "name": "Ursus Knife | Scorched",
+    "color": ["Black", "White"]
+  },
+  "Night Stripe": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-night-stripe.webp",
+    "name": "Ursus Knife | Night Stripe",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-blue-steel.webp",
+    "name": "Ursus Knife | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-safari-mesh.webp",
+    "name": "Ursus Knife | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-boreal.webp",
+    "name": "Ursus Knife | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-ddpat.webp",
+    "name": "Ursus Knife | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Doppler Ruby": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-ruby.webp",
+    "name": "Ursus Knife | Doppler Ruby",
+    "color": ["Red"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-knife-crimson-web.webp",
+    "name": "Ursus Knife | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-knife-slaughter.webp",
+    "name": "Ursus Knife | Slaughter",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-fade.webp",
+    "name": "Ursus Knife | Fade",
+    "color": []
+  },
+  "Marble Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-marble-fade.webp",
+    "name": "Ursus Knife | Marble Fade",
+    "color": []
+  },
+  "Tiger Tooth": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-tiger-tooth.webp",
+    "name": "Ursus Knife | Tiger Tooth",
+    "color": ["Orange", "Yellow"]
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-case-hardened.webp",
+    "name": "Ursus Knife | Case Hardened",
+    "color": []
+  },
+  "Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-doppler-phase-3.webp",
+    "name": "Ursus Knife | Doppler Phase 3",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-doppler-phase-4.webp",
+    "name": "Ursus Knife | Doppler Phase 4",
+    "color": ["Blue"]
+  },
+  "Doppler Sapphire": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-doppler-sapphire.webp",
+    "name": "Ursus Knife | Doppler Sapphire",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-doppler-phase-1.webp",
+    "name": "Ursus Knife | Doppler Phase 1",
+    "color": ["Purple"]
+  },
+  "Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-doppler-phase-2.webp",
+    "name": "Ursus Knife | Doppler Phase 2",
+    "color": ["Pink", "Purple"]
+  },
+  "Ultraviolet": {
+    "class": "red",
+    "image": "/img/skins/knives/ursus-ultraviolet.webp",
+    "name": "Ursus Knife | Ultraviolet",
+    "color": ["Black", "Purple"]
+  }
+}

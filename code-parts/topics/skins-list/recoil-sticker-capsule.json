@@ -1,0 +1,194 @@
+{
+  "Hello XM1014 (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello XM1014 (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-xm1014-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-xm1014-gold.webp"
+  },
+  "Hello AWP (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello AWP (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-awp-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-awp-gold.webp"
+  },
+  "Hello AK-47 (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello AK-47 (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-ak-47-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-ak-47-gold.webp"
+  },
+  "Hello M4A1-S (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello M4A1-S (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-m4a1-s-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-m4a1-s-gold.webp"
+  },
+  "Hello MAC-10 (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello MAC-10 (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-mac-10-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-mac-10-gold.webp"
+  },
+  "Hello CZ75-Auto (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello CZ75-Auto (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-cz75-auto-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-cz75-auto-gold.webp"
+  },
+  "Hello SG 553 (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello SG 553 (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-sg-553-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-sg-553-gold.webp"
+  },
+  "Hello MP7 (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello MP7 (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-mp7-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-mp7-gold.webp"
+  },
+  "Hello MP9 (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello MP9 (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-mp9-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-mp9-gold.webp"
+  },
+  "Hello FAMAS (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello FAMAS (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-famas-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-famas-gold.webp"
+  },
+  "Hello UMP-45 (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello UMP-45 (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-ump-45-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-ump-45-gold.webp"
+  },
+  "Hello M4A4 (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello M4A4 (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-m4a4-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-m4a4-gold.webp"
+  },
+  "Hello Galil AR (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello Galil AR (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-galil-ar-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-galil-ar-gold.webp"
+  },
+  "Hello P90 (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello P90 (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-p90-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-p90-gold.webp"
+  },
+  "Hello PP-Bizon (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello PP-Bizon (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-pp-bizon-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-pp-bizon-gold.webp"
+  },
+  "Hello AUG (Gold)": {
+    "class": "purple",
+    "name": "Sticker | Hello AUG (Gold)",
+    "image": "/img/skins/stickers/recoil/sticker-hello-aug-gold.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-aug-gold.webp"
+  },
+  "Hello FAMAS": {
+    "class": "blue",
+    "name": "Sticker | Hello FAMAS",
+    "image": "/img/skins/stickers/recoil/sticker-hello-famas.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-famas.webp"
+  },
+  "Hello XM1014": {
+    "class": "blue",
+    "name": "Sticker | Hello XM1014",
+    "image": "/img/skins/stickers/recoil/sticker-hello-xm1014.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-xm1014.webp"
+  },
+  "Hello AK-47": {
+    "class": "blue",
+    "name": "Sticker | Hello AK-47",
+    "image": "/img/skins/stickers/recoil/sticker-hello-ak-47.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-ak-47.webp"
+  },
+  "Hello P90": {
+    "class": "blue",
+    "name": "Sticker | Hello P90",
+    "image": "/img/skins/stickers/recoil/sticker-hello-p90.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-p90.webp"
+  },
+  "Hello AUG": {
+    "class": "blue",
+    "name": "Sticker | Hello AUG",
+    "image": "/img/skins/stickers/recoil/sticker-hello-aug.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-aug.webp"
+  },
+  "Hello Galil AR": {
+    "class": "blue",
+    "name": "Sticker | Hello Galil AR",
+    "image": "/img/skins/stickers/recoil/sticker-hello-galil-ar.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-galil-ar.webp"
+  },
+  "Hello AWP": {
+    "class": "blue",
+    "name": "Sticker | Hello AWP",
+    "image": "/img/skins/stickers/recoil/sticker-hello-awp.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-awp.webp"
+  },
+  "Hello SG 553": {
+    "class": "blue",
+    "name": "Sticker | Hello SG 553",
+    "image": "/img/skins/stickers/recoil/sticker-hello-sg-553.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-sg-553.webp"
+  },
+  "Hello MP9": {
+    "class": "blue",
+    "name": "Sticker | Hello MP9",
+    "image": "/img/skins/stickers/recoil/sticker-hello-mp9.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-mp9.webp"
+  },
+  "Hello MAC-10": {
+    "class": "blue",
+    "name": "Sticker | Hello MAC-10",
+    "image": "/img/skins/stickers/recoil/sticker-hello-mac-10.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-mac-10.webp"
+  },
+  "Hello M4A1-S": {
+    "class": "blue",
+    "name": "Sticker | Hello M4A1-S",
+    "image": "/img/skins/stickers/recoil/sticker-hello-m4a1-s.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-m4a1-s.webp"
+  },
+  "Hello UMP-45": {
+    "class": "blue",
+    "name": "Sticker | Hello UMP-45",
+    "image": "/img/skins/stickers/recoil/sticker-hello-ump-45.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-ump-45.webp"
+  },
+  "Hello CZ75-Auto": {
+    "class": "blue",
+    "name": "Sticker | Hello CZ75-Auto",
+    "image": "/img/skins/stickers/recoil/sticker-hello-cz75-auto.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-cz75-auto.webp"
+  },
+  "Hello PP-Bizon": {
+    "class": "blue",
+    "name": "Sticker | Hello PP-Bizon",
+    "image": "/img/skins/stickers/recoil/sticker-hello-pp-bizon.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-pp-bizon.webp"
+  },
+  "Hello MP7": {
+    "class": "blue",
+    "name": "Sticker | Hello MP7",
+    "image": "/img/skins/stickers/recoil/sticker-hello-mp7.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-mp7.webp"
+  },
+  "Hello M4A4": {
+    "class": "blue",
+    "name": "Sticker | Hello M4A4",
+    "image": "/img/skins/stickers/recoil/sticker-hello-m4a4.webp",
+    "imageOG": "/img/skins/stickers/recoil/small/sticker-hello-m4a4.webp"
+  }
+}

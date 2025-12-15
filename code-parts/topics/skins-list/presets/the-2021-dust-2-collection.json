@@ -1,0 +1,78 @@
+[
+  {
+    "weapon": "ak-47",
+    "skin-id": "Gold Arabesque"
+  },
+  {
+    "weapon": "ssg-08",
+    "skin-id": "Death Strike"
+  },
+  {
+    "weapon": "ump-45",
+    "skin-id": "Fade"
+  },
+  {
+    "weapon": "usp-s",
+    "skin-id": "Orange Anolis"
+  },
+  {
+    "weapon": "mac-10",
+    "skin-id": "Case Hardened"
+  },
+  {
+    "weapon": "m4a4",
+    "skin-id": "Red DDPAT"
+  },
+  {
+    "weapon": "galil-ar",
+    "skin-id": "Amber Fade"
+  },
+  {
+    "weapon": "p250",
+    "skin-id": "Black & Tan"
+  },
+  {
+    "weapon": "nova",
+    "skin-id": "Quick Sand"
+  },
+  {
+    "weapon": "g3sg1",
+    "skin-id": "New Roots"
+  },
+  {
+    "weapon": "mp9",
+    "skin-id": "Old Roots"
+  },
+  {
+    "weapon": "five-seven",
+    "skin-id": "Withered Vine"
+  },
+  {
+    "weapon": "m249",
+    "skin-id": "Midnight Palm"
+  },
+  {
+    "weapon": "aug",
+    "skin-id": "Spalted Wood"
+  },
+  {
+    "weapon": "r8-revolver",
+    "skin-id": "Desert Brush"
+  },
+  {
+    "weapon": "sawed-off",
+    "skin-id": "Parched"
+  },
+  {
+    "weapon": "sg-553",
+    "skin-id": "Bleached"
+  },
+  {
+    "weapon": "p90",
+    "skin-id": "Desert DDPAT"
+  },
+  {
+    "weapon": "mp7",
+    "skin-id": "Prey"
+  }
+]

@@ -1,0 +1,218 @@
+{
+  "Team Spirit (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-team-spirit-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-team-spirit-gold-shanghai-2024.png",
+    "name": "Team Spirit (Gold) | Shanghai 2024"
+  },
+  "Perfect World (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-perfect-world-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-perfect-world-gold-shanghai-2024.png",
+    "name": "Perfect World (Gold) | Shanghai 2024"
+  },
+  "MOUZ (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mouz-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mouz-gold-shanghai-2024.png",
+    "name": "MOUZ (Gold) | Shanghai 2024"
+  },
+  "Vitality (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-vitality-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-vitality-gold-shanghai-2024.png",
+    "name": "Vitality (Gold) | Shanghai 2024"
+  },
+  "Natus Vincere (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-natus-vincere-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-natus-vincere-gold-shanghai-2024.png",
+    "name": "Natus Vincere (Gold) | Shanghai 2024"
+  },
+  "G2 Esports (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-g2-esports-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-g2-esports-gold-shanghai-2024.png",
+    "name": "G2 Esports (Gold) | Shanghai 2024"
+  },
+  "FaZe Clan (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-faze-clan-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-faze-clan-gold-shanghai-2024.png",
+    "name": "FaZe Clan (Gold) | Shanghai 2024"
+  },
+  "3DMAX (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-3dmax-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-3dmax-gold-shanghai-2024.png",
+    "name": "3DMAX (Gold) | Shanghai 2024"
+  },
+  "HEROIC (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-heroic-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-heroic-gold-shanghai-2024.png",
+    "name": "HEROIC (Gold) | Shanghai 2024"
+  },
+  "MOUZ (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mouz-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mouz-holo-shanghai-2024.png",
+    "name": "MOUZ (Holo) | Shanghai 2024"
+  },
+  "Perfect World (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-perfect-world-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-perfect-world-holo-shanghai-2024.png",
+    "name": "Perfect World (Holo) | Shanghai 2024"
+  },
+  "Team Spirit (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-team-spirit-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-team-spirit-holo-shanghai-2024.png",
+    "name": "Team Spirit (Holo) | Shanghai 2024"
+  },
+  "3DMAX (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-3dmax-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-3dmax-holo-shanghai-2024.png",
+    "name": "3DMAX (Holo) | Shanghai 2024"
+  },
+  "G2 Esports (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-g2-esports-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-g2-esports-holo-shanghai-2024.png",
+    "name": "G2 Esports (Holo) | Shanghai 2024"
+  },
+  "FaZe Clan (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-faze-clan-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-faze-clan-holo-shanghai-2024.png",
+    "name": "FaZe Clan (Holo) | Shanghai 2024"
+  },
+  "Natus Vincere (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-natus-vincere-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-natus-vincere-holo-shanghai-2024.png",
+    "name": "Natus Vincere (Holo) | Shanghai 2024"
+  },
+  "Vitality (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-vitality-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-vitality-holo-shanghai-2024.png",
+    "name": "Vitality (Holo) | Shanghai 2024"
+  },
+  "HEROIC (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-heroic-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-heroic-holo-shanghai-2024.png",
+    "name": "HEROIC (Holo) | Shanghai 2024"
+  },
+  "Team Spirit (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-team-spirit-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-team-spirit-glitter-shanghai-2024.png",
+    "name": "Team Spirit (Glitter) | Shanghai 2024"
+  },
+  "3DMAX (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-3dmax-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-3dmax-glitter-shanghai-2024.png",
+    "name": "3DMAX (Glitter) | Shanghai 2024"
+  },
+  "FaZe Clan (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-faze-clan-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-faze-clan-glitter-shanghai-2024.png",
+    "name": "FaZe Clan (Glitter) | Shanghai 2024"
+  },
+  "Perfect World (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-perfect-world-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-perfect-world-glitter-shanghai-2024.png",
+    "name": "Perfect World (Glitter) | Shanghai 2024"
+  },
+  "Natus Vincere (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-natus-vincere-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-natus-vincere-glitter-shanghai-2024.png",
+    "name": "Natus Vincere (Glitter) | Shanghai 2024"
+  },
+  "MOUZ (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mouz-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mouz-glitter-shanghai-2024.png",
+    "name": "MOUZ (Glitter) | Shanghai 2024"
+  },
+  "G2 Esports (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-g2-esports-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-g2-esports-glitter-shanghai-2024.png",
+    "name": "G2 Esports (Glitter) | Shanghai 2024"
+  },
+  "Vitality (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-vitality-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-vitality-glitter-shanghai-2024.png",
+    "name": "Vitality (Glitter) | Shanghai 2024"
+  },
+  "HEROIC (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-heroic-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-heroic-glitter-shanghai-2024.png",
+    "name": "HEROIC (Glitter) | Shanghai 2024"
+  },
+  "Perfect World": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-perfect-world-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-perfect-world-shanghai-2024.png",
+    "name": "Perfect World | Shanghai 2024"
+  },
+  "3DMAX": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-3dmax-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-3dmax-shanghai-2024.png",
+    "name": "3DMAX | Shanghai 2024"
+  },
+  "Team Spirit": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-team-spirit-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-team-spirit-shanghai-2024.png",
+    "name": "Team Spirit | Shanghai 2024"
+  },
+  "Natus Vincere": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-natus-vincere-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-natus-vincere-shanghai-2024.png",
+    "name": "Natus Vincere | Shanghai 2024"
+  },
+  "G2 Esports": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-g2-esports-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-g2-esports-shanghai-2024.png",
+    "name": "G2 Esports | Shanghai 2024"
+  },
+  "FaZe Clan": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-faze-clan-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-faze-clan-shanghai-2024.png",
+    "name": "FaZe Clan | Shanghai 2024"
+  },
+  "MOUZ": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mouz-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mouz-shanghai-2024.png",
+    "name": "MOUZ | Shanghai 2024"
+  },
+  "Vitality": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-vitality-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-vitality-shanghai-2024.png",
+    "name": "Vitality | Shanghai 2024"
+  },
+  "HEROIC": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-heroic-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-heroic-shanghai-2024.png",
+    "name": "HEROIC | Shanghai 2024"
+  }
+}

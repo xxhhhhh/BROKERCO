@@ -1,0 +1,23 @@
+{
+  "Cmdr. Frank 'Wet Sox' Baroud": {
+    "class": "red",
+    "name": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman",
+    "image": "/img/skins/agents/seal-frogman/cmdr-frank-wet-sox-baroud.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "Cmdr. Davida 'Goggles' Fernandez": {
+    "class": "red",
+    "name": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman",
+    "image": "/img/skins/agents/seal-frogman/cmdr-davida-goggles-fernandez.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "Lieutenant Rex Krikey": {
+    "class": "pink",
+    "name": "Lieutenant Rex Krikey | SEAL Frogman",
+    "image": "/img/skins/agents/seal-frogman/lieutenant-rex-krikey.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  }
+}

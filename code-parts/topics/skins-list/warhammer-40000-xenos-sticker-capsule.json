@@ -1,0 +1,110 @@
+{
+  "Aeldari 2": {
+    "class": "blue",
+    "name": "Sticker | Aeldari 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-aeldari-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-aeldari-2.webp"
+  },
+  "Aeldari 1": {
+    "class": "blue",
+    "name": "Sticker | Aeldari 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-aeldari-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-aeldari-1.webp"
+  },
+  "Drukhari 2": {
+    "class": "blue",
+    "name": "Sticker | Drukhari 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-drukhari-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-drukhari-2.webp"
+  },
+  "Drukhari 1": {
+    "class": "blue",
+    "name": "Sticker | Drukhari 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-drukhari-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-drukhari-1.webp"
+  },
+  "Genestealer Cults 2": {
+    "class": "blue",
+    "name": "Sticker | Genestealer Cults 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-genestealer-cults-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-genestealer-cults-2.webp"
+  },
+  "Genestealer Cults 1": {
+    "class": "blue",
+    "name": "Sticker | Genestealer Cults 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-genestealer-cults-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-genestealer-cults-1.webp"
+  },
+  "Harlequins 2": {
+    "class": "blue",
+    "name": "Sticker | Harlequins 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-harlequins-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-harlequins-2.webp"
+  },
+  "Harlequins 1": {
+    "class": "blue",
+    "name": "Sticker | Harlequins 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-harlequins-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-harlequins-1.webp"
+  },
+  "Leagues of Votann 2": {
+    "class": "blue",
+    "name": "Sticker | Leagues of Votann 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-leagues-of-votann-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-leagues-of-votann-2.webp"
+  },
+  "Leagues of Votann 1": {
+    "class": "blue",
+    "name": "Sticker | Leagues of Votann 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-leagues-of-votann-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-leagues-of-votann-1.webp"
+  },
+  "Necron Glyphs": {
+    "class": "blue",
+    "name": "Sticker | Necron Glyphs",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-necron-glyphs.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-necron-glyphs.webp"
+  },
+  "Necron Ankh": {
+    "class": "blue",
+    "name": "Sticker | Necron Ankh",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-necron-ankh.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-necron-ankh.webp"
+  },
+  "Orks 2": {
+    "class": "blue",
+    "name": "Sticker | Orks 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-orks-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-orks-2.webp"
+  },
+  "Orks 1": {
+    "class": "blue",
+    "name": "Sticker | Orks 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-orks-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-orks-1.webp"
+  },
+  "T'au Empire 2": {
+    "class": "blue",
+    "name": "Sticker | T'au Empire 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-t-au-empire-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-t-au-empire-2.webp"
+  },
+  "T'au Empire 1": {
+    "class": "blue",
+    "name": "Sticker | T'au Empire 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-t-au-empire-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-t-au-empire-1.webp"
+  },
+  "Tyranids 2": {
+    "class": "blue",
+    "name": "Sticker | Tyranids 2",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-tyranids-2.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-tyranids-2.webp"
+  },
+  "Tyranids 1": {
+    "class": "blue",
+    "name": "Sticker | Tyranids 1",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-tyranids-1.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-tyranids-1.webp"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/knives/classic-vanilla.webp",
+    "name": "Vanilla",
+    "color": []
+  },
+  "Vanilla": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-vanilla.webp",
+    "name": "Classic Knife",
+    "color": []
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-knife-stained.webp",
+    "name": "Classic Knife | Stained",
+    "color": ["Gray", "White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-urban-masked.webp",
+    "name": "Classic Knife | Urban Masked",
+    "color": ["Gray"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-knife-scorched.webp",
+    "name": "Classic Knife | Scorched",
+    "color": ["Black", "Gray"]
+  },
+  "Night Stripe": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-night-stripe.webp",
+    "name": "Classic Knife | Night Stripe",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-blue-steel.webp",
+    "name": "Classic Knife | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-safari-mesh.webp",
+    "name": "Classic Knife | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-knife-boreal-forest.webp",
+    "name": "Classic Knife | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-knife-forest-ddpat.webp",
+    "name": "Classic Knife | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-knife-crimson-web.webp",
+    "name": "Classic Knife | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-knife-slaughter.webp",
+    "name": "Classic Knife | Slaughter",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-fade.webp",
+    "name": "Classic Knife | Fade",
+    "color": []
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/classic-case-hardened.webp",
+    "name": "Classic Knife | Case Hardened",
+    "color": []
+  }
+}

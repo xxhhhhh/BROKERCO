@@ -1,0 +1,962 @@
+{
+  "snow (Gold)": {
+    "class": "red",
+    "name": "snow (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-snow-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-snow-gold-budapest-2025.png"
+  },
+  "NQZ (Gold)": {
+    "class": "red",
+    "name": "NQZ (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-nqz-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-nqz-gold-budapest-2025.png"
+  },
+  "dgt (Gold)": {
+    "class": "red",
+    "name": "dgt (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-dgt-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-dgt-gold-budapest-2025.png"
+  },
+  "dav1deuS (Gold)": {
+    "class": "red",
+    "name": "dav1deuS (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-dav1deus-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-dav1deus-gold-budapest-2025.png"
+  },
+  "biguzera (Gold)": {
+    "class": "red",
+    "name": "biguzera (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-biguzera-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-biguzera-gold-budapest-2025.png"
+  },
+  "SunPayus (Gold)": {
+    "class": "red",
+    "name": "SunPayus (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-sunpayus-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-sunpayus-gold-budapest-2025.png"
+  },
+  "MATYS (Gold)": {
+    "class": "red",
+    "name": "MATYS (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-matys-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-matys-gold-budapest-2025.png"
+  },
+  "malbsMd (Gold)": {
+    "class": "red",
+    "name": "malbsMd (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-malbsmd-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-malbsmd-gold-budapest-2025.png"
+  },
+  "huNter- (Gold)": {
+    "class": "red",
+    "name": "huNter- (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-hunter-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-hunter-gold-budapest-2025.png"
+  },
+  "Heavygod (Gold)": {
+    "class": "red",
+    "name": "Heavygod (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-heavygod-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-heavygod-gold-budapest-2025.png"
+  },
+  "zweih (Gold)": {
+    "class": "red",
+    "name": "zweih (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zweih-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zweih-gold-budapest-2025.png"
+  },
+  "zont1x (Gold)": {
+    "class": "red",
+    "name": "zont1x (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zont1x-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zont1x-gold-budapest-2025.png"
+  },
+  "sh1ro (Gold)": {
+    "class": "red",
+    "name": "sh1ro (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-sh1ro-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-sh1ro-gold-budapest-2025.png"
+  },
+  "donk (Gold)": {
+    "class": "red",
+    "name": "donk (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-donk-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-donk-gold-budapest-2025.png"
+  },
+  "chopper (Gold)": {
+    "class": "red",
+    "name": "chopper (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-chopper-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-chopper-gold-budapest-2025.png"
+  },
+  "xertioN (Gold)": {
+    "class": "red",
+    "name": "xertioN (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-xertion-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-xertion-gold-budapest-2025.png"
+  },
+  "torzsi (Gold)": {
+    "class": "red",
+    "name": "torzsi (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-torzsi-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-torzsi-gold-budapest-2025.png"
+  },
+  "Spinx (Gold)": {
+    "class": "red",
+    "name": "Spinx (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-spinx-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-spinx-gold-budapest-2025.png"
+  },
+  "Jimpphat (Gold)": {
+    "class": "red",
+    "name": "Jimpphat (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-jimpphat-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-jimpphat-gold-budapest-2025.png"
+  },
+  "Brollan (Gold)": {
+    "class": "red",
+    "name": "Brollan (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-brollan-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-brollan-gold-budapest-2025.png"
+  },
+  "Techno4K (Gold)": {
+    "class": "red",
+    "name": "Techno4K (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-techno4k-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-techno4k-gold-budapest-2025.png"
+  },
+  "Senzu (Gold)": {
+    "class": "red",
+    "name": "Senzu (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-senzu-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-senzu-gold-budapest-2025.png"
+  },
+  "mzinho (Gold)": {
+    "class": "red",
+    "name": "mzinho (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-mzinho-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-mzinho-gold-budapest-2025.png"
+  },
+  "bLitz (Gold)": {
+    "class": "red",
+    "name": "bLitz (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-blitz-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-blitz-gold-budapest-2025.png"
+  },
+  "910 (Gold)": {
+    "class": "red",
+    "name": "910 (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-910-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-910-gold-budapest-2025.png"
+  },
+  "TeSeS (Gold)": {
+    "class": "red",
+    "name": "TeSeS (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-teses-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-teses-gold-budapest-2025.png"
+  },
+  "NiKo (Gold)": {
+    "class": "red",
+    "name": "NiKo (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-niko-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-niko-gold-budapest-2025.png"
+  },
+  "m0NESY (Gold)": {
+    "class": "red",
+    "name": "m0NESY (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-m0nesy-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-m0nesy-gold-budapest-2025.png"
+  },
+  "kyxsan (Gold)": {
+    "class": "red",
+    "name": "kyxsan (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kyxsan-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kyxsan-gold-budapest-2025.png"
+  },
+  "kyousuke (Gold)": {
+    "class": "red",
+    "name": "kyousuke (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kyousuke-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kyousuke-gold-budapest-2025.png"
+  },
+  "ZywOo (Gold)": {
+    "class": "red",
+    "name": "ZywOo (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zywoo-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zywoo-gold-budapest-2025.png"
+  },
+  "ropz (Gold)": {
+    "class": "red",
+    "name": "ropz (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-ropz-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-ropz-gold-budapest-2025.png"
+  },
+  "mezii (Gold)": {
+    "class": "red",
+    "name": "mezii (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-mezii-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-mezii-gold-budapest-2025.png"
+  },
+  "FlameZ (Gold)": {
+    "class": "red",
+    "name": "FlameZ (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-flamez-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-flamez-gold-budapest-2025.png"
+  },
+  "apEX (Gold)": {
+    "class": "red",
+    "name": "apEX (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-apex-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-apex-gold-budapest-2025.png"
+  },
+  "yuurih (Gold)": {
+    "class": "red",
+    "name": "yuurih (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-yuurih-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-yuurih-gold-budapest-2025.png"
+  },
+  "YEKINDAR (Gold)": {
+    "class": "red",
+    "name": "YEKINDAR (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-yekindar-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-yekindar-gold-budapest-2025.png"
+  },
+  "molodoy (Gold)": {
+    "class": "red",
+    "name": "molodoy (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-molodoy-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-molodoy-gold-budapest-2025.png"
+  },
+  "KSCERATO (Gold)": {
+    "class": "red",
+    "name": "KSCERATO (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kscerato-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kscerato-gold-budapest-2025.png"
+  },
+  "FalleN (Gold)": {
+    "class": "red",
+    "name": "FalleN (Gold) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-fallen-gold-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-fallen-gold-budapest-2025.png"
+  },
+  "snow (Holo)": {
+    "class": "pink",
+    "name": "snow (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-snow-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-snow-holo-budapest-2025.png"
+  },
+  "NQZ (Holo)": {
+    "class": "pink",
+    "name": "NQZ (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-nqz-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-nqz-holo-budapest-2025.png"
+  },
+  "dgt (Holo)": {
+    "class": "pink",
+    "name": "dgt (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-dgt-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-dgt-holo-budapest-2025.png"
+  },
+  "dav1deuS (Holo)": {
+    "class": "pink",
+    "name": "dav1deuS (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-dav1deus-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-dav1deus-holo-budapest-2025.png"
+  },
+  "biguzera (Holo)": {
+    "class": "pink",
+    "name": "biguzera (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-biguzera-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-biguzera-holo-budapest-2025.png"
+  },
+  "SunPayus (Holo)": {
+    "class": "pink",
+    "name": "SunPayus (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-sunpayus-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-sunpayus-holo-budapest-2025.png"
+  },
+  "MATYS (Holo)": {
+    "class": "pink",
+    "name": "MATYS (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-matys-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-matys-holo-budapest-2025.png"
+  },
+  "malbsMd (Holo)": {
+    "class": "pink",
+    "name": "malbsMd (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-malbsmd-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-malbsmd-holo-budapest-2025.png"
+  },
+  "huNter- (Holo)": {
+    "class": "pink",
+    "name": "huNter- (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-hunter-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-hunter-holo-budapest-2025.png"
+  },
+  "Heavygod (Holo)": {
+    "class": "pink",
+    "name": "Heavygod (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-heavygod-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-heavygod-holo-budapest-2025.png"
+  },
+  "zweih (Holo)": {
+    "class": "pink",
+    "name": "zweih (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zweih-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zweih-holo-budapest-2025.png"
+  },
+  "zont1x (Holo)": {
+    "class": "pink",
+    "name": "zont1x (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zont1x-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zont1x-holo-budapest-2025.png"
+  },
+  "sh1ro (Holo)": {
+    "class": "pink",
+    "name": "sh1ro (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-sh1ro-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-sh1ro-holo-budapest-2025.png"
+  },
+  "donk (Holo)": {
+    "class": "pink",
+    "name": "donk (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-donk-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-donk-holo-budapest-2025.png"
+  },
+  "chopper (Holo)": {
+    "class": "pink",
+    "name": "chopper (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-chopper-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-chopper-holo-budapest-2025.png"
+  },
+  "xertioN (Holo)": {
+    "class": "pink",
+    "name": "xertioN (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-xertion-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-xertion-holo-budapest-2025.png"
+  },
+  "torzsi (Holo)": {
+    "class": "pink",
+    "name": "torzsi (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-torzsi-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-torzsi-holo-budapest-2025.png"
+  },
+  "Spinx (Holo)": {
+    "class": "pink",
+    "name": "Spinx (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-spinx-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-spinx-holo-budapest-2025.png"
+  },
+  "Jimpphat (Holo)": {
+    "class": "pink",
+    "name": "Jimpphat (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-jimpphat-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-jimpphat-holo-budapest-2025.png"
+  },
+  "Brollan (Holo)": {
+    "class": "pink",
+    "name": "Brollan (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-brollan-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-brollan-holo-budapest-2025.png"
+  },
+  "Techno4K (Holo)": {
+    "class": "pink",
+    "name": "Techno4K (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-techno4k-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-techno4k-holo-budapest-2025.png"
+  },
+  "Senzu (Holo)": {
+    "class": "pink",
+    "name": "Senzu (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-senzu-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-senzu-holo-budapest-2025.png"
+  },
+  "mzinho (Holo)": {
+    "class": "pink",
+    "name": "mzinho (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-mzinho-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-mzinho-holo-budapest-2025.png"
+  },
+  "bLitz (Holo)": {
+    "class": "pink",
+    "name": "bLitz (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-blitz-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-blitz-holo-budapest-2025.png"
+  },
+  "910 (Holo)": {
+    "class": "pink",
+    "name": "910 (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-910-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-910-holo-budapest-2025.png"
+  },
+  "TeSeS (Holo)": {
+    "class": "pink",
+    "name": "TeSeS (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-teses-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-teses-holo-budapest-2025.png"
+  },
+  "NiKo (Holo)": {
+    "class": "pink",
+    "name": "NiKo (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-niko-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-niko-holo-budapest-2025.png"
+  },
+  "m0NESY (Holo)": {
+    "class": "pink",
+    "name": "m0NESY (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-m0nesy-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-m0nesy-holo-budapest-2025.png"
+  },
+  "kyxsan (Holo)": {
+    "class": "pink",
+    "name": "kyxsan (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kyxsan-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kyxsan-holo-budapest-2025.png"
+  },
+  "kyousuke (Holo)": {
+    "class": "pink",
+    "name": "kyousuke (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kyousuke-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kyousuke-holo-budapest-2025.png"
+  },
+  "ZywOo (Holo)": {
+    "class": "pink",
+    "name": "ZywOo (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zywoo-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zywoo-holo-budapest-2025.png"
+  },
+  "ropz (Holo)": {
+    "class": "pink",
+    "name": "ropz (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-ropz-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-ropz-holo-budapest-2025.png"
+  },
+  "mezii (Holo)": {
+    "class": "pink",
+    "name": "mezii (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-mezii-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-mezii-holo-budapest-2025.png"
+  },
+  "FlameZ (Holo)": {
+    "class": "pink",
+    "name": "FlameZ (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-flamez-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-flamez-holo-budapest-2025.png"
+  },
+  "apEX (Holo)": {
+    "class": "pink",
+    "name": "apEX (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-apex-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-apex-holo-budapest-2025.png"
+  },
+  "yuurih (Holo)": {
+    "class": "pink",
+    "name": "yuurih (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-yuurih-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-yuurih-holo-budapest-2025.png"
+  },
+  "YEKINDAR (Holo)": {
+    "class": "pink",
+    "name": "YEKINDAR (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-yekindar-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-yekindar-holo-budapest-2025.png"
+  },
+  "molodoy (Holo)": {
+    "class": "pink",
+    "name": "molodoy (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-molodoy-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-molodoy-holo-budapest-2025.png"
+  },
+  "KSCERATO (Holo)": {
+    "class": "pink",
+    "name": "KSCERATO (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kscerato-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kscerato-holo-budapest-2025.png"
+  },
+  "FalleN (Holo)": {
+    "class": "pink",
+    "name": "FalleN (Holo) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-fallen-holo-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-fallen-holo-budapest-2025.png"
+  },
+  "snow (Embroidered)": {
+    "class": "purple",
+    "name": "snow (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-snow-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-snow-embroidered-budapest-2025.png"
+  },
+  "NQZ (Embroidered)": {
+    "class": "purple",
+    "name": "NQZ (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-nqz-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-nqz-embroidered-budapest-2025.png"
+  },
+  "dgt (Embroidered)": {
+    "class": "purple",
+    "name": "dgt (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-dgt-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-dgt-embroidered-budapest-2025.png"
+  },
+  "dav1deuS (Embroidered)": {
+    "class": "purple",
+    "name": "dav1deuS (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-dav1deus-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-dav1deus-embroidered-budapest-2025.png"
+  },
+  "biguzera (Embroidered)": {
+    "class": "purple",
+    "name": "biguzera (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-biguzera-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-biguzera-embroidered-budapest-2025.png"
+  },
+  "SunPayus (Embroidered)": {
+    "class": "purple",
+    "name": "SunPayus (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-sunpayus-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-sunpayus-embroidered-budapest-2025.png"
+  },
+  "MATYS (Embroidered)": {
+    "class": "purple",
+    "name": "MATYS (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-matys-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-matys-embroidered-budapest-2025.png"
+  },
+  "malbsMd (Embroidered)": {
+    "class": "purple",
+    "name": "malbsMd (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-malbsmd-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-malbsmd-embroidered-budapest-2025.png"
+  },
+  "huNter- (Embroidered)": {
+    "class": "purple",
+    "name": "huNter- (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-hunter-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-hunter-embroidered-budapest-2025.png"
+  },
+  "Heavygod (Embroidered)": {
+    "class": "purple",
+    "name": "Heavygod (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-heavygod-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-heavygod-embroidered-budapest-2025.png"
+  },
+  "zweih (Embroidered)": {
+    "class": "purple",
+    "name": "zweih (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zweih-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zweih-embroidered-budapest-2025.png"
+  },
+  "zont1x (Embroidered)": {
+    "class": "purple",
+    "name": "zont1x (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zont1x-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zont1x-embroidered-budapest-2025.png"
+  },
+  "sh1ro (Embroidered)": {
+    "class": "purple",
+    "name": "sh1ro (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-sh1ro-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-sh1ro-embroidered-budapest-2025.png"
+  },
+  "donk (Embroidered)": {
+    "class": "purple",
+    "name": "donk (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-donk-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-donk-embroidered-budapest-2025.png"
+  },
+  "chopper (Embroidered)": {
+    "class": "purple",
+    "name": "chopper (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-chopper-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-chopper-embroidered-budapest-2025.png"
+  },
+  "xertioN (Embroidered)": {
+    "class": "purple",
+    "name": "xertioN (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-xertion-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-xertion-embroidered-budapest-2025.png"
+  },
+  "torzsi (Embroidered)": {
+    "class": "purple",
+    "name": "torzsi (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-torzsi-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-torzsi-embroidered-budapest-2025.png"
+  },
+  "Spinx (Embroidered)": {
+    "class": "purple",
+    "name": "Spinx (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-spinx-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-spinx-embroidered-budapest-2025.png"
+  },
+  "Jimpphat (Embroidered)": {
+    "class": "purple",
+    "name": "Jimpphat (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-jimpphat-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-jimpphat-embroidered-budapest-2025.png"
+  },
+  "Brollan (Embroidered)": {
+    "class": "purple",
+    "name": "Brollan (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-brollan-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-brollan-embroidered-budapest-2025.png"
+  },
+  "Techno4K (Embroidered)": {
+    "class": "purple",
+    "name": "Techno4K (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-techno4k-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-techno4k-embroidered-budapest-2025.png"
+  },
+  "Senzu (Embroidered)": {
+    "class": "purple",
+    "name": "Senzu (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-senzu-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-senzu-embroidered-budapest-2025.png"
+  },
+  "mzinho (Embroidered)": {
+    "class": "purple",
+    "name": "mzinho (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-mzinho-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-mzinho-embroidered-budapest-2025.png"
+  },
+  "bLitz (Embroidered)": {
+    "class": "purple",
+    "name": "bLitz (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-blitz-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-blitz-embroidered-budapest-2025.png"
+  },
+  "910 (Embroidered)": {
+    "class": "purple",
+    "name": "910 (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-910-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-910-embroidered-budapest-2025.png"
+  },
+  "TeSeS (Embroidered)": {
+    "class": "purple",
+    "name": "TeSeS (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-teses-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-teses-embroidered-budapest-2025.png"
+  },
+  "NiKo (Embroidered)": {
+    "class": "purple",
+    "name": "NiKo (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-niko-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-niko-embroidered-budapest-2025.png"
+  },
+  "m0NESY (Embroidered)": {
+    "class": "purple",
+    "name": "m0NESY (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-m0nesy-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-m0nesy-embroidered-budapest-2025.png"
+  },
+  "kyxsan (Embroidered)": {
+    "class": "purple",
+    "name": "kyxsan (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kyxsan-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kyxsan-embroidered-budapest-2025.png"
+  },
+  "kyousuke (Embroidered)": {
+    "class": "purple",
+    "name": "kyousuke (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kyousuke-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kyousuke-embroidered-budapest-2025.png"
+  },
+  "ZywOo (Embroidered)": {
+    "class": "purple",
+    "name": "ZywOo (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zywoo-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zywoo-embroidered-budapest-2025.png"
+  },
+  "ropz (Embroidered)": {
+    "class": "purple",
+    "name": "ropz (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-ropz-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-ropz-embroidered-budapest-2025.png"
+  },
+  "mezii (Embroidered)": {
+    "class": "purple",
+    "name": "mezii (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-mezii-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-mezii-embroidered-budapest-2025.png"
+  },
+  "FlameZ (Embroidered)": {
+    "class": "purple",
+    "name": "FlameZ (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-flamez-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-flamez-embroidered-budapest-2025.png"
+  },
+  "apEX (Embroidered)": {
+    "class": "purple",
+    "name": "apEX (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-apex-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-apex-embroidered-budapest-2025.png"
+  },
+  "yuurih (Embroidered)": {
+    "class": "purple",
+    "name": "yuurih (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-yuurih-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-yuurih-embroidered-budapest-2025.png"
+  },
+  "YEKINDAR (Embroidered)": {
+    "class": "purple",
+    "name": "YEKINDAR (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-yekindar-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-yekindar-embroidered-budapest-2025.png"
+  },
+  "molodoy (Embroidered)": {
+    "class": "purple",
+    "name": "molodoy (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-molodoy-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-molodoy-embroidered-budapest-2025.png"
+  },
+  "KSCERATO (Embroidered)": {
+    "class": "purple",
+    "name": "KSCERATO (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kscerato-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kscerato-embroidered-budapest-2025.png"
+  },
+  "FalleN (Embroidered)": {
+    "class": "purple",
+    "name": "FalleN (Embroidered) | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-fallen-embroidered-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-fallen-embroidered-budapest-2025.png"
+  },
+  "snow": {
+    "class": "blue",
+    "name": "snow | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-snow-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-snow-budapest-2025.png"
+  },
+  "NQZ": {
+    "class": "blue",
+    "name": "NQZ | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-nqz-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-nqz-budapest-2025.png"
+  },
+  "dgt": {
+    "class": "blue",
+    "name": "dgt | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-dgt-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-dgt-budapest-2025.png"
+  },
+  "dav1deuS": {
+    "class": "blue",
+    "name": "dav1deuS | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-dav1deus-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-dav1deus-budapest-2025.png"
+  },
+  "biguzera": {
+    "class": "blue",
+    "name": "biguzera | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-biguzera-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-biguzera-budapest-2025.png"
+  },
+  "SunPayus": {
+    "class": "blue",
+    "name": "SunPayus | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-sunpayus-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-sunpayus-budapest-2025.png"
+  },
+  "MATYS": {
+    "class": "blue",
+    "name": "MATYS | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-matys-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-matys-budapest-2025.png"
+  },
+  "malbsMd": {
+    "class": "blue",
+    "name": "malbsMd | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-malbsmd-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-malbsmd-budapest-2025.png"
+  },
+  "huNter-": {
+    "class": "blue",
+    "name": "huNter- | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-hunter-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-hunter-budapest-2025.png"
+  },
+  "Heavygod": {
+    "class": "blue",
+    "name": "Heavygod | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-heavygod-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-heavygod-budapest-2025.png"
+  },
+  "zweih": {
+    "class": "blue",
+    "name": "zweih | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zweih-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zweih-budapest-2025.png"
+  },
+  "zont1x": {
+    "class": "blue",
+    "name": "zont1x | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zont1x-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zont1x-budapest-2025.png"
+  },
+  "sh1ro": {
+    "class": "blue",
+    "name": "sh1ro | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-sh1ro-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-sh1ro-budapest-2025.png"
+  },
+  "donk": {
+    "class": "blue",
+    "name": "donk | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-donk-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-donk-budapest-2025.png"
+  },
+  "chopper": {
+    "class": "blue",
+    "name": "chopper | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-chopper-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-chopper-budapest-2025.png"
+  },
+  "xertioN": {
+    "class": "blue",
+    "name": "xertioN | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-xertion-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-xertion-budapest-2025.png"
+  },
+  "torzsi": {
+    "class": "blue",
+    "name": "torzsi | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-torzsi-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-torzsi-budapest-2025.png"
+  },
+  "Spinx": {
+    "class": "blue",
+    "name": "Spinx | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-spinx-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-spinx-budapest-2025.png"
+  },
+  "Jimpphat": {
+    "class": "blue",
+    "name": "Jimpphat | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-jimpphat-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-jimpphat-budapest-2025.png"
+  },
+  "Brollan": {
+    "class": "blue",
+    "name": "Brollan | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-brollan-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-brollan-budapest-2025.png"
+  },
+  "Techno4K": {
+    "class": "blue",
+    "name": "Techno4K | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-techno4k-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-techno4k-budapest-2025.png"
+  },
+  "Senzu": {
+    "class": "blue",
+    "name": "Senzu | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-senzu-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-senzu-budapest-2025.png"
+  },
+  "mzinho": {
+    "class": "blue",
+    "name": "mzinho | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-mzinho-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-mzinho-budapest-2025.png"
+  },
+  "bLitz": {
+    "class": "blue",
+    "name": "bLitz | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-blitz-budapest-2025.png",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-blitz-budapest-2025.png"
+  },
+  "910": {
+    "class": "blue",
+    "name": "910 | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-910-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-910-budapest-2025.webp"
+  },
+  "TeSeS": {
+    "class": "blue",
+    "name": "TeSeS | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-teses-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-teses-budapest-2025.webp"
+  },
+  "NiKo": {
+    "class": "blue",
+    "name": "NiKo | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-niko-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-niko-budapest-2025.webp"
+  },
+  "m0NESY": {
+    "class": "blue",
+    "name": "m0NESY | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-m0nesy-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-m0nesy-budapest-2025.webp"
+  },
+  "kyxsan": {
+    "class": "blue",
+    "name": "kyxsan | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kyxsan-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kyxsan-budapest-2025.webp"
+  },
+  "kyousuke": {
+    "class": "blue",
+    "name": "kyousuke | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kyousuke-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kyousuke-budapest-2025.webp"
+  },
+  "ZywOo": {
+    "class": "blue",
+    "name": "ZywOo | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-zywoo-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-zywoo-budapest-2025.webp"
+  },
+  "ropz": {
+    "class": "blue",
+    "name": "ropz | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-ropz-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-ropz-budapest-2025.webp"
+  },
+  "mezii": {
+    "class": "blue",
+    "name": "mezii | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-mezii-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-mezii-budapest-2025.webp"
+  },
+  "FlameZ": {
+    "class": "blue",
+    "name": "FlameZ | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-flamez-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-flamez-budapest-2025.webp"
+  },
+  "apEX": {
+    "class": "blue",
+    "name": "apEX | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-apex-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-apex-budapest-2025.webp"
+  },
+  "yuurih": {
+    "class": "blue",
+    "name": "yuurih | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-yuurih-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-yuurih-budapest-2025.webp"
+  },
+  "YEKINDAR": {
+    "class": "blue",
+    "name": "YEKINDAR | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-yekindar-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-yekindar-budapest-2025.webp"
+  },
+  "molodoy": {
+    "class": "blue",
+    "name": "molodoy | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-molodoy-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-molodoy-budapest-2025.webp"
+  },
+  "KSCERATO": {
+    "class": "blue",
+    "name": "KSCERATO | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-kscerato-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-kscerato-budapest-2025.webp"
+  },
+  "FalleN": {
+    "class": "blue",
+    "name": "FalleN | Budapest 2025",
+    "image": "/img/skins/stickers/budapest-2025/sticker-fallen-budapest-2025.webp",
+    "imageOG": "/img/skins/stickers/budapest-2025/small/sticker-fallen-budapest-2025.webp"
+  }
+}

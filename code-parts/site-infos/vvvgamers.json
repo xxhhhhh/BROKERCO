@@ -1,0 +1,25 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/earning/offerwalls\" aria-label=\"Offerwalls\" class=\"offerwalls\"></a>",
+        "<a href=\"/earning/earn-by-play\" aria-label=\"Earn by Playing\" class=\"playing\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3,
+        "Support": 3,
+        "Payments": 3,
+        "Variety": 4.5
+    },
+    "name": "Gaming goods",
+    "languages": "en, ru, tr, es",
+    "link": "https://eu.gaming-goods.com/?ref=broker",
+    "Main Mode": "earning",
+    "featuresContent": ["SignUpBonus"],
+    "Sites Alternatives"  : ["xplay", "freecash", "idle-empire", "grindbux"]
+}

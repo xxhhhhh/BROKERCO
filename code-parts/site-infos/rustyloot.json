@@ -1,0 +1,59 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/rust/roulette\" aria-label=\"Wheel of Fortune\" class=\"wheel\"></a>",
+        "<a href=\"/rust/coinflip\" aria-label=\"Coinflip\" class=\"coinflip\"></a>",
+        "<a href=\"/rust/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/rust/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/rust\" aria-label=\"Mines\" class=\"mines\"></a>",
+        "<a href=\"/rust\" aria-label=\"Plinko\" class=\"plinko\"></a>",
+        "<a href=\"/rust/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>",
+        "<a href=\"/rust\" aria-label=\"Duels\" class=\"duels\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"Team Fortress 2 Items\" class=\"tf2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"TON Coin\" class=\"ton\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>",
+        "<a href=\"/\" aria-label=\"UnionPay\" class=\"unionpay\"></a>",
+        "<a href=\"/\" aria-label=\"WebMoney\" class=\"webmoney\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3.5,
+        "Support": 4,
+        "Payments": 3.5,
+        "Playability": 4
+    },
+    "codes": {
+        "Free Bonus": "2.00$",
+        "Free Else": "3 Free Cases"
+    },
+    "name": "Rustyloot",
+    "languages": "en, ru, tr, es",
+    "link": "https://rustyloot.gg/r/broker",
+    "code": "broker",
+    "Main Mode": "classic",
+    "featuresContent": ["SignUpBonus", "DailyRewards", "ProgressiveRewards", "Rakeback"],
+    "Sites Alternatives"  : ["howlgg", "banditcamp", "rustmagic", "rustclash"]
+
+}

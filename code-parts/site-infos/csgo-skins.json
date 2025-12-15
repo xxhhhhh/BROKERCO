@@ -1,0 +1,48 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/rust/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/rust/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/rust/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Avalanche\" class=\"avalanche\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>",
+        "<a href=\"/\" aria-label=\"Google Pay\" class=\"gpay\"></a>",
+        "<a href=\"/\" aria-label=\"Apple Pay\" class=\"apay\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3.5,
+        "Support": 3.5,
+        "Payments": 3,
+        "Playability": 3.5
+    },
+    "codes": {
+        "Free Bonus": "0.50$"
+    },
+    "name": "CSGO-SKINS",
+    "languages": "en, ru, tr, es",
+    "link": "https://csgo-skins.com/",
+    "featuresContent": ["SignUpBonus", "DepositBonus", "DailyRewards"],
+    "code": "csgobroker",
+    "Main Mode": "cases",
+    "Sites Alternatives"  : ["ggdrop", "key-drop", "skinbox", "datdrop"]
+}

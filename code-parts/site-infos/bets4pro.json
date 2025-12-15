@@ -1,0 +1,38 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/matchbetting\" aria-label=\"Esports Betting\" class=\"cs2\"></a>",
+        "<a href=\"/csgo/matchbetting\" aria-label=\"Sport Betting\" class=\"sport\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3.5,
+        "Support": 3.5,
+        "Payments": 3.5,
+        "Playability": 3
+    },
+    "name": "Bets4.pro",
+    "languages": "en, ru, tr, es",
+    "link": "https://bets4.cc/?ref=76561198043612325",
+    "Main Mode": "betting",
+    "Sites Alternatives"  : ["csgopositive", "csgo500", "csgopolygon", "csgoempire"]
+}

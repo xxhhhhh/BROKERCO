@@ -1,0 +1,9 @@
+{
+    "name": "GrindBux",
+    "logo": "/img/grindbux-logo.png",
+    "reward": "Receive <strong>$0.10</strong> for Free",
+    "reward_ru": "Получите <strong>0.10$ на Баланс</strong> при регистрации",
+    "reward_tr": "<strong>$0.10</strong> Bedava Alın",
+    "link": "https://grindbux.com/ref/broker",
+    "code": "broker"
+}

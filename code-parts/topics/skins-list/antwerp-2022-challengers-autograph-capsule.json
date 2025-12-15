@@ -1,0 +1,962 @@
+{
+  "m0NESY (Gold)": {
+    "class": "red",
+    "name": "m0NESY (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-m0nesy-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-m0nesy-gold-antwerp-2022.png"
+  },
+  "fnx (Gold)": {
+    "class": "red",
+    "name": "fnx (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fnx-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fnx-gold-antwerp-2022.png"
+  },
+  "huNter (Gold)": {
+    "class": "red",
+    "name": "huNter (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-hunter-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-hunter-gold-antwerp-2022.png"
+  },
+  "FalleN (Gold)": {
+    "class": "red",
+    "name": "FalleN (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fallen-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fallen-gold-antwerp-2022.png"
+  },
+  "KENSi (Gold)": {
+    "class": "red",
+    "name": "KENSi (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-kensi-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-kensi-gold-antwerp-2022.png"
+  },
+  "blameF (Gold)": {
+    "class": "red",
+    "name": "blameF (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-blamef-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-blamef-gold-antwerp-2022.png"
+  },
+  "Aleksib (Gold)": {
+    "class": "red",
+    "name": "Aleksib (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-aleksib-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-aleksib-gold-antwerp-2022.png"
+  },
+  "WOOD7 (Gold)": {
+    "class": "red",
+    "name": "WOOD7 (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-wood7-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-wood7-gold-antwerp-2022.png"
+  },
+  "dycha (Gold)": {
+    "class": "red",
+    "name": "dycha (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-dycha-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-dycha-gold-antwerp-2022.png"
+  },
+  "Xyp9x (Gold)": {
+    "class": "red",
+    "name": "Xyp9x (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-xyp9x-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-xyp9x-gold-antwerp-2022.png"
+  },
+  "boltz (Gold)": {
+    "class": "red",
+    "name": "boltz (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-boltz-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-boltz-gold-antwerp-2022.png"
+  },
+  "Farlig (Gold)": {
+    "class": "red",
+    "name": "Farlig (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-farlig-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-farlig-gold-antwerp-2022.png"
+  },
+  "SENER1 (Gold)": {
+    "class": "red",
+    "name": "SENER1 (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-sener1-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-sener1-gold-antwerp-2022.png"
+  },
+  "gxx- (Gold)": {
+    "class": "red",
+    "name": "gxx- (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-gxx-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-gxx-gold-antwerp-2022.png"
+  },
+  "rigoN (Gold)": {
+    "class": "red",
+    "name": "rigoN (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-rigon-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-rigon-gold-antwerp-2022.png"
+  },
+  "Magisk (Gold)": {
+    "class": "red",
+    "name": "Magisk (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-magisk-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-magisk-gold-antwerp-2022.png"
+  },
+  "chelo (Gold)": {
+    "class": "red",
+    "name": "chelo (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-chelo-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-chelo-gold-antwerp-2022.png"
+  },
+  "shalfey (Gold)": {
+    "class": "red",
+    "name": "shalfey (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-shalfey-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-shalfey-gold-antwerp-2022.png"
+  },
+  "Spinx (Gold)": {
+    "class": "red",
+    "name": "Spinx (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-spinx-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-spinx-gold-antwerp-2022.png"
+  },
+  "Norwi (Gold)": {
+    "class": "red",
+    "name": "Norwi (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-norwi-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-norwi-gold-antwerp-2022.png"
+  },
+  "maden (Gold)": {
+    "class": "red",
+    "name": "maden (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-maden-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-maden-gold-antwerp-2022.png"
+  },
+  "sinnopsyy (Gold)": {
+    "class": "red",
+    "name": "sinnopsyy (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-sinnopsyy-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-sinnopsyy-gold-antwerp-2022.png"
+  },
+  "juanflatroo (Gold)": {
+    "class": "red",
+    "name": "juanflatroo (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-juanflatroo-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-juanflatroo-gold-antwerp-2022.png"
+  },
+  "VINI (Gold)": {
+    "class": "red",
+    "name": "VINI (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-vini-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-vini-gold-antwerp-2022.png"
+  },
+  "fer (Gold)": {
+    "class": "red",
+    "name": "fer (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fer-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fer-gold-antwerp-2022.png"
+  },
+  "JOTA (Gold)": {
+    "class": "red",
+    "name": "JOTA (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jota-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jota-gold-antwerp-2022.png"
+  },
+  "exit (Gold)": {
+    "class": "red",
+    "name": "exit (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-exit-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-exit-gold-antwerp-2022.png"
+  },
+  "Tuurtle (Gold)": {
+    "class": "red",
+    "name": "Tuurtle (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-tuurtle-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-tuurtle-gold-antwerp-2022.png"
+  },
+  "ZywOo (Gold)": {
+    "class": "red",
+    "name": "ZywOo (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-zywoo-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-zywoo-gold-antwerp-2022.png"
+  },
+  "dupreeh (Gold)": {
+    "class": "red",
+    "name": "dupreeh (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-dupreeh-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-dupreeh-gold-antwerp-2022.png"
+  },
+  "misutaaa (Gold)": {
+    "class": "red",
+    "name": "misutaaa (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-misutaaa-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-misutaaa-gold-antwerp-2022.png"
+  },
+  "apEX (Gold)": {
+    "class": "red",
+    "name": "apEX (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-apex-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-apex-gold-antwerp-2022.png"
+  },
+  "k0nfig (Gold)": {
+    "class": "red",
+    "name": "k0nfig (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-k0nfig-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-k0nfig-gold-antwerp-2022.png"
+  },
+  "gla1ve (Gold)": {
+    "class": "red",
+    "name": "gla1ve (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-gla1ve-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-gla1ve-gold-antwerp-2022.png"
+  },
+  "zorte (Gold)": {
+    "class": "red",
+    "name": "zorte (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-zorte-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-zorte-gold-antwerp-2022.png"
+  },
+  "Jerry (Gold)": {
+    "class": "red",
+    "name": "Jerry (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jerry-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jerry-gold-antwerp-2022.png"
+  },
+  "NiKo (Gold)": {
+    "class": "red",
+    "name": "NiKo (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-niko-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-niko-gold-antwerp-2022.png"
+  },
+  "JaCkz (Gold)": {
+    "class": "red",
+    "name": "JaCkz (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jackz-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jackz-gold-antwerp-2022.png"
+  },
+  "hades (Gold)": {
+    "class": "red",
+    "name": "hades (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-hades-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-hades-gold-antwerp-2022.png"
+  },
+  "Snappi (Gold)": {
+    "class": "red",
+    "name": "Snappi (Gold) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-snappi-gold-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-snappi-gold-antwerp-2022.png"
+  },
+  "m0NESY (Holo)": {
+    "class": "pink",
+    "name": "m0NESY (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-m0nesy-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-m0nesy-holo-antwerp-2022.png"
+  },
+  "FalleN (Holo)": {
+    "class": "pink",
+    "name": "FalleN (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fallen-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fallen-holo-antwerp-2022.png"
+  },
+  "Xyp9x (Holo)": {
+    "class": "pink",
+    "name": "Xyp9x (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-xyp9x-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-xyp9x-holo-antwerp-2022.png"
+  },
+  "juanflatroo (Holo)": {
+    "class": "pink",
+    "name": "juanflatroo (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-juanflatroo-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-juanflatroo-holo-antwerp-2022.png"
+  },
+  "hades (Holo)": {
+    "class": "pink",
+    "name": "hades (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-hades-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-hades-holo-antwerp-2022.png"
+  },
+  "fnx (Holo)": {
+    "class": "pink",
+    "name": "fnx (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fnx-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fnx-holo-antwerp-2022.png"
+  },
+  "ZywOo (Holo)": {
+    "class": "pink",
+    "name": "ZywOo (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-zywoo-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-zywoo-holo-antwerp-2022.png"
+  },
+  "VINI (Holo)": {
+    "class": "pink",
+    "name": "VINI (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-vini-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-vini-holo-antwerp-2022.png"
+  },
+  "WOOD7 (Holo)": {
+    "class": "pink",
+    "name": "WOOD7 (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-wood7-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-wood7-holo-antwerp-2022.png"
+  },
+  "huNter (Holo)": {
+    "class": "pink",
+    "name": "huNter (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-hunter-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-hunter-holo-antwerp-2022.png"
+  },
+  "boltz (Holo)": {
+    "class": "pink",
+    "name": "boltz (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-boltz-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-boltz-holo-antwerp-2022.png"
+  },
+  "gla1ve (Holo)": {
+    "class": "pink",
+    "name": "gla1ve (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-gla1ve-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-gla1ve-holo-antwerp-2022.png"
+  },
+  "JaCkz (Holo)": {
+    "class": "pink",
+    "name": "JaCkz (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jackz-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jackz-holo-antwerp-2022.png"
+  },
+  "fer (Holo)": {
+    "class": "pink",
+    "name": "fer (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fer-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fer-holo-antwerp-2022.png"
+  },
+  "Farlig (Holo)": {
+    "class": "pink",
+    "name": "Farlig (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-farlig-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-farlig-holo-antwerp-2022.png"
+  },
+  "blameF (Holo)": {
+    "class": "pink",
+    "name": "blameF (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-blamef-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-blamef-holo-antwerp-2022.png"
+  },
+  "Aleksib (Holo)": {
+    "class": "pink",
+    "name": "Aleksib (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-aleksib-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-aleksib-holo-antwerp-2022.png"
+  },
+  "KENSi (Holo)": {
+    "class": "pink",
+    "name": "KENSi (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-kensi-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-kensi-holo-antwerp-2022.png"
+  },
+  "dupreeh (Holo)": {
+    "class": "pink",
+    "name": "dupreeh (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-dupreeh-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-dupreeh-holo-antwerp-2022.png"
+  },
+  "SENER1 (Holo)": {
+    "class": "pink",
+    "name": "SENER1 (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-sener1-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-sener1-holo-antwerp-2022.png"
+  },
+  "Snappi (Holo)": {
+    "class": "pink",
+    "name": "Snappi (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-snappi-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-snappi-holo-antwerp-2022.png"
+  },
+  "zorte (Holo)": {
+    "class": "pink",
+    "name": "zorte (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-zorte-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-zorte-holo-antwerp-2022.png"
+  },
+  "Tuurtle (Holo)": {
+    "class": "pink",
+    "name": "Tuurtle (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-tuurtle-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-tuurtle-holo-antwerp-2022.png"
+  },
+  "JOTA (Holo)": {
+    "class": "pink",
+    "name": "JOTA (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jota-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jota-holo-antwerp-2022.png"
+  },
+  "k0nfig (Holo)": {
+    "class": "pink",
+    "name": "k0nfig (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-k0nfig-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-k0nfig-holo-antwerp-2022.png"
+  },
+  "exit (Holo)": {
+    "class": "pink",
+    "name": "exit (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-exit-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-exit-holo-antwerp-2022.png"
+  },
+  "chelo (Holo)": {
+    "class": "pink",
+    "name": "chelo (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-chelo-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-chelo-holo-antwerp-2022.png"
+  },
+  "maden (Holo)": {
+    "class": "pink",
+    "name": "maden (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-maden-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-maden-holo-antwerp-2022.png"
+  },
+  "shalfey (Holo)": {
+    "class": "pink",
+    "name": "shalfey (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-shalfey-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-shalfey-holo-antwerp-2022.png"
+  },
+  "Spinx (Holo)": {
+    "class": "pink",
+    "name": "Spinx (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-spinx-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-spinx-holo-antwerp-2022.png"
+  },
+  "dycha (Holo)": {
+    "class": "pink",
+    "name": "dycha (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-dycha-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-dycha-holo-antwerp-2022.png"
+  },
+  "gxx- (Holo)": {
+    "class": "pink",
+    "name": "gxx- (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-gxx-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-gxx-holo-antwerp-2022.png"
+  },
+  "sinnopsyy (Holo)": {
+    "class": "pink",
+    "name": "sinnopsyy (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-sinnopsyy-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-sinnopsyy-holo-antwerp-2022.png"
+  },
+  "rigoN (Holo)": {
+    "class": "pink",
+    "name": "rigoN (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-rigon-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-rigon-holo-antwerp-2022.png"
+  },
+  "Magisk (Holo)": {
+    "class": "pink",
+    "name": "Magisk (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-magisk-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-magisk-holo-antwerp-2022.png"
+  },
+  "misutaaa (Holo)": {
+    "class": "pink",
+    "name": "misutaaa (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-misutaaa-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-misutaaa-holo-antwerp-2022.png"
+  },
+  "apEX (Holo)": {
+    "class": "pink",
+    "name": "apEX (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-apex-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-apex-holo-antwerp-2022.png"
+  },
+  "Norwi (Holo)": {
+    "class": "pink",
+    "name": "Norwi (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-norwi-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-norwi-holo-antwerp-2022.png"
+  },
+  "Jerry (Holo)": {
+    "class": "pink",
+    "name": "Jerry (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jerry-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jerry-holo-antwerp-2022.png"
+  },
+  "NiKo (Holo)": {
+    "class": "pink",
+    "name": "NiKo (Holo) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-niko-holo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-niko-holo-antwerp-2022.png"
+  },
+  "VINI (Glitter)": {
+    "class": "purple",
+    "name": "VINI (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-vini-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-vini-glitter-antwerp-2022.png"
+  },
+  "m0NESY (Glitter)": {
+    "class": "purple",
+    "name": "m0NESY (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-m0nesy-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-m0nesy-glitter-antwerp-2022.png"
+  },
+  "FalleN (Glitter)": {
+    "class": "purple",
+    "name": "FalleN (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fallen-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fallen-glitter-antwerp-2022.png"
+  },
+  "gla1ve (Glitter)": {
+    "class": "purple",
+    "name": "gla1ve (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-gla1ve-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-gla1ve-glitter-antwerp-2022.png"
+  },
+  "Jerry (Glitter)": {
+    "class": "purple",
+    "name": "Jerry (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jerry-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jerry-glitter-antwerp-2022.png"
+  },
+  "juanflatroo (Glitter)": {
+    "class": "purple",
+    "name": "juanflatroo (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-juanflatroo-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-juanflatroo-glitter-antwerp-2022.png"
+  },
+  "ZywOo (Glitter)": {
+    "class": "purple",
+    "name": "ZywOo (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-zywoo-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-zywoo-glitter-antwerp-2022.png"
+  },
+  "NiKo (Glitter)": {
+    "class": "purple",
+    "name": "NiKo (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-niko-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-niko-glitter-antwerp-2022.png"
+  },
+  "fnx (Glitter)": {
+    "class": "purple",
+    "name": "fnx (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fnx-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fnx-glitter-antwerp-2022.png"
+  },
+  "Magisk (Glitter)": {
+    "class": "purple",
+    "name": "Magisk (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-magisk-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-magisk-glitter-antwerp-2022.png"
+  },
+  "zorte (Glitter)": {
+    "class": "purple",
+    "name": "zorte (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-zorte-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-zorte-glitter-antwerp-2022.png"
+  },
+  "fer (Glitter)": {
+    "class": "purple",
+    "name": "fer (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fer-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fer-glitter-antwerp-2022.png"
+  },
+  "JaCkz (Glitter)": {
+    "class": "purple",
+    "name": "JaCkz (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jackz-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jackz-glitter-antwerp-2022.png"
+  },
+  "chelo (Glitter)": {
+    "class": "purple",
+    "name": "chelo (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-chelo-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-chelo-glitter-antwerp-2022.png"
+  },
+  "Xyp9x (Glitter)": {
+    "class": "purple",
+    "name": "Xyp9x (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-xyp9x-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-xyp9x-glitter-antwerp-2022.png"
+  },
+  "sinnopsyy (Glitter)": {
+    "class": "purple",
+    "name": "sinnopsyy (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-sinnopsyy-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-sinnopsyy-glitter-antwerp-2022.png"
+  },
+  "JOTA (Glitter)": {
+    "class": "purple",
+    "name": "JOTA (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jota-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jota-glitter-antwerp-2022.png"
+  },
+  "SENER1 (Glitter)": {
+    "class": "purple",
+    "name": "SENER1 (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-sener1-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-sener1-glitter-antwerp-2022.png"
+  },
+  "blameF (Glitter)": {
+    "class": "purple",
+    "name": "blameF (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-blamef-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-blamef-glitter-antwerp-2022.png"
+  },
+  "Norwi (Glitter)": {
+    "class": "purple",
+    "name": "Norwi (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-norwi-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-norwi-glitter-antwerp-2022.png"
+  },
+  "Snappi (Glitter)": {
+    "class": "purple",
+    "name": "Snappi (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-snappi-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-snappi-glitter-antwerp-2022.png"
+  },
+  "maden (Glitter)": {
+    "class": "purple",
+    "name": "maden (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-maden-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-maden-glitter-antwerp-2022.png"
+  },
+  "boltz (Glitter)": {
+    "class": "purple",
+    "name": "boltz (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-boltz-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-boltz-glitter-antwerp-2022.png"
+  },
+  "exit (Glitter)": {
+    "class": "purple",
+    "name": "exit (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-exit-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-exit-glitter-antwerp-2022.png"
+  },
+  "misutaaa (Glitter)": {
+    "class": "purple",
+    "name": "misutaaa (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-misutaaa-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-misutaaa-glitter-antwerp-2022.png"
+  },
+  "hades (Glitter)": {
+    "class": "purple",
+    "name": "hades (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-hades-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-hades-glitter-antwerp-2022.png"
+  },
+  "rigoN (Glitter)": {
+    "class": "purple",
+    "name": "rigoN (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-rigon-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-rigon-glitter-antwerp-2022.png"
+  },
+  "huNter (Glitter)": {
+    "class": "purple",
+    "name": "huNter (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-hunter-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-hunter-glitter-antwerp-2022.png"
+  },
+  "Aleksib (Glitter)": {
+    "class": "purple",
+    "name": "Aleksib (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-aleksib-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-aleksib-glitter-antwerp-2022.png"
+  },
+  "apEX (Glitter)": {
+    "class": "purple",
+    "name": "apEX (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-apex-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-apex-glitter-antwerp-2022.png"
+  },
+  "WOOD7 (Glitter)": {
+    "class": "purple",
+    "name": "WOOD7 (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-wood7-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-wood7-glitter-antwerp-2022.png"
+  },
+  "dycha (Glitter)": {
+    "class": "purple",
+    "name": "dycha (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-dycha-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-dycha-glitter-antwerp-2022.png"
+  },
+  "Farlig (Glitter)": {
+    "class": "purple",
+    "name": "Farlig (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-farlig-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-farlig-glitter-antwerp-2022.png"
+  },
+  "Spinx (Glitter)": {
+    "class": "purple",
+    "name": "Spinx (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-spinx-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-spinx-glitter-antwerp-2022.png"
+  },
+  "Tuurtle (Glitter)": {
+    "class": "purple",
+    "name": "Tuurtle (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-tuurtle-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-tuurtle-glitter-antwerp-2022.png"
+  },
+  "dupreeh (Glitter)": {
+    "class": "purple",
+    "name": "dupreeh (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-dupreeh-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-dupreeh-glitter-antwerp-2022.png"
+  },
+  "gxx- (Glitter)": {
+    "class": "purple",
+    "name": "gxx- (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-gxx-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-gxx-glitter-antwerp-2022.png"
+  },
+  "KENSi (Glitter)": {
+    "class": "purple",
+    "name": "KENSi (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-kensi-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-kensi-glitter-antwerp-2022.png"
+  },
+  "k0nfig (Glitter)": {
+    "class": "purple",
+    "name": "k0nfig (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-k0nfig-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-k0nfig-glitter-antwerp-2022.png"
+  },
+  "shalfey (Glitter)": {
+    "class": "purple",
+    "name": "shalfey (Glitter) | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-shalfey-glitter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-shalfey-glitter-antwerp-2022.png"
+  },
+  "m0NESY": {
+    "class": "blue",
+    "name": "m0NESY | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-m0nesy-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-m0nesy-antwerp-2022.png"
+  },
+  "FalleN": {
+    "class": "blue",
+    "name": "FalleN | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fallen-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fallen-antwerp-2022.png"
+  },
+  "NiKo": {
+    "class": "blue",
+    "name": "NiKo | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-niko-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-niko-antwerp-2022.png"
+  },
+  "VINI": {
+    "class": "blue",
+    "name": "VINI | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-vini-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-vini-antwerp-2022.png"
+  },
+  "KENSi": {
+    "class": "blue",
+    "name": "KENSi | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-kensi-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-kensi-antwerp-2022.png"
+  },
+  "dycha": {
+    "class": "blue",
+    "name": "dycha | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-dycha-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-dycha-antwerp-2022.png"
+  },
+  "fnx": {
+    "class": "blue",
+    "name": "fnx | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fnx-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fnx-antwerp-2022.png"
+  },
+  "fer": {
+    "class": "blue",
+    "name": "fer | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-fer-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-fer-antwerp-2022.png"
+  },
+  "Magisk": {
+    "class": "blue",
+    "name": "Magisk | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-magisk-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-magisk-antwerp-2022.png"
+  },
+  "Jerry": {
+    "class": "blue",
+    "name": "Jerry | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jerry-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jerry-antwerp-2022.png"
+  },
+  "boltz": {
+    "class": "blue",
+    "name": "boltz | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-boltz-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-boltz-antwerp-2022.png"
+  },
+  "Aleksib": {
+    "class": "blue",
+    "name": "Aleksib | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-aleksib-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-aleksib-antwerp-2022.png"
+  },
+  "zorte": {
+    "class": "blue",
+    "name": "zorte | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-zorte-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-zorte-antwerp-2022.png"
+  },
+  "JaCkz": {
+    "class": "blue",
+    "name": "JaCkz | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jackz-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jackz-antwerp-2022.png"
+  },
+  "k0nfig": {
+    "class": "blue",
+    "name": "k0nfig | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-k0nfig-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-k0nfig-antwerp-2022.png"
+  },
+  "Spinx": {
+    "class": "blue",
+    "name": "Spinx | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-spinx-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-spinx-antwerp-2022.png"
+  },
+  "SENER1": {
+    "class": "blue",
+    "name": "SENER1 | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-sener1-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-sener1-antwerp-2022.png"
+  },
+  "shalfey": {
+    "class": "blue",
+    "name": "shalfey | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-shalfey-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-shalfey-antwerp-2022.png"
+  },
+  "hades": {
+    "class": "blue",
+    "name": "hades | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-hades-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-hades-antwerp-2022.png"
+  },
+  "JOTA": {
+    "class": "blue",
+    "name": "JOTA | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-jota-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-jota-antwerp-2022.png"
+  },
+  "Farlig": {
+    "class": "blue",
+    "name": "Farlig | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-farlig-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-farlig-antwerp-2022.png"
+  },
+  "huNter": {
+    "class": "blue",
+    "name": "huNter | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-hunter-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-hunter-antwerp-2022.png"
+  },
+  "sinnopsyy": {
+    "class": "blue",
+    "name": "sinnopsyy | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-sinnopsyy-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-sinnopsyy-antwerp-2022.png"
+  },
+  "Xyp9x": {
+    "class": "blue",
+    "name": "Xyp9x | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-xyp9x-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-xyp9x-antwerp-2022.png"
+  },
+  "gla1ve": {
+    "class": "blue",
+    "name": "gla1ve | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-gla1ve-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-gla1ve-antwerp-2022.png"
+  },
+  "juanflatroo": {
+    "class": "blue",
+    "name": "juanflatroo | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-juanflatroo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-juanflatroo-antwerp-2022.png"
+  },
+  "exit": {
+    "class": "blue",
+    "name": "exit | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-exit-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-exit-antwerp-2022.png"
+  },
+  "chelo": {
+    "class": "blue",
+    "name": "chelo | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-chelo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-chelo-antwerp-2022.png"
+  },
+  "Snappi": {
+    "class": "blue",
+    "name": "Snappi | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-snappi-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-snappi-antwerp-2022.png"
+  },
+  "Tuurtle": {
+    "class": "blue",
+    "name": "Tuurtle | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-tuurtle-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-tuurtle-antwerp-2022.png"
+  },
+  "maden": {
+    "class": "blue",
+    "name": "maden | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-maden-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-maden-antwerp-2022.png"
+  },
+  "rigoN": {
+    "class": "blue",
+    "name": "rigoN | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-rigon-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-rigon-antwerp-2022.png"
+  },
+  "misutaaa": {
+    "class": "blue",
+    "name": "misutaaa | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-misutaaa-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-misutaaa-antwerp-2022.png"
+  },
+  "gxx-": {
+    "class": "blue",
+    "name": "gxx- | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-gxx-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-gxx-antwerp-2022.png"
+  },
+  "WOOD7": {
+    "class": "blue",
+    "name": "WOOD7 | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-wood7-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-wood7-antwerp-2022.png"
+  },
+  "ZywOo": {
+    "class": "blue",
+    "name": "ZywOo | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-zywoo-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-zywoo-antwerp-2022.png"
+  },
+  "blameF": {
+    "class": "blue",
+    "name": "blameF | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-blamef-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-blamef-antwerp-2022.png"
+  },
+  "Norwi": {
+    "class": "blue",
+    "name": "Norwi | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-norwi-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-norwi-antwerp-2022.png"
+  },
+  "dupreeh": {
+    "class": "blue",
+    "name": "dupreeh | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-dupreeh-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-dupreeh-antwerp-2022.png"
+  },
+  "apEX": {
+    "class": "blue",
+    "name": "apEX | Antwerp 2022",
+    "image": "/img/skins/stickers/antwerp-2022/sticker-apex-antwerp-2022.png",
+    "imageOG": "/img/skins/stickers/antwerp-2022/small/sticker-apex-antwerp-2022.png"
+  }
+}

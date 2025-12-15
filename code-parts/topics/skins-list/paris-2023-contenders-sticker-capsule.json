@@ -1,0 +1,218 @@
+{
+  "MOUZ (Gold)": {
+    "class": "red",
+    "name": "MOUZ (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-mouz-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-mouz-gold-paris-2023.png"
+  },
+  "Fluxo (Gold)": {
+    "class": "red",
+    "name": "Fluxo (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fluxo-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fluxo-gold-paris-2023.png"
+  },
+  "FaZe Clan (Gold)": {
+    "class": "red",
+    "name": "FaZe Clan (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-faze-clan-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-faze-clan-gold-paris-2023.png"
+  },
+  "BLAST.tv (Gold)": {
+    "class": "red",
+    "name": "BLAST.tv (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blast-tv-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blast-tv-gold-paris-2023.png"
+  },
+  "Team Liquid (Gold)": {
+    "class": "red",
+    "name": "Team Liquid (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-team-liquid-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-team-liquid-gold-paris-2023.png"
+  },
+  "The MongolZ (Gold)": {
+    "class": "red",
+    "name": "The MongolZ (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-the-mongolz-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-the-mongolz-gold-paris-2023.png"
+  },
+  "ENCE (Gold)": {
+    "class": "red",
+    "name": "ENCE (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ence-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ence-gold-paris-2023.png"
+  },
+  "Complexity Gaming (Gold)": {
+    "class": "red",
+    "name": "Complexity Gaming (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-complexity-gaming-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-complexity-gaming-gold-paris-2023.png"
+  },
+  "Grayhound Gaming (Gold)": {
+    "class": "red",
+    "name": "Grayhound Gaming (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-grayhound-gaming-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-grayhound-gaming-gold-paris-2023.png"
+  },
+  "MOUZ (Holo)": {
+    "class": "pink",
+    "name": "MOUZ (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-mouz-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-mouz-holo-paris-2023.png"
+  },
+  "Fluxo (Holo)": {
+    "class": "pink",
+    "name": "Fluxo (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fluxo-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fluxo-holo-paris-2023.png"
+  },
+  "Complexity Gaming (Holo)": {
+    "class": "pink",
+    "name": "Complexity Gaming (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-complexity-gaming-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-complexity-gaming-holo-paris-2023.png"
+  },
+  "FaZe Clan (Holo)": {
+    "class": "pink",
+    "name": "FaZe Clan (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-faze-clan-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-faze-clan-holo-paris-2023.png"
+  },
+  "Team Liquid (Holo)": {
+    "class": "pink",
+    "name": "Team Liquid (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-team-liquid-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-team-liquid-holo-paris-2023.png"
+  },
+  "The MongolZ (Holo)": {
+    "class": "pink",
+    "name": "The MongolZ (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-the-mongolz-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-the-mongolz-holo-paris-2023.png"
+  },
+  "Grayhound Gaming (Holo)": {
+    "class": "pink",
+    "name": "Grayhound Gaming (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-grayhound-gaming-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-grayhound-gaming-holo-paris-2023.png"
+  },
+  "ENCE (Holo)": {
+    "class": "pink",
+    "name": "ENCE (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ence-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ence-holo-paris-2023.png"
+  },
+  "BLAST.tv (Holo)": {
+    "class": "pink",
+    "name": "BLAST.tv (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blast-tv-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blast-tv-holo-paris-2023.png"
+  },
+  "Fluxo (Glitter)": {
+    "class": "purple",
+    "name": "Fluxo (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fluxo-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fluxo-glitter-paris-2023.png"
+  },
+  "Team Liquid (Glitter)": {
+    "class": "purple",
+    "name": "Team Liquid (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-team-liquid-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-team-liquid-glitter-paris-2023.png"
+  },
+  "MOUZ (Glitter)": {
+    "class": "purple",
+    "name": "MOUZ (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-mouz-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-mouz-glitter-paris-2023.png"
+  },
+  "FaZe Clan (Glitter)": {
+    "class": "purple",
+    "name": "FaZe Clan (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-faze-clan-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-faze-clan-glitter-paris-2023.png"
+  },
+  "Complexity Gaming (Glitter)": {
+    "class": "purple",
+    "name": "Complexity Gaming (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-complexity-gaming-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-complexity-gaming-glitter-paris-2023.png"
+  },
+  "ENCE (Glitter)": {
+    "class": "purple",
+    "name": "ENCE (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ence-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ence-glitter-paris-2023.png"
+  },
+  "BLAST.tv (Glitter)": {
+    "class": "purple",
+    "name": "BLAST.tv (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blast-tv-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blast-tv-glitter-paris-2023.png"
+  },
+  "The MongolZ (Glitter)": {
+    "class": "purple",
+    "name": "The MongolZ (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-the-mongolz-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-the-mongolz-glitter-paris-2023.png"
+  },
+  "Grayhound Gaming (Glitter)": {
+    "class": "purple",
+    "name": "Grayhound Gaming (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-grayhound-gaming-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-grayhound-gaming-glitter-paris-2023.png"
+  },
+  "ENCE": {
+    "class": "blue",
+    "name": "ENCE | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-ence-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-ence-paris-2023.png"
+  },
+  "BLAST.tv": {
+    "class": "blue",
+    "name": "BLAST.tv | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blast-tv-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blast-tv-paris-2023.png"
+  },
+  "The MongolZ": {
+    "class": "blue",
+    "name": "The MongolZ | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-the-mongolz-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-the-mongolz-paris-2023.png"
+  },
+  "FaZe Clan": {
+    "class": "blue",
+    "name": "FaZe Clan | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-faze-clan-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-faze-clan-paris-2023.png"
+  },
+  "Fluxo": {
+    "class": "blue",
+    "name": "Fluxo | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fluxo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fluxo-paris-2023.png"
+  },
+  "Team Liquid": {
+    "class": "blue",
+    "name": "Team Liquid | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-team-liquid-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-team-liquid-paris-2023.png"
+  },
+  "Complexity Gaming": {
+    "class": "blue",
+    "name": "Complexity Gaming | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-complexity-gaming-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-complexity-gaming-paris-2023.png"
+  },
+  "Grayhound Gaming": {
+    "class": "blue",
+    "name": "Grayhound Gaming | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-grayhound-gaming-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-grayhound-gaming-paris-2023.png"
+  },
+  "MOUZ": {
+    "class": "blue",
+    "name": "MOUZ | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-mouz-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-mouz-paris-2023.png"
+  }
+}

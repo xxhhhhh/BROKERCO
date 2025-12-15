@@ -1,0 +1,98 @@
+{
+  "Stone Scales (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Stone Scales (Foil)",
+    "image": "/img/skins/stickers/broken-fang/sticker-stone-scales-foil.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-stone-scales-foil.webp"
+  },
+  "Ancient Beast (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Ancient Beast (Foil)",
+    "image": "/img/skins/stickers/broken-fang/sticker-ancient-beast-foil.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-ancient-beast-foil.webp"
+  },
+  "Battle Scarred (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Battle Scarred (Holo)",
+    "image": "/img/skins/stickers/broken-fang/sticker-battle-scarred-holo.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-battle-scarred-holo.webp"
+  },
+  "Coiled Strike (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Coiled Strike (Holo)",
+    "image": "/img/skins/stickers/broken-fang/sticker-coiled-strike-holo.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-coiled-strike-holo.webp"
+  },
+  "Broken Fang (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Broken Fang (Holo)",
+    "image": "/img/skins/stickers/broken-fang/broken-fang-sticker-capsule-holo.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/broken-fang-sticker-capsule-holo.webp"
+  },
+  "Enemy Spotted (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Enemy Spotted (Holo)",
+    "image": "/img/skins/stickers/broken-fang/sticker-enemy-spotted-holo.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-enemy-spotted-holo.webp"
+  },
+  "Battle Scarred": {
+    "class": "blue",
+    "name": "Sticker | Battle Scarred",
+    "image": "/img/skins/stickers/broken-fang/sticker-battle-scarred.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-battle-scarred.webp"
+  },
+  "Broken Fang": {
+    "class": "blue",
+    "name": "Sticker | Broken Fang",
+    "image": "/img/skins/stickers/broken-fang/sticker-broken-fang.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-broken-fang.webp"
+  },
+  "Coiled Strike": {
+    "class": "blue",
+    "name": "Sticker | Coiled Strike",
+    "image": "/img/skins/stickers/broken-fang/sticker-coiled-strike.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-coiled-strike.webp"
+  },
+  "Stone Scales": {
+    "class": "blue",
+    "name": "Sticker | Stone Scales",
+    "image": "/img/skins/stickers/broken-fang/sticker-stone-scales.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-stone-scales.webp"
+  },
+  "Stalking Prey": {
+    "class": "blue",
+    "name": "Sticker | Stalking Prey",
+    "image": "/img/skins/stickers/broken-fang/sticker-stalking-prey.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-stalking-prey.webp"
+  },
+  "Ancient Beast": {
+    "class": "blue",
+    "name": "Sticker | Ancient Beast",
+    "image": "/img/skins/stickers/broken-fang/sticker-ancient-beast.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-ancient-beast.webp"
+  },
+  "Enemy Spotted": {
+    "class": "blue",
+    "name": "Sticker | Enemy Spotted",
+    "image": "/img/skins/stickers/broken-fang/sticker-enemy-spotted.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-enemy-spotted.webp"
+  },
+  "Ancient Protector": {
+    "class": "blue",
+    "name": "Sticker | Ancient Protector",
+    "image": "/img/skins/stickers/broken-fang/sticker-ancient-protector.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-ancient-protector.webp"
+  },
+  "Ancient Marauder": {
+    "class": "blue",
+    "name": "Sticker | Ancient Marauder",
+    "image": "/img/skins/stickers/broken-fang/sticker-ancient-marauder.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-ancient-marauder.webp"
+  },
+  "Badge of Service": {
+    "class": "blue",
+    "name": "Sticker | Badge of Service",
+    "image": "/img/skins/stickers/broken-fang/sticker-badge-of-service.webp",
+    "imageOG": "/img/skins/stickers/broken-fang/small/sticker-badge-of-service.webp"
+  }
+}

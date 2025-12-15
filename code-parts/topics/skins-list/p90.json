@@ -1,0 +1,470 @@
+{
+  "Asiimov": {
+    "class": "red",
+    "image": "/img/skins/p90/asiimov.webp",
+    "name": "P90 | Asiimov",
+    "color": [
+      "Orange",
+      "White"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Straight Dimes": {
+    "class": "lblue",
+    "image": "/img/skins/p90/straight-dimes.webp",
+    "name": "P90 | Straight Dimes",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Wave Breaker": {
+    "class": "purple",
+    "image": "/img/skins/p90/wave-breaker.webp",
+    "name": "P90 | Wave Breaker",
+    "color": [
+      "Green",
+      "Blue"
+    ],
+    "case": "Fever Case"
+  },
+  "Attack Vector": {
+    "class": "purple",
+    "image": "/img/skins/p90/attack-vector.webp",
+    "name": "P90 | Attack Vector",
+    "color": [
+      "Pink",
+      "Purple"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Glacier Mesh": {
+    "class": "blue",
+    "image": "/img/skins/p90/glacier-mesh.webp",
+    "name": "P90 | Glacier Mesh",
+    "color": [
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The Vertigo Collection"
+  },
+  "Death Grip": {
+    "class": "purple",
+    "image": "/img/skins/p90/death-grip.webp",
+    "name": "P90 | Death Grip",
+    "color": [
+      "White"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Randy Rush": {
+    "class": "purple",
+    "image": "/img/skins/p90/randy-rush.webp",
+    "name": "P90 | Randy Rush",
+    "color": [
+      "Brown"
+    ],
+    "case": "Gallery Case"
+  },
+  "Schematic": {
+    "class": "blue",
+    "image": "/img/skins/p90/schematic.webp",
+    "name": "P90 | Schematic",
+    "color": [
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Ash Wood": {
+    "class": "lblue",
+    "image": "/img/skins/p90/ash-wood.webp",
+    "name": "P90 | Ash Wood",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Elite Build": {
+    "class": "blue",
+    "image": "/img/skins/p90/elite-build.webp",
+    "name": "P90 | Elite Build",
+    "color": [
+      "Black"
+    ],
+    "case": "Falchion Case"
+  },
+  "Scorched": {
+    "class": "white",
+    "image": "/img/skins/p90/scorched.webp",
+    "name": "P90 | Scorched",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Freight": {
+    "class": "blue",
+    "image": "/img/skins/p90/freight.webp",
+    "name": "P90 | Freight",
+    "color": [],
+    "case": "Fracture Case"
+  },
+  "Baroque Red": {
+    "class": "blue",
+    "image": "/img/skins/p90/baroque-red.webp",
+    "name": "P90 | Baroque Red",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Sunset Lily": {
+    "class": "lblue",
+    "image": "/img/skins/p90/sunset-lily.webp",
+    "name": "P90 | Sunset Lily",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Desert DDPAT": {
+    "class": "white",
+    "image": "/img/skins/p90/desert-ddpat.webp",
+    "name": "P90 | Desert DDPAT",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Sand Spray": {
+    "class": "white",
+    "image": "/img/skins/p90/sand-spray.webp",
+    "name": "P90 | Sand Spray",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Ancient Earth": {
+    "class": "white",
+    "image": "/img/skins/p90/ancient-earth.webp",
+    "name": "P90 | Ancient Earth",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Cocoa Rampage": {
+    "class": "blue",
+    "image": "/img/skins/p90/cocoa-rampage.webp",
+    "name": "P90 | Cocoa Rampage",
+    "color": [
+      "Brown"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Run and Hide": {
+    "class": "pink",
+    "image": "/img/skins/p90/run-and-hide.webp",
+    "name": "P90 | Run and Hide",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Leather": {
+    "class": "lblue",
+    "image": "/img/skins/p90/leather.webp",
+    "name": "P90 | Leather",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Cold Blooded": {
+    "class": "pink",
+    "image": "/img/skins/p90/cold-blooded.webp",
+    "name": "P90 | Cold Blooded",
+    "color": [
+      "Red"
+    ],
+    "case": "CS:GO Weapon Case 2"
+  },
+  "Fallout Warning": {
+    "class": "lblue",
+    "image": "/img/skins/p90/fallout-warning.webp",
+    "name": "P90 | Fallout Warning",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Nuke Collection"
+  },
+  "Shallow Grave": {
+    "class": "pink",
+    "image": "/img/skins/p90/shallow-grave.webp",
+    "name": "P90 | Shallow Grave",
+    "color": [
+      "Pink",
+      "Red"
+    ],
+    "case": "Glove Case"
+  },
+  "Vent Rush": {
+    "class": "purple",
+    "image": "/img/skins/p90/vent-rush.webp",
+    "name": "P90 | Vent Rush",
+    "color": [
+      "Black",
+      "Orange",
+      "Red"
+    ],
+    "case": "Recoil Case"
+  },
+  "Trigon": {
+    "class": "pink",
+    "image": "/img/skins/p90/trigon.webp",
+    "name": "P90 | Trigon",
+    "color": [
+      "Gray",
+      "Orange"
+    ],
+    "case": "Operation Phoenix Weapon Case"
+  },
+  "Chopper": {
+    "class": "purple",
+    "image": "/img/skins/p90/chopper.webp",
+    "name": "P90 | Chopper",
+    "color": [
+      "Orange"
+    ],
+    "case": "Gamma Case"
+  },
+  "Nostalgia": {
+    "class": "pink",
+    "image": "/img/skins/p90/nostalgia.webp",
+    "name": "P90 | Nostalgia",
+    "color": [],
+    "case": "CS20 Case"
+  },
+  "Tiger Pit": {
+    "class": "blue",
+    "image": "/img/skins/p90/tiger-pit.webp",
+    "name": "P90 | Tiger Pit",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "ScaraB Rush": {
+    "class": "purple",
+    "image": "/img/skins/p90/scarab-rush.webp",
+    "name": "P90 | ScaraB Rush",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Shapewood": {
+    "class": "pink",
+    "image": "/img/skins/p90/shapewood.webp",
+    "name": "P90 | Shapewood",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Revolver Case"
+  },
+  "Desert Warfare": {
+    "class": "blue",
+    "image": "/img/skins/p90/desert-warfare.webp",
+    "name": "P90 | Desert Warfare",
+    "color": [
+      "Yellow"
+    ],
+    "collection": "The Huntsman Collection"
+  },
+  "Virus": {
+    "class": "purple",
+    "image": "/img/skins/p90/virus.webp",
+    "name": "P90 | Virus",
+    "color": [
+      "Green"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Verdant Growth": {
+    "class": "lblue",
+    "image": "/img/skins/p90/verdant-growth.webp",
+    "name": "P90 | Verdant Growth",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Emerald Dragon": {
+    "class": "pink",
+    "image": "/img/skins/p90/emerald-dragon.webp",
+    "name": "P90 | Emerald Dragon",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Grim": {
+    "class": "blue",
+    "image": "/img/skins/p90/grim.webp",
+    "name": "P90 | Grim",
+    "color": [
+      "Green"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Storm": {
+    "class": "white",
+    "image": "/img/skins/p90/storm.webp",
+    "name": "P90 | Storm",
+    "color": [
+      "Cyan"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Facility Negative": {
+    "class": "blue",
+    "image": "/img/skins/p90/facility-negative.webp",
+    "name": "P90 | Facility Negative",
+    "color": [
+      "Brown",
+      "Cyan"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Traction": {
+    "class": "blue",
+    "image": "/img/skins/p90/traction.webp",
+    "name": "P90 | Traction",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Horizon Case"
+  },
+  "Astral Jörmungandr": {
+    "class": "purple",
+    "image": "/img/skins/p90/astral-jormungandr.webp",
+    "name": "P90 | Astral Jörmungandr",
+    "color": [
+      "Cyan"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Module": {
+    "class": "blue",
+    "image": "/img/skins/p90/module.webp",
+    "name": "P90 | Module",
+    "color": [
+      "Blue",
+      "Cyan"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Off World": {
+    "class": "blue",
+    "image": "/img/skins/p90/off-world.webp",
+    "name": "P90 | Off World",
+    "color": [
+      "Blue"
+    ],
+    "case": "Prisma Case"
+  },
+  "Blind Spot": {
+    "class": "purple",
+    "image": "/img/skins/p90/blind-spot.webp",
+    "name": "P90 | Blind Spot",
+    "color": [
+      "Blue"
+    ],
+    "case": "eSports 2013 Winter Case"
+  },
+  "Teardown": {
+    "class": "blue",
+    "image": "/img/skins/p90/teardown.webp",
+    "name": "P90 | Teardown",
+    "color": [
+      "Blue",
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Neoqueen": {
+    "class": "purple",
+    "image": "/img/skins/p90/neoqueen.webp",
+    "name": "P90 | Neoqueen",
+    "color": [
+      "Pink"
+    ],
+    "case": "Revolution Case"
+  },
+  "Death by Kitty": {
+    "class": "red",
+    "image": "/img/skins/p90/death-by-kitty.webp",
+    "name": "P90 | Death by Kitty",
+    "color": [
+      "White"
+    ],
+    "case": "eSports 2013 Case"
+  },
+  "Wash me": {
+    "class": "lblue",
+    "image": "/img/skins/p90/wash-me.webp",
+    "name": "P90 | Wash me",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Reef Grief": {
+    "class": "blue",
+    "image": "/img/skins/p90/reef-grief.webp",
+    "name": "P90 | Reef Grief",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Blue Tac": {
+    "class": "white",
+    "image": "/img/skins/p90/blue-tac.webp",
+    "name": "P90 | Blue Tac",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Desert Halftone": {
+    "class": "white",
+    "image": "/img/skins/p90/desert-halftone.webp",
+    "name": "P90 | Desert Halftone",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Mustard Gas": {
+    "class": "lblue",
+    "image": "/img/skins/p90/mustard-gas.webp",
+    "name": "P90 | Mustard Gas",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

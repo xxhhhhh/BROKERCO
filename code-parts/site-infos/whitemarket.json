@@ -1,0 +1,37 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/sell-skins\" aria-label=\"Sell Skins\" class=\"sell-skins\"></a>",
+        "<a href=\"/csgo/buy-skins\" aria-label=\"Buy Skins\" class=\"buy-skins\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>",
+        "<a href=\"/\" aria-label=\"SkinsBack\" class=\"skinsback\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3.5,
+        "Support": 3,
+        "Payments": 3.5,
+        "Pricing": 4
+    },
+    "name": "white.market",
+    "languages": "en, ru, tr, es",
+    "link": "https://white.market/invite/7b94f28706d45d48",
+    "Main Mode": "marketplace",
+    "Sites Alternatives"  : ["lis-skins", "dmarket", "bitskins", "avanmarket"]
+}

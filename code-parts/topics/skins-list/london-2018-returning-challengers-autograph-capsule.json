@@ -1,0 +1,722 @@
+{
+  "paz (Gold)": {
+    "class": "red",
+    "name": "paz (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-paz-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-paz-gold-london-2018.png"
+  },
+  "snatchie (Gold)": {
+    "class": "red",
+    "name": "snatchie (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-snatchie-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-snatchie-gold-london-2018.png"
+  },
+  "MICHU (Gold)": {
+    "class": "red",
+    "name": "MICHU (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-michu-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-michu-gold-london-2018.png"
+  },
+  "NEO (Gold)": {
+    "class": "red",
+    "name": "NEO (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-neo-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-neo-gold-london-2018.png"
+  },
+  "pashaBiceps (Gold)": {
+    "class": "red",
+    "name": "pashaBiceps (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-pashabiceps-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-pashabiceps-gold-london-2018.png"
+  },
+  "byali (Gold)": {
+    "class": "red",
+    "name": "byali (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-byali-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-byali-gold-london-2018.png"
+  },
+  "v4lde (Gold)": {
+    "class": "red",
+    "name": "v4lde (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-v4lde-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-v4lde-gold-london-2018.png"
+  },
+  "aizy (Gold)": {
+    "class": "red",
+    "name": "aizy (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-aizy-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-aizy-gold-london-2018.png"
+  },
+  "Kjaerbye (Gold)": {
+    "class": "red",
+    "name": "Kjaerbye (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-kjaerbye-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-kjaerbye-gold-london-2018.png"
+  },
+  "niko (Gold)": {
+    "class": "red",
+    "name": "niko (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-niko-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-niko-gold-london-2018.png"
+  },
+  "MSL (Gold)": {
+    "class": "red",
+    "name": "MSL (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-msl-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-msl-gold-london-2018.png"
+  },
+  "nitr0 (Gold)": {
+    "class": "red",
+    "name": "nitr0 (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-nitr0-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-nitr0-gold-london-2018.png"
+  },
+  "NAF (Gold)": {
+    "class": "red",
+    "name": "NAF (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-naf-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-naf-gold-london-2018.png"
+  },
+  "Twistzz (Gold)": {
+    "class": "red",
+    "name": "Twistzz (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-twistzz-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-twistzz-gold-london-2018.png"
+  },
+  "TACO (Gold)": {
+    "class": "red",
+    "name": "TACO (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-taco-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-taco-gold-london-2018.png"
+  },
+  "EliGE (Gold)": {
+    "class": "red",
+    "name": "EliGE (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-elige-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-elige-gold-london-2018.png"
+  },
+  "Xyp9x (Gold)": {
+    "class": "red",
+    "name": "Xyp9x (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-xyp9x-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-xyp9x-gold-london-2018.png"
+  },
+  "Magisk (Gold)": {
+    "class": "red",
+    "name": "Magisk (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-magisk-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-magisk-gold-london-2018.png"
+  },
+  "device (Gold)": {
+    "class": "red",
+    "name": "device (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-device-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-device-gold-london-2018.png"
+  },
+  "gla1ve (Gold)": {
+    "class": "red",
+    "name": "gla1ve (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-gla1ve-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-gla1ve-gold-london-2018.png"
+  },
+  "dupreeh (Gold)": {
+    "class": "red",
+    "name": "dupreeh (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-dupreeh-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-dupreeh-gold-london-2018.png"
+  },
+  "smooya (Gold)": {
+    "class": "red",
+    "name": "smooya (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-smooya-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-smooya-gold-london-2018.png"
+  },
+  "nex (Gold)": {
+    "class": "red",
+    "name": "nex (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-nex-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-nex-gold-london-2018.png"
+  },
+  "tabseN (Gold)": {
+    "class": "red",
+    "name": "tabseN (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tabsen-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tabsen-gold-london-2018.png"
+  },
+  "gob b (Gold)": {
+    "class": "red",
+    "name": "gob b (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-gob-b-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-gob-b-gold-london-2018.png"
+  },
+  "tiziaN (Gold)": {
+    "class": "red",
+    "name": "tiziaN (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tizian-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tizian-gold-london-2018.png"
+  },
+  "MAJ3R (Gold)": {
+    "class": "red",
+    "name": "MAJ3R (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-maj3r-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-maj3r-gold-london-2018.png"
+  },
+  "ngiN (Gold)": {
+    "class": "red",
+    "name": "ngiN (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-ngin-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-ngin-gold-london-2018.png"
+  },
+  "Calyx (Gold)": {
+    "class": "red",
+    "name": "Calyx (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-calyx-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-calyx-gold-london-2018.png"
+  },
+  "XANTARES (Gold)": {
+    "class": "red",
+    "name": "XANTARES (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-xantares-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-xantares-gold-london-2018.png"
+  },
+  "chopper (Gold)": {
+    "class": "red",
+    "name": "chopper (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-chopper-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-chopper-gold-london-2018.png"
+  },
+  "jR (Gold)": {
+    "class": "red",
+    "name": "jR (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-jr-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-jr-gold-london-2018.png"
+  },
+  "hutji (Gold)": {
+    "class": "red",
+    "name": "hutji (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-hutji-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-hutji-gold-london-2018.png"
+  },
+  "crush (Gold)": {
+    "class": "red",
+    "name": "crush (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-crush-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-crush-gold-london-2018.png"
+  },
+  "tonyblack (Gold)": {
+    "class": "red",
+    "name": "tonyblack (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tonyblack-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tonyblack-gold-london-2018.png"
+  },
+  "AdreN (Gold)": {
+    "class": "red",
+    "name": "AdreN (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-adren-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-adren-gold-london-2018.png"
+  },
+  "mou (Gold)": {
+    "class": "red",
+    "name": "mou (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-mou-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-mou-gold-london-2018.png"
+  },
+  "Hobbit (Gold)": {
+    "class": "red",
+    "name": "Hobbit (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-hobbit-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-hobbit-gold-london-2018.png"
+  },
+  "Dosia (Gold)": {
+    "class": "red",
+    "name": "Dosia (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-dosia-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-dosia-gold-london-2018.png"
+  },
+  "mir (Gold)": {
+    "class": "red",
+    "name": "mir (Gold) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-mir-gold-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-mir-gold-london-2018.png"
+  },
+  "AdreN (Foil)": {
+    "class": "purple",
+    "name": "AdreN (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-adren-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-adren-foil-london-2018.png"
+  },
+  "Kjaerbye (Foil)": {
+    "class": "purple",
+    "name": "Kjaerbye (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-kjaerbye-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-kjaerbye-foil-london-2018.png"
+  },
+  "smooya (Foil)": {
+    "class": "purple",
+    "name": "smooya (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-smooya-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-smooya-foil-london-2018.png"
+  },
+  "gob b (Foil)": {
+    "class": "purple",
+    "name": "gob b (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-gob-b-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-gob-b-foil-london-2018.png"
+  },
+  "MAJ3R (Foil)": {
+    "class": "purple",
+    "name": "MAJ3R (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-maj3r-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-maj3r-foil-london-2018.png"
+  },
+  "snatchie (Foil)": {
+    "class": "purple",
+    "name": "snatchie (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-snatchie-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-snatchie-foil-london-2018.png"
+  },
+  "MICHU (Foil)": {
+    "class": "purple",
+    "name": "MICHU (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-michu-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-michu-foil-london-2018.png"
+  },
+  "NEO (Foil)": {
+    "class": "purple",
+    "name": "NEO (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-neo-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-neo-foil-london-2018.png"
+  },
+  "pashaBiceps (Foil)": {
+    "class": "purple",
+    "name": "pashaBiceps (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-pashabiceps-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-pashabiceps-foil-london-2018.png"
+  },
+  "byali (Foil)": {
+    "class": "purple",
+    "name": "byali (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-byali-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-byali-foil-london-2018.png"
+  },
+  "v4lde (Foil)": {
+    "class": "purple",
+    "name": "v4lde (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-v4lde-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-v4lde-foil-london-2018.png"
+  },
+  "aizy (Foil)": {
+    "class": "purple",
+    "name": "aizy (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-aizy-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-aizy-foil-london-2018.png"
+  },
+  "niko (Foil)": {
+    "class": "purple",
+    "name": "niko (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-niko-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-niko-foil-london-2018.png"
+  },
+  "MSL (Foil)": {
+    "class": "purple",
+    "name": "MSL (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-msl-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-msl-foil-london-2018.png"
+  },
+  "nitr0 (Foil)": {
+    "class": "purple",
+    "name": "nitr0 (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-nitr0-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-nitr0-foil-london-2018.png"
+  },
+  "NAF (Foil)": {
+    "class": "purple",
+    "name": "NAF (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-naf-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-naf-foil-london-2018.png"
+  },
+  "Twistzz (Foil)": {
+    "class": "purple",
+    "name": "Twistzz (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-twistzz-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-twistzz-foil-london-2018.png"
+  },
+  "TACO (Foil)": {
+    "class": "purple",
+    "name": "TACO (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-taco-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-taco-foil-london-2018.png"
+  },
+  "EliGE (Foil)": {
+    "class": "purple",
+    "name": "EliGE (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-elige-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-elige-foil-london-2018.png"
+  },
+  "Xyp9x (Foil)": {
+    "class": "purple",
+    "name": "Xyp9x (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-xyp9x-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-xyp9x-foil-london-2018.png"
+  },
+  "Magisk (Foil)": {
+    "class": "purple",
+    "name": "Magisk (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-magisk-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-magisk-foil-london-2018.png"
+  },
+  "device (Foil)": {
+    "class": "purple",
+    "name": "device (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-device-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-device-foil-london-2018.png"
+  },
+  "gla1ve (Foil)": {
+    "class": "purple",
+    "name": "gla1ve (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-gla1ve-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-gla1ve-foil-london-2018.png"
+  },
+  "dupreeh (Foil)": {
+    "class": "purple",
+    "name": "dupreeh (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-dupreeh-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-dupreeh-foil-london-2018.png"
+  },
+  "nex (Foil)": {
+    "class": "purple",
+    "name": "nex (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-nex-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-nex-foil-london-2018.png"
+  },
+  "tabseN (Foil)": {
+    "class": "purple",
+    "name": "tabseN (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tabsen-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tabsen-foil-london-2018.png"
+  },
+  "tiziaN (Foil)": {
+    "class": "purple",
+    "name": "tiziaN (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tizian-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tizian-foil-london-2018.png"
+  },
+  "ngiN (Foil)": {
+    "class": "purple",
+    "name": "ngiN (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-ngin-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-ngin-foil-london-2018.png"
+  },
+  "paz (Foil)": {
+    "class": "purple",
+    "name": "paz (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-paz-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-paz-foil-london-2018.png"
+  },
+  "Calyx (Foil)": {
+    "class": "purple",
+    "name": "Calyx (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-calyx-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-calyx-foil-london-2018.png"
+  },
+  "XANTARES (Foil)": {
+    "class": "purple",
+    "name": "XANTARES (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-xantares-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-xantares-foil-london-2018.png"
+  },
+  "chopper (Foil)": {
+    "class": "purple",
+    "name": "chopper (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-chopper-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-chopper-foil-london-2018.png"
+  },
+  "jR (Foil)": {
+    "class": "purple",
+    "name": "jR (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-jr-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-jr-foil-london-2018.png"
+  },
+  "hutji (Foil)": {
+    "class": "purple",
+    "name": "hutji (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-hutji-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-hutji-foil-london-2018.png"
+  },
+  "crush (Foil)": {
+    "class": "purple",
+    "name": "crush (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-crush-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-crush-foil-london-2018.png"
+  },
+  "tonyblack (Foil)": {
+    "class": "purple",
+    "name": "tonyblack (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tonyblack-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tonyblack-foil-london-2018.png"
+  },
+  "mou (Foil)": {
+    "class": "purple",
+    "name": "mou (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-mou-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-mou-foil-london-2018.png"
+  },
+  "Hobbit (Foil)": {
+    "class": "purple",
+    "name": "Hobbit (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-hobbit-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-hobbit-foil-london-2018.png"
+  },
+  "Dosia (Foil)": {
+    "class": "purple",
+    "name": "Dosia (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-dosia-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-dosia-foil-london-2018.png"
+  },
+  "mir (Foil)": {
+    "class": "purple",
+    "name": "mir (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-mir-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-mir-foil-london-2018.png"
+  },
+  "device": {
+    "class": "blue",
+    "name": "device | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-device-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-device-london-2018.png"
+  },
+  "pashaBiceps": {
+    "class": "blue",
+    "name": "pashaBiceps | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-pashabiceps-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-pashabiceps-london-2018.png"
+  },
+  "snatchie": {
+    "class": "blue",
+    "name": "snatchie | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-snatchie-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-snatchie-london-2018.png"
+  },
+  "XANTARES": {
+    "class": "blue",
+    "name": "XANTARES | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-xantares-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-xantares-london-2018.png"
+  },
+  "nex": {
+    "class": "blue",
+    "name": "nex | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-nex-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-nex-london-2018.png"
+  },
+  "mir": {
+    "class": "blue",
+    "name": "mir | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-mir-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-mir-london-2018.png"
+  },
+  "byali": {
+    "class": "blue",
+    "name": "byali | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-byali-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-byali-london-2018.png"
+  },
+  "MICHU": {
+    "class": "blue",
+    "name": "MICHU | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-michu-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-michu-london-2018.png"
+  },
+  "ngiN": {
+    "class": "blue",
+    "name": "ngiN | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-ngin-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-ngin-london-2018.png"
+  },
+  "Dosia": {
+    "class": "blue",
+    "name": "Dosia | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-dosia-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-dosia-london-2018.png"
+  },
+  "smooya": {
+    "class": "blue",
+    "name": "smooya | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-smooya-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-smooya-london-2018.png"
+  },
+  "Kjaerbye": {
+    "class": "blue",
+    "name": "Kjaerbye | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-kjaerbye-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-kjaerbye-london-2018.png"
+  },
+  "hutji": {
+    "class": "blue",
+    "name": "hutji | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-hutji-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-hutji-london-2018.png"
+  },
+  "NEO": {
+    "class": "blue",
+    "name": "NEO | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-neo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-neo-london-2018.png"
+  },
+  "v4lde": {
+    "class": "blue",
+    "name": "v4lde | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-v4lde-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-v4lde-london-2018.png"
+  },
+  "aizy": {
+    "class": "blue",
+    "name": "aizy | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-aizy-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-aizy-london-2018.png"
+  },
+  "niko": {
+    "class": "blue",
+    "name": "niko | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-niko-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-niko-london-2018.png"
+  },
+  "MSL": {
+    "class": "blue",
+    "name": "MSL | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-msl-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-msl-london-2018.png"
+  },
+  "nitr0": {
+    "class": "blue",
+    "name": "nitr0 | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-nitr0-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-nitr0-london-2018.png"
+  },
+  "NAF": {
+    "class": "blue",
+    "name": "NAF | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-naf-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-naf-london-2018.png"
+  },
+  "Twistzz": {
+    "class": "blue",
+    "name": "Twistzz | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-twistzz-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-twistzz-london-2018.png"
+  },
+  "TACO": {
+    "class": "blue",
+    "name": "TACO | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-taco-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-taco-london-2018.png"
+  },
+  "EliGE": {
+    "class": "blue",
+    "name": "EliGE | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-elige-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-elige-london-2018.png"
+  },
+  "Xyp9x": {
+    "class": "blue",
+    "name": "Xyp9x | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-xyp9x-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-xyp9x-london-2018.png"
+  },
+  "Magisk": {
+    "class": "blue",
+    "name": "Magisk | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-magisk-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-magisk-london-2018.png"
+  },
+  "gla1ve": {
+    "class": "blue",
+    "name": "gla1ve | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-gla1ve-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-gla1ve-london-2018.png"
+  },
+  "dupreeh": {
+    "class": "blue",
+    "name": "dupreeh | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-dupreeh-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-dupreeh-london-2018.png"
+  },
+  "tabseN": {
+    "class": "blue",
+    "name": "tabseN | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tabsen-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tabsen-london-2018.png"
+  },
+  "gob b": {
+    "class": "blue",
+    "name": "gob b | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-gob-b-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-gob-b-london-2018.png"
+  },
+  "tiziaN": {
+    "class": "blue",
+    "name": "tiziaN | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tizian-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tizian-london-2018.png"
+  },
+  "MAJ3R": {
+    "class": "blue",
+    "name": "MAJ3R | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-maj3r-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-maj3r-london-2018.png"
+  },
+  "paz": {
+    "class": "blue",
+    "name": "paz | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-paz-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-paz-london-2018.png"
+  },
+  "Calyx": {
+    "class": "blue",
+    "name": "Calyx | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-calyx-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-calyx-london-2018.png"
+  },
+  "chopper": {
+    "class": "blue",
+    "name": "chopper | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-chopper-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-chopper-london-2018.png"
+  },
+  "jR": {
+    "class": "blue",
+    "name": "jR | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-jr-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-jr-london-2018.png"
+  },
+  "crush": {
+    "class": "blue",
+    "name": "crush | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-crush-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-crush-london-2018.png"
+  },
+  "tonyblack": {
+    "class": "blue",
+    "name": "tonyblack | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tonyblack-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tonyblack-london-2018.png"
+  },
+  "AdreN": {
+    "class": "blue",
+    "name": "AdreN | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-adren-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-adren-london-2018.png"
+  },
+  "mou": {
+    "class": "blue",
+    "name": "mou | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-mou-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-mou-london-2018.png"
+  },
+  "Hobbit": {
+    "class": "blue",
+    "name": "Hobbit | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-hobbit-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-hobbit-london-2018.png"
+  }
+}

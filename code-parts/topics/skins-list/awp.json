@@ -1,0 +1,460 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/awp/vanilla.webp",
+    "name": "AWP | Vanilla",
+    "color": []
+  },
+  "Ice Coaled": {
+    "class": "pink",
+    "image": "/img/skins/awp/ice-coaled.webp",
+    "name": "AWP | Ice Coaled",
+    "color": [
+      "Green",
+      "Cyan",
+      "Blue"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Printstream": {
+    "class": "red",
+    "image": "/img/skins/awp/printstream.webp",
+    "name": "AWP | Printstream",
+    "color": [
+      "White"
+    ],
+    "case": "Fever Case"
+  },
+  "LongDog": {
+    "class": "red",
+    "image": "/img/skins/awp/longdog.webp",
+    "name": "AWP | LongDog",
+    "color": [
+      "White",
+      "Red"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "CMYK": {
+    "class": "red",
+    "image": "/img/skins/awp/cmyk.webp",
+    "name": "AWP | CMYK",
+    "color": [
+      "Pink",
+      "White"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Redline": {
+    "class": "pink",
+    "image": "/img/skins/awp/redline.webp",
+    "name": "AWP | Redline",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Neo-Noir": {
+    "class": "red",
+    "image": "/img/skins/awp/neo-noir.webp",
+    "name": "AWP | Neo-Noir",
+    "color": [
+      "Blue",
+      "Pink",
+      "White"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Asiimov": {
+    "class": "red",
+    "image": "/img/skins/awp/asiimov.webp",
+    "name": "AWP | Asiimov",
+    "color": [
+      "Orange",
+      "White"
+    ],
+    "case": "Operation Phoenix Weapon Case"
+  },
+  "POP AWP": {
+    "class": "purple",
+    "image": "/img/skins/awp/pop-awp.webp",
+    "name": "AWP | POP AWP",
+    "color": [
+      "White"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Acheron": {
+    "class": "blue",
+    "image": "/img/skins/awp/acheron.webp",
+    "name": "AWP | Acheron",
+    "color": [],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Worm God": {
+    "class": "purple",
+    "image": "/img/skins/awp/worm-god.webp",
+    "name": "AWP | Worm God",
+    "color": [
+      "White"
+    ],
+    "case": "Chroma 2 Case"
+  },
+  "Capillary": {
+    "class": "blue",
+    "image": "/img/skins/awp/capillary.webp",
+    "name": "AWP | Capillary",
+    "color": [
+      "Gray"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Chrome Cannon": {
+    "class": "red",
+    "image": "/img/skins/awp/chrome-cannon.webp",
+    "name": "AWP | Chrome Cannon",
+    "color": [],
+    "case": "Kilowatt Case"
+  },
+  "Exoskeleton": {
+    "class": "purple",
+    "image": "/img/skins/awp/exoskeleton.webp",
+    "name": "AWP | Exoskeleton",
+    "color": [
+      "Gray"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Graphite": {
+    "class": "pink",
+    "image": "/img/skins/awp/graphite.webp",
+    "name": "AWP | Graphite",
+    "color": [
+      "Gray"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Black Nile": {
+    "class": "blue",
+    "image": "/img/skins/awp/black-nile.webp",
+    "name": "AWP | Black Nile",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Elite Build": {
+    "class": "pink",
+    "image": "/img/skins/awp/elite-build.webp",
+    "name": "AWP | Elite Build",
+    "color": [
+      "Black",
+      "Gray",
+      "Orange"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Safari Mesh": {
+    "class": "lblue",
+    "image": "/img/skins/awp/safari-mesh.webp",
+    "name": "AWP | Safari Mesh",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Snake Camo": {
+    "class": "blue",
+    "image": "/img/skins/awp/snake-camo.webp",
+    "name": "AWP | Snake Camo",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Dust Collection"
+  },
+  "PAW": {
+    "class": "purple",
+    "image": "/img/skins/awp/paw.webp",
+    "name": "AWP | PAW",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Horizon Case"
+  },
+  "Mortis": {
+    "class": "pink",
+    "image": "/img/skins/awp/mortis.webp",
+    "name": "AWP | Mortis",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "case": "Clutch Case"
+  },
+  "Duality": {
+    "class": "pink",
+    "image": "/img/skins/awp/duality.webp",
+    "name": "AWP | Duality",
+    "color": [
+      "Pink",
+      "Red"
+    ],
+    "case": "Revolution Case"
+  },
+  "Wildfire": {
+    "class": "red",
+    "image": "/img/skins/awp/wildfire.webp",
+    "name": "AWP | Wildfire",
+    "color": [
+      "Red",
+      "Yellow"
+    ],
+    "case": "CS20 Case"
+  },
+  "Desert Hydra": {
+    "class": "red",
+    "image": "/img/skins/awp/desert-hydra.webp",
+    "name": "AWP | Desert Hydra",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Oni Taiji": {
+    "class": "red",
+    "image": "/img/skins/awp/oni-taiji.webp",
+    "name": "AWP | Oni Taiji",
+    "color": [
+      "Red"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/awp/fade.webp",
+    "name": "AWP | Fade",
+    "color": [
+      "Pink",
+      "Yellow"
+    ],
+    "collection": "The Control Collection"
+  },
+  "BOOM": {
+    "class": "pink",
+    "image": "/img/skins/awp/boom.webp",
+    "name": "AWP | BOOM",
+    "color": [
+      "Orange"
+    ],
+    "case": "eSports 2013 Case"
+  },
+  "Dragon Lore": {
+    "class": "red",
+    "image": "/img/skins/awp/dragon-lore.webp",
+    "name": "AWP | Dragon Lore",
+    "color": [
+      "Golden",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "The Prince": {
+    "class": "red",
+    "image": "/img/skins/awp/prince.webp",
+    "name": "AWP | The Prince",
+    "color": [
+      "Golden",
+      "Red",
+      "Yellow"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Containment Breach": {
+    "class": "red",
+    "image": "/img/skins/awp/containment-breach.webp",
+    "name": "AWP | Containment Breach",
+    "color": [
+      "Green"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Atheris": {
+    "class": "purple",
+    "image": "/img/skins/awp/atheris.webp",
+    "name": "AWP | Atheris",
+    "color": [
+      "Green"
+    ],
+    "case": "Prisma Case"
+  },
+  "Pit Viper": {
+    "class": "purple",
+    "image": "/img/skins/awp/pit-viper.webp",
+    "name": "AWP | Pit Viper",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Phobos": {
+    "class": "purple",
+    "image": "/img/skins/awp/phobos.webp",
+    "name": "AWP | Phobos",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "case": "Gamma Case"
+  },
+  "Silk Tiger": {
+    "class": "pink",
+    "image": "/img/skins/awp/silk-tiger.webp",
+    "name": "AWP | Silk Tiger",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Medusa": {
+    "class": "red",
+    "image": "/img/skins/awp/medusa.webp",
+    "name": "AWP | Medusa",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Gungnir": {
+    "class": "red",
+    "image": "/img/skins/awp/gungnir.webp",
+    "name": "AWP | Gungnir",
+    "color": [
+      "Blue",
+      "White"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Man-o'-war": {
+    "class": "red",
+    "image": "/img/skins/awp/man-o-war.webp",
+    "name": "AWP | Man-o'-war",
+    "color": [
+      "Blue",
+      "Golden",
+      "Yellow"
+    ],
+    "case": "Chroma Case"
+  },
+  "Corticera": {
+    "class": "pink",
+    "image": "/img/skins/awp/corticera.webp",
+    "name": "AWP | Corticera",
+    "color": [
+      "Blue"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Sun in Leo": {
+    "class": "lblue",
+    "image": "/img/skins/awp/sun-in-leo.webp",
+    "name": "AWP | Sun in Leo",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Hyper Beast": {
+    "class": "red",
+    "image": "/img/skins/awp/hyper-beast.webp",
+    "name": "AWP | Hyper Beast",
+    "color": [
+      "Pink"
+    ],
+    "case": "Falchion Case"
+  },
+  "Electric Hive": {
+    "class": "pink",
+    "image": "/img/skins/awp/electric-hive.webp",
+    "name": "AWP | Electric Hive",
+    "color": [
+      "Red"
+    ],
+    "case": "eSports 2013 Winter Case"
+  },
+  "Lightning Strike": {
+    "class": "red",
+    "image": "/img/skins/awp/lightning-strike-cs2.webp",
+    "name": "AWP | Lightning Strike",
+    "color": [
+      "Purple"
+    ],
+    "case": "CS:GO Weapon Case"
+  },
+  "Chromatic Aberration": {
+    "class": "red",
+    "image": "/img/skins/awp/chromatic-aberration-cs2.webp",
+    "name": "AWP | Chromatic Aberration",
+    "color": [
+      "Pink",
+      "Purple"
+    ],
+    "case": "Recoil Case"
+  },
+  "Pink DDPAT": {
+    "class": "purple",
+    "image": "/img/skins/awp/pink-ddpat.webp",
+    "name": "AWP | Pink DDPAT",
+    "color": [
+      "Gray",
+      "Pink"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Fever Dream": {
+    "class": "pink",
+    "image": "/img/skins/awp/fever-dream.webp",
+    "name": "AWP | Fever Dream",
+    "color": [
+      "Blue",
+      "Pink"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Crakow!": {
+    "class": "pink",
+    "image": "/img/skins/awp/crakow!.webp",
+    "name": "AWP | Crakow!",
+    "color": [
+      "Pink",
+      "Purple"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Arsenic Spill": {
+    "class": "blue",
+    "image": "/img/skins/awp/arsenic-spill.webp",
+    "name": "AWP | Arsenic Spill",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Green Energy": {
+    "class": "pink",
+    "image": "/img/skins/awp/green-energy.webp",
+    "name": "AWP | Green Energy",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "SteamLevels",
+    "logo": "/img/steamlevels-logo.svg",
+    "reward": "There is no Registration Bonus",
+    "reward_ru": "На сайте нет Бонуса за Регистрацию",
+    "reward_tr": "Sitede Kayıt Bonusu yok",
+    "reward_es": "No hay bono de registro",
+    "link": "https://steamlevels.com/"
+}

@@ -1,0 +1,128 @@
+{
+  "Ethereal Gaze (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Ethereal Gaze (Foil)",
+    "image": "/img/skins/stickers/espionage/sticker-ethereal-gaze-foil.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-ethereal-gaze-foil.png"
+  },
+  "Peek Me (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Peek Me (Foil)",
+    "image": "/img/skins/stickers/espionage/sticker-peek-me-foil.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-peek-me-foil.png"
+  },
+  "Hidden Hero (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Hidden Hero (Foil)",
+    "image": "/img/skins/stickers/espionage/sticker-hidden-hero-foil.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-hidden-hero-foil.png"
+  },
+  "Infinite Triangle (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Infinite Triangle (Holo)",
+    "image": "/img/skins/stickers/espionage/sticker-infinite-triangle-holo.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-infinite-triangle-holo.png"
+  },
+  "Snowfall (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Snowfall (Glitter)",
+    "image": "/img/skins/stickers/espionage/sticker-snowfall-glitter.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-snowfall-glitter.png"
+  },
+  "Salty (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Salty (Holo)",
+    "image": "/img/skins/stickers/espionage/sticker-salty-holo.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-salty-holo.png"
+  },
+  "Cyber Chicken (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Cyber Chicken (Holo)",
+    "image": "/img/skins/stickers/espionage/sticker-cyber-chicken-holo.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-cyber-chicken-holo.png"
+  },
+  "Mind Games (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Mind Games (Holo)",
+    "image": "/img/skins/stickers/espionage/sticker-mind-games-holo.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-mind-games-holo.png"
+  },
+  "Street Artist (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Street Artist (Glitter)",
+    "image": "/img/skins/stickers/espionage/sticker-street-artist-glitter.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-street-artist-glitter.png"
+  },
+  "Run T, Run": {
+    "class": "blue",
+    "name": "Sticker | Run T, Run",
+    "image": "/img/skins/stickers/espionage/sticker-run-t-run.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-run-t-run.png"
+  },
+  "Zap Cat": {
+    "class": "blue",
+    "name": "Sticker | Zap Cat",
+    "image": "/img/skins/stickers/espionage/sticker-zap-cat.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-zap-cat.png"
+  },
+  "360 No Scope": {
+    "class": "blue",
+    "name": "Sticker | 360 No Scope",
+    "image": "/img/skins/stickers/espionage/sticker-360-no-scope.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-360-no-scope.png"
+  },
+  "Spectators": {
+    "class": "blue",
+    "name": "Sticker | Spectators",
+    "image": "/img/skins/stickers/espionage/sticker-spectators.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-spectators.png"
+  },
+  "Explosive Strength": {
+    "class": "blue",
+    "name": "Sticker | Explosive Strength",
+    "image": "/img/skins/stickers/espionage/sticker-explosive-strength.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-explosive-strength.png"
+  },
+  "Aim And Fire": {
+    "class": "blue",
+    "name": "Sticker | Aim And Fire",
+    "image": "/img/skins/stickers/espionage/sticker-aim-and-fire.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-aim-and-fire.png"
+  },
+  "Batter Up": {
+    "class": "blue",
+    "name": "Sticker | Batter Up",
+    "image": "/img/skins/stickers/espionage/sticker-batter-up.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-batter-up.png"
+  },
+  "Not A Bot": {
+    "class": "blue",
+    "name": "Sticker | Not A Bot",
+    "image": "/img/skins/stickers/espionage/sticker-not-a-bot.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-not-a-bot.png"
+  },
+  "Well Played": {
+    "class": "blue",
+    "name": "Sticker | Well Played",
+    "image": "/img/skins/stickers/espionage/sticker-well-played.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-well-played.png"
+  },
+  "Sting Like A Butterfly": {
+    "class": "blue",
+    "name": "Sticker | Sting Like A Butterfly",
+    "image": "/img/skins/stickers/espionage/sticker-sting-like-a-butterfly.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-sting-like-a-butterfly.png"
+  },
+  "Fireball": {
+    "class": "blue",
+    "name": "Sticker | Fireball",
+    "image": "/img/skins/stickers/espionage/sticker-fireball.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-fireball.png"
+  },
+  "Knife's Edge": {
+    "class": "blue",
+    "name": "Sticker | Knife's Edge",
+    "image": "/img/skins/stickers/espionage/sticker-knife-s-edge.png",
+    "imageOG": "/img/skins/stickers/espionage/small/sticker-knife-s-edge.png"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "Rare Atom (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-rare-atom-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-rare-atom-gold-shanghai-2024.png",
+    "name": "Rare Atom (Gold) | Shanghai 2024"
+  },
+  "Perfect World (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-perfect-world-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-perfect-world-gold-shanghai-2024.png",
+    "name": "Perfect World (Gold) | Shanghai 2024"
+  },
+  "Cloud9 (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-cloud9-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-cloud9-gold-shanghai-2024.png",
+    "name": "Cloud9 (Gold) | Shanghai 2024"
+  },
+  "Passion UA (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-passion-ua-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-passion-ua-gold-shanghai-2024.png",
+    "name": "Passion UA (Gold) | Shanghai 2024"
+  },
+  "FlyQuest (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-flyquest-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-flyquest-gold-shanghai-2024.png",
+    "name": "FlyQuest (Gold) | Shanghai 2024"
+  },
+  "Wildcard (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-wildcard-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-wildcard-gold-shanghai-2024.png",
+    "name": "Wildcard (Gold) | Shanghai 2024"
+  },
+  "GamerLegion (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-gamerlegion-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-gamerlegion-gold-shanghai-2024.png",
+    "name": "GamerLegion (Gold) | Shanghai 2024"
+  },
+  "Imperial Esports (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-imperial-esports-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-imperial-esports-gold-shanghai-2024.png",
+    "name": "Imperial Esports (Gold) | Shanghai 2024"
+  },
+  "MIBR (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mibr-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mibr-gold-shanghai-2024.png",
+    "name": "MIBR (Gold) | Shanghai 2024"
+  },
+  "Rare Atom (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-rare-atom-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-rare-atom-holo-shanghai-2024.png",
+    "name": "Rare Atom (Holo) | Shanghai 2024"
+  },
+  "Perfect World (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-perfect-world-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-perfect-world-holo-shanghai-2024.png",
+    "name": "Perfect World (Holo) | Shanghai 2024"
+  },
+  "FlyQuest (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-flyquest-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-flyquest-holo-shanghai-2024.png",
+    "name": "FlyQuest (Holo) | Shanghai 2024"
+  },
+  "Wildcard (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-wildcard-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-wildcard-holo-shanghai-2024.png",
+    "name": "Wildcard (Holo) | Shanghai 2024"
+  },
+  "Cloud9 (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-cloud9-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-cloud9-holo-shanghai-2024.png",
+    "name": "Cloud9 (Holo) | Shanghai 2024"
+  },
+  "Passion UA (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-passion-ua-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-passion-ua-holo-shanghai-2024.png",
+    "name": "Passion UA (Holo) | Shanghai 2024"
+  },
+  "Imperial Esports (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-imperial-esports-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-imperial-esports-holo-shanghai-2024.png",
+    "name": "Imperial Esports (Holo) | Shanghai 2024"
+  },
+  "GamerLegion (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-gamerlegion-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-gamerlegion-holo-shanghai-2024.png",
+    "name": "GamerLegion (Holo) | Shanghai 2024"
+  },
+  "MIBR (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mibr-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mibr-holo-shanghai-2024.png",
+    "name": "MIBR (Holo) | Shanghai 2024"
+  },
+  "Rare Atom (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-rare-atom-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-rare-atom-glitter-shanghai-2024.png",
+    "name": "Rare Atom (Glitter) | Shanghai 2024"
+  },
+  "Cloud9 (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-cloud9-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-cloud9-glitter-shanghai-2024.png",
+    "name": "Cloud9 (Glitter) | Shanghai 2024"
+  },
+  "FlyQuest (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-flyquest-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-flyquest-glitter-shanghai-2024.png",
+    "name": "FlyQuest (Glitter) | Shanghai 2024"
+  },
+  "Perfect World (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-perfect-world-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-perfect-world-glitter-shanghai-2024.png",
+    "name": "Perfect World (Glitter) | Shanghai 2024"
+  },
+  "Wildcard (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-wildcard-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-wildcard-glitter-shanghai-2024.png",
+    "name": "Wildcard (Glitter) | Shanghai 2024"
+  },
+  "Imperial Esports (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-imperial-esports-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-imperial-esports-glitter-shanghai-2024.png",
+    "name": "Imperial Esports (Glitter) | Shanghai 2024"
+  },
+  "Passion UA (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-passion-ua-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-passion-ua-glitter-shanghai-2024.png",
+    "name": "Passion UA (Glitter) | Shanghai 2024"
+  },
+  "GamerLegion (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-gamerlegion-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-gamerlegion-glitter-shanghai-2024.png",
+    "name": "GamerLegion (Glitter) | Shanghai 2024"
+  },
+  "MIBR (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mibr-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mibr-glitter-shanghai-2024.png",
+    "name": "MIBR (Glitter) | Shanghai 2024"
+  },
+  "Rare Atom": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-rare-atom-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-rare-atom-shanghai-2024.png",
+    "name": "Rare Atom | Shanghai 2024"
+  },
+  "FlyQuest": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-flyquest-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-flyquest-shanghai-2024.png",
+    "name": "FlyQuest | Shanghai 2024"
+  },
+  "Perfect World": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-perfect-world-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-perfect-world-shanghai-2024.png",
+    "name": "Perfect World | Shanghai 2024"
+  },
+  "Imperial Esports": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-imperial-esports-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-imperial-esports-shanghai-2024.png",
+    "name": "Imperial Esports | Shanghai 2024"
+  },
+  "Wildcard": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-wildcard-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-wildcard-shanghai-2024.png",
+    "name": "Wildcard | Shanghai 2024"
+  },
+  "Cloud9": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-cloud9-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-cloud9-shanghai-2024.png",
+    "name": "Cloud9 | Shanghai 2024"
+  },
+  "Passion UA": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-passion-ua-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-passion-ua-shanghai-2024.png",
+    "name": "Passion UA | Shanghai 2024"
+  },
+  "MIBR": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mibr-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mibr-shanghai-2024.png",
+    "name": "MIBR | Shanghai 2024"
+  },
+  "GamerLegion": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-gamerlegion-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-gamerlegion-shanghai-2024.png",
+    "name": "GamerLegion | Shanghai 2024"
+  }
+}

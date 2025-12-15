@@ -1,0 +1,37 @@
+{
+  "Cmdr. Mae 'Dead Cold' Jamison": {
+    "class": "red",
+    "name": "Cmdr. Mae 'Dead Cold' Jamison | SWAT",
+    "image": "/img/skins/agents/swat/cmdr-mae-dead-cold-jamison.webp",
+    "color": [],
+    "collection": "Broken Fang Agents"
+  },
+  "1st Lieutenant Farlow": {
+    "class": "pink",
+    "name": "1st Lieutenant Farlow | SWAT",
+    "image": "/img/skins/agents/swat/1st-lieutenant-farlow.webp",
+    "color": [],
+    "collection": "Broken Fang Agents"
+  },
+  "Sergeant Bombson": {
+    "class": "purple",
+    "name": "Sergeant Bombson | SWAT",
+    "image": "/img/skins/agents/swat/sergeant-bombson.webp",
+    "color": [],
+    "collection": "Broken Fang Agents"
+  },
+  "John 'Van Healen' Kask": {
+    "class": "purple",
+    "name": "John 'Van Healen' Kask | SWAT",
+    "image": "/img/skins/agents/swat/john-van-healen-kask.webp",
+    "color": [],
+    "collection": "Broken Fang Agents"
+  },
+  "Lieutenant 'Tree Hugger' Farlow": {
+    "class": "purple",
+    "name": "Lieutenant 'Tree Hugger' Farlow | SWAT",
+    "image": "/img/skins/agents/swat/lieutenant-tree-hugger-farlow.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  }
+}

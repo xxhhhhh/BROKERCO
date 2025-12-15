@@ -1,0 +1,158 @@
+{
+  "Ruby Stream (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Ruby Stream (Lenticular)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-ruby-stream-lenticular.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-ruby-stream-lenticular.png"
+  },
+  "Ruby Wave (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Ruby Wave (Lenticular)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-ruby-wave-lenticular.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-ruby-wave-lenticular.png"
+  },
+  "Winding Scorch (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Winding Scorch (Foil)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-winding-scorch-foil.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-winding-scorch-foil.png"
+  },
+  "Bolt Charge (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Bolt Charge (Foil)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-bolt-charge-foil.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-bolt-charge-foil.png"
+  },
+  "Bolt Strike (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Bolt Strike (Foil)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-bolt-strike-foil.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-bolt-strike-foil.png"
+  },
+  "Bolt Energy (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Bolt Energy (Foil)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-bolt-energy-foil.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-bolt-energy-foil.png"
+  },
+  "Rainbow Route (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Rainbow Route (Holo)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-rainbow-route-holo.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-rainbow-route-holo.png"
+  },
+  "Boom Trail (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Boom Trail (Glitter)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-boom-trail-glitter.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-boom-trail-glitter.png"
+  },
+  "Boom Detonation (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Boom Detonation (Glitter)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-boom-detonation-glitter.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-boom-detonation-glitter.png"
+  },
+  "Boom Blast (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Boom Blast (Glitter)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-boom-blast-glitter.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-boom-blast-glitter.png"
+  },
+  "Boom Epicenter (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Boom Epicenter (Glitter)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-boom-epicenter-glitter.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-boom-epicenter-glitter.png"
+  },
+  "High Heat": {
+    "class": "blue",
+    "name": "Sticker | High Heat",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-high-heat.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-high-heat.png"
+  },
+  "Bolt Charge": {
+    "class": "blue",
+    "name": "Sticker | Bolt Charge",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-bolt-charge.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-bolt-charge.png"
+  },
+  "Winding Scorch": {
+    "class": "blue",
+    "name": "Sticker | Winding Scorch",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-winding-scorch.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-winding-scorch.png"
+  },
+  "Bolt Strike": {
+    "class": "blue",
+    "name": "Sticker | Bolt Strike",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-bolt-strike.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-bolt-strike.png"
+  },
+  "Hydro Wave": {
+    "class": "blue",
+    "name": "Sticker | Hydro Wave",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-hydro-wave.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-hydro-wave.png"
+  },
+  "Scorch Loop": {
+    "class": "blue",
+    "name": "Sticker | Scorch Loop",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-scorch-loop.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-scorch-loop.png"
+  },
+  "Scorch Loop (Reverse)": {
+    "class": "blue",
+    "name": "Sticker | Scorch Loop (Reverse)",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-scorch-loop-reverse.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-scorch-loop-reverse.png"
+  },
+  "Hydro Stream": {
+    "class": "blue",
+    "name": "Sticker | Hydro Stream",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-hydro-stream.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-hydro-stream.png"
+  },
+  "Hot Rod Heat": {
+    "class": "blue",
+    "name": "Sticker | Hot Rod Heat",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-hot-rod-heat.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-hot-rod-heat.png"
+  },
+  "Bolt Energy": {
+    "class": "blue",
+    "name": "Sticker | Bolt Energy",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-bolt-energy.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-bolt-energy.png"
+  },
+  "Hydro Geyser": {
+    "class": "blue",
+    "name": "Sticker | Hydro Geyser",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-hydro-geyser.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-hydro-geyser.png"
+  },
+  "Boom Trail": {
+    "class": "blue",
+    "name": "Sticker | Boom Trail",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-boom-trail.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-boom-trail.png"
+  },
+  "Boom Detonation": {
+    "class": "blue",
+    "name": "Sticker | Boom Detonation",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-boom-detonation.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-boom-detonation.png"
+  },
+  "Boom Epicenter": {
+    "class": "blue",
+    "name": "Sticker | Boom Epicenter",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-boom-epicenter.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-boom-epicenter.png"
+  },
+  "Boom Blast": {
+    "class": "blue",
+    "name": "Sticker | Boom Blast",
+    "image": "/img/skins/stickers/elemental-craft-stickers/sticker-boom-blast.png",
+    "imageOG": "/img/skins/stickers/elemental-craft-stickers/small/sticker-boom-blast.png"
+  }
+}

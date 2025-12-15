@@ -1,0 +1,387 @@
+{
+  "Halftone Whorl": {
+    "class": "lblue",
+    "image": "/img/skins/ssg-08/halftone-whorl.webp",
+    "name": "SSG 08 | Halftone Whorl",
+    "color": [
+      "Cyan"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Memorial": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/memorial.webp",
+    "name": "SSG 08 | Memorial",
+    "color": [
+      "White",
+      "Gray"
+    ],
+    "case": "Fever Case"
+  },
+  "Detour": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/detour.webp",
+    "name": "SSG 08 | Detour",
+    "color": [
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Parallax": {
+    "class": "purple",
+    "image": "/img/skins/ssg-08/paralax.webp",
+    "name": "SSG 08 | Parallax",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Rapid Transit": {
+    "class": "purple",
+    "image": "/img/skins/ssg-08/rapid-transit.webp",
+    "name": "SSG 08 | Rapid Transit",
+    "color": [
+      "White"
+    ],
+    "case": "Gallery Case"
+  },
+  "Ghost Crusader": {
+    "class": "purple",
+    "image": "/img/skins/ssg-08/ghost-crusader.webp",
+    "name": "SSG 08 | Ghost Crusader",
+    "color": [
+      "White"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Hand Brake": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/hand-brake.webp",
+    "name": "SSG 08 | Hand Brake",
+    "color": [
+      "Blue",
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Blood in the Water": {
+    "class": "red",
+    "image": "/img/skins/ssg-08/blood-in-the-water.webp",
+    "name": "SSG 08 | Blood in the Water",
+    "color": [],
+    "case": "CS:GO Weapon Case 2"
+  },
+  "Dezastre": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/dezastre.webp",
+    "name": "SSG 08 | Dezastre",
+    "color": [
+      "Red",
+      "Yellow"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Carbon Fiber": {
+    "class": "lblue",
+    "image": "/img/skins/ssg-08/carbon-fiber.webp",
+    "name": "SSG 08 | Carbon Fiber",
+    "color": [
+      "Black"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Dark Water": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/dark-water.webp",
+    "name": "SSG 08 | Dark Water",
+    "color": [
+      "Gray"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Prey": {
+    "class": "white",
+    "image": "/img/skins/ssg-08/prey.webp",
+    "name": "SSG 08 | Prey",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Red Stone": {
+    "class": "white",
+    "image": "/img/skins/ssg-08/red-stone.webp",
+    "name": "SSG 08 | Red Stone",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Death's Head": {
+    "class": "purple",
+    "image": "/img/skins/ssg-08/deaths-head.webp",
+    "name": "SSG 08 | Death's Head",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Mayan Dreams": {
+    "class": "lblue",
+    "image": "/img/skins/ssg-08/mayan-dreams.webp",
+    "name": "SSG 08 | Mayan Dreams",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Alpha Collection"
+  },
+  "Orange Filigree": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/orange-filigree.webp",
+    "name": "SSG 08 | Orange Filigree",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Dragonfire": {
+    "class": "red",
+    "image": "/img/skins/ssg-08/dragonfire.webp",
+    "name": "SSG 08 | Dragonfire",
+    "color": [
+      "Orange",
+      "Red"
+    ],
+    "case": "Glove Case"
+  },
+  "Bloodshot": {
+    "class": "pink",
+    "image": "/img/skins/ssg-08/bloodshot.webp",
+    "name": "SSG 08 | Bloodshot",
+    "color": [
+      "Red",
+      "Yellow"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Threat Detected": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/threat-detected.webp",
+    "name": "SSG 08 | Threat Detected",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Slashed": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/slashed.webp",
+    "name": "SSG 08 | Slashed",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Sand Dune": {
+    "class": "white",
+    "image": "/img/skins/ssg-08/sand-dune.webp",
+    "name": "SSG 08 | Sand Dune",
+    "color": [],
+    "collection": "The Baggage Collection"
+  },
+  "Big Iron": {
+    "class": "pink",
+    "image": "/img/skins/ssg-08/big-iron.webp",
+    "name": "SSG 08 | Big Iron",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Shadow Case"
+  },
+  "Death Strike": {
+    "class": "pink",
+    "image": "/img/skins/ssg-08/death-strike.webp",
+    "name": "SSG 08 | Death Strike",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Sea Calico": {
+    "class": "purple",
+    "image": "/img/skins/ssg-08/sea-calico.webp",
+    "name": "SSG 08 | Sea Calico",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Acid Fade": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/acid-fade.webp",
+    "name": "SSG 08 | Acid Fade",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Spring Twilly": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/spring-twilly.webp",
+    "name": "SSG 08 | Spring Twilly",
+    "color": [
+      "Green"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Necropos": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/necropos.webp",
+    "name": "SSG 08 | Necropos",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Lichen Dashed": {
+    "class": "white",
+    "image": "/img/skins/ssg-08/lichen-dashed.webp",
+    "name": "SSG 08 | Lichen Dashed",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Aztec Collection"
+  },
+  "Jungle Dashed": {
+    "class": "white",
+    "image": "/img/skins/ssg-08/jungle-dashed.webp",
+    "name": "SSG 08 | Jungle Dashed",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Azure Glyph": {
+    "class": "lblue",
+    "image": "/img/skins/ssg-08/azure-glyph.webp",
+    "name": "SSG 08 | Azure Glyph",
+    "color": [
+      "Brown",
+      "Cyan"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Blue Spruce": {
+    "class": "white",
+    "image": "/img/skins/ssg-08/blue-spruce.webp",
+    "name": "SSG 08 | Blue Spruce",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Mainframe 001": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/mainframe-001.webp",
+    "name": "SSG 08 | Mainframe 001",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Fracture Case"
+  },
+  "Tropical Storm": {
+    "class": "lblue",
+    "image": "/img/skins/ssg-08/tropical-storm.webp",
+    "name": "SSG 08 | Tropical Storm",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Abyss": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/abyss.webp",
+    "name": "SSG 08 | Abyss",
+    "color": [
+      "Blue"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Turbo Peek": {
+    "class": "pink",
+    "image": "/img/skins/ssg-08/turbo-peak.webp",
+    "name": "SSG 08 | Turbo Peek",
+    "color": [
+      "Pink",
+      "Purple"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "Fever Dream": {
+    "class": "purple",
+    "image": "/img/skins/ssg-08/fever-dream.webp",
+    "name": "SSG 08 | Fever Dream",
+    "color": [
+      "Pink"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Zeno": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/zeno.webp",
+    "name": "SSG 08 | Zeno",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Grey Smoke": {
+    "class": "white",
+    "image": "/img/skins/ssg-08/grey-smoke.webp",
+    "name": "SSG 08 | Grey Smoke",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Blush Pour": {
+    "class": "blue",
+    "image": "/img/skins/ssg-08/blush-pour.webp",
+    "name": "SSG 08 | Blush Pour",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Tiger Tear": {
+    "class": "lblue",
+    "image": "/img/skins/ssg-08/tiger-tear.webp",
+    "name": "SSG 08 | Tiger Tear",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Boreal Collection"
+  },
+  "Green Ceramic": {
+    "class": "white",
+    "image": "/img/skins/ssg-08/green-ceramic.webp",
+    "name": "SSG 08 | Green Ceramic",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

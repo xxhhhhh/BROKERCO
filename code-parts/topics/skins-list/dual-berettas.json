@@ -1,0 +1,388 @@
+{
+  "Angel Eyes": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/angel-eyes.webp",
+    "name": "Dual Berettas | Angel Eyes",
+    "color": [
+      "Gray"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Heist": {
+    "class": "white",
+    "image": "/img/skins/dual-berettas/heist.webp",
+    "name": "Dual Berettas | Heist",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Dezastre": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/dezastre.webp",
+    "name": "Dual Berettas | Dezastre",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Hydro Strike": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/hydro-strike.webp",
+    "name": "Dual Berettas | Hydro Strike",
+    "color": [
+      "Blue"
+    ],
+    "case": "Gallery Case"
+  },
+  "Stained": {
+    "class": "lblue",
+    "image": "/img/skins/dual-berettas/stained.webp",
+    "name": "Dual Berettas | Stained",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Elite 1.6": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/elite1.6.webp",
+    "name": "Dual Berettas | Elite 1.6",
+    "color": [
+      "Gray"
+    ],
+    "case": "CS20 Case"
+  },
+  "Tread": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/tread.webp",
+    "name": "Dual Berettas | Tread",
+    "color": [
+      "Gray",
+      "Yellow"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "Ventilators": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/ventilators.webp",
+    "name": "Dual Berettas | Ventilators",
+    "color": [
+      "Gray"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Balance": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/balance.webp",
+    "name": "Dual Berettas | Balance",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Cartel": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/cartel.webp",
+    "name": "Dual Berettas | Cartel",
+    "color": [
+      "Gray"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Black Limba": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/black-limba.webp",
+    "name": "Dual Berettas | Black Limba",
+    "color": [
+      "Brown"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Dualing Dragons": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/dualing-dragons.webp",
+    "name": "Dual Berettas | Dualing Dragons",
+    "color": [
+      "Black",
+      "Brown",
+      "Gray"
+    ],
+    "case": "Shadow Case"
+  },
+  "Hideout": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/hideout.webp",
+    "name": "Dual Berettas | Hideout",
+    "color": [],
+    "case": "Kilowatt Case"
+  },
+  "Contractor": {
+    "class": "white",
+    "image": "/img/skins/dual-berettas/contractor.webp",
+    "name": "Dual Berettas | Contractor",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Drift Wood": {
+    "class": "lblue",
+    "image": "/img/skins/dual-berettas/drift-wood.webp",
+    "name": "Dual Berettas | Drift Wood",
+    "color": [],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Oil Change": {
+    "class": "white",
+    "image": "/img/skins/dual-berettas/oil-change.webp",
+    "name": "Dual Berettas | Oil Change",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Pyre": {
+    "class": "lblue",
+    "image": "/img/skins/dual-berettas/pyre.webp",
+    "name": "Dual Berettas | Pyre",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Panther": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/panther.webp",
+    "name": "Dual Berettas | Panther",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Twin Turbo": {
+    "class": "pink",
+    "image": "/img/skins/dual-berettas/twin-turbo.webp",
+    "name": "Dual Berettas | Twin Turbo",
+    "color": [
+      "Green",
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Hemoglobin": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/hemoglobin.webp",
+    "name": "Dual Berettas | Hemoglobin",
+    "color": [
+      "Red"
+    ],
+    "case": "CS:GO Weapon Case 2"
+  },
+  "Melondrama": {
+    "class": "pink",
+    "image": "/img/skins/dual-berettas/melondrama.webp",
+    "name": "Dual Berettas | Melondrama",
+    "color": [
+      "Blue",
+      "Cyan",
+      "Pink"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Demolition": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/demolition.webp",
+    "name": "Dual Berettas | Demolition",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Vertigo Collection"
+  },
+  "Marina": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/marina.webp",
+    "name": "Dual Berettas | Marina",
+    "color": [
+      "Blue",
+      "Yellow"
+    ],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Colony": {
+    "class": "white",
+    "image": "/img/skins/dual-berettas/colony.webp",
+    "name": "Dual Berettas | Colony",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Switch Board": {
+    "class": "lblue",
+    "image": "/img/skins/dual-berettas/switch-board.webp",
+    "name": "Dual Berettas | Switch Board",
+    "color": [],
+    "collection": "The Control Collection"
+  },
+  "Retribution": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/retribution.webp",
+    "name": "Dual Berettas | Retribution",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Huntsman Collection"
+  },
+  "Royal Consorts": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/royal-consorts.webp",
+    "name": "Dual Berettas | Royal Consorts",
+    "color": [
+      "Green"
+    ],
+    "case": "Glove Case"
+  },
+  "Briar": {
+    "class": "white",
+    "image": "/img/skins/dual-berettas/briar.webp",
+    "name": "Dual Berettas | Briar",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Cobra Strike": {
+    "class": "pink",
+    "image": "/img/skins/dual-berettas/cobra-strike.webp",
+    "name": "Dual Berettas | Cobra Strike",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Emerald": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/emerald.webp",
+    "name": "Dual Berettas | Emerald",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Shred": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/shred.webp",
+    "name": "Dual Berettas | Shred",
+    "color": [
+      "Black",
+      "Blue"
+    ],
+    "case": "Horizon Case"
+  },
+  "Cobalt Quartz": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/cobalt-quartz.webp",
+    "name": "Dual Berettas | Cobalt Quartz",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Urban Shock": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/urban-shock.webp",
+    "name": "Dual Berettas | Urban Shock",
+    "color": [
+      "Blue"
+    ],
+    "case": "Chroma Case"
+  },
+  "Anodized Navy": {
+    "class": "blue",
+    "image": "/img/skins/dual-berettas/anodized-navy.webp",
+    "name": "Dual Berettas | Anodized Navy",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Inferno Collection"
+  },
+  "Duelist": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/duelist.webp",
+    "name": "Dual Berettas | Duelist",
+    "color": [
+      "Black",
+      "Black",
+      "Gray"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Moon in Libra": {
+    "class": "white",
+    "image": "/img/skins/dual-berettas/moon-in-libra.webp",
+    "name": "Dual Berettas | Moon in Libra",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Flora Carnivora": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/flora-carnivora.webp",
+    "name": "Dual Berettas | Flora Carnivora",
+    "color": [
+      "Purple"
+    ],
+    "case": "Recoil Case"
+  },
+  "Sweet Little Angels": {
+    "class": "purple",
+    "image": "/img/skins/dual-berettas/sweet-little-angels.webp",
+    "name": "Dual Berettas | Sweet Little Angels",
+    "color": [
+      "Cyan",
+      "Pink"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Rose Nacre": {
+    "class": "lblue",
+    "image": "/img/skins/dual-berettas/rose-nacre.webp",
+    "name": "Dual Berettas | Rose Nacre",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "BorDeux": {
+    "class": "white",
+    "image": "/img/skins/dual-berettas/bordeux.webp",
+    "name": "Dual Berettas | BorDeux",
+    "color": [
+      "Black",
+      "Pink"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Polished Malachite": {
+    "class": "lblue",
+    "image": "/img/skins/dual-berettas/polished-malachite.webp",
+    "name": "Dual Berettas | Polished Malachite",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

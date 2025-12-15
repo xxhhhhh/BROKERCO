@@ -1,0 +1,30 @@
+[
+  {
+    "reviewHref": "/reviews/upgrader",
+    "visitHref": "http://upgrader.pro/?link=csgobroker",
+    "logoSrc": "/img/upgrader-logo.webp",
+    "site": "Upgrader"
+  },
+  {
+    "reviewHref": "/reviews/petuh",
+    "visitHref": "https://petuh.tech/referral/csbroker",
+    "logoSrc": "/img/petuh-logo.webp",
+    "site": "Petuh"
+  },
+  {
+    "reviewHref": "/reviews/pirateswap",
+    "visitHref": "https://pirateswap.com/?ref=broker",
+    "logoSrc": "/img/pirateswap-logo.webp",
+    "bonus": "Receive up to 10.00$",
+    "bonus_ru": "Получите до 10.00",
+    "site": "PirateSwap"
+  },
+  {
+    "reviewHref": "/reviews/itradegg",
+    "visitHref": "https://itrade.gg/?ref=broker",
+    "logoSrc": "/img/itradegg-logo.svg",
+    "bonus": "0.30$ For Free",
+    "bonus_ru": "0.30$ Бесплатно",
+    "site": "iTrade.GG"
+  }
+]

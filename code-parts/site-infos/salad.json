@@ -1,0 +1,27 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/earning\" aria-label=\"Mining\" class=\"mining\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Games\" class=\"games\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3.5,
+        "Support": 4,
+        "Payments": 3,
+        "Convenience": 4
+    },
+    "codes": {
+        "Free Else": "x2 Mining Boost"
+    },
+    "name": "Salad",
+    "languages": "en, ru, tr, es",
+    "link": "https://salad.com/",
+    "code": "N5174J",
+    "Main Mode": "mining",
+    "featuresContent": ["SignUpBonus"],
+    "Sites Alternatives"  : ["freecash", "idle-empire", "freeward", "grindbux"]
+}

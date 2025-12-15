@@ -1,0 +1,218 @@
+{
+  "Natus Vincere (Gold)": {
+    "class": "red",
+    "name": "Natus Vincere (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-natus-vincere-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-natus-vincere-gold-copenhagen-2024.png"
+  },
+  "FaZe Clan (Gold)": {
+    "class": "red",
+    "name": "FaZe Clan (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-faze-clan-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-faze-clan-gold-copenhagen-2024.png"
+  },
+  "MOUZ (Gold)": {
+    "class": "red",
+    "name": "MOUZ (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-mouz-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-mouz-gold-copenhagen-2024.png"
+  },
+  "Vitality (Gold)": {
+    "class": "red",
+    "name": "Vitality (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-vitality-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-vitality-gold-copenhagen-2024.png"
+  },
+  "Virtus.pro (Gold)": {
+    "class": "red",
+    "name": "Virtus.pro (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-virtus-pro-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-virtus-pro-gold-copenhagen-2024.png"
+  },
+  "G2 Esports (Gold)": {
+    "class": "red",
+    "name": "G2 Esports (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-g2-esports-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-g2-esports-gold-copenhagen-2024.png"
+  },
+  "PGL (Gold)": {
+    "class": "red",
+    "name": "PGL (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-pgl-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-pgl-gold-copenhagen-2024.png"
+  },
+  "Complexity Gaming (Gold)": {
+    "class": "red",
+    "name": "Complexity Gaming (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-complexity-gaming-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-complexity-gaming-gold-copenhagen-2024.png"
+  },
+  "Team Spirit (Gold)": {
+    "class": "red",
+    "name": "Team Spirit (Gold) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-team-spirit-gold-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-team-spirit-gold-copenhagen-2024.png"
+  },
+  "Team Spirit (Holo)": {
+    "class": "pink",
+    "name": "Team Spirit (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-team-spirit-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-team-spirit-holo-copenhagen-2024.png"
+  },
+  "Natus Vincere (Holo)": {
+    "class": "pink",
+    "name": "Natus Vincere (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-natus-vincere-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-natus-vincere-holo-copenhagen-2024.png"
+  },
+  "Virtus.pro (Holo)": {
+    "class": "pink",
+    "name": "Virtus.pro (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-virtus-pro-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-virtus-pro-holo-copenhagen-2024.png"
+  },
+  "FaZe Clan (Holo)": {
+    "class": "pink",
+    "name": "FaZe Clan (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-faze-clan-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-faze-clan-holo-copenhagen-2024.png"
+  },
+  "MOUZ (Holo)": {
+    "class": "pink",
+    "name": "MOUZ (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-mouz-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-mouz-holo-copenhagen-2024.png"
+  },
+  "Vitality (Holo)": {
+    "class": "pink",
+    "name": "Vitality (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-vitality-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-vitality-holo-copenhagen-2024.png"
+  },
+  "Complexity Gaming (Holo)": {
+    "class": "pink",
+    "name": "Complexity Gaming (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-complexity-gaming-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-complexity-gaming-holo-copenhagen-2024.png"
+  },
+  "PGL (Holo)": {
+    "class": "pink",
+    "name": "PGL (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-pgl-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-pgl-holo-copenhagen-2024.png"
+  },
+  "G2 Esports (Holo)": {
+    "class": "pink",
+    "name": "G2 Esports (Holo) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-g2-esports-holo-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-g2-esports-holo-copenhagen-2024.png"
+  },
+  "Natus Vincere (Glitter)": {
+    "class": "purple",
+    "name": "Natus Vincere (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-natus-vincere-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-natus-vincere-glitter-copenhagen-2024.png"
+  },
+  "FaZe Clan (Glitter)": {
+    "class": "purple",
+    "name": "FaZe Clan (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-faze-clan-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-faze-clan-glitter-copenhagen-2024.png"
+  },
+  "Team Spirit (Glitter)": {
+    "class": "purple",
+    "name": "Team Spirit (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-team-spirit-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-team-spirit-glitter-copenhagen-2024.png"
+  },
+  "Virtus.pro (Glitter)": {
+    "class": "purple",
+    "name": "Virtus.pro (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-virtus-pro-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-virtus-pro-glitter-copenhagen-2024.png"
+  },
+  "MOUZ (Glitter)": {
+    "class": "purple",
+    "name": "MOUZ (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-mouz-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-mouz-glitter-copenhagen-2024.png"
+  },
+  "Complexity Gaming (Glitter)": {
+    "class": "purple",
+    "name": "Complexity Gaming (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-complexity-gaming-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-complexity-gaming-glitter-copenhagen-2024.png"
+  },
+  "G2 Esports (Glitter)": {
+    "class": "purple",
+    "name": "G2 Esports (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-g2-esports-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-g2-esports-glitter-copenhagen-2024.png"
+  },
+  "PGL (Glitter)": {
+    "class": "purple",
+    "name": "PGL (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-pgl-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-pgl-glitter-copenhagen-2024.png"
+  },
+  "Vitality (Glitter)": {
+    "class": "purple",
+    "name": "Vitality (Glitter) | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-vitality-glitter-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-vitality-glitter-copenhagen-2024.png"
+  },
+  "Team Spirit": {
+    "class": "blue",
+    "name": "Team Spirit | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-team-spirit-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-team-spirit-copenhagen-2024.png"
+  },
+  "Virtus.pro": {
+    "class": "blue",
+    "name": "Virtus.pro | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-virtus-pro-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-virtus-pro-copenhagen-2024.png"
+  },
+  "MOUZ": {
+    "class": "blue",
+    "name": "MOUZ | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-mouz-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-mouz-copenhagen-2024.png"
+  },
+  "Natus Vincere": {
+    "class": "blue",
+    "name": "Natus Vincere | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-natus-vincere-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-natus-vincere-copenhagen-2024.png"
+  },
+  "PGL": {
+    "class": "blue",
+    "name": "PGL | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-pgl-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-pgl-copenhagen-2024.png"
+  },
+  "FaZe Clan": {
+    "class": "blue",
+    "name": "FaZe Clan | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-faze-clan-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-faze-clan-copenhagen-2024.png"
+  },
+  "Complexity Gaming": {
+    "class": "blue",
+    "name": "Complexity Gaming | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-complexity-gaming-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-complexity-gaming-copenhagen-2024.png"
+  },
+  "Vitality": {
+    "class": "blue",
+    "name": "Vitality | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-vitality-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-vitality-copenhagen-2024.png"
+  },
+  "G2 Esports": {
+    "class": "blue",
+    "name": "G2 Esports | Copenhagen 2024",
+    "image": "/img/skins/stickers/copenhagen-2024/sticker-g2-esports-copenhagen-2024.png",
+    "imageOG": "/img/skins/stickers/copenhagen-2024/small/sticker-g2-esports-copenhagen-2024.png"
+  }
+}

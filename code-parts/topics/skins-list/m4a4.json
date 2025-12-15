@@ -1,0 +1,452 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/m4a4/vanilla.webp",
+    "name": "M4A4 | Vanilla",
+    "color": []
+  },
+  "Full Throttle": {
+    "class": "red",
+    "image": "/img/skins/m4a4/full-throttle.webp",
+    "name": "M4A4 | Full Throttle",
+    "color": [
+      "Green"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Hellish": {
+    "class": "pink",
+    "image": "/img/skins/m4a4/hellish.webp",
+    "name": "M4A4 | Hellish",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Choppa": {
+    "class": "blue",
+    "image": "/img/skins/m4a4/choppa.webp",
+    "name": "M4A4 | Choppa",
+    "color": [
+      "Green"
+    ],
+    "case": "Fever Case"
+  },
+  "Temukau": {
+    "class": "red",
+    "image": "/img/skins/m4a4/temukau.webp",
+    "name": "M4A4 | Temukau",
+    "color": [
+      "Blue",
+      "White"
+    ],
+    "case": "Revolution Case"
+  },
+  "Polysoup": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/polysoup.webp",
+    "name": "M4A4 | Polysoup",
+    "color": [
+      "Purple"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Neo-Noir": {
+    "class": "red",
+    "image": "/img/skins/m4a4/neo-noir.webp",
+    "name": "M4A4 | Neo-Noir",
+    "color": [
+      "Pink",
+      "Purple",
+      "White"
+    ],
+    "case": "Clutch Case"
+  },
+  "Asiimov": {
+    "class": "red",
+    "image": "/img/skins/m4a4/asiimov.webp",
+    "name": "M4A4 | Asiimov",
+    "color": [
+      "Orange",
+      "White"
+    ],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "In Living Color": {
+    "class": "red",
+    "image": "/img/skins/m4a4/in-living-color.webp",
+    "name": "M4A4 | In Living Color",
+    "color": [],
+    "case": "Snakebite Case"
+  },
+  "Urban DDPAT": {
+    "class": "lblue",
+    "image": "/img/skins/m4a4/urban-ddpat.webp",
+    "name": "M4A4 | Urban DDPAT",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "X-Ray": {
+    "class": "red",
+    "image": "/img/skins/m4a4/x-ray.webp",
+    "name": "M4A4 | X-Ray",
+    "color": [
+      "Gray"
+    ],
+    "case": "eSports 2013 Winter Case"
+  },
+  "Modern Hunter": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/modern-hunter.webp",
+    "name": "M4A4 | Modern Hunter",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Militia Collection"
+  },
+  "Turbine": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/turbine.webp",
+    "name": "M4A4 | Turbine",
+    "color": [
+      "Brown"
+    ],
+    "case": "Gallery Case"
+  },
+  "Daybreak": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/daybreak.webp",
+    "name": "M4A4 | Daybreak",
+    "color": [
+      "Yellow"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "The Battlestar": {
+    "class": "red",
+    "image": "/img/skins/m4a4/the-battlestar.webp",
+    "name": "M4A4 | The Battlestar",
+    "color": [],
+    "case": "Operation Wildfire Case"
+  },
+  "Eye of Horus": {
+    "class": "red",
+    "image": "/img/skins/m4a4/eye-of-horus.webp",
+    "name": "M4A4 | Eye of Horus",
+    "color": [
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Cyber Security": {
+    "class": "pink",
+    "image": "/img/skins/m4a4/cyber-security.webp",
+    "name": "M4A4 | Cyber Security",
+    "color": [
+      "Black",
+      "Blue"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Faded Zebra": {
+    "class": "blue",
+    "image": "/img/skins/m4a4/faded-zebra.webp",
+    "name": "M4A4 | Faded Zebra",
+    "color": [
+      "Gray"
+    ],
+    "case": "eSports 2013 Case"
+  },
+  "Mainframe": {
+    "class": "lblue",
+    "image": "/img/skins/m4a4/mainframe.webp",
+    "name": "M4A4 | Mainframe",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Magnesium": {
+    "class": "blue",
+    "image": "/img/skins/m4a4/magnesium.webp",
+    "name": "M4A4 | Magnesium",
+    "color": [
+      "Gray"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Etch Lord": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/etch-lord.webp",
+    "name": "M4A4 | Etch Lord",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Zirka": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/zirka.webp",
+    "name": "M4A4 | Zirka",
+    "color": [],
+    "case": "Operation Bravo Case"
+  },
+  "Griffin": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/griffin.webp",
+    "name": "M4A4 | Griffin",
+    "color": [
+      "Brown"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Royal Paladin": {
+    "class": "red",
+    "image": "/img/skins/m4a4/royal-paladin.webp",
+    "name": "M4A4 | Royal Paladin",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "case": "Revolver Case"
+  },
+  "Poly Mag": {
+    "class": "blue",
+    "image": "/img/skins/m4a4/poly-mag.webp",
+    "name": "M4A4 | Poly Mag",
+    "color": [
+      "Brown"
+    ],
+    "case": "Recoil Case"
+  },
+  "Desert-Strike": {
+    "class": "red",
+    "image": "/img/skins/m4a4/desert-strike.webp",
+    "name": "M4A4 | Desert-Strike",
+    "color": [
+      "Black"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Desert Storm": {
+    "class": "lblue",
+    "image": "/img/skins/m4a4/desert-storm.webp",
+    "name": "M4A4 | Desert Storm",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Dust Collection"
+  },
+  "Tooth Fairy": {
+    "class": "pink",
+    "image": "/img/skins/m4a4/toothfairy.webp",
+    "name": "M4A4 | Tooth Fairy",
+    "color": [
+      "Red"
+    ],
+    "case": "Fracture Case"
+  },
+  "Converter": {
+    "class": "blue",
+    "image": "/img/skins/m4a4/converter.webp",
+    "name": "M4A4 | Converter",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Red DDPAT": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/red-ddpat.webp",
+    "name": "M4A4 | Red DDPAT",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Evil Daimyo": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/evildaimyo.webp",
+    "name": "M4A4 | Evil Daimyo",
+    "color": [
+      "Red"
+    ],
+    "case": "Falchion Case"
+  },
+  "Howl": {
+    "class": "gold",
+    "image": "/img/skins/m4a4/howl.webp",
+    "name": "M4A4 | Howl",
+    "color": [
+      "Black",
+      "Red"
+    ]
+  },
+  "Hellfire": {
+    "class": "pink",
+    "image": "/img/skins/m4a4/hellfire.webp",
+    "name": "M4A4 | Hellfire",
+    "color": [
+      "Red"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Radiation Hazard": {
+    "class": "blue",
+    "image": "/img/skins/m4a4/Radiation-hazard.webp",
+    "name": "M4A4 | Radiation Hazard",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Nuke Collection"
+  },
+  "Buzz Kill": {
+    "class": "red",
+    "image": "/img/skins/m4a4/buzz-kill.webp",
+    "name": "M4A4 | Buzz Kill",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Glove Case"
+  },
+  "The Coalition": {
+    "class": "red",
+    "image": "/img/skins/m4a4/the-coalition.webp",
+    "name": "M4A4 | The Coalition",
+    "color": [
+      "Black",
+      "Golden",
+      "Yellow"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Jungle Tiger": {
+    "class": "lblue",
+    "image": "/img/skins/m4a4/jungle-tiger.webp",
+    "name": "M4A4 | Jungle Tiger",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Aztec Collection"
+  },
+  "Bullet Rain": {
+    "class": "red",
+    "image": "/img/skins/m4a4/bullet-rain.webp",
+    "name": "M4A4 | Bullet Rain",
+    "color": [
+      "Cyan",
+      "Red"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Poseidon": {
+    "class": "pink",
+    "image": "/img/skins/m4a4/poseidon.webp",
+    "name": "M4A4 | Poseidon",
+    "color": [
+      "Blue",
+      "Cyan",
+      "Green"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Tornado": {
+    "class": "lblue",
+    "image": "/img/skins/m4a4/tornado.webp",
+    "name": "M4A4 | Tornado",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Inferno Collection"
+  },
+  "Dark Blossom": {
+    "class": "lblue",
+    "image": "/img/skins/m4a4/dark-blossom.webp",
+    "name": "M4A4 | Dark Blossom",
+    "color": [
+      "Blue",
+      "Gray"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Global Offensive": {
+    "class": "blue",
+    "image": "/img/skins/m4a4/global-offensive.webp",
+    "name": "M4A4 | Global Offensive",
+    "color": [],
+    "collection": "The Control Collection"
+  },
+  "Spider Lily": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/spiderlily.webp",
+    "name": "M4A4 | Spider Lily",
+    "color": [
+      "Blue",
+      "Red"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "The Emperor": {
+    "class": "red",
+    "image": "/img/skins/m4a4/the-emperor.webp",
+    "name": "M4A4 | The Emperor",
+    "color": [
+      "Blue"
+    ],
+    "case": "Prisma Case"
+  },
+  "Desolate Space": {
+    "class": "pink",
+    "image": "/img/skins/m4a4/desolate-space.webp",
+    "name": "M4A4 | Desolate Space",
+    "color": [
+      "Cyan",
+      "Purple"
+    ],
+    "case": "Gamma Case"
+  },
+  "龍王 (Dragon King)": {
+    "class": "pink",
+    "image": "/img/skins/m4a4/dragon-king.webp",
+    "name": "M4A4 | 龍王 (Dragon King)",
+    "color": [
+      "Purple"
+    ],
+    "case": "Chroma Case"
+  },
+  "Naval Shred Camo": {
+    "class": "lblue",
+    "image": "/img/skins/m4a4/naval-shred-camo.webp",
+    "name": "M4A4 | Naval Shred Camo",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Steel Work": {
+    "class": "lblue",
+    "image": "/img/skins/m4a4/steel-work.webp",
+    "name": "M4A4 | Steel Work",
+    "color": [],
+    "collection": "The Radiant Collection"
+  },
+  "Sheet Lightning": {
+    "class": "purple",
+    "image": "/img/skins/m4a4/sheet-lightning.webp",
+    "name": "M4A4 | Sheet Lightning",
+    "color": [
+      "Gray",
+      "Brown"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

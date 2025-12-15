@@ -1,0 +1,62 @@
+[
+  {
+    "weapon": "awp",
+    "skin-id": "Dragon Lore"
+  },
+  {
+    "weapon": "m4a1-s",
+    "skin-id": "Knight"
+  },
+  {
+    "weapon": "cz75-auto",
+    "skin-id": "Chalice"
+  },
+  {
+    "weapon": "desert-eagle",
+    "skin-id": "Hand Cannon"
+  },
+  {
+    "weapon": "p2000",
+    "skin-id": "Chainmail"
+  },
+  {
+    "weapon": "mp9",
+    "skin-id": "Dark Age"
+  },
+  {
+    "weapon": "usp-s",
+    "skin-id": "Royal Blue"
+  },
+  {
+    "weapon": "nova",
+    "skin-id": "Green Apple"
+  },
+  {
+    "weapon": "sawed-off",
+    "skin-id": "Rust Coat"
+  },
+  {
+    "weapon": "mag-7",
+    "skin-id": "Silver"
+  },
+  {
+    "weapon": "mac-10",
+    "skin-id": "Indigo"
+  },
+  {
+    "weapon": "ump-45",
+    "skin-id": "Indigo"
+  },
+  {
+    "weapon": "p90",
+    "skin-id": "Storm"
+  },
+  {
+    "weapon": "dual-berettas",
+    "skin-id": "Briar"
+  },
+  {
+    "weapon": "scar-20",
+    "skin-id": "Storm"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "The Elite Mr. Muhlik": {
+    "class": "red",
+    "name": "The Elite Mr. Muhlik | Elite Crew",
+    "image": "/img/skins/agents/elite-crew/the-elite-mr-muhlik.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "Prof. Shahmat": {
+    "class": "pink",
+    "name": "Prof. Shahmat | Elite Crew",
+    "image": "/img/skins/agents/elite-crew/prof-shahmat.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "Osiris": {
+    "class": "purple",
+    "name": "Osiris | Elite Crew",
+    "image": "/img/skins/agents/elite-crew/osiris.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  }
+}

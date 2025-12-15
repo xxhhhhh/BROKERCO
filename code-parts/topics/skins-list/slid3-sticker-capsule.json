@@ -1,0 +1,92 @@
+{
+  "Countdown (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Countdown (Foil)",
+    "image": "/img/skins/stickers/slid3/sticker-countdown-foil.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-countdown-foil.png"
+  },
+  "Move It (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Move It (Foil)",
+    "image": "/img/skins/stickers/slid3/sticker-move-it-foil.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-move-it-foil.png"
+  },
+  "Hard Cluck Life (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Hard Cluck Life (Foil)",
+    "image": "/img/skins/stickers/slid3/sticker-hard-cluck-life-foil.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-hard-cluck-life-foil.png"
+  },
+  "Don't Worry (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Don't Worry (Foil)",
+    "image": "/img/skins/stickers/slid3/sticker-don-t-worry-foil.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-don-t-worry-foil.png"
+  },
+  "Boom (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Boom (Foil)",
+    "image": "/img/skins/stickers/slid3/sticker-boom-foil.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-boom-foil.png"
+  },
+  "Countdown (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Countdown (Holo)",
+    "image": "/img/skins/stickers/slid3/sticker-countdown-holo.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-countdown-holo.png"
+  },
+  "Move It (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Move It (Holo)",
+    "image": "/img/skins/stickers/slid3/sticker-move-it-holo.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-move-it-holo.png"
+  },
+  "Boom (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Boom (Holo)",
+    "image": "/img/skins/stickers/slid3/sticker-boom-holo.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-boom-holo.png"
+  },
+  "Hard Cluck Life (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Hard Cluck Life (Holo)",
+    "image": "/img/skins/stickers/slid3/sticker-hard-cluck-life-holo.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-hard-cluck-life-holo.png"
+  },
+  "Don't Worry (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Don't Worry (Holo)",
+    "image": "/img/skins/stickers/slid3/sticker-don-t-worry-holo.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-don-t-worry-holo.png"
+  },
+  "Boom": {
+    "class": "blue",
+    "name": "Sticker | Boom",
+    "image": "/img/skins/stickers/slid3/sticker-boom.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-boom.png"
+  },
+  "Countdown": {
+    "class": "blue",
+    "name": "Sticker | Countdown",
+    "image": "/img/skins/stickers/slid3/sticker-countdown.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-countdown.png"
+  },
+  "Move It": {
+    "class": "blue",
+    "name": "Sticker | Move It",
+    "image": "/img/skins/stickers/slid3/sticker-move-it.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-move-it.png"
+  },
+  "Hard Cluck Life": {
+    "class": "blue",
+    "name": "Sticker | Hard Cluck Life",
+    "image": "/img/skins/stickers/slid3/sticker-hard-cluck-life.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-hard-cluck-life.png"
+  },
+  "Don't Worry": {
+    "class": "blue",
+    "name": "Sticker | Don't Worry",
+    "image": "/img/skins/stickers/slid3/sticker-don-t-worry.png",
+    "imageOG": "/img/skins/stickers/slid3/small/sticker-don-t-worry.png"
+  }
+}

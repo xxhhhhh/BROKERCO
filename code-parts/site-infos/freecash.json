@@ -1,0 +1,31 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/earning/offerwalls\" aria-label=\"Offerwalls\" class=\"offerwalls\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>"
+    ],
+    "ratings": {
+        "Trust": 5,
+        "Support": 5,
+        "Payments": 5,
+        "Variety": 5
+    },
+    "codes": {
+        "Free Else": "Welcome Case"
+    },
+    "name": "Freecash",
+    "languages": "en, ru, tr, es",
+    "link": "https://freecash.com/r/csgobroker",
+    "featuresContent": ["SignUpBonus", "DailyRewards", "ProgressiveRewards"],
+    "code": "csgobroker",
+    "Main Mode": "earning",
+    "Sites Alternatives"  : ["idle-empire", "grindbux", "freeward" ]
+}

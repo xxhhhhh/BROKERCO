@@ -1,0 +1,9 @@
+# FILE: wrangler.toml  (для локальной проверки через `wrangler pages dev`)
+name = "csgobroker-pages"
+compatibility_date = "2025-02-04"
+
+# почему: чтобы `wrangler pages dev` видел твой KV
+[[kv_namespaces]]
+binding = "LINKS_MAP"
+id = "6b25f4bdd5374768b7952271edb7906d"    # ← твой ID из скрина
+preview_id = "LINKS_MAP"

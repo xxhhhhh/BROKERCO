@@ -1,0 +1,40 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/instant-sell\" aria-label=\"Instant Sell Skins\" class=\"instant-sell\"></a>",
+        "<a href=\"/csgo/trade-skins\" aria-label=\"Trade Skins\" class=\"trade-skins\"></a>",
+        "<a href=\"/csgo/buy-skins\" aria-label=\"Buy Skins\" class=\"buy-skins\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>"   
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3,
+        "Support": 4,
+        "Payments": 3,
+        "Pricing": 3
+    },
+    "name": "RAPIDSKINS",
+    "languages": "en, ru, tr, es",
+    "link": "https://rapidskins.com/a/broker ",
+    "code": "broker",
+    "Main Mode": "instant-sell",
+    "featuresContent": ["BonustoSale"],
+    "Sites Alternatives"  : ["lis-skins", "avanmarket", "moonmarket", "aimmarket"]
+}

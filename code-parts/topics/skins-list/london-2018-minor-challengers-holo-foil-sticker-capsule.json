@@ -1,0 +1,110 @@
+{
+  "FACEIT (Foil)": {
+    "class": "pink",
+    "name": "FACEIT (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-faceit-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-faceit-foil-london-2018.png"
+  },
+  "Tyloo (Foil)": {
+    "class": "pink",
+    "name": "Tyloo (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tyloo-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tyloo-foil-london-2018.png"
+  },
+  "Team Spirit (Foil)": {
+    "class": "pink",
+    "name": "Team Spirit (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-team-spirit-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-team-spirit-foil-london-2018.png"
+  },
+  "Rogue (Foil)": {
+    "class": "pink",
+    "name": "Rogue (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-rogue-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-rogue-foil-london-2018.png"
+  },
+  "OpTic Gaming (Foil)": {
+    "class": "pink",
+    "name": "OpTic Gaming (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-optic-gaming-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-optic-gaming-foil-london-2018.png"
+  },
+  "Renegades (Foil)": {
+    "class": "pink",
+    "name": "Renegades (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-renegades-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-renegades-foil-london-2018.png"
+  },
+  "HellRaisers (Foil)": {
+    "class": "pink",
+    "name": "HellRaisers (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-hellraisers-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-hellraisers-foil-london-2018.png"
+  },
+  "compLexity Gaming (Foil)": {
+    "class": "pink",
+    "name": "compLexity Gaming (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-complexity-gaming-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-complexity-gaming-foil-london-2018.png"
+  },
+  "Ninjas in Pyjamas (Foil)": {
+    "class": "pink",
+    "name": "Ninjas in Pyjamas (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-ninjas-in-pyjamas-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-ninjas-in-pyjamas-foil-london-2018.png"
+  },
+  "Tyloo (Holo)": {
+    "class": "purple",
+    "name": "Tyloo (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-tyloo-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-tyloo-holo-london-2018.png"
+  },
+  "FACEIT (Holo)": {
+    "class": "purple",
+    "name": "FACEIT (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-faceit-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-faceit-holo-london-2018.png"
+  },
+  "Renegades (Holo)": {
+    "class": "purple",
+    "name": "Renegades (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-renegades-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-renegades-holo-london-2018.png"
+  },
+  "Team Spirit (Holo)": {
+    "class": "purple",
+    "name": "Team Spirit (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-team-spirit-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-team-spirit-holo-london-2018.png"
+  },
+  "Rogue (Holo)": {
+    "class": "purple",
+    "name": "Rogue (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-rogue-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-rogue-holo-london-2018.png"
+  },
+  "OpTic Gaming (Holo)": {
+    "class": "purple",
+    "name": "OpTic Gaming (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-optic-gaming-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-optic-gaming-holo-london-2018.png"
+  },
+  "HellRaisers (Holo)": {
+    "class": "purple",
+    "name": "HellRaisers (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-hellraisers-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-hellraisers-holo-london-2018.png"
+  },
+  "compLexity Gaming (Holo)": {
+    "class": "purple",
+    "name": "compLexity Gaming (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-complexity-gaming-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-complexity-gaming-holo-london-2018.png"
+  },
+  "Ninjas in Pyjamas (Holo)": {
+    "class": "purple",
+    "name": "Ninjas in Pyjamas (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-ninjas-in-pyjamas-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-ninjas-in-pyjamas-holo-london-2018.png"
+  }
+}

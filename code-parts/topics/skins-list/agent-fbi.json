@@ -1,0 +1,23 @@
+{
+  "Special Agent Ava": {
+    "class": "red",
+    "name": "Special Agent Ava | FBI",
+    "image": "/img/skins/agents/fbi/special-agent-ava.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "Michael Syfers (Sniper)": {
+    "class": "pink",
+    "name": "Michael Syfers (Sniper) | FBI",
+    "image": "/img/skins/agents/fbi/michael-syfers-sniper.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "Markus Delrow (HRT)": {
+    "class": "purple",
+    "name": "Markus Delrow (HRT) | FBI",
+    "image": "/img/skins/agents/fbi/markus-delrow-hrt.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  }
+}

@@ -1,0 +1,40 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/trade-skins\" aria-label=\"Trade Skins\" class=\"trade-skins\"></a>",
+        "<a href=\"/csgo/instant-sell\" aria-label=\"Instant Sell Skins\" class=\"instant-sell\"></a>",
+        "<a href=\"/csgo/buy-skins\" aria-label=\"Buy Skins\" class=\"buy-skins\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 5,
+        "Payments": 4,
+        "Pricing": 5
+    },
+    "codes": {
+        "Free Else": "Welcome Case"
+    },
+    "name": "SkinSwap",
+    "languages": "en, ru, tr, es",
+    "link": "https://skinswap.com/r/csgobroker",
+    "code": "csgobroker",
+    "Main Mode": "trading",
+    "featuresContent": ["SignUpBonus", "DepositBonus", "Giveaways"],
+    "Sites Alternatives"  : ["tradeit", "csmoney", "pirateswap", "dmarket"]
+}

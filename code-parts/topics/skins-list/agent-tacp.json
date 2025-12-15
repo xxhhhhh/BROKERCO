@@ -1,0 +1,16 @@
+{
+  "'Two Times' McCoy (USAF)": {
+    "class": "pink",
+    "name": "'Two Times' McCoy (USAF) | TACP",
+    "image": "/img/skins/agents/tacp/two-times-mccoy-usaf.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "'Two Times' McCoy (Cavalry)": {
+    "class": "pink",
+    "name": "'Two Times' McCoy (Cavalry) | TACP",
+    "image": "/img/skins/agents/tacp/two-times-mccoy-cavalry.webp",
+    "color": [],
+    "collection": "Broken Fang Agents"
+  }
+}

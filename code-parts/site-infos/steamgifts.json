@@ -1,0 +1,19 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/\" aria-label=\"Giveaways\" class=\"giveaways\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/\" aria-label=\"Games\" class=\"games\"></a>"
+    ],
+    "ratings": {
+        "Trust": 5,
+        "Support": 4,
+        "Payments": 4.5,
+        "Playability": 4.5
+    },
+    "name": "Steamgifts",
+    "languages": "en, ru, tr, es",
+    "link": "https://www.steamgifts.com/",
+    "featuresContent": ["Giveaways"],
+    "Main Mode": "earning"
+}

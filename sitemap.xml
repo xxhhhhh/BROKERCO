@@ -1,0 +1,11 @@
+﻿<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <sitemap>
+      <loc>https://csgobroker.co/sitemap_main.xml</loc>
+   </sitemap>
+   <sitemap>
+      <loc>https://csgobroker.co/sitemap_reviews.xml</loc>
+   </sitemap>
+      <sitemap>
+      <loc>https://csgobroker.co/sitemap_topics.xml</loc>
+   </sitemap>
+</sitemapindex>

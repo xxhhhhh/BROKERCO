@@ -1,0 +1,218 @@
+{
+  "Tyloo (Gold)": {
+    "class": "red",
+    "name": "Tyloo (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-tyloo-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-tyloo-gold-stockholm-2021.png"
+  },
+  "Copenhagen Flames (Gold)": {
+    "class": "red",
+    "name": "Copenhagen Flames (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-copenhagen-flames-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-copenhagen-flames-gold-stockholm-2021.png"
+  },
+  "Entropiq (Gold)": {
+    "class": "red",
+    "name": "Entropiq (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-entropiq-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-entropiq-gold-stockholm-2021.png"
+  },
+  "Renegades (Gold)": {
+    "class": "red",
+    "name": "Renegades (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-renegades-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-renegades-gold-stockholm-2021.png"
+  },
+  "PGL (Gold)": {
+    "class": "red",
+    "name": "PGL (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-pgl-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-pgl-gold-stockholm-2021.png"
+  },
+  "FaZe Clan (Gold)": {
+    "class": "red",
+    "name": "FaZe Clan (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-faze-clan-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-faze-clan-gold-stockholm-2021.png"
+  },
+  "Virtus.Pro (Gold)": {
+    "class": "red",
+    "name": "Virtus.Pro (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-virtus-pro-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-virtus-pro-gold-stockholm-2021.png"
+  },
+  "GODSENT (Gold)": {
+    "class": "red",
+    "name": "GODSENT (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-godsent-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-godsent-gold-stockholm-2021.png"
+  },
+  "Sharks Esports (Gold)": {
+    "class": "red",
+    "name": "Sharks Esports (Gold) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-sharks-esports-gold-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-sharks-esports-gold-stockholm-2021.png"
+  },
+  "Entropiq (Foil)": {
+    "class": "pink",
+    "name": "Entropiq (Foil) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-entropiq-foil-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-entropiq-foil-stockholm-2021.png"
+  },
+  "FaZe Clan (Foil)": {
+    "class": "pink",
+    "name": "FaZe Clan (Foil) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-faze-clan-foil-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-faze-clan-foil-stockholm-2021.png"
+  },
+  "Copenhagen Flames (Foil)": {
+    "class": "pink",
+    "name": "Copenhagen Flames (Foil) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-copenhagen-flames-foil-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-copenhagen-flames-foil-stockholm-2021.png"
+  },
+  "GODSENT (Foil)": {
+    "class": "pink",
+    "name": "GODSENT (Foil) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-godsent-foil-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-godsent-foil-stockholm-2021.png"
+  },
+  "PGL (Foil)": {
+    "class": "pink",
+    "name": "PGL (Foil) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-pgl-foil-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-pgl-foil-stockholm-2021.png"
+  },
+  "Virtus.Pro (Foil)": {
+    "class": "pink",
+    "name": "Virtus.Pro (Foil) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-virtus-pro-foil-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-virtus-pro-foil-stockholm-2021.png"
+  },
+  "Sharks Esports (Foil)": {
+    "class": "pink",
+    "name": "Sharks Esports (Foil) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-sharks-esports-foil-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-sharks-esports-foil-stockholm-2021.png"
+  },
+  "Renegades (Foil)": {
+    "class": "pink",
+    "name": "Renegades (Foil) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-renegades-foil-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-renegades-foil-stockholm-2021.png"
+  },
+  "Tyloo (Foil)": {
+    "class": "pink",
+    "name": "Tyloo (Foil) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-tyloo-foil-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-tyloo-foil-stockholm-2021.png"
+  },
+  "Tyloo (Holo)": {
+    "class": "purple",
+    "name": "Tyloo (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-tyloo-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-tyloo-holo-stockholm-2021.png"
+  },
+  "Copenhagen Flames (Holo)": {
+    "class": "purple",
+    "name": "Copenhagen Flames (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-copenhagen-flames-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-copenhagen-flames-holo-stockholm-2021.png"
+  },
+  "Entropiq (Holo)": {
+    "class": "purple",
+    "name": "Entropiq (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-entropiq-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-entropiq-holo-stockholm-2021.png"
+  },
+  "Virtus.Pro (Holo)": {
+    "class": "purple",
+    "name": "Virtus.Pro (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-virtus-pro-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-virtus-pro-holo-stockholm-2021.png"
+  },
+  "GODSENT (Holo)": {
+    "class": "purple",
+    "name": "GODSENT (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-godsent-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-godsent-holo-stockholm-2021.png"
+  },
+  "FaZe Clan (Holo)": {
+    "class": "purple",
+    "name": "FaZe Clan (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-faze-clan-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-faze-clan-holo-stockholm-2021.png"
+  },
+  "Sharks Esports (Holo)": {
+    "class": "purple",
+    "name": "Sharks Esports (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-sharks-esports-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-sharks-esports-holo-stockholm-2021.png"
+  },
+  "PGL (Holo)": {
+    "class": "purple",
+    "name": "PGL (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-pgl-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-pgl-holo-stockholm-2021.png"
+  },
+  "Renegades (Holo)": {
+    "class": "purple",
+    "name": "Renegades (Holo) | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-renegades-holo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-renegades-holo-stockholm-2021.png"
+  },
+  "Tyloo": {
+    "class": "blue",
+    "name": "Tyloo | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-tyloo-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-tyloo-stockholm-2021.png"
+  },
+  "Entropiq": {
+    "class": "blue",
+    "name": "Entropiq | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-entropiq-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-entropiq-stockholm-2021.png"
+  },
+  "FaZe Clan": {
+    "class": "blue",
+    "name": "FaZe Clan | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-faze-clan-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-faze-clan-stockholm-2021.png"
+  },
+  "Copenhagen Flames": {
+    "class": "blue",
+    "name": "Copenhagen Flames | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-copenhagen-flames-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-copenhagen-flames-stockholm-2021.png"
+  },
+  "PGL": {
+    "class": "blue",
+    "name": "PGL | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-pgl-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-pgl-stockholm-2021.png"
+  },
+  "Virtus.Pro": {
+    "class": "blue",
+    "name": "Virtus.Pro | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-virtus-pro-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-virtus-pro-stockholm-2021.png"
+  },
+  "Renegades": {
+    "class": "blue",
+    "name": "Renegades | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-renegades-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-renegades-stockholm-2021.png"
+  },
+  "Sharks Esports": {
+    "class": "blue",
+    "name": "Sharks Esports | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-sharks-esports-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-sharks-esports-stockholm-2021.png"
+  },
+  "GODSENT": {
+    "class": "blue",
+    "name": "GODSENT | Stockholm 2021",
+    "image": "/img/skins/stickers/stockholm-2021/sticker-godsent-stockholm-2021.png",
+    "imageOG": "/img/skins/stickers/stockholm-2021/small/sticker-godsent-stockholm-2021.png"
+  }
+}

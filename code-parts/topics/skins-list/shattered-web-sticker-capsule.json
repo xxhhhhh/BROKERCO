@@ -1,0 +1,56 @@
+{
+  "Gold Web (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Gold Web (Foil)",
+    "image": "/img/skins/stickers/shattered-web/sticker-gold-web-foil.png",
+    "imageOG": "/img/skins/stickers/shattered-web/small/sticker-gold-web-foil.png"
+  },
+  "Mastermind (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Mastermind (Holo)",
+    "image": "/img/skins/stickers/shattered-web/sticker-mastermind-holo.png",
+    "imageOG": "/img/skins/stickers/shattered-web/small/sticker-mastermind-holo.png"
+  },
+  "Web Stuck (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Web Stuck (Holo)",
+    "image": "/img/skins/stickers/shattered-web/sticker-web-stuck-holo.png",
+    "imageOG": "/img/skins/stickers/shattered-web/small/sticker-web-stuck-holo.png"
+  },
+  "Gold Web": {
+    "class": "blue",
+    "name": "Sticker | Gold Web",
+    "image": "/img/skins/stickers/shattered-web/sticker-gold-web.png",
+    "imageOG": "/img/skins/stickers/shattered-web/small/sticker-gold-web.png"
+  },
+  "Web Stuck": {
+    "class": "blue",
+    "name": "Sticker | Web Stuck",
+    "image": "/img/skins/stickers/shattered-web/sticker-web-stuck.png",
+    "imageOG": "/img/skins/stickers/shattered-web/small/sticker-web-stuck.png"
+  },
+  "Shattered Web": {
+    "class": "blue",
+    "name": "Sticker | Shattered Web",
+    "image": "/img/skins/stickers/shattered-web/sticker-shattered-web.png",
+    "imageOG": "/img/skins/stickers/shattered-web/small/sticker-shattered-web.png"
+  },
+  "Counter-Tech": {
+    "class": "blue",
+    "name": "Sticker | Counter-Tech",
+    "image": "/img/skins/stickers/shattered-web/sticker-counter-tech.png",
+    "imageOG": "/img/skins/stickers/shattered-web/small/sticker-counter-tech.png"
+  },
+  "Mastermind": {
+    "class": "blue",
+    "name": "Sticker | Mastermind",
+    "image": "/img/skins/stickers/shattered-web/sticker-mastermind.png",
+    "imageOG": "/img/skins/stickers/shattered-web/small/sticker-mastermind.png"
+  },
+  "Terrorist-Tech": {
+    "class": "blue",
+    "name": "Sticker | Terrorist-Tech",
+    "image": "/img/skins/stickers/shattered-web/sticker-terrorist-tech.png",
+    "imageOG": "/img/skins/stickers/shattered-web/small/sticker-terrorist-tech.png"
+  }
+}

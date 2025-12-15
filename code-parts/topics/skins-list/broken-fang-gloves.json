@@ -1,0 +1,26 @@
+{
+  "Unhinged": {
+    "class": "red",
+    "image": "/img/skins/gloves/unhinged.webp",
+    "name": "Broken Fang Gloves | Unhinged",
+    "color": ["Black", "Gray"]
+  },
+  "Needle Point": {
+    "class": "red",
+    "image": "/img/skins/gloves/needle-point.webp",
+    "name": "Broken Fang Gloves | Needle Point",
+    "color": ["Red"]
+  },
+  "Yellow-banded": {
+    "class": "red",
+    "image": "/img/skins/gloves/yellow-banded.webp",
+    "name": "Broken Fang Gloves | Yellow-banded",
+    "color": ["Yellow"]
+  },
+  "Jade": {
+    "class": "red",
+    "image": "/img/skins/gloves/jade.webp",
+    "name": "Broken Fang Gloves | Jade",
+    "color": ["Green"]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/r8-revolver/vanilla.webp",
+    "name": "R8 Revolver | Vanilla",
+    "color": []
+  },
+  "Inlay": {
+    "class": "white",
+    "image": "/img/skins/r8-revolver/inlay.webp",
+    "name": "R8 Revolver | Inlay",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Memento": {
+    "class": "blue",
+    "image": "/img/skins/r8-revolver/memento.webp",
+    "name": "R8 Revolver | Memento",
+    "color": [
+      "Gray",
+      "Silver"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Grip": {
+    "class": "blue",
+    "image": "/img/skins/r8-revolver/grip.webp",
+    "name": "R8 Revolver | Grip",
+    "color": [
+      "Blue",
+      "Gray",
+      "Silver"
+    ],
+    "case": "Clutch Case"
+  },
+  "Bone Forged": {
+    "class": "blue",
+    "image": "/img/skins/r8-revolver/bone-forged.webp",
+    "name": "R8 Revolver | Bone Forged",
+    "color": [
+      "Brown"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Tango": {
+    "class": "blue",
+    "image": "/img/skins/r8-revolver/tango.webp",
+    "name": "R8 Revolver | Tango",
+    "color": [],
+    "case": "Gallery Case"
+  },
+  "Reboot": {
+    "class": "purple",
+    "image": "/img/skins/r8-revolver/reboot.webp",
+    "name": "R8 Revolver | Reboot",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "case": "Gamma Case"
+  },
+  "Crazy 8": {
+    "class": "purple",
+    "image": "/img/skins/r8-revolver/crazy-8.webp",
+    "name": "R8 Revolver | Crazy 8",
+    "color": [
+      "Purple"
+    ],
+    "case": "Recoil Case"
+  },
+  "Night": {
+    "class": "white",
+    "image": "/img/skins/r8-revolver/night.webp",
+    "name": "R8 Revolver | Night",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Bone Mask": {
+    "class": "white",
+    "image": "/img/skins/r8-revolver/bone-mask.webp",
+    "name": "R8 Revolver | Bone Mask",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Bank Collection"
+  },
+  "Amber Fade": {
+    "class": "pink",
+    "image": "/img/skins/r8-revolver/amber-fade.webp",
+    "name": "R8 Revolver | Amber Fade",
+    "color": [
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Crimson Web": {
+    "class": "blue",
+    "image": "/img/skins/r8-revolver/crimson-web.webp",
+    "name": "R8 Revolver | Crimson Web",
+    "color": [
+      "Red"
+    ],
+    "case": "Revolver Case"
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/r8-revolver/fade.webp",
+    "name": "R8 Revolver | Fade",
+    "color": [
+      "Pink",
+      "Yellow"
+    ],
+    "case": "Revolver Case"
+  },
+  "Junk Yard": {
+    "class": "blue",
+    "image": "/img/skins/r8-revolver/junk-yard.webp",
+    "name": "R8 Revolver | Junk Yard",
+    "color": [
+      "Red"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Blaze": {
+    "class": "blue",
+    "image": "/img/skins/r8-revolver/blaze.webp",
+    "name": "R8 Revolver | Blaze",
+    "color": [
+      "Orange",
+      "Yellow"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Nitro": {
+    "class": "lblue",
+    "image": "/img/skins/r8-revolver/nitro.webp",
+    "name": "R8 Revolver | Nitro",
+    "color": [
+      "Black"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Skull Crusher": {
+    "class": "pink",
+    "image": "/img/skins/r8-revolver/skull-crusher.webp",
+    "name": "R8 Revolver | Skull Crusher",
+    "color": [
+      "Orange"
+    ],
+    "case": "Prisma Case"
+  },
+  "Banana Cannon": {
+    "class": "purple",
+    "image": "/img/skins/r8-revolver/banana-cannon.webp",
+    "name": "R8 Revolver | Banana Cannon",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Revolution Case"
+  },
+  "Desert Brush": {
+    "class": "white",
+    "image": "/img/skins/r8-revolver/desert-brush.webp",
+    "name": "R8 Revolver | Desert Brush",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Survivalist": {
+    "class": "blue",
+    "image": "/img/skins/r8-revolver/survivalist.webp",
+    "name": "R8 Revolver | Survivalist",
+    "color": [
+      "Green"
+    ],
+    "case": "Horizon Case"
+  },
+  "Canal Spray": {
+    "class": "white",
+    "image": "/img/skins/r8-revolver/canal-spray.webp",
+    "name": "R8 Revolver | Canal Spray",
+    "color": [
+      "Cyan"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Phoenix Marker": {
+    "class": "lblue",
+    "image": "/img/skins/r8-revolver/phoenix-marker.webp",
+    "name": "R8 Revolver | Phoenix Marker",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Llama Cannon": {
+    "class": "pink",
+    "image": "/img/skins/r8-revolver/llama-cannon.webp",
+    "name": "R8 Revolver | Llama Cannon",
+    "color": [
+      "Blue"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Cobalt Grip": {
+    "class": "white",
+    "image": "/img/skins/r8-revolver/cobalt-grip.webp",
+    "name": "R8 Revolver | Cobalt Grip",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Leafhopper": {
+    "class": "lblue",
+    "image": "/img/skins/r8-revolver/leafhopper.webp",
+    "name": "R8 Revolver | Leafhopper",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

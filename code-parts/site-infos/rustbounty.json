@@ -1,0 +1,36 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/rust/roulette\" aria-label=\"Roulette\" class=\"roulette\"></a>",
+        "<a href=\"/rust/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/rust/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3,
+        "Support": 3,
+        "Payments": 3.5,
+        "Playability": 3.5
+    },
+    "codes": {
+        "Free Bonus": "0.25$"
+    },
+    "name": "RustBounty",
+    "languages": "en, ru, tr",
+    "link": "https://rustbounty.com/r/broker",
+    "code": "broker",
+    "Main Mode": "classic",
+    "featuresContent": ["SignUpBonus", "Rakeback", "Rain"],
+    "Sites Alternatives"  : ["howlgg", "banditcamp", "rustmagic", "rustyloot"]
+}

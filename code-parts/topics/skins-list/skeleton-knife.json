@@ -1,0 +1,152 @@
+{
+  "Vanilla": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-vanilla.webp",
+    "name": "Skeleton Knife",
+    "color": []
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-stained.webp",
+    "name": "Skeleton Knife | Stained",
+    "color": ["Gray", "White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-urban-masked.webp",
+    "name": "Skeleton Knife | Urban Masked",
+    "color": ["Gray"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-scorched.webp",
+    "name": "Skeleton Knife | Scorched",
+    "color": ["Black", "Gray"]
+  },
+  "Night Stripe": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-night-stripe.webp",
+    "name": "Skeleton Knife | Night Stripe",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-blue-steel.webp",
+    "name": "Skeleton Knife | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-safari-mesh.webp",
+    "name": "Skeleton Knife | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-boreal.webp",
+    "name": "Skeleton Knife | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-ddpat.webp",
+    "name": "Skeleton Knife | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Doppler Ruby": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-doppler-ruby.webp",
+    "name": "Skeleton Knife | Doppler Ruby",
+    "color": ["Red"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-knife-crimson-web.webp",
+    "name": "Skeleton Knife | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-knife-slaughter.webp",
+    "name": "Skeleton Knife | Slaughter",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-fade.webp",
+    "name": "Skeleton Knife | Fade",
+    "color": []
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-case-hardened.webp",
+    "name": "Skeleton Knife | Case Hardened",
+    "color": []
+  },
+  "Tiger Tooth": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-tiger-tooth.webp",
+    "name": "Skeleton Knife | Tiger Tooth",
+    "color": ["Orange", "Yellow"]
+  },
+  "Rust Coat": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-rust-coat.webp",
+    "name": "Skeleton Knife | Rust Coat",
+    "color": []
+  },
+  "Marble Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-marble-fade.webp",
+    "name": "Skeleton Knife | Marble Fade",
+    "color": []
+  },
+  "Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-doppler-phase-3.webp",
+    "name": "Skeleton Knife | Doppler Phase 3",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-doppler-phase-4.webp",
+    "name": "Skeleton Knife | Doppler Phase 4",
+    "color": ["Blue"]
+  },
+  "Doppler Sapphire": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-doppler-sapphire.webp",
+    "name": "Skeleton Knife | Doppler Sapphire",
+    "color": ["Blue"]
+  },
+  "Bright Water": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-bright-water.webp",
+    "name": "Skeleton Knife | Bright Water",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-doppler-phase-1.webp",
+    "name": "Skeleton Knife | Doppler Phase 1",
+    "color": ["Purple"]
+  },
+  "Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-doppler-phase-2.webp",
+    "name": "Skeleton Knife | Doppler Phase 2",
+    "color": ["Pink", "Purple"]
+  },
+  "Ultraviolet": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-ultraviolet.webp",
+    "name": "Skeleton Knife | Ultraviolet",
+    "color": ["Black", "Purple"]
+  },
+  "Damascus Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/skeleton-damascus-steel.webp",
+    "name": "Skeleton Knife | Damascus Steel",
+    "color": ["White"]
+  }
+}

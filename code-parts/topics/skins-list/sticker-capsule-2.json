@@ -1,0 +1,98 @@
+{
+  "Stupid Banana (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Stupid Banana (Foil)",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-stupid-banana-foil.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-stupid-banana-foil.png"
+  },
+  "Crown (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Crown (Foil)",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-crown-foil.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-crown-foil.png"
+  },
+  "Bish (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Bish (Holo)",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-bish-holo.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-bish-holo.png"
+  },
+  "Bash (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Bash (Holo)",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-bash-holo.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-bash-holo.png"
+  },
+  "Bosh (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Bosh (Holo)",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-bosh-holo.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-bosh-holo.png"
+  },
+  "Let's Roll-oll (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Let's Roll-oll (Holo)",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-let-s-roll-oll-holo.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-let-s-roll-oll-holo.png"
+  },
+  "Good Game": {
+    "class": "blue",
+    "name": "Sticker | Good Game",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-good-game.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-good-game.png"
+  },
+  "Nice Shot": {
+    "class": "blue",
+    "name": "Sticker | Nice Shot",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-nice-shot.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-nice-shot.png"
+  },
+  "Good Luck": {
+    "class": "blue",
+    "name": "Sticker | Good Luck",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-good-luck.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-good-luck.png"
+  },
+  "Banana": {
+    "class": "blue",
+    "name": "Sticker | Banana",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-banana.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-banana.png"
+  },
+  "Metal": {
+    "class": "blue",
+    "name": "Sticker | Metal",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-metal.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-metal.png"
+  },
+  "Have Fun": {
+    "class": "blue",
+    "name": "Sticker | Have Fun",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-have-fun.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-have-fun.png"
+  },
+  "Chicken Lover": {
+    "class": "blue",
+    "name": "Sticker | Chicken Lover",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-chicken-lover.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-chicken-lover.png"
+  },
+  "Bomb Code": {
+    "class": "blue",
+    "name": "Sticker | Bomb Code",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-bomb-code.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-bomb-code.png"
+  },
+  "Welcome to the Clutch": {
+    "class": "blue",
+    "name": "Sticker | Welcome to the Clutch",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-welcome-to-the-clutch.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-welcome-to-the-clutch.png"
+  },
+  "Let's Roll-oll": {
+    "class": "blue",
+    "name": "Sticker | Let's Roll-oll",
+    "image": "/img/skins/stickers/sticker-capsule-2/sticker-let-s-roll-oll.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule-2/small/sticker-let-s-roll-oll.png"
+  }
+}

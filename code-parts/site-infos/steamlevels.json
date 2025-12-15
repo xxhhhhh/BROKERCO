@@ -1,0 +1,20 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/steam/levelup\" aria-label=\"Steam Level Up\" class=\"steamlvlup\"></a>"
+    ],
+    "firstMethodContent": [
+    ],
+    "secondMethodContent": [
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 3.5,
+        "Payments": 3,
+        "Functional": 3.5
+    },
+    "name": "Steamlevels",
+    "languages": "en, ru, tr, es",
+    "link": "https://steamlevels.com/",
+    "Main Mode": "steamlvlup",
+    "Sites Alternatives"  : ["steamlvlup", "steamlevelu"]
+}

@@ -1,0 +1,152 @@
+{
+  "Vanilla": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-vanilla.webp",
+    "name": "Stiletto Knife",
+    "color": []
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-stained.webp",
+    "name": "Stiletto Knife | Stained",
+    "color": ["Gray", "White"]
+  },
+  "Rust Coat": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-rust-coat.webp",
+    "name": "Stiletto Knife | Rust Coat",
+    "color": []
+  },
+  "Rust Coat BS": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-rust-coat-bs.webp",
+    "name": "Stiletto Knife | Rust Coat (Battle-Scarred)",
+    "color": ["Brown"]
+  },
+  "Damascus Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-damascus.webp",
+    "name": "Stiletto Knife | Damascus Steel",
+    "color": ["White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-urban-masked.webp",
+    "name": "Stiletto Knife | Urban Masked",
+    "color": ["Gray"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-scorched.webp",
+    "name": "Stiletto Knife | Scorched",
+    "color": ["Black", "Gray"]
+  },
+  "Night Stripe": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-night-stripe.webp",
+    "name": "Stiletto Knife | Night Stripe",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-blue-steel.webp",
+    "name": "Stiletto Knife | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-safari-mesh.webp",
+    "name": "Stiletto Knife | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-boreal.webp",
+    "name": "Stiletto Knife | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-ddpat.webp",
+    "name": "Stiletto Knife | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Doppler Ruby": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-knife-ruby.webp",
+    "name": "Stiletto Knife | Doppler Ruby",
+    "color": ["Red"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-knife-crimson-web.webp",
+    "name": "Stiletto Knife | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-knife-slaughter.webp",
+    "name": "Stiletto Knife | Slaughter",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-fade.webp",
+    "name": "Stiletto Knife | Fade",
+    "color": []
+  },
+  "Marble Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-marble-fade.webp",
+    "name": "Stiletto Knife | Marble Fade",
+    "color": []
+  },
+  "Tiger Tooth": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-tiger-tooth.webp",
+    "name": "Stiletto Knife | Tiger Tooth",
+    "color": ["Orange", "Yellow"]
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-case-hardened.webp",
+    "name": "Stiletto Knife | Case Hardened",
+    "color": []
+  },
+  "Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-doppler-phase-3.webp",
+    "name": "Stiletto Knife | Doppler Phase 3",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-doppler-phase-4.webp",
+    "name": "Stiletto Knife | Doppler Phase 4",
+    "color": ["Blue"]
+  },
+  "Doppler Sapphire": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-doppler-sapphire.webp",
+    "name": "Stiletto Knife | Doppler Sapphire",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-doppler-phase-1.webp",
+    "name": "Stiletto Knife | Doppler Phase 1",
+    "color": ["Purple"]
+  },
+  "Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-doppler-phase-2.webp",
+    "name": "Stiletto Knife | Doppler Phase 2",
+    "color": ["Pink", "Purple"]
+  },
+  "Ultraviolet": {
+    "class": "red",
+    "image": "/img/skins/knives/stiletto-ultraviolet.webp",
+    "name": "Stiletto Knife | Ultraviolet",
+    "color": ["Black", "Purple"]
+  }
+}

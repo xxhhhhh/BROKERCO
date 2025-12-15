@@ -1,0 +1,72 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/crypto/matchbetting\" aria-label=\"Esports Betting\" class=\"cs2\"></a>",
+        "<a href=\"/crypto/casino\" aria-label=\"Slots\" class=\"slots\"></a>",
+        "<a href=\"/crypto/matchbetting\" aria-label=\"Sport Betting\" class=\"sport\"></a>",
+        "<a href=\"/crypto/casino\" aria-label=\"Live Dealer\" class=\"livedealer\"></a>",
+        "<a href=\"/crypto/casino\" aria-label=\"Poker\" class=\"poker\"></a>",
+        "<a href=\"/crypto/casino\" aria-label=\"Blackjack\" class=\"blackjack\"></a>",
+        "<a href=\"/crypto/casino\" aria-label=\"Baccarat\" class=\"baccarat\"></a>",
+        "<a href=\"/crypto/roulette\" aria-label=\"Wheel of Fortune\" class=\"wheel\"></a>",
+        "<a href=\"/crypto/roulette\" aria-label=\"Roulette\" class=\"roulette\"></a>",
+        "<a href=\"/crypto/crash\" aria-label=\"Crash\" class=\"crash\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Duels\" class=\"duels\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Dice\" class=\"dice\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Towers\" class=\"towers\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Plinko\" class=\"plinko\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Hilo\" class=\"hilo\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Mines\" class=\"mines\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Stellar\" class=\"stellar\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"EOS\" class=\"eos\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Cardano\" class=\"cardano\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Avalanche\" class=\"avalanche\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Stellar\" class=\"stellar\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"EOS\" class=\"eos\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Cardano\" class=\"cardano\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Avalanche\" class=\"avalanche\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3.5,
+        "Support": 4.5,
+        "Payments": 5,
+        "Playability": 5
+    },
+    "codes": {
+        "Deposit Bonus": "+120%"
+    },
+    "name": "BCGame",
+    "languages": "en, ru, tr, es",
+    "link": "https://bcgame33.com/i-csgobroker-n/",
+    "featuresContent": ["DepositBonus", "DailyRewards", "Rakeback", "Rain"],
+    "code": "csgobroker",
+    "Main Mode": "casino",
+    "Sites Alternatives"  : ["csgo500", "gamdom", "duelbits", "roobet"]
+}

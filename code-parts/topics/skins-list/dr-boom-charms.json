@@ -1,0 +1,134 @@
+{
+  "Butane Buddy": {
+    "class": "red",
+    "name": "Charm | Butane Buddy",
+    "image": "/img/skins/charms/dr-boom-charms/charm-butane-buddy.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-butane-buddy.png"
+  },
+  "Lil' Ferno": {
+    "class": "red",
+    "name": "Charm | Lil' Ferno",
+    "image": "/img/skins/charms/dr-boom-charms/charm-lil-ferno.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-lil-ferno.png"
+  },
+  "8 Ball IGL": {
+    "class": "red",
+    "name": "Charm | 8 Ball IGL",
+    "image": "/img/skins/charms/dr-boom-charms/charm-8-ball-igl.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-8-ball-igl.png"
+  },
+  "Glitter Bomb": {
+    "class": "red",
+    "name": "Charm | Glitter Bomb",
+    "image": "/img/skins/charms/dr-boom-charms/charm-glitter-bomb.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-glitter-bomb.png"
+  },
+  "Flash Bomb": {
+    "class": "pink",
+    "name": "Charm | Flash Bomb",
+    "image": "/img/skins/charms/dr-boom-charms/charm-flash-bomb.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-flash-bomb.png"
+  },
+  "Lil' Yeti": {
+    "class": "pink",
+    "name": "Charm | Lil' Yeti",
+    "image": "/img/skins/charms/dr-boom-charms/charm-lil-yeti.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-lil-yeti.png"
+  },
+  "Eye of Ball": {
+    "class": "pink",
+    "name": "Charm | Eye of Ball",
+    "image": "/img/skins/charms/dr-boom-charms/charm-eye-of-ball.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-eye-of-ball.png"
+  },
+  "Hungry Eyes": {
+    "class": "pink",
+    "name": "Charm | Hungry Eyes",
+    "image": "/img/skins/charms/dr-boom-charms/charm-hungry-eyes.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-hungry-eyes.png"
+  },
+  "Lil' Eco": {
+    "class": "pink",
+    "name": "Charm | Lil' Eco",
+    "image": "/img/skins/charms/dr-boom-charms/charm-lil-eco.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-lil-eco.png"
+  },
+  "Dr. Brian": {
+    "class": "purple",
+    "name": "Charm | Dr. Brian",
+    "image": "/img/skins/charms/dr-boom-charms/charm-dr-brian.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-dr-brian.png"
+  },
+  "Bomb Tag": {
+    "class": "purple",
+    "name": "Charm | Bomb Tag",
+    "image": "/img/skins/charms/dr-boom-charms/charm-bomb-tag.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-bomb-tag.png"
+  },
+  "Lil' Dumplin'": {
+    "class": "purple",
+    "name": "Charm | Lil' Dumplin'",
+    "image": "/img/skins/charms/dr-boom-charms/charm-lil-dumplin.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-lil-dumplin.png"
+  },
+  "Lil' Bloody": {
+    "class": "purple",
+    "name": "Charm | Lil' Bloody",
+    "image": "/img/skins/charms/dr-boom-charms/charm-lil-bloody.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-lil-bloody.png"
+  },
+  "Lil' Chomper": {
+    "class": "purple",
+    "name": "Charm | Lil' Chomper",
+    "image": "/img/skins/charms/dr-boom-charms/charm-lil-chomper.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-lil-chomper.png"
+  },
+  "Lil' Facelift": {
+    "class": "purple",
+    "name": "Charm | Lil' Facelift",
+    "image": "/img/skins/charms/dr-boom-charms/charm-lil-facelift.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-lil-facelift.png"
+  },
+  "Big Brain": {
+    "class": "purple",
+    "name": "Charm | Big Brain",
+    "image": "/img/skins/charms/dr-boom-charms/charm-big-brain.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-big-brain.png"
+  },
+  "Lil' Zen": {
+    "class": "blue",
+    "name": "Charm | Lil' Zen",
+    "image": "/img/skins/charms/dr-boom-charms/charm-lil-zen.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-lil-zen.png"
+  },
+  "Whittle Guy": {
+    "class": "blue",
+    "name": "Charm | Whittle Guy",
+    "image": "/img/skins/charms/dr-boom-charms/charm-whittle-guy.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-whittle-guy.png"
+  },
+  "Fluffy": {
+    "class": "blue",
+    "name": "Charm | Fluffy",
+    "image": "/img/skins/charms/dr-boom-charms/charm-fluffy.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-fluffy.png"
+  },
+  "Gritty": {
+    "class": "blue",
+    "name": "Charm | Gritty",
+    "image": "/img/skins/charms/dr-boom-charms/charm-gritty.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-gritty.png"
+  },
+  "Splatter Cat": {
+    "class": "blue",
+    "name": "Charm | Splatter Cat",
+    "image": "/img/skins/charms/dr-boom-charms/charm-splatter-cat.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-splatter-cat.png"
+  },
+  "Biomech": {
+    "class": "blue",
+    "name": "Charm | Biomech",
+    "image": "/img/skins/charms/dr-boom-charms/charm-biomech.png",
+    "imageOG": "/img/skins/charms/dr-boom-charms/small/charm-biomech.png"
+  }
+}

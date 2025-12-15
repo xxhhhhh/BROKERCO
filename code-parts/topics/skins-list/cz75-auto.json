@@ -1,0 +1,333 @@
+{
+  "Slalom": {
+    "class": "purple",
+    "image": "/img/skins/cz75-auto/slalom.webp",
+    "name": "CZ75-Auto | Slalom",
+    "color": [
+      "White"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Copper Fiber": {
+    "class": "lblue",
+    "image": "/img/skins/cz75-auto/copper-fiber.webp",
+    "name": "CZ75-Auto | Copper Fiber",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Tuxedo": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/tuxedo.webp",
+    "name": "CZ75-Auto | Tuxedo",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Pole Position": {
+    "class": "purple",
+    "image": "/img/skins/cz75-auto/pole-position.webp",
+    "name": "CZ75-Auto | Pole Position",
+    "color": [
+      "Red",
+      "White"
+    ],
+    "case": "Chroma 2 Case"
+  },
+  "Silver": {
+    "class": "lblue",
+    "image": "/img/skins/cz75-auto/silver.webp",
+    "name": "CZ75-Auto | Silver",
+    "color": [
+      "Gray",
+      "Silver"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Imprint": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/imprint.webp",
+    "name": "CZ75-Auto | Imprint",
+    "color": [
+      "Gray"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Framework": {
+    "class": "white",
+    "image": "/img/skins/cz75-auto/framework.webp",
+    "name": "CZ75-Auto | Framework",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Tread Plate": {
+    "class": "purple",
+    "image": "/img/skins/cz75-auto/tread-plate.webp",
+    "name": "CZ75-Auto | Tread Plate",
+    "color": [
+      "Gray"
+    ],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Twist": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/twist.webp",
+    "name": "CZ75-Auto | Twist",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Midnight Palm": {
+    "class": "lblue",
+    "image": "/img/skins/cz75-auto/midnight-palm.webp",
+    "name": "CZ75-Auto | Midnight Palm",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Victoria": {
+    "class": "red",
+    "image": "/img/skins/cz75-auto/victoria.webp",
+    "name": "CZ75-Auto | Victoria",
+    "color": [
+      "Gray"
+    ],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Distressed": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/distressed.webp",
+    "name": "CZ75-Auto | Distressed",
+    "color": [
+      "Brown"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Circaetus": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/circaetus.webp",
+    "name": "CZ75-Auto | Circaetus",
+    "color": [
+      "Brown",
+      "Orange"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Vendetta": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/vendetta.webp",
+    "name": "CZ75-Auto | Vendetta",
+    "color": [],
+    "case": "Operation Broken Fang Case"
+  },
+  "Crimson Web": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/crimson-web.webp",
+    "name": "CZ75-Auto | Crimson Web",
+    "color": [
+      "Gray"
+    ],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Red Astor": {
+    "class": "purple",
+    "image": "/img/skins/cz75-auto/red-astor.webp",
+    "name": "CZ75-Auto | Red Astor",
+    "color": [
+      "Red"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Tigris": {
+    "class": "purple",
+    "image": "/img/skins/cz75-auto/tigris.webp",
+    "name": "CZ75-Auto | Tigris",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Nitro": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/nitro.webp",
+    "name": "CZ75-Auto | Nitro",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Yellow Jacket": {
+    "class": "pink",
+    "image": "/img/skins/cz75-auto/yellow-jacket.webp",
+    "name": "CZ75-Auto | Yellow Jacket",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Falchion Case"
+  },
+  "Syndicate": {
+    "class": "purple",
+    "image": "/img/skins/cz75-auto/syndicate.webp",
+    "name": "CZ75-Auto | Syndicate",
+    "color": [
+      "Golden",
+      "Yellow"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Emerald": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/emerald.webp",
+    "name": "CZ75-Auto | Emerald",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Eco": {
+    "class": "purple",
+    "image": "/img/skins/cz75-auto/eco.webp",
+    "name": "CZ75-Auto | Eco",
+    "color": [
+      "Green"
+    ],
+    "case": "Horizon Case"
+  },
+  "Emerald Quartz": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/emerald-quartz.webp",
+    "name": "CZ75-Auto | Emerald Quartz",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Army Sheen": {
+    "class": "white",
+    "image": "/img/skins/cz75-auto/army-sheen.webp",
+    "name": "CZ75-Auto | Army Sheen",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Jungle Dashed": {
+    "class": "white",
+    "image": "/img/skins/cz75-auto/jungle-dashed.webp",
+    "name": "CZ75-Auto | Jungle Dashed",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Green Plaid": {
+    "class": "white",
+    "image": "/img/skins/cz75-auto/green-plaid.webp",
+    "name": "CZ75-Auto | Green Plaid",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Polymer": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/polymer.webp",
+    "name": "CZ75-Auto | Polymer",
+    "color": [
+      "Cyan",
+      "Green"
+    ],
+    "case": "Glove Case"
+  },
+  "Poison Dart": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/poison-dart.webp",
+    "name": "CZ75-Auto | Poison Dart",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Huntsman Collection"
+  },
+  "Indigo": {
+    "class": "white",
+    "image": "/img/skins/cz75-auto/indigo.webp",
+    "name": "CZ75-Auto | Indigo",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Hexane": {
+    "class": "blue",
+    "image": "/img/skins/cz75-auto/hexane.webp",
+    "name": "CZ75-Auto | Hexane",
+    "color": [
+      "Blue"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Chalice": {
+    "class": "purple",
+    "image": "/img/skins/cz75-auto/chalice.webp",
+    "name": "CZ75-Auto | Chalice",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Xiangliu": {
+    "class": "pink",
+    "image": "/img/skins/cz75-auto/xiangliu.webp",
+    "name": "CZ75-Auto | Xiangliu",
+    "color": [
+      "Pink",
+      "Purple"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Tacticat": {
+    "class": "purple",
+    "image": "/img/skins/cz75-auto/tacticat.webp",
+    "name": "CZ75-Auto | Tacticat",
+    "color": [
+      "Blue",
+      "Pink"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "The Fuschia Is Now": {
+    "class": "pink",
+    "image": "/img/skins/cz75-auto/the-fuschia-is-now.webp",
+    "name": "CZ75-Auto | The Fuschia Is Now",
+    "color": [
+      "Purple"
+    ],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Pink Pearl": {
+    "class": "white",
+    "image": "/img/skins/cz75-auto/pink-pearl.webp",
+    "name": "CZ75-Auto | Pink Pearl",
+    "color": [
+      "Black",
+      "Pink"
+    ],
+    "collection": "The Radiant Collection"
+  }
+}

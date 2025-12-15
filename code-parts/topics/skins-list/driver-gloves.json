@@ -1,0 +1,74 @@
+{
+  "Snow Leopard": {
+    "class": "red",
+    "image": "/img/skins/gloves/snow-leopard.webp",
+    "name": "Driver Gloves | Snow Leopard",
+    "color": ["White"]
+  },
+  "King Snake": {
+    "class": "red",
+    "image": "/img/skins/gloves/king-snake.webp",
+    "name": "Driver Gloves | King Snake",
+    "color": ["White"]
+  },
+  "Black Tie": {
+    "class": "red",
+    "image": "/img/skins/gloves/black-tie.webp",
+    "name": "Driver Gloves | Black Tie",
+    "color": ["Black", "White"]
+  },
+  "Convoy": {
+    "class": "red",
+    "image": "/img/skins/gloves/convoy.webp",
+    "name": "Driver Gloves | Convoy",
+    "color": ["Brown"]
+  },
+  "Queen Jaguar": {
+    "class": "red",
+    "image": "/img/skins/gloves/queen-jaguar.webp",
+    "name": "Driver Gloves | Queen Jaguar",
+    "color": ["Brown"]
+  },
+  "Diamondback": {
+    "class": "red",
+    "image": "/img/skins/gloves/diamondback.webp",
+    "name": "Driver Gloves | Diamondback",
+    "color": ["Brown"]
+  },
+  "Crimson Weave": {
+    "class": "red",
+    "image": "/img/skins/gloves/crimson-weave.webp",
+    "name": "Driver Gloves | Crimson Weave",
+    "color": ["Red"]
+  },
+  "Rezan the Red": {
+    "class": "red",
+    "image": "/img/skins/gloves/rezan-the-red.webp",
+    "name": "Driver Gloves | Rezan the Red",
+    "color": ["Red"]
+  },
+  "Overtake": {
+    "class": "red",
+    "image": "/img/skins/gloves/overtake.webp",
+    "name": "Driver Gloves | Overtake",
+    "color": ["Brown", "Orange"]
+  },
+  "Racing Green": {
+    "class": "red",
+    "image": "/img/skins/gloves/racing-green.webp",
+    "name": "Driver Gloves | Racing Green",
+    "color": ["Green"]
+  },
+  "Lunar Weave": {
+    "class": "red",
+    "image": "/img/skins/gloves/lunar-weave.webp",
+    "name": "Driver Gloves | Lunar Weave",
+    "color": ["Blue"]
+  },
+  "Imperial Plaid": {
+    "class": "red",
+    "image": "/img/skins/gloves/imperial-plaid.webp",
+    "name": "Driver Gloves | Imperial Plaid",
+    "color": ["Purple"]
+  }
+}

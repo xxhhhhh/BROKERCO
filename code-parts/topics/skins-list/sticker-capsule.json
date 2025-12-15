@@ -1,0 +1,92 @@
+{
+  "Luck Skill (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Luck Skill (Foil)",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-luck-skill-foil.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-luck-skill-foil.png"
+  },
+  "Lucky 13 (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Lucky 13 (Foil)",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-lucky-13-foil.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-lucky-13-foil.png"
+  },
+  "Vigilance (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Vigilance (Holo)",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-vigilance-holo.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-vigilance-holo.png"
+  },
+  "Aces High (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Aces High (Holo)",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-aces-high-holo.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-aces-high-holo.png"
+  },
+  "Fearsome (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Fearsome (Holo)",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-fearsome-holo.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-fearsome-holo.png"
+  },
+  "Seek & Destroy": {
+    "class": "blue",
+    "name": "Sticker | Seek & Destroy",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-seek-destroy.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-seek-destroy.png"
+  },
+  "Black Dog": {
+    "class": "blue",
+    "name": "Sticker | Black Dog",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-black-dog.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-black-dog.png"
+  },
+  "Aces High": {
+    "class": "blue",
+    "name": "Sticker | Aces High",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-aces-high.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-aces-high.png"
+  },
+  "I Conquered": {
+    "class": "blue",
+    "name": "Sticker | I Conquered",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-i-conquered.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-i-conquered.png"
+  },
+  "Easy Peasy": {
+    "class": "blue",
+    "name": "Sticker | Easy Peasy",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-easy-peasy.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-easy-peasy.png"
+  },
+  "Fearsome": {
+    "class": "blue",
+    "name": "Sticker | Fearsome",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-fearsome.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-fearsome.png"
+  },
+  "Cerberus": {
+    "class": "blue",
+    "name": "Sticker | Cerberus",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-cerberus.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-cerberus.png"
+  },
+  "Luck Skill": {
+    "class": "blue",
+    "name": "Sticker | Luck Skill",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-luck-skill.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-luck-skill.png"
+  },
+  "Lucky 13": {
+    "class": "blue",
+    "name": "Sticker | Lucky 13",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-lucky-13.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-lucky-13.png"
+  },
+  "Vigilance": {
+    "class": "blue",
+    "name": "Sticker | Vigilance",
+    "image": "/img/skins/stickers/sticker-capsule/sticker-vigilance.png",
+    "imageOG": "/img/skins/stickers/sticker-capsule/small/sticker-vigilance.png"
+  }
+}

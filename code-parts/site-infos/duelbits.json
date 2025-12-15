@@ -1,0 +1,58 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/crypto/matchbetting\" aria-label=\"Esports Betting\" class=\"cs2\"></a>",
+        "<a href=\"/crypto/casino\" aria-label=\"Slots\" class=\"slots\"></a>",
+        "<a href=\"/crypto/matchbetting\" aria-label=\"Sport Betting\" class=\"sport\"></a>",
+        "<a href=\"/crypto/casino\" aria-label=\"Live Dealer\" class=\"livedealer\"></a>",
+        "<a href=\"/crypto/casino\" aria-label=\"Poker\" class=\"poker\"></a>",
+        "<a href=\"/crypto/casino\" aria-label=\"Blackjack\" class=\"blackjack\"></a>",
+        "<a href=\"/crypto/casino\" aria-label=\"Baccarat\" class=\"baccarat\"></a>",
+        "<a href=\"/crypto/roulette\" aria-label=\"Roulette\" class=\"roulette\"></a>",
+        "<a href=\"/crypto/crash\" aria-label=\"Crash\" class=\"crash\"></a>",
+        "<a href=\"/csgo/mines\" aria-label=\"Mines\" class=\"mines\"></a>",
+        "<a href=\"/csgo/plinko\" aria-label=\"Plinko\" class=\"plinko\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4.5,
+        "Support": 4,
+        "Payments": 4,
+        "Playability": 4.5
+    },
+    "codes": {
+        "Free Else": "Unlock Rakeback"
+    },
+    "name": "Duelbits",
+    "languages": "en, ru, tr, es",
+    "link": "https://duelbits.io/?a=broker",
+    "mirror": "true",
+    "featuresContent": ["Rakeback", "ProgressiveRewards"],
+    "code": "broker",
+    "Main Mode": "casino",
+    "Sites Alternatives"  : ["csgo500", "gamdom", "csgopolygon", "csgoluck"]
+}

@@ -1,0 +1,400 @@
+{
+  "Halftone Shift": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/halftone-shift.webp",
+    "name": "XM1014 | Halftone Shift",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Run Run Run": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/run-run-run.webp",
+    "name": "XM1014 | Run Run Run",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Mockingbird": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/mockingbird.webp",
+    "name": "XM1014 | Mockingbird",
+    "color": [
+      "Brown"
+    ],
+    "case": "Fever Case"
+  },
+  "Black Tie": {
+    "class": "purple",
+    "image": "/img/skins/xm1014/black-tie.webp",
+    "name": "XM1014 | Black Tie",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Urban Perforated": {
+    "class": "white",
+    "image": "/img/skins/xm1014/urban-perforated.webp",
+    "name": "XM1014 | Urban Perforated",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Vertigo Collection"
+  },
+  "Blue Tire": {
+    "class": "lblue",
+    "image": "/img/skins/xm1014/blue-tire.webp",
+    "name": "XM1014 | Blue Tire",
+    "color": [
+      "Black",
+      "Blue",
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Scumbria": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/scumbria.webp",
+    "name": "XM1014 | Scumbria",
+    "color": [
+      "Gray"
+    ],
+    "case": "Shadow Case"
+  },
+  "Irezumi": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/irezumi.webp",
+    "name": "XM1014 | Irezumi",
+    "color": [
+      "Gray"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Charter": {
+    "class": "white",
+    "image": "/img/skins/xm1014/charter.webp",
+    "name": "XM1014 | Charter",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Zombie Offensive": {
+    "class": "purple",
+    "image": "/img/skins/xm1014/zombie-offensive.webp",
+    "name": "XM1014 | Zombie Offensive",
+    "color": [],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Ancient Lore": {
+    "class": "purple",
+    "image": "/img/skins/xm1014/ancient-lore.webp",
+    "name": "XM1014 | Ancient Lore",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Hieroglyph": {
+    "class": "white",
+    "image": "/img/skins/xm1014/hieroglyph.webp",
+    "name": "XM1014 | Hieroglyph",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Grassland": {
+    "class": "white",
+    "image": "/img/skins/xm1014/grassland.webp",
+    "name": "XM1014 | Grassland",
+    "color": [],
+    "collection": "The Militia Collection"
+  },
+  "CaliCamo": {
+    "class": "lblue",
+    "image": "/img/skins/xm1014/calicamo.webp",
+    "name": "XM1014 | CaliCamo",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Red Python": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/red-python.webp",
+    "name": "XM1014 | Red Python",
+    "color": [
+      "Red"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Oxide Blaze": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/oxide-blaze.webp",
+    "name": "XM1014 | Oxide Blaze",
+    "color": [
+      "Brown"
+    ],
+    "case": "Clutch Case"
+  },
+  "Red Leather": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/red-leather.webp",
+    "name": "XM1014 | Red Leather",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Heaven Guard": {
+    "class": "purple",
+    "image": "/img/skins/xm1014/heaven-guard.webp",
+    "name": "XM1014 | Heaven Guard",
+    "color": [
+      "Red"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Fallout Warning": {
+    "class": "lblue",
+    "image": "/img/skins/xm1014/fallout-warning.webp",
+    "name": "XM1014 | Fallout Warning",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Nuke Collection"
+  },
+  "Tranquility": {
+    "class": "pink",
+    "image": "/img/skins/xm1014/tranquility.webp",
+    "name": "XM1014 | Tranquility",
+    "color": [
+      "Red"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Blaze Orange": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/blaze-orange.webp",
+    "name": "XM1014 | Blaze Orange",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Militia Collection"
+  },
+  "Seasons": {
+    "class": "purple",
+    "image": "/img/skins/xm1014/seasons.webp",
+    "name": "XM1014 | Seasons",
+    "color": [
+      "Orange",
+      "Red"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Incinegator": {
+    "class": "pink",
+    "image": "/img/skins/xm1014/incinegator.webp",
+    "name": "XM1014 | Incinegator",
+    "color": [
+      "Green",
+      "Orange"
+    ],
+    "case": "Prisma Case"
+  },
+  "Teclu Burner": {
+    "class": "purple",
+    "image": "/img/skins/xm1014/teclu-burner.webp",
+    "name": "XM1014 | Teclu Burner",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "case": "Revolver Case"
+  },
+  "Banana Leaf": {
+    "class": "lblue",
+    "image": "/img/skins/xm1014/banana-leaf.webp",
+    "name": "XM1014 | Banana Leaf",
+    "color": [
+      "Green"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Ziggy": {
+    "class": "purple",
+    "image": "/img/skins/xm1014/ziggy.webp",
+    "name": "XM1014 | Ziggy",
+    "color": [
+      "Green",
+      "Purple"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Jungle": {
+    "class": "white",
+    "image": "/img/skins/xm1014/jungle.webp",
+    "name": "XM1014 | Jungle",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Alpha Collection"
+  },
+  "Bone Machine": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/bone-machine.webp",
+    "name": "XM1014 | Bone Machine",
+    "color": [
+      "Cyan"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Elegant Vines": {
+    "class": "purple",
+    "image": "/img/skins/xm1014/elegant-vines.webp",
+    "name": "XM1014 | Elegant Vines",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Watchdog": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/watchgod.webp",
+    "name": "XM1014 | Watchdog",
+    "color": [
+      "Brown",
+      "Green"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "Blue Spruce": {
+    "class": "white",
+    "image": "/img/skins/xm1014/blue-spruce.webp",
+    "name": "XM1014 | Blue Spruce",
+    "color": [
+      "Cyan"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Slipstream": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/slipstream.webp",
+    "name": "XM1014 | Slipstream",
+    "color": [
+      "Blue",
+      "Cyan"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "VariCamo Blue": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/varicamo-blue.webp",
+    "name": "XM1014 | VariCamo Blue",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Quicksilver": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/quicksilver.webp",
+    "name": "XM1014 | Quicksilver",
+    "color": [
+      "Blue"
+    ],
+    "case": "Chroma Case"
+  },
+  "Blue Steel": {
+    "class": "lblue",
+    "image": "/img/skins/xm1014/blue-steel.webp",
+    "name": "XM1014 | Blue Steel",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Frost Borre": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/frost-borre.webp",
+    "name": "XM1014 | Frost Borre",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Entombed": {
+    "class": "pink",
+    "image": "/img/skins/xm1014/entombed.webp",
+    "name": "XM1014 | Entombed",
+    "color": [
+      "Blue"
+    ],
+    "case": "Fracture Case"
+  },
+  "XOXO": {
+    "class": "pink",
+    "image": "/img/skins/xm1014/xoxo.webp",
+    "name": "XM1014 | XOXO",
+    "color": [
+      "Green",
+      "Pink"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Monster Melt": {
+    "class": "purple",
+    "image": "/img/skins/xm1014/monster-melt.webp",
+    "name": "XM1014 | Monster Melt",
+    "color": [
+      "Pink"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Gum Wall Camo": {
+    "class": "lblue",
+    "image": "/img/skins/xm1014/gum-wall-camo.webp",
+    "name": "XM1014 | Gum Wall Camo",
+    "color": [
+      "Pink",
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Canvas Cloud": {
+    "class": "white",
+    "image": "/img/skins/xm1014/canvas-cloud.webp",
+    "name": "XM1014 | Canvas Cloud",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Copperflage": {
+    "class": "blue",
+    "image": "/img/skins/xm1014/copperflage.webp",
+    "name": "XM1014 | Copperflage",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Boreal Collection"
+  },
+  "Solitude": {
+    "class": "purple",
+    "name": "XM1014 | Solitude",
+    "image": "/img/skins/xm1014/solitude.webp",
+    "color": [],
+    "collection": "Limited Edition Item"
+  }
+}

@@ -1,0 +1,3 @@
+RewriteBase /
+
+ErrorDocument 404 /404.html

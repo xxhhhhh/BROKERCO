@@ -1,0 +1,35 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/rust/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/rust/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/rust/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3,
+        "Support": 2.5,
+        "Payments": 3.5,
+        "Playability": 3
+    },
+    "codes": {
+        "Free Bonus": "0.50$"
+    },
+    "name": "RustBet",
+    "languages": "en, ru, tr, es",
+    "link": "https://rustbet.com/referrals/broker",
+    "code": "broker",
+    "Main Mode": "classic",
+    "featuresContent": ["SignUpBonus", "Giveaways"],
+    "Sites Alternatives"  : ["rustypot", "banditcamp", "rustmagic", "rustyloot"]
+}

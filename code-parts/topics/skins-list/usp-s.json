@@ -1,0 +1,401 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/usp-s/vanilla.webp",
+    "name": "USP-S | Vanilla",
+    "color": []
+  },
+  "Whiteout": {
+    "class": "pink",
+    "image": "/img/skins/usp-s/whiteout.webp",
+    "name": "USP-S | Whiteout",
+    "color": [
+      "White"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "PC-GRN": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/pc-grn.webp",
+    "name": "USP-S | PC-GRN",
+    "color": [
+      "Green"
+    ],
+    "case": "Fever Case"
+  },
+  "Printstream": {
+    "class": "red",
+    "image": "/img/skins/usp-s/printstream.webp",
+    "name": "USP-S | Printstream",
+    "color": [
+      "White"
+    ],
+    "case": "Recoil Case"
+  },
+  "Road Rash": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/road-rash.webp",
+    "name": "USP-S | Road Rash",
+    "color": [
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Neo-Noir": {
+    "class": "red",
+    "image": "/img/skins/usp-s/neo-noir.webp",
+    "name": "USP-S | Neo-Noir",
+    "color": [
+      "Pink",
+      "Purple",
+      "White"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Torque": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/torque.webp",
+    "name": "USP-S | Torque",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Falchion Case"
+  },
+  "27": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/027.webp",
+    "name": "USP-S | 27",
+    "color": [
+      "Brown",
+      "Gray"
+    ],
+    "case": "Gallery Case"
+  },
+  "Ticket to Hell": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/ticket-to-hell.webp",
+    "name": "USP-S | Ticket to Hell",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Pathfinder": {
+    "class": "lblue",
+    "image": "/img/skins/usp-s/pathfinder.webp",
+    "name": "USP-S | Pathfinder",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Stainless": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/stainless.webp",
+    "name": "USP-S | Stainless",
+    "color": [
+      "Gray",
+      "Silver"
+    ],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Dark Water": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/dark-water.webp",
+    "name": "USP-S | Dark Water",
+    "color": [
+      "Gray"
+    ],
+    "case": "CS:GO Weapon Case"
+  },
+  "Lead Conduit": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/lead-conduit.webp",
+    "name": "USP-S | Lead Conduit",
+    "color": [],
+    "case": "Operation Wildfire Case"
+  },
+  "Desert Tactical": {
+    "class": "lblue",
+    "image": "/img/skins/usp-s/desert-tactical.webp",
+    "name": "USP-S | Desert Tactical",
+    "color": [
+      "Brown",
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Business Class": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/business-class.webp",
+    "name": "USP-S | Business Class",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Blood Tiger": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/blood-tiger.webp",
+    "name": "USP-S | Blood Tiger",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Serum": {
+    "class": "pink",
+    "image": "/img/skins/usp-s/serum.webp",
+    "name": "USP-S | Serum",
+    "color": [],
+    "case": "CS:GO Weapon Case 2"
+  },
+  "The Traitor": {
+    "class": "red",
+    "image": "/img/skins/usp-s/traitor.webp",
+    "name": "USP-S | The Traitor",
+    "color": [
+      "Red"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Check Engine": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/check-engine.webp",
+    "name": "USP-S | Check Engine",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Kill Confirmed": {
+    "class": "red",
+    "image": "/img/skins/usp-s/kill-confirmed.webp",
+    "name": "USP-S | Kill Confirmed",
+    "color": [
+      "Red"
+    ],
+    "case": "Shadow Case"
+  },
+  "Cyrex": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/cyrex.webp",
+    "name": "USP-S | Cyrex",
+    "color": [
+      "Red",
+      "White"
+    ],
+    "case": "Glove Case"
+  },
+  "Caiman": {
+    "class": "pink",
+    "image": "/img/skins/usp-s/caiman.webp",
+    "name": "USP-S | Caiman",
+    "color": [
+      "Blue"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Orion": {
+    "class": "pink",
+    "image": "/img/skins/usp-s/orion.webp",
+    "name": "USP-S | Orion",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "collection": "The Huntsman Collection"
+  },
+  "Orange Anolis": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/orange-anolis.webp",
+    "name": "USP-S | Orange Anolis",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Overgrowth": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/overgrowth.webp",
+    "name": "USP-S | Overgrowth",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Jawbreaker": {
+    "class": "pink",
+    "image": "/img/skins/usp-s/jawbreaker.webp",
+    "name": "USP-S | Jawbreaker",
+    "color": [
+      "Blue"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Ancient Visions": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/anctient-visions.webp",
+    "name": "USP-S | Ancient Visions",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Forest Leaves": {
+    "class": "lblue",
+    "image": "/img/skins/usp-s/forest-leaves.webp",
+    "name": "USP-S | Forest Leaves",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Flashback": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/flashback.webp",
+    "name": "USP-S | Flashback",
+    "color": [
+      "Green"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Para Green": {
+    "class": "lblue",
+    "image": "/img/skins/usp-s/para-green.webp",
+    "name": "USP-S | Para Green",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Monster Mashup": {
+    "class": "pink",
+    "image": "/img/skins/usp-s/monster-mashup.webp",
+    "name": "USP-S | Monster Mashup",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Night Ops": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/night-ops.webp",
+    "name": "USP-S | Night Ops",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Guardian": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/guardian.webp",
+    "name": "USP-S | Guardian",
+    "color": [
+      "Black",
+      "Blue"
+    ],
+    "case": "Operation Phoenix Weapon Case"
+  },
+  "Blueprint": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/blueprint.webp",
+    "name": "USP-S | Blueprint",
+    "color": [
+      "Blue"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Royal Blue": {
+    "class": "lblue",
+    "image": "/img/skins/usp-s/royal-blue.webp",
+    "name": "USP-S | Royal Blue",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Black Lotus": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/black-lotus.webp",
+    "name": "USP-S | Black Lotus",
+    "color": [
+      "Purple"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "Purple DDPAT": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/purple-ddpat.webp",
+    "name": "USP-S | Purple DDPAT",
+    "color": [
+      "Purple"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Target Acquired": {
+    "class": "pink",
+    "image": "/img/skins/usp-s/target-acquired.webp",
+    "name": "USP-S | Target Acquired",
+    "color": [
+      "Pink"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Cortex": {
+    "class": "pink",
+    "image": "/img/skins/usp-s/cortex.webp",
+    "name": "USP-S | Cortex",
+    "color": [
+      "Pink"
+    ],
+    "case": "Clutch Case"
+  },
+  "Alpine Camo": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/alpine-camo.webp",
+    "name": "USP-S | Alpine Camo",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Royal Guard": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/royal-guard.webp",
+    "name": "USP-S | Royal Guard",
+    "color": [
+      "Blue",
+      "Golden"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Bleeding Edge": {
+    "class": "purple",
+    "image": "/img/skins/usp-s/bleeding-edge.webp",
+    "name": "USP-S | Bleeding Edge",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Tropical Breeze": {
+    "class": "blue",
+    "image": "/img/skins/usp-s/tropical-breeze.webp",
+    "name": "USP-S | Tropical Breeze",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

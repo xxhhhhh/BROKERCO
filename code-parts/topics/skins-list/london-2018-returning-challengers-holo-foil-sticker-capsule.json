@@ -1,0 +1,110 @@
+{
+  "FACEIT (Foil)": {
+    "class": "pink",
+    "name": "FACEIT (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-faceit-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-faceit-foil-london-2018.png"
+  },
+  "Virtus.Pro (Foil)": {
+    "class": "pink",
+    "name": "Virtus.Pro (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-virtus-pro-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-virtus-pro-foil-london-2018.png"
+  },
+  "North (Foil)": {
+    "class": "pink",
+    "name": "North (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-north-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-north-foil-london-2018.png"
+  },
+  "Team Liquid (Foil)": {
+    "class": "pink",
+    "name": "Team Liquid (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-team-liquid-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-team-liquid-foil-london-2018.png"
+  },
+  "Astralis (Foil)": {
+    "class": "pink",
+    "name": "Astralis (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-astralis-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-astralis-foil-london-2018.png"
+  },
+  "BIG (Foil)": {
+    "class": "pink",
+    "name": "BIG (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-big-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-big-foil-london-2018.png"
+  },
+  "Space Soldiers (Foil)": {
+    "class": "pink",
+    "name": "Space Soldiers (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-space-soldiers-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-space-soldiers-foil-london-2018.png"
+  },
+  "Vega Squadron (Foil)": {
+    "class": "pink",
+    "name": "Vega Squadron (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-vega-squadron-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-vega-squadron-foil-london-2018.png"
+  },
+  "Gambit Esports (Foil)": {
+    "class": "pink",
+    "name": "Gambit Esports (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-gambit-esports-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-gambit-esports-foil-london-2018.png"
+  },
+  "Astralis (Holo)": {
+    "class": "purple",
+    "name": "Astralis (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-astralis-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-astralis-holo-london-2018.png"
+  },
+  "Team Liquid (Holo)": {
+    "class": "purple",
+    "name": "Team Liquid (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-team-liquid-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-team-liquid-holo-london-2018.png"
+  },
+  "FACEIT (Holo)": {
+    "class": "purple",
+    "name": "FACEIT (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-faceit-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-faceit-holo-london-2018.png"
+  },
+  "Virtus.Pro (Holo)": {
+    "class": "purple",
+    "name": "Virtus.Pro (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-virtus-pro-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-virtus-pro-holo-london-2018.png"
+  },
+  "North (Holo)": {
+    "class": "purple",
+    "name": "North (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-north-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-north-holo-london-2018.png"
+  },
+  "BIG (Holo)": {
+    "class": "purple",
+    "name": "BIG (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-big-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-big-holo-london-2018.png"
+  },
+  "Space Soldiers (Holo)": {
+    "class": "purple",
+    "name": "Space Soldiers (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-space-soldiers-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-space-soldiers-holo-london-2018.png"
+  },
+  "Vega Squadron (Holo)": {
+    "class": "purple",
+    "name": "Vega Squadron (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-vega-squadron-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-vega-squadron-holo-london-2018.png"
+  },
+  "Gambit Esports (Holo)": {
+    "class": "purple",
+    "name": "Gambit Esports (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-gambit-esports-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-gambit-esports-holo-london-2018.png"
+  }
+}

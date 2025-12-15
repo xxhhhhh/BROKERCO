@@ -1,0 +1,134 @@
+{
+  "Face Me (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Face Me (Foil)",
+    "image": "/img/skins/stickers/boardroom/sticker-face-me-foil.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-face-me-foil.png"
+  },
+  "Rock, Paper, Scissors (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Rock, Paper, Scissors (Foil)",
+    "image": "/img/skins/stickers/boardroom/sticker-rock-paper-scissors-foil.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-rock-paper-scissors-foil.png"
+  },
+  "The Real MVP (Foil)": {
+    "class": "pink",
+    "name": "Sticker | The Real MVP (Foil)",
+    "image": "/img/skins/stickers/boardroom/sticker-the-real-mvp-foil.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-the-real-mvp-foil.png"
+  },
+  "Inferno Diorama (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Inferno Diorama (Foil)",
+    "image": "/img/skins/stickers/boardroom/sticker-inferno-diorama-foil.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-inferno-diorama-foil.png"
+  },
+  "Infinite Diamond (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Infinite Diamond (Holo)",
+    "image": "/img/skins/stickers/boardroom/sticker-infinite-diamond-holo.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-infinite-diamond-holo.png"
+  },
+  "V For Victory (Holo)": {
+    "class": "purple",
+    "name": "Sticker | V For Victory (Holo)",
+    "image": "/img/skins/stickers/boardroom/sticker-v-for-victory-holo.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-v-for-victory-holo.png"
+  },
+  "Phoenix Balaclava Co. (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Phoenix Balaclava Co. (Holo)",
+    "image": "/img/skins/stickers/boardroom/sticker-phoenix-balaclava-co-holo.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-phoenix-balaclava-co-holo.png"
+  },
+  "Sneaky Beaky Dept. (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Sneaky Beaky Dept. (Holo)",
+    "image": "/img/skins/stickers/boardroom/sticker-sneaky-beaky-dept-holo.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-sneaky-beaky-dept-holo.png"
+  },
+  "Flashblack (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Flashblack (Holo)",
+    "image": "/img/skins/stickers/boardroom/sticker-flashblack-holo.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-flashblack-holo.png"
+  },
+  "T Rush (Holo)": {
+    "class": "purple",
+    "name": "Sticker | T Rush (Holo)",
+    "image": "/img/skins/stickers/boardroom/sticker-t-rush-holo.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-t-rush-holo.png"
+  },
+  "Smoke Criminal": {
+    "class": "blue",
+    "name": "Sticker | Smoke Criminal",
+    "image": "/img/skins/stickers/boardroom/sticker-smoke-criminal.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-smoke-criminal.png"
+  },
+  "Flick Shotter": {
+    "class": "blue",
+    "name": "Sticker | Flick Shotter",
+    "image": "/img/skins/stickers/boardroom/sticker-flick-shotter.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-flick-shotter.png"
+  },
+  "Wallbang": {
+    "class": "blue",
+    "name": "Sticker | Wallbang",
+    "image": "/img/skins/stickers/boardroom/sticker-wallbang.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-wallbang.png"
+  },
+  "Little Mischief": {
+    "class": "blue",
+    "name": "Sticker | Little Mischief",
+    "image": "/img/skins/stickers/boardroom/sticker-little-mischief.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-little-mischief.png"
+  },
+  "Hi, My Game Is": {
+    "class": "blue",
+    "name": "Sticker | Hi, My Game Is",
+    "image": "/img/skins/stickers/boardroom/sticker-hi-my-game-is.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-hi-my-game-is.png"
+  },
+  "Run CT, Run": {
+    "class": "blue",
+    "name": "Sticker | Run CT, Run",
+    "image": "/img/skins/stickers/boardroom/sticker-run-ct-run.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-run-ct-run.png"
+  },
+  "Get Clucked": {
+    "class": "blue",
+    "name": "Sticker | Get Clucked",
+    "image": "/img/skins/stickers/boardroom/sticker-get-clucked.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-get-clucked.png"
+  },
+  "Squeaky Door": {
+    "class": "blue",
+    "name": "Sticker | Squeaky Door",
+    "image": "/img/skins/stickers/boardroom/sticker-squeaky-door.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-squeaky-door.png"
+  },
+  "This Is Fine (T)": {
+    "class": "blue",
+    "name": "Sticker | This Is Fine (T)",
+    "image": "/img/skins/stickers/boardroom/sticker-this-is-fine-t.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-this-is-fine-t.png"
+  },
+  "B Hop": {
+    "class": "blue",
+    "name": "Sticker | B Hop",
+    "image": "/img/skins/stickers/boardroom/sticker-b-hop.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-b-hop.png"
+  },
+  "I'm Lit": {
+    "class": "blue",
+    "name": "Sticker | I'm Lit",
+    "image": "/img/skins/stickers/boardroom/sticker-i-m-lit.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-i-m-lit.png"
+  },
+  "Rat Pack": {
+    "class": "blue",
+    "name": "Sticker | Rat Pack",
+    "image": "/img/skins/stickers/boardroom/sticker-rat-pack.png",
+    "imageOG": "/img/skins/stickers/boardroom/small/sticker-rat-pack.png"
+  }
+}

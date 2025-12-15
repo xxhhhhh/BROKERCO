@@ -1,0 +1,110 @@
+{
+  "FaZe Clan (Foil)": {
+    "class": "pink",
+    "name": "FaZe Clan (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-faze-clan-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-faze-clan-foil-london-2018.png"
+  },
+  "FACEIT (Foil)": {
+    "class": "pink",
+    "name": "FACEIT (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-faceit-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-faceit-foil-london-2018.png"
+  },
+  "Fnatic (Foil)": {
+    "class": "pink",
+    "name": "Fnatic (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-fnatic-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-fnatic-foil-london-2018.png"
+  },
+  "G2 Esports (Foil)": {
+    "class": "pink",
+    "name": "G2 Esports (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-g2-esports-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-g2-esports-foil-london-2018.png"
+  },
+  "Winstrike Team (Foil)": {
+    "class": "pink",
+    "name": "Winstrike Team (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-winstrike-team-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-winstrike-team-foil-london-2018.png"
+  },
+  "mousesports (Foil)": {
+    "class": "pink",
+    "name": "mousesports (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-mousesports-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-mousesports-foil-london-2018.png"
+  },
+  "MIBR (Foil)": {
+    "class": "pink",
+    "name": "MIBR (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-mibr-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-mibr-foil-london-2018.png"
+  },
+  "Natus Vincere (Foil)": {
+    "class": "pink",
+    "name": "Natus Vincere (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-natus-vincere-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-natus-vincere-foil-london-2018.png"
+  },
+  "Cloud9 (Foil)": {
+    "class": "pink",
+    "name": "Cloud9 (Foil) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-cloud9-foil-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-cloud9-foil-london-2018.png"
+  },
+  "mousesports (Holo)": {
+    "class": "purple",
+    "name": "mousesports (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-mousesports-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-mousesports-holo-london-2018.png"
+  },
+  "G2 Esports (Holo)": {
+    "class": "purple",
+    "name": "G2 Esports (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-g2-esports-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-g2-esports-holo-london-2018.png"
+  },
+  "FACEIT (Holo)": {
+    "class": "purple",
+    "name": "FACEIT (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-faceit-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-faceit-holo-london-2018.png"
+  },
+  "Fnatic (Holo)": {
+    "class": "purple",
+    "name": "Fnatic (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-fnatic-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-fnatic-holo-london-2018.png"
+  },
+  "Winstrike Team (Holo)": {
+    "class": "purple",
+    "name": "Winstrike Team (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-winstrike-team-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-winstrike-team-holo-london-2018.png"
+  },
+  "MIBR (Holo)": {
+    "class": "purple",
+    "name": "MIBR (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-mibr-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-mibr-holo-london-2018.png"
+  },
+  "Natus Vincere (Holo)": {
+    "class": "purple",
+    "name": "Natus Vincere (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-natus-vincere-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-natus-vincere-holo-london-2018.png"
+  },
+  "FaZe Clan (Holo)": {
+    "class": "purple",
+    "name": "FaZe Clan (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-faze-clan-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-faze-clan-holo-london-2018.png"
+  },
+  "Cloud9 (Holo)": {
+    "class": "purple",
+    "name": "Cloud9 (Holo) | London 2018",
+    "image": "/img/skins/stickers/london-2018/sticker-cloud9-holo-london-2018.png",
+    "imageOG": "/img/skins/stickers/london-2018/small/sticker-cloud9-holo-london-2018.png"
+  }
+}

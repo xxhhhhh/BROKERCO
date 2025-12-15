@@ -1,0 +1,27 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/earn-by-play-csgo\" aria-label=\"Earn by Playing CS2\" class=\"playing\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/\" aria-label=\"SkinsBack\" class=\"skinsback\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 4.5,
+        "Payments": 3,
+        "Playability": 5
+    },
+    "name": "CYBERSHOKE",
+    "languages": "en, ru, tr, es",
+    "link": "https://cybershoke.net/",
+    "Main Mode": "playing",
+    "Sites Alternatives"  : ["xplay", "freecash", "idle-empire", "vvvgamers"]
+}

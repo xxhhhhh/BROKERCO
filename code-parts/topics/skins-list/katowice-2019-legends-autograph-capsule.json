@@ -1,0 +1,722 @@
+{
+  "EliGE (Gold)": {
+    "class": "red",
+    "name": "EliGE (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-elige-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-elige-gold-katowice-2019.png"
+  },
+  "Twistzz (Gold)": {
+    "class": "red",
+    "name": "Twistzz (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-twistzz-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-twistzz-gold-katowice-2019.png"
+  },
+  "NAF (Gold)": {
+    "class": "red",
+    "name": "NAF (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-naf-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-naf-gold-katowice-2019.png"
+  },
+  "Stewie2K (Gold)": {
+    "class": "red",
+    "name": "Stewie2K (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-stewie2k-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-stewie2k-gold-katowice-2019.png"
+  },
+  "nitr0 (Gold)": {
+    "class": "red",
+    "name": "nitr0 (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-nitr0-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-nitr0-gold-katowice-2019.png"
+  },
+  "flamie (Gold)": {
+    "class": "red",
+    "name": "flamie (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-flamie-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-flamie-gold-katowice-2019.png"
+  },
+  "electronic (Gold)": {
+    "class": "red",
+    "name": "electronic (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-electronic-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-electronic-gold-katowice-2019.png"
+  },
+  "s1mple (Gold)": {
+    "class": "red",
+    "name": "s1mple (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-s1mple-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-s1mple-gold-katowice-2019.png"
+  },
+  "Zeus (Gold)": {
+    "class": "red",
+    "name": "Zeus (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-zeus-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-zeus-gold-katowice-2019.png"
+  },
+  "Edward (Gold)": {
+    "class": "red",
+    "name": "Edward (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-edward-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-edward-gold-katowice-2019.png"
+  },
+  "coldzera (Gold)": {
+    "class": "red",
+    "name": "coldzera (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-coldzera-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-coldzera-gold-katowice-2019.png"
+  },
+  "TACO (Gold)": {
+    "class": "red",
+    "name": "TACO (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-taco-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-taco-gold-katowice-2019.png"
+  },
+  "fer (Gold)": {
+    "class": "red",
+    "name": "fer (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-fer-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-fer-gold-katowice-2019.png"
+  },
+  "felps (Gold)": {
+    "class": "red",
+    "name": "felps (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-felps-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-felps-gold-katowice-2019.png"
+  },
+  "FalleN (Gold)": {
+    "class": "red",
+    "name": "FalleN (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-fallen-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-fallen-gold-katowice-2019.png"
+  },
+  "woxic (Gold)": {
+    "class": "red",
+    "name": "woxic (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-woxic-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-woxic-gold-katowice-2019.png"
+  },
+  "ISSAA (Gold)": {
+    "class": "red",
+    "name": "ISSAA (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-issaa-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-issaa-gold-katowice-2019.png"
+  },
+  "Hobbit (Gold)": {
+    "class": "red",
+    "name": "Hobbit (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-hobbit-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-hobbit-gold-katowice-2019.png"
+  },
+  "ANGE1 (Gold)": {
+    "class": "red",
+    "name": "ANGE1 (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-ange1-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-ange1-gold-katowice-2019.png"
+  },
+  "DeadFox (Gold)": {
+    "class": "red",
+    "name": "DeadFox (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-deadfox-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-deadfox-gold-katowice-2019.png"
+  },
+  "NiKo (Gold)": {
+    "class": "red",
+    "name": "NiKo (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-niko-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-niko-gold-katowice-2019.png"
+  },
+  "AdreN (Gold)": {
+    "class": "red",
+    "name": "AdreN (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-adren-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-adren-gold-katowice-2019.png"
+  },
+  "rain (Gold)": {
+    "class": "red",
+    "name": "rain (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-rain-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-rain-gold-katowice-2019.png"
+  },
+  "olofmeister (Gold)": {
+    "class": "red",
+    "name": "olofmeister (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-olofmeister-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-olofmeister-gold-katowice-2019.png"
+  },
+  "GuardiaN (Gold)": {
+    "class": "red",
+    "name": "GuardiaN (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-guardian-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-guardian-gold-katowice-2019.png"
+  },
+  "ShahZaM (Gold)": {
+    "class": "red",
+    "name": "ShahZaM (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-shahzam-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-shahzam-gold-katowice-2019.png"
+  },
+  "dephh (Gold)": {
+    "class": "red",
+    "name": "dephh (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-dephh-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-dephh-gold-katowice-2019.png"
+  },
+  "stanislaw (Gold)": {
+    "class": "red",
+    "name": "stanislaw (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-stanislaw-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-stanislaw-gold-katowice-2019.png"
+  },
+  "Rickeh (Gold)": {
+    "class": "red",
+    "name": "Rickeh (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-rickeh-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-rickeh-gold-katowice-2019.png"
+  },
+  "n0thing (Gold)": {
+    "class": "red",
+    "name": "n0thing (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-n0thing-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-n0thing-gold-katowice-2019.png"
+  },
+  "smooya (Gold)": {
+    "class": "red",
+    "name": "smooya (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-smooya-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-smooya-gold-katowice-2019.png"
+  },
+  "XANTARES (Gold)": {
+    "class": "red",
+    "name": "XANTARES (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-xantares-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-xantares-gold-katowice-2019.png"
+  },
+  "tiziaN (Gold)": {
+    "class": "red",
+    "name": "tiziaN (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-tizian-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-tizian-gold-katowice-2019.png"
+  },
+  "tabseN (Gold)": {
+    "class": "red",
+    "name": "tabseN (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-tabsen-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-tabsen-gold-katowice-2019.png"
+  },
+  "gob b (Gold)": {
+    "class": "red",
+    "name": "gob b (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-gob-b-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-gob-b-gold-katowice-2019.png"
+  },
+  "gla1ve (Gold)": {
+    "class": "red",
+    "name": "gla1ve (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-gla1ve-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-gla1ve-gold-katowice-2019.png"
+  },
+  "dupreeh (Gold)": {
+    "class": "red",
+    "name": "dupreeh (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-dupreeh-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-dupreeh-gold-katowice-2019.png"
+  },
+  "Xyp9x (Gold)": {
+    "class": "red",
+    "name": "Xyp9x (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-xyp9x-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-xyp9x-gold-katowice-2019.png"
+  },
+  "device (Gold)": {
+    "class": "red",
+    "name": "device (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-device-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-device-gold-katowice-2019.png"
+  },
+  "Magisk (Gold)": {
+    "class": "red",
+    "name": "Magisk (Gold) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-magisk-gold-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-magisk-gold-katowice-2019.png"
+  },
+  "device (Foil)": {
+    "class": "purple",
+    "name": "device (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-device-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-device-foil-katowice-2019.png"
+  },
+  "woxic (Foil)": {
+    "class": "purple",
+    "name": "woxic (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-woxic-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-woxic-foil-katowice-2019.png"
+  },
+  "olofmeister (Foil)": {
+    "class": "purple",
+    "name": "olofmeister (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-olofmeister-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-olofmeister-foil-katowice-2019.png"
+  },
+  "smooya (Foil)": {
+    "class": "purple",
+    "name": "smooya (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-smooya-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-smooya-foil-katowice-2019.png"
+  },
+  "gob b (Foil)": {
+    "class": "purple",
+    "name": "gob b (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-gob-b-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-gob-b-foil-katowice-2019.png"
+  },
+  "Zeus (Foil)": {
+    "class": "purple",
+    "name": "Zeus (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-zeus-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-zeus-foil-katowice-2019.png"
+  },
+  "FalleN (Foil)": {
+    "class": "purple",
+    "name": "FalleN (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-fallen-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-fallen-foil-katowice-2019.png"
+  },
+  "NAF (Foil)": {
+    "class": "purple",
+    "name": "NAF (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-naf-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-naf-foil-katowice-2019.png"
+  },
+  "gla1ve (Foil)": {
+    "class": "purple",
+    "name": "gla1ve (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-gla1ve-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-gla1ve-foil-katowice-2019.png"
+  },
+  "ISSAA (Foil)": {
+    "class": "purple",
+    "name": "ISSAA (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-issaa-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-issaa-foil-katowice-2019.png"
+  },
+  "TACO (Foil)": {
+    "class": "purple",
+    "name": "TACO (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-taco-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-taco-foil-katowice-2019.png"
+  },
+  "dephh (Foil)": {
+    "class": "purple",
+    "name": "dephh (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-dephh-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-dephh-foil-katowice-2019.png"
+  },
+  "felps (Foil)": {
+    "class": "purple",
+    "name": "felps (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-felps-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-felps-foil-katowice-2019.png"
+  },
+  "Edward (Foil)": {
+    "class": "purple",
+    "name": "Edward (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-edward-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-edward-foil-katowice-2019.png"
+  },
+  "EliGE (Foil)": {
+    "class": "purple",
+    "name": "EliGE (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-elige-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-elige-foil-katowice-2019.png"
+  },
+  "Twistzz (Foil)": {
+    "class": "purple",
+    "name": "Twistzz (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-twistzz-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-twistzz-foil-katowice-2019.png"
+  },
+  "Stewie2K (Foil)": {
+    "class": "purple",
+    "name": "Stewie2K (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-stewie2k-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-stewie2k-foil-katowice-2019.png"
+  },
+  "nitr0 (Foil)": {
+    "class": "purple",
+    "name": "nitr0 (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-nitr0-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-nitr0-foil-katowice-2019.png"
+  },
+  "flamie (Foil)": {
+    "class": "purple",
+    "name": "flamie (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-flamie-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-flamie-foil-katowice-2019.png"
+  },
+  "electronic (Foil)": {
+    "class": "purple",
+    "name": "electronic (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-electronic-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-electronic-foil-katowice-2019.png"
+  },
+  "s1mple (Foil)": {
+    "class": "purple",
+    "name": "s1mple (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-s1mple-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-s1mple-foil-katowice-2019.png"
+  },
+  "coldzera (Foil)": {
+    "class": "purple",
+    "name": "coldzera (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-coldzera-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-coldzera-foil-katowice-2019.png"
+  },
+  "fer (Foil)": {
+    "class": "purple",
+    "name": "fer (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-fer-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-fer-foil-katowice-2019.png"
+  },
+  "Hobbit (Foil)": {
+    "class": "purple",
+    "name": "Hobbit (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-hobbit-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-hobbit-foil-katowice-2019.png"
+  },
+  "ANGE1 (Foil)": {
+    "class": "purple",
+    "name": "ANGE1 (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-ange1-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-ange1-foil-katowice-2019.png"
+  },
+  "DeadFox (Foil)": {
+    "class": "purple",
+    "name": "DeadFox (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-deadfox-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-deadfox-foil-katowice-2019.png"
+  },
+  "NiKo (Foil)": {
+    "class": "purple",
+    "name": "NiKo (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-niko-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-niko-foil-katowice-2019.png"
+  },
+  "AdreN (Foil)": {
+    "class": "purple",
+    "name": "AdreN (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-adren-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-adren-foil-katowice-2019.png"
+  },
+  "rain (Foil)": {
+    "class": "purple",
+    "name": "rain (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-rain-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-rain-foil-katowice-2019.png"
+  },
+  "GuardiaN (Foil)": {
+    "class": "purple",
+    "name": "GuardiaN (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-guardian-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-guardian-foil-katowice-2019.png"
+  },
+  "ShahZaM (Foil)": {
+    "class": "purple",
+    "name": "ShahZaM (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-shahzam-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-shahzam-foil-katowice-2019.png"
+  },
+  "stanislaw (Foil)": {
+    "class": "purple",
+    "name": "stanislaw (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-stanislaw-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-stanislaw-foil-katowice-2019.png"
+  },
+  "Rickeh (Foil)": {
+    "class": "purple",
+    "name": "Rickeh (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-rickeh-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-rickeh-foil-katowice-2019.png"
+  },
+  "n0thing (Foil)": {
+    "class": "purple",
+    "name": "n0thing (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-n0thing-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-n0thing-foil-katowice-2019.png"
+  },
+  "XANTARES (Foil)": {
+    "class": "purple",
+    "name": "XANTARES (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-xantares-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-xantares-foil-katowice-2019.png"
+  },
+  "tiziaN (Foil)": {
+    "class": "purple",
+    "name": "tiziaN (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-tizian-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-tizian-foil-katowice-2019.png"
+  },
+  "tabseN (Foil)": {
+    "class": "purple",
+    "name": "tabseN (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-tabsen-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-tabsen-foil-katowice-2019.png"
+  },
+  "dupreeh (Foil)": {
+    "class": "purple",
+    "name": "dupreeh (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-dupreeh-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-dupreeh-foil-katowice-2019.png"
+  },
+  "Xyp9x (Foil)": {
+    "class": "purple",
+    "name": "Xyp9x (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-xyp9x-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-xyp9x-foil-katowice-2019.png"
+  },
+  "Magisk (Foil)": {
+    "class": "purple",
+    "name": "Magisk (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-magisk-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-magisk-foil-katowice-2019.png"
+  },
+  "device": {
+    "class": "blue",
+    "name": "device | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-device-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-device-katowice-2019.png"
+  },
+  "ANGE1": {
+    "class": "blue",
+    "name": "ANGE1 | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-ange1-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-ange1-katowice-2019.png"
+  },
+  "fer": {
+    "class": "blue",
+    "name": "fer | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-fer-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-fer-katowice-2019.png"
+  },
+  "FalleN": {
+    "class": "blue",
+    "name": "FalleN | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-fallen-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-fallen-katowice-2019.png"
+  },
+  "DeadFox": {
+    "class": "blue",
+    "name": "DeadFox | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-deadfox-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-deadfox-katowice-2019.png"
+  },
+  "Rickeh": {
+    "class": "blue",
+    "name": "Rickeh | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-rickeh-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-rickeh-katowice-2019.png"
+  },
+  "NiKo": {
+    "class": "blue",
+    "name": "NiKo | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-niko-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-niko-katowice-2019.png"
+  },
+  "AdreN": {
+    "class": "blue",
+    "name": "AdreN | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-adren-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-adren-katowice-2019.png"
+  },
+  "dephh": {
+    "class": "blue",
+    "name": "dephh | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-dephh-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-dephh-katowice-2019.png"
+  },
+  "s1mple": {
+    "class": "blue",
+    "name": "s1mple | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-s1mple-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-s1mple-katowice-2019.png"
+  },
+  "nitr0": {
+    "class": "blue",
+    "name": "nitr0 | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-nitr0-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-nitr0-katowice-2019.png"
+  },
+  "XANTARES": {
+    "class": "blue",
+    "name": "XANTARES | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-xantares-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-xantares-katowice-2019.png"
+  },
+  "olofmeister": {
+    "class": "blue",
+    "name": "olofmeister | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-olofmeister-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-olofmeister-katowice-2019.png"
+  },
+  "Stewie2K": {
+    "class": "blue",
+    "name": "Stewie2K | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-stewie2k-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-stewie2k-katowice-2019.png"
+  },
+  "ISSAA": {
+    "class": "blue",
+    "name": "ISSAA | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-issaa-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-issaa-katowice-2019.png"
+  },
+  "GuardiaN": {
+    "class": "blue",
+    "name": "GuardiaN | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-guardian-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-guardian-katowice-2019.png"
+  },
+  "Zeus": {
+    "class": "blue",
+    "name": "Zeus | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-zeus-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-zeus-katowice-2019.png"
+  },
+  "gob b": {
+    "class": "blue",
+    "name": "gob b | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-gob-b-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-gob-b-katowice-2019.png"
+  },
+  "stanislaw": {
+    "class": "blue",
+    "name": "stanislaw | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-stanislaw-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-stanislaw-katowice-2019.png"
+  },
+  "Edward": {
+    "class": "blue",
+    "name": "Edward | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-edward-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-edward-katowice-2019.png"
+  },
+  "flamie": {
+    "class": "blue",
+    "name": "flamie | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-flamie-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-flamie-katowice-2019.png"
+  },
+  "electronic": {
+    "class": "blue",
+    "name": "electronic | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-electronic-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-electronic-katowice-2019.png"
+  },
+  "coldzera": {
+    "class": "blue",
+    "name": "coldzera | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-coldzera-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-coldzera-katowice-2019.png"
+  },
+  "ShahZaM": {
+    "class": "blue",
+    "name": "ShahZaM | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-shahzam-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-shahzam-katowice-2019.png"
+  },
+  "NAF": {
+    "class": "blue",
+    "name": "NAF | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-naf-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-naf-katowice-2019.png"
+  },
+  "tabseN": {
+    "class": "blue",
+    "name": "tabseN | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-tabsen-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-tabsen-katowice-2019.png"
+  },
+  "Magisk": {
+    "class": "blue",
+    "name": "Magisk | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-magisk-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-magisk-katowice-2019.png"
+  },
+  "woxic": {
+    "class": "blue",
+    "name": "woxic | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-woxic-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-woxic-katowice-2019.png"
+  },
+  "Hobbit": {
+    "class": "blue",
+    "name": "Hobbit | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-hobbit-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-hobbit-katowice-2019.png"
+  },
+  "Xyp9x": {
+    "class": "blue",
+    "name": "Xyp9x | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-xyp9x-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-xyp9x-katowice-2019.png"
+  },
+  "n0thing": {
+    "class": "blue",
+    "name": "n0thing | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-n0thing-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-n0thing-katowice-2019.png"
+  },
+  "tiziaN": {
+    "class": "blue",
+    "name": "tiziaN | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-tizian-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-tizian-katowice-2019.png"
+  },
+  "smooya": {
+    "class": "blue",
+    "name": "smooya | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-smooya-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-smooya-katowice-2019.png"
+  },
+  "gla1ve": {
+    "class": "blue",
+    "name": "gla1ve | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-gla1ve-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-gla1ve-katowice-2019.png"
+  },
+  "TACO": {
+    "class": "blue",
+    "name": "TACO | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-taco-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-taco-katowice-2019.png"
+  },
+  "EliGE": {
+    "class": "blue",
+    "name": "EliGE | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-elige-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-elige-katowice-2019.png"
+  },
+  "Twistzz": {
+    "class": "blue",
+    "name": "Twistzz | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-twistzz-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-twistzz-katowice-2019.png"
+  },
+  "felps": {
+    "class": "blue",
+    "name": "felps | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-felps-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-felps-katowice-2019.png"
+  },
+  "rain": {
+    "class": "blue",
+    "name": "rain | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-rain-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-rain-katowice-2019.png"
+  },
+  "dupreeh": {
+    "class": "blue",
+    "name": "dupreeh | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-dupreeh-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-dupreeh-katowice-2019.png"
+  }
+}

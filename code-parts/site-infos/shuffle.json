@@ -1,0 +1,62 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/matchbetting\" aria-label=\"Esports Betting\" class=\"cs2\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Slots\" class=\"slots\"></a>",
+        "<a href=\"/csgo/matchbetting\" aria-label=\"Sport Betting\" class=\"sport\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Live Dealer\" class=\"livedealer\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Poker\" class=\"poker\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Blackjack\" class=\"blackjack\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Baccarat\" class=\"baccarat\"></a>",
+        "<a href=\"/csgo/roulette\" aria-label=\"Wheel of Fortune\" class=\"wheel\"></a>",
+        "<a href=\"/csgo/roulette\" aria-label=\"Roulette\" class=\"roulette\"></a>",
+        "<a href=\"/csgo/crash\" aria-label=\"Crash\" class=\"crash\"></a>",
+        "<a href=\"/csgo/mines\" aria-label=\"Mines\" class=\"mines\"></a>",
+        "<a href=\"/\" aria-label=\"Plinko\" class=\"plinko\"></a>",
+        "<a href=\"/\" aria-label=\"Hilo\" class=\"hilo\"></a>",
+        "<a href=\"/\" aria-label=\"Dice\" class=\"dice\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Avalanche\" class=\"avalanche\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Avalanche\" class=\"avalanche\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3,
+        "Support": 4,
+        "Payments": 3.5,
+        "Playability": 4
+    },
+    "codes": {
+        "Deposit Bonus": "+100%"
+    },
+    "name": "Shuffle",
+    "languages": "en, ru, tr, es",
+    "link": "https://shuffle.game/?r=broker",
+    "code": "broker",
+    "Main Mode": "casino",
+    "featuresContent": ["DepositBonus", "ProgressiveRewards", "Rakeback"],
+    "Sites Alternatives"  : ["csgo500", "gamdom", "duelbits", "bcgame"]
+}

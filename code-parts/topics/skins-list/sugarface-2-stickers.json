@@ -1,0 +1,56 @@
+{
+  "Lucas (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Lucas (Foil)",
+    "image": "/img/skins/stickers/sugarface-2/sticker-lucas-foil.webp",
+    "imageOG": "/img/skins/stickers/sugarface-2/small/sticker-lucas-foil.webp"
+  },
+  "Lorena (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Lorena (Foil)",
+    "image": "/img/skins/stickers/sugarface-2/sticker-lorena-foil.webp",
+    "imageOG": "/img/skins/stickers/sugarface-2/small/sticker-lorena-foil.webp"
+  },
+  "Clavis (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Clavis (Foil)",
+    "image": "/img/skins/stickers/sugarface-2/sticker-clavis-foil.webp",
+    "imageOG": "/img/skins/stickers/sugarface-2/small/sticker-clavis-foil.webp"
+  },
+  "Lucas (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Lucas (Holo)",
+    "image": "/img/skins/stickers/sugarface-2/sticker-lucas-holo.webp",
+    "imageOG": "/img/skins/stickers/sugarface-2/small/sticker-lucas-holo.webp"
+  },
+  "Lorena (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Lorena (Holo)",
+    "image": "/img/skins/stickers/sugarface-2/sticker-lorena-holo.webp",
+    "imageOG": "/img/skins/stickers/sugarface-2/small/sticker-lorena-holo.webp"
+  },
+  "Clavis (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Clavis (Holo)",
+    "image": "/img/skins/stickers/sugarface-2/sticker-clavis-holo.webp",
+    "imageOG": "/img/skins/stickers/sugarface-2/small/sticker-clavis-holo.webp"
+  },
+  "Lucas": {
+    "class": "blue",
+    "name": "Sticker | Lucas",
+    "image": "/img/skins/stickers/sugarface-2/sticker-lucas.webp",
+    "imageOG": "/img/skins/stickers/sugarface-2/small/sticker-lucas.webp"
+  },
+  "Lorena": {
+    "class": "blue",
+    "name": "Sticker | Lorena",
+    "image": "/img/skins/stickers/sugarface-2/sticker-lorena.webp",
+    "imageOG": "/img/skins/stickers/sugarface-2/small/sticker-lorena.webp"
+  },
+  "Clavis": {
+    "class": "blue",
+    "name": "Sticker | Clavis",
+    "image": "/img/skins/stickers/sugarface-2/sticker-clavis.webp",
+    "imageOG": "/img/skins/stickers/sugarface-2/small/sticker-clavis.webp"
+  }
+}

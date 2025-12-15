@@ -1,0 +1,9 @@
+{
+    "name": "bandit.camp",
+    "logo": "/img/banditcamp-logo.webp",
+    "reward": "Receive <strong>$0.15</strong> for Free",
+    "reward_ru": "Получите <strong>0.15$ на Баланс</strong> при регистрации",
+    "reward_tr": "<strong>$0.15</strong> Bedava Alın",
+    "link": "https://bandit.camp/r/csgobroker",
+    "code": "csgobroker"
+}

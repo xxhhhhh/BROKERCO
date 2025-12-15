@@ -1,0 +1,47 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/csgo/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/csgo/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>",
+        "<a href=\"/\" aria-label=\"UnionPay\" class=\"unionpay\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>",
+        "<a href=\"/\" aria-label=\"G2A Pay\" class=\"g2apay\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3.5,
+        "Support": 3,
+        "Payments": 3.5,
+        "Playability": 4
+    },
+    "codes": {
+        "Free Bonus": "0.50$"
+    },
+    "name": "Key-Drop",
+    "languages": "en, ru, tr, es",
+    "link": "https://keydrop.com/?code=broker",
+    "code": "broker",
+    "Main Mode": "cases",
+    "featuresContent": ["SignUpBonus", "DailyRewards", "Giveaways"],
+    "Sites Alternatives"  : ["ggdrop", "petuh", "mycsgo", "hellcase"]
+}

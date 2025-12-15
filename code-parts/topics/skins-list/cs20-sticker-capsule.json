@@ -1,0 +1,122 @@
+{
+  "Dragon Lore (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Dragon Lore (Foil)",
+    "image": "/img/skins/stickers/cs20/sticker-dragon-lore-foil.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-dragon-lore-foil.png"
+  },
+  "All Hail the King (Foil)": {
+    "class": "pink",
+    "name": "Sticker | All Hail the King (Foil)",
+    "image": "/img/skins/stickers/cs20/sticker-all-hail-the-king-foil.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-all-hail-the-king-foil.png"
+  },
+  "Door Stuck (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Door Stuck (Foil)",
+    "image": "/img/skins/stickers/cs20/sticker-door-stuck-foil.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-door-stuck-foil.png"
+  },
+  "Fire in the Hole (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Fire in the Hole (Holo)",
+    "image": "/img/skins/stickers/cs20/sticker-fire-in-the-hole-holo.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-fire-in-the-hole-holo.png"
+  },
+  "Boost (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Boost (Holo)",
+    "image": "/img/skins/stickers/cs20/sticker-boost-holo.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-boost-holo.png"
+  },
+  "Rush 4x20 (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Rush 4x20 (Holo)",
+    "image": "/img/skins/stickers/cs20/sticker-rush-4x20-holo.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-rush-4x20-holo.png"
+  },
+  "CS20 Classic (Holo)": {
+    "class": "purple",
+    "name": "Sticker | CS20 Classic (Holo)",
+    "image": "/img/skins/stickers/cs20/sticker-cs20-classic-holo.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-cs20-classic-holo.png"
+  },
+  "Guinea Pig (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Guinea Pig (Holo)",
+    "image": "/img/skins/stickers/cs20/sticker-guinea-pig-holo.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-guinea-pig-holo.png"
+  },
+  "Clutchman (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Clutchman (Holo)",
+    "image": "/img/skins/stickers/cs20/sticker-clutchman-holo.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-clutchman-holo.png"
+  },
+  "Nuke Beast": {
+    "class": "blue",
+    "name": "Sticker | Nuke Beast",
+    "image": "/img/skins/stickers/cs20/sticker-nuke-beast.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-nuke-beast.png"
+  },
+  "Surf's Up": {
+    "class": "blue",
+    "name": "Sticker | Surf's Up",
+    "image": "/img/skins/stickers/cs20/sticker-surf-s-up.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-surf-s-up.png"
+  },
+  "Obey SAS": {
+    "class": "blue",
+    "name": "Sticker | Obey SAS",
+    "image": "/img/skins/stickers/cs20/sticker-obey-sas.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-obey-sas.png"
+  },
+  "Pixel Avenger": {
+    "class": "blue",
+    "name": "Sticker | Pixel Avenger",
+    "image": "/img/skins/stickers/cs20/sticker-pixel-avenger.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-pixel-avenger.png"
+  },
+  "Too Old for This": {
+    "class": "blue",
+    "name": "Sticker | Too Old for This",
+    "image": "/img/skins/stickers/cs20/sticker-too-old-for-this.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-too-old-for-this.png"
+  },
+  "Friend Code": {
+    "class": "blue",
+    "name": "Sticker | Friend Code",
+    "image": "/img/skins/stickers/cs20/sticker-friend-code.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-friend-code.png"
+  },
+  "Aztec": {
+    "class": "blue",
+    "name": "Sticker | Aztec",
+    "image": "/img/skins/stickers/cs20/sticker-aztec.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-aztec.png"
+  },
+  "Separate Pixels": {
+    "class": "blue",
+    "name": "Sticker | Separate Pixels",
+    "image": "/img/skins/stickers/cs20/sticker-separate-pixels.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-separate-pixels.png"
+  },
+  "Too Late": {
+    "class": "blue",
+    "name": "Sticker | Too Late",
+    "image": "/img/skins/stickers/cs20/sticker-too-late.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-too-late.png"
+  },
+  "Mondays": {
+    "class": "blue",
+    "name": "Sticker | Mondays",
+    "image": "/img/skins/stickers/cs20/sticker-mondays.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-mondays.png"
+  },
+  "Temperance": {
+    "class": "blue",
+    "name": "Sticker | Temperance",
+    "image": "/img/skins/stickers/cs20/sticker-temperance.png",
+    "imageOG": "/img/skins/stickers/cs20/small/sticker-temperance.png"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "Basilisk (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Basilisk (Foil)",
+    "image": "/img/skins/stickers/bestiary/sticker-basilisk-foil.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-basilisk-foil.png"
+  },
+  "Phoenix Reborn (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Phoenix Reborn (Foil)",
+    "image": "/img/skins/stickers/bestiary/sticker-phoenix-reborn-foil.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-phoenix-reborn-foil.png"
+  },
+  "Dragon (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Dragon (Foil)",
+    "image": "/img/skins/stickers/bestiary/sticker-dragon-foil.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-dragon-foil.png"
+  },
+  "Pegasus (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Pegasus (Holo)",
+    "image": "/img/skins/stickers/bestiary/sticker-pegasus-holo.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-pegasus-holo.png"
+  },
+  "Hippocamp (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Hippocamp (Holo)",
+    "image": "/img/skins/stickers/bestiary/sticker-hippocamp-holo.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-hippocamp-holo.png"
+  },
+  "Manticore (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Manticore (Holo)",
+    "image": "/img/skins/stickers/bestiary/sticker-manticore-holo.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-manticore-holo.png"
+  },
+  "Sphinx (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Sphinx (Holo)",
+    "image": "/img/skins/stickers/bestiary/sticker-sphinx-holo.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-sphinx-holo.png"
+  },
+  "Basilisk": {
+    "class": "blue",
+    "name": "Sticker | Basilisk",
+    "image": "/img/skins/stickers/bestiary/sticker-basilisk.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-basilisk.png"
+  },
+  "Phoenix Reborn": {
+    "class": "blue",
+    "name": "Sticker | Phoenix Reborn",
+    "image": "/img/skins/stickers/bestiary/sticker-phoenix-reborn.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-phoenix-reborn.png"
+  },
+  "Pegasus": {
+    "class": "blue",
+    "name": "Sticker | Pegasus",
+    "image": "/img/skins/stickers/bestiary/sticker-pegasus.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-pegasus.png"
+  },
+  "Manticore": {
+    "class": "blue",
+    "name": "Sticker | Manticore",
+    "image": "/img/skins/stickers/bestiary/sticker-manticore.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-manticore.png"
+  },
+  "Dragon": {
+    "class": "blue",
+    "name": "Sticker | Dragon",
+    "image": "/img/skins/stickers/bestiary/sticker-dragon.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-dragon.png"
+  },
+  "Sphinx": {
+    "class": "blue",
+    "name": "Sticker | Sphinx",
+    "image": "/img/skins/stickers/bestiary/sticker-sphinx.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-sphinx.png"
+  },
+  "Hippocamp": {
+    "class": "blue",
+    "name": "Sticker | Hippocamp",
+    "image": "/img/skins/stickers/bestiary/sticker-hippocamp.png",
+    "imageOG": "/img/skins/stickers/bestiary/small/sticker-hippocamp.png"
+  }
+}

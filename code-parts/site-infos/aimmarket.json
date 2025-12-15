@@ -1,0 +1,48 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/instant-sell\" aria-label=\"Instant Sell Skins\" class=\"instant-sell\"></a>",
+        "<a href=\"/csgo/buy-skins\" aria-label=\"Buy Skins\" class=\"buy-skins\"></a>",
+        "<a href=\"/steam/topup\" aria-label=\"Steam Top Up\" class=\"steamtopup\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/\" aria-label=\"SBP\" class=\"sbp\"></a>",
+        "<a href=\"/\" aria-label=\"FK Wallet\" class=\"fkwallet\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"TON Coin\" class=\"ton\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/\" aria-label=\"SBP\" class=\"sbp\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"TON Coin\" class=\"ton\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 3,
+        "Payments": 4.5,
+        "Pricing": 4.5
+    },
+    "codes": {
+        "Sell Bonus": "+5%"
+    },
+    "name": "Aim.market",
+    "languages": "en, ru, tr, es",
+    "link": "https://aim.market/p/broker",
+    "Main Mode": "instant-sell",
+    "featuresContent": ["BonustoSale"],
+    "Sites Alternatives"  : ["lis-skins", "avanmarket", "moonmarket", "tradeit"],
+    "code": "BROKER"
+}

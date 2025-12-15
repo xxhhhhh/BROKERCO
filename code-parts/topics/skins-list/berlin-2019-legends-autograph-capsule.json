@@ -1,0 +1,722 @@
+{
+  "s1mple (Gold)": {
+    "class": "red",
+    "name": "s1mple (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-s1mple-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-s1mple-gold-berlin-2019.png"
+  },
+  "Liazz (Gold)": {
+    "class": "red",
+    "name": "Liazz (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-liazz-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-liazz-gold-berlin-2019.png"
+  },
+  "jkaem (Gold)": {
+    "class": "red",
+    "name": "jkaem (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-jkaem-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-jkaem-gold-berlin-2019.png"
+  },
+  "AZR (Gold)": {
+    "class": "red",
+    "name": "AZR (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-azr-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-azr-gold-berlin-2019.png"
+  },
+  "jks (Gold)": {
+    "class": "red",
+    "name": "jks (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-jks-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-jks-gold-berlin-2019.png"
+  },
+  "Gratisfaction (Gold)": {
+    "class": "red",
+    "name": "Gratisfaction (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-gratisfaction-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-gratisfaction-gold-berlin-2019.png"
+  },
+  "EliGE (Gold)": {
+    "class": "red",
+    "name": "EliGE (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-elige-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-elige-gold-berlin-2019.png"
+  },
+  "Twistzz (Gold)": {
+    "class": "red",
+    "name": "Twistzz (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-twistzz-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-twistzz-gold-berlin-2019.png"
+  },
+  "NAF (Gold)": {
+    "class": "red",
+    "name": "NAF (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-naf-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-naf-gold-berlin-2019.png"
+  },
+  "Stewie2K (Gold)": {
+    "class": "red",
+    "name": "Stewie2K (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-stewie2k-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-stewie2k-gold-berlin-2019.png"
+  },
+  "nitr0 (Gold)": {
+    "class": "red",
+    "name": "nitr0 (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-nitr0-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-nitr0-gold-berlin-2019.png"
+  },
+  "NiKo (Gold)": {
+    "class": "red",
+    "name": "NiKo (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-niko-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-niko-gold-berlin-2019.png"
+  },
+  "rain (Gold)": {
+    "class": "red",
+    "name": "rain (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-rain-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-rain-gold-berlin-2019.png"
+  },
+  "olofmeister (Gold)": {
+    "class": "red",
+    "name": "olofmeister (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-olofmeister-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-olofmeister-gold-berlin-2019.png"
+  },
+  "GuardiaN (Gold)": {
+    "class": "red",
+    "name": "GuardiaN (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-guardian-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-guardian-gold-berlin-2019.png"
+  },
+  "NEO (Gold)": {
+    "class": "red",
+    "name": "NEO (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-neo-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-neo-gold-berlin-2019.png"
+  },
+  "Golden (Gold)": {
+    "class": "red",
+    "name": "Golden (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-golden-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-golden-gold-berlin-2019.png"
+  },
+  "REZ (Gold)": {
+    "class": "red",
+    "name": "REZ (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-rez-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-rez-gold-berlin-2019.png"
+  },
+  "GeT_RiGhT (Gold)": {
+    "class": "red",
+    "name": "GeT_RiGhT (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-get-right-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-get-right-gold-berlin-2019.png"
+  },
+  "Lekr0 (Gold)": {
+    "class": "red",
+    "name": "Lekr0 (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-lekr0-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-lekr0-gold-berlin-2019.png"
+  },
+  "f0rest (Gold)": {
+    "class": "red",
+    "name": "f0rest (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-f0rest-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-f0rest-gold-berlin-2019.png"
+  },
+  "Boombl4 (Gold)": {
+    "class": "red",
+    "name": "Boombl4 (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-boombl4-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-boombl4-gold-berlin-2019.png"
+  },
+  "flamie (Gold)": {
+    "class": "red",
+    "name": "flamie (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-flamie-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-flamie-gold-berlin-2019.png"
+  },
+  "electronic (Gold)": {
+    "class": "red",
+    "name": "electronic (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-electronic-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-electronic-gold-berlin-2019.png"
+  },
+  "Zeus (Gold)": {
+    "class": "red",
+    "name": "Zeus (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-zeus-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-zeus-gold-berlin-2019.png"
+  },
+  "coldzera (Gold)": {
+    "class": "red",
+    "name": "coldzera (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-coldzera-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-coldzera-gold-berlin-2019.png"
+  },
+  "TACO (Gold)": {
+    "class": "red",
+    "name": "TACO (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-taco-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-taco-gold-berlin-2019.png"
+  },
+  "fer (Gold)": {
+    "class": "red",
+    "name": "fer (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-fer-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-fer-gold-berlin-2019.png"
+  },
+  "LUCAS1 (Gold)": {
+    "class": "red",
+    "name": "LUCAS1 (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-lucas1-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-lucas1-gold-berlin-2019.png"
+  },
+  "FalleN (Gold)": {
+    "class": "red",
+    "name": "FalleN (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-fallen-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-fallen-gold-berlin-2019.png"
+  },
+  "sergej (Gold)": {
+    "class": "red",
+    "name": "sergej (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-sergej-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-sergej-gold-berlin-2019.png"
+  },
+  "Aleksib (Gold)": {
+    "class": "red",
+    "name": "Aleksib (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-aleksib-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-aleksib-gold-berlin-2019.png"
+  },
+  "xseveN (Gold)": {
+    "class": "red",
+    "name": "xseveN (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-xseven-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-xseven-gold-berlin-2019.png"
+  },
+  "Aerial (Gold)": {
+    "class": "red",
+    "name": "Aerial (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-aerial-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-aerial-gold-berlin-2019.png"
+  },
+  "allu (Gold)": {
+    "class": "red",
+    "name": "allu (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-allu-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-allu-gold-berlin-2019.png"
+  },
+  "gla1ve (Gold)": {
+    "class": "red",
+    "name": "gla1ve (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-gla1ve-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-gla1ve-gold-berlin-2019.png"
+  },
+  "dupreeh (Gold)": {
+    "class": "red",
+    "name": "dupreeh (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-dupreeh-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-dupreeh-gold-berlin-2019.png"
+  },
+  "Xyp9x (Gold)": {
+    "class": "red",
+    "name": "Xyp9x (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-xyp9x-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-xyp9x-gold-berlin-2019.png"
+  },
+  "device (Gold)": {
+    "class": "red",
+    "name": "device (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-device-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-device-gold-berlin-2019.png"
+  },
+  "Magisk (Gold)": {
+    "class": "red",
+    "name": "Magisk (Gold) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-magisk-gold-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-magisk-gold-berlin-2019.png"
+  },
+  "Zeus (Foil)": {
+    "class": "purple",
+    "name": "Zeus (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-zeus-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-zeus-foil-berlin-2019.png"
+  },
+  "NiKo (Foil)": {
+    "class": "purple",
+    "name": "NiKo (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-niko-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-niko-foil-berlin-2019.png"
+  },
+  "device (Foil)": {
+    "class": "purple",
+    "name": "device (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-device-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-device-foil-berlin-2019.png"
+  },
+  "fer (Foil)": {
+    "class": "purple",
+    "name": "fer (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-fer-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-fer-foil-berlin-2019.png"
+  },
+  "LUCAS1 (Foil)": {
+    "class": "purple",
+    "name": "LUCAS1 (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-lucas1-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-lucas1-foil-berlin-2019.png"
+  },
+  "FalleN (Foil)": {
+    "class": "purple",
+    "name": "FalleN (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-fallen-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-fallen-foil-berlin-2019.png"
+  },
+  "rain (Foil)": {
+    "class": "purple",
+    "name": "rain (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-rain-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-rain-foil-berlin-2019.png"
+  },
+  "Twistzz (Foil)": {
+    "class": "purple",
+    "name": "Twistzz (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-twistzz-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-twistzz-foil-berlin-2019.png"
+  },
+  "jks (Foil)": {
+    "class": "purple",
+    "name": "jks (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-jks-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-jks-foil-berlin-2019.png"
+  },
+  "Boombl4 (Foil)": {
+    "class": "purple",
+    "name": "Boombl4 (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-boombl4-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-boombl4-foil-berlin-2019.png"
+  },
+  "Liazz (Foil)": {
+    "class": "purple",
+    "name": "Liazz (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-liazz-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-liazz-foil-berlin-2019.png"
+  },
+  "coldzera (Foil)": {
+    "class": "purple",
+    "name": "coldzera (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-coldzera-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-coldzera-foil-berlin-2019.png"
+  },
+  "Golden (Foil)": {
+    "class": "purple",
+    "name": "Golden (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-golden-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-golden-foil-berlin-2019.png"
+  },
+  "nitr0 (Foil)": {
+    "class": "purple",
+    "name": "nitr0 (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-nitr0-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-nitr0-foil-berlin-2019.png"
+  },
+  "Stewie2K (Foil)": {
+    "class": "purple",
+    "name": "Stewie2K (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-stewie2k-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-stewie2k-foil-berlin-2019.png"
+  },
+  "GeT_RiGhT (Foil)": {
+    "class": "purple",
+    "name": "GeT_RiGhT (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-get-right-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-get-right-foil-berlin-2019.png"
+  },
+  "TACO (Foil)": {
+    "class": "purple",
+    "name": "TACO (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-taco-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-taco-foil-berlin-2019.png"
+  },
+  "GuardiaN (Foil)": {
+    "class": "purple",
+    "name": "GuardiaN (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-guardian-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-guardian-foil-berlin-2019.png"
+  },
+  "flamie (Foil)": {
+    "class": "purple",
+    "name": "flamie (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-flamie-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-flamie-foil-berlin-2019.png"
+  },
+  "EliGE (Foil)": {
+    "class": "purple",
+    "name": "EliGE (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-elige-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-elige-foil-berlin-2019.png"
+  },
+  "NEO (Foil)": {
+    "class": "purple",
+    "name": "NEO (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-neo-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-neo-foil-berlin-2019.png"
+  },
+  "electronic (Foil)": {
+    "class": "purple",
+    "name": "electronic (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-electronic-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-electronic-foil-berlin-2019.png"
+  },
+  "dupreeh (Foil)": {
+    "class": "purple",
+    "name": "dupreeh (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-dupreeh-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-dupreeh-foil-berlin-2019.png"
+  },
+  "Magisk (Foil)": {
+    "class": "purple",
+    "name": "Magisk (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-magisk-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-magisk-foil-berlin-2019.png"
+  },
+  "Aleksib (Foil)": {
+    "class": "purple",
+    "name": "Aleksib (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-aleksib-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-aleksib-foil-berlin-2019.png"
+  },
+  "olofmeister (Foil)": {
+    "class": "purple",
+    "name": "olofmeister (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-olofmeister-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-olofmeister-foil-berlin-2019.png"
+  },
+  "Aerial (Foil)": {
+    "class": "purple",
+    "name": "Aerial (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-aerial-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-aerial-foil-berlin-2019.png"
+  },
+  "allu (Foil)": {
+    "class": "purple",
+    "name": "allu (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-allu-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-allu-foil-berlin-2019.png"
+  },
+  "f0rest (Foil)": {
+    "class": "purple",
+    "name": "f0rest (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-f0rest-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-f0rest-foil-berlin-2019.png"
+  },
+  "sergej (Foil)": {
+    "class": "purple",
+    "name": "sergej (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-sergej-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-sergej-foil-berlin-2019.png"
+  },
+  "REZ (Foil)": {
+    "class": "purple",
+    "name": "REZ (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-rez-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-rez-foil-berlin-2019.png"
+  },
+  "jkaem (Foil)": {
+    "class": "purple",
+    "name": "jkaem (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-jkaem-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-jkaem-foil-berlin-2019.png"
+  },
+  "gla1ve (Foil)": {
+    "class": "purple",
+    "name": "gla1ve (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-gla1ve-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-gla1ve-foil-berlin-2019.png"
+  },
+  "AZR (Foil)": {
+    "class": "purple",
+    "name": "AZR (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-azr-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-azr-foil-berlin-2019.png"
+  },
+  "Gratisfaction (Foil)": {
+    "class": "purple",
+    "name": "Gratisfaction (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-gratisfaction-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-gratisfaction-foil-berlin-2019.png"
+  },
+  "NAF (Foil)": {
+    "class": "purple",
+    "name": "NAF (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-naf-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-naf-foil-berlin-2019.png"
+  },
+  "Lekr0 (Foil)": {
+    "class": "purple",
+    "name": "Lekr0 (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-lekr0-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-lekr0-foil-berlin-2019.png"
+  },
+  "s1mple (Foil)": {
+    "class": "purple",
+    "name": "s1mple (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-s1mple-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-s1mple-foil-berlin-2019.png"
+  },
+  "xseveN (Foil)": {
+    "class": "purple",
+    "name": "xseveN (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-xseven-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-xseven-foil-berlin-2019.png"
+  },
+  "Xyp9x (Foil)": {
+    "class": "purple",
+    "name": "Xyp9x (Foil) | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-xyp9x-foil-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-xyp9x-foil-berlin-2019.png"
+  },
+  "fer": {
+    "class": "blue",
+    "name": "fer | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-fer-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-fer-berlin-2019.png"
+  },
+  "NiKo": {
+    "class": "blue",
+    "name": "NiKo | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-niko-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-niko-berlin-2019.png"
+  },
+  "s1mple": {
+    "class": "blue",
+    "name": "s1mple | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-s1mple-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-s1mple-berlin-2019.png"
+  },
+  "device": {
+    "class": "blue",
+    "name": "device | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-device-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-device-berlin-2019.png"
+  },
+  "FalleN": {
+    "class": "blue",
+    "name": "FalleN | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-fallen-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-fallen-berlin-2019.png"
+  },
+  "Aleksib": {
+    "class": "blue",
+    "name": "Aleksib | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-aleksib-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-aleksib-berlin-2019.png"
+  },
+  "Magisk": {
+    "class": "blue",
+    "name": "Magisk | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-magisk-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-magisk-berlin-2019.png"
+  },
+  "f0rest": {
+    "class": "blue",
+    "name": "f0rest | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-f0rest-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-f0rest-berlin-2019.png"
+  },
+  "jks": {
+    "class": "blue",
+    "name": "jks | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-jks-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-jks-berlin-2019.png"
+  },
+  "GeT_RiGhT": {
+    "class": "blue",
+    "name": "GeT_RiGhT | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-get-right-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-get-right-berlin-2019.png"
+  },
+  "rain": {
+    "class": "blue",
+    "name": "rain | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-rain-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-rain-berlin-2019.png"
+  },
+  "olofmeister": {
+    "class": "blue",
+    "name": "olofmeister | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-olofmeister-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-olofmeister-berlin-2019.png"
+  },
+  "coldzera": {
+    "class": "blue",
+    "name": "coldzera | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-coldzera-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-coldzera-berlin-2019.png"
+  },
+  "LUCAS1": {
+    "class": "blue",
+    "name": "LUCAS1 | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-lucas1-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-lucas1-berlin-2019.png"
+  },
+  "flamie": {
+    "class": "blue",
+    "name": "flamie | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-flamie-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-flamie-berlin-2019.png"
+  },
+  "REZ": {
+    "class": "blue",
+    "name": "REZ | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-rez-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-rez-berlin-2019.png"
+  },
+  "Xyp9x": {
+    "class": "blue",
+    "name": "Xyp9x | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-xyp9x-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-xyp9x-berlin-2019.png"
+  },
+  "EliGE": {
+    "class": "blue",
+    "name": "EliGE | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-elige-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-elige-berlin-2019.png"
+  },
+  "NEO": {
+    "class": "blue",
+    "name": "NEO | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-neo-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-neo-berlin-2019.png"
+  },
+  "Twistzz": {
+    "class": "blue",
+    "name": "Twistzz | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-twistzz-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-twistzz-berlin-2019.png"
+  },
+  "Stewie2K": {
+    "class": "blue",
+    "name": "Stewie2K | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-stewie2k-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-stewie2k-berlin-2019.png"
+  },
+  "Zeus": {
+    "class": "blue",
+    "name": "Zeus | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-zeus-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-zeus-berlin-2019.png"
+  },
+  "electronic": {
+    "class": "blue",
+    "name": "electronic | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-electronic-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-electronic-berlin-2019.png"
+  },
+  "Golden": {
+    "class": "blue",
+    "name": "Golden | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-golden-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-golden-berlin-2019.png"
+  },
+  "TACO": {
+    "class": "blue",
+    "name": "TACO | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-taco-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-taco-berlin-2019.png"
+  },
+  "gla1ve": {
+    "class": "blue",
+    "name": "gla1ve | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-gla1ve-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-gla1ve-berlin-2019.png"
+  },
+  "Aerial": {
+    "class": "blue",
+    "name": "Aerial | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-aerial-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-aerial-berlin-2019.png"
+  },
+  "GuardiaN": {
+    "class": "blue",
+    "name": "GuardiaN | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-guardian-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-guardian-berlin-2019.png"
+  },
+  "dupreeh": {
+    "class": "blue",
+    "name": "dupreeh | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-dupreeh-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-dupreeh-berlin-2019.png"
+  },
+  "allu": {
+    "class": "blue",
+    "name": "allu | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-allu-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-allu-berlin-2019.png"
+  },
+  "sergej": {
+    "class": "blue",
+    "name": "sergej | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-sergej-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-sergej-berlin-2019.png"
+  },
+  "AZR": {
+    "class": "blue",
+    "name": "AZR | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-azr-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-azr-berlin-2019.png"
+  },
+  "Boombl4": {
+    "class": "blue",
+    "name": "Boombl4 | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-boombl4-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-boombl4-berlin-2019.png"
+  },
+  "NAF": {
+    "class": "blue",
+    "name": "NAF | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-naf-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-naf-berlin-2019.png"
+  },
+  "jkaem": {
+    "class": "blue",
+    "name": "jkaem | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-jkaem-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-jkaem-berlin-2019.png"
+  },
+  "Gratisfaction": {
+    "class": "blue",
+    "name": "Gratisfaction | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-gratisfaction-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-gratisfaction-berlin-2019.png"
+  },
+  "Lekr0": {
+    "class": "blue",
+    "name": "Lekr0 | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-lekr0-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-lekr0-berlin-2019.png"
+  },
+  "Liazz": {
+    "class": "blue",
+    "name": "Liazz | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-liazz-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-liazz-berlin-2019.png"
+  },
+  "xseveN": {
+    "class": "blue",
+    "name": "xseveN | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-xseven-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-xseven-berlin-2019.png"
+  },
+  "nitr0": {
+    "class": "blue",
+    "name": "nitr0 | Berlin 2019",
+    "image": "/img/skins/stickers/berlin-2019/sticker-nitr0-berlin-2019.png",
+    "imageOG": "/img/skins/stickers/berlin-2019/small/sticker-nitr0-berlin-2019.png"
+  }
+}

@@ -1,0 +1,61 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/matchbetting\" aria-label=\"Esports Betting\" class=\"cs2\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Slots\" class=\"slots\"></a>",
+        "<a href=\"/csgo/matchbetting\" aria-label=\"Sport Betting\" class=\"sport\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Live Dealer\" class=\"livedealer\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Poker\" class=\"poker\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Blackjack\" class=\"blackjack\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Baccarat\" class=\"baccarat\"></a>",
+        "<a href=\"/csgo/roulette\" aria-label=\"Roulette\" class=\"roulette\"></a>",
+        "<a href=\"/csgo/crash\" aria-label=\"Crash\" class=\"crash\"></a>",
+        "<a href=\"/\" aria-label=\"Dice\" class=\"dice\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"TON Coin\" class=\"ton\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"TON Coin\" class=\"ton\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3,
+        "Support": 4,
+        "Payments": 4,
+        "Playability": 4
+    },
+    "codes": {
+        "Free Bonus": "1.00$"
+    },
+    "name": "CSGOPolygon",
+    "languages": "en, ru, tr, es",
+    "link": "https://playplg.com/ref/CSGOBROKER",
+    "mirror": "true",
+    "featuresContent": ["SignUpBonus", "Rakeback"],
+    "code": "csgobroker",
+    "Main Mode": "casino",
+    "Sites Alternatives"  : ["csgo500", "csgofast", "howlgg", "csgoempire"]
+}

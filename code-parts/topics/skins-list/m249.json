@@ -1,0 +1,224 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/m249/vanilla.webp",
+    "name": "M249 | Vanilla",
+    "color": []
+  },
+  "Spectrogram": {
+    "class": "lblue",
+    "image": "/img/skins/m249/spectrogram.webp",
+    "name": "M249 | Spectrogram",
+    "color": [],
+    "collection": "The Graphic Design Collection"
+  },
+  "Blizzard Marbleized": {
+    "class": "lblue",
+    "image": "/img/skins/m249/blizzard-marbleized.webp",
+    "name": "M249 | Blizzard Marbleized",
+    "color": [
+      "White"
+    ],
+    "collection": "The Office Collection"
+  },
+  "Contrast Spray": {
+    "class": "white",
+    "image": "/img/skins/m249/contrast-spray.webp",
+    "name": "M249 | Contrast Spray",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Spectre": {
+    "class": "blue",
+    "image": "/img/skins/m249/spectre.webp",
+    "name": "M249 | Spectre",
+    "color": [
+      "White"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Hypnosis": {
+    "class": "blue",
+    "image": "/img/skins/m249/hypnosis.webp",
+    "name": "M249 | Hypnosis",
+    "color": [
+      "Blue"
+    ],
+    "case": "Gallery Case"
+  },
+  "Midnight Palm": {
+    "class": "lblue",
+    "image": "/img/skins/m249/midnight-palm.webp",
+    "name": "M249 | Midnight Palm",
+    "color": [
+      "Black"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Warbird": {
+    "class": "blue",
+    "image": "/img/skins/m249/warbird.webp",
+    "name": "M249 | Warbird",
+    "color": [
+      "Gray"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Humidor": {
+    "class": "blue",
+    "image": "/img/skins/m249/humidor.webp",
+    "name": "M249 | Humidor",
+    "color": [],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Submerged": {
+    "class": "white",
+    "image": "/img/skins/m249/submerged.webp",
+    "name": "M249 | Submerged",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Predator": {
+    "class": "white",
+    "image": "/img/skins/m249/predator.webp",
+    "name": "M249 | Predator",
+    "color": [
+      "Brown",
+      "Green"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "System Lock": {
+    "class": "blue",
+    "image": "/img/skins/m249/system-lock.webp",
+    "name": "M249 | System Lock",
+    "color": [
+      "Red"
+    ],
+    "case": "Chroma Case"
+  },
+  "Nebula Crusader": {
+    "class": "purple",
+    "image": "/img/skins/m249/nebula-crusader.webp",
+    "name": "M249 | Nebula Crusader",
+    "color": [
+      "Blue",
+      "Red"
+    ],
+    "case": "Shadow Case"
+  },
+  "Magma": {
+    "class": "blue",
+    "image": "/img/skins/m249/magma.webp",
+    "name": "M249 | Magma",
+    "color": [],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Impact Drill": {
+    "class": "white",
+    "image": "/img/skins/m249/impact-drill.webp",
+    "name": "M249 | Impact Drill",
+    "color": [
+      "Orange",
+      "Yellow"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Gator Mesh": {
+    "class": "lblue",
+    "image": "/img/skins/m249/gator-mesh.webp",
+    "name": "M249 | Gator Mesh",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Emerald Poison Dart": {
+    "class": "purple",
+    "image": "/img/skins/m249/emerald-poison-dart.webp",
+    "name": "M249 | Emerald Poison Dart",
+    "color": [
+      "Green"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Jungle": {
+    "class": "white",
+    "image": "/img/skins/m249/jungle.webp",
+    "name": "M249 | Jungle",
+    "color": [
+      "Green"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Jungle DDPAT": {
+    "class": "white",
+    "image": "/img/skins/m249/jungle-ddpat.webp",
+    "name": "M249 | Jungle DDPAT",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Alpha Collection"
+  },
+  "Aztec": {
+    "class": "purple",
+    "image": "/img/skins/m249/aztec.webp",
+    "name": "M249 | Aztec",
+    "color": [
+      "Green"
+    ],
+    "case": "CS20 Case"
+  },
+  "Deep Relief": {
+    "class": "blue",
+    "image": "/img/skins/m249/deep-relief.webp",
+    "name": "M249 | Deep Relief",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Shipping Forecast": {
+    "class": "lblue",
+    "image": "/img/skins/m249/shipping-forecast.webp",
+    "name": "M249 | Shipping Forecast",
+    "color": [
+      "Cyan"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "O.S.I.P.R.": {
+    "class": "blue",
+    "image": "/img/skins/m249/osipr.webp",
+    "name": "M249 | O.S.I.P.R.",
+    "color": [
+      "Blue"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Downtown": {
+    "class": "purple",
+    "image": "/img/skins/m249/downtown.webp",
+    "name": "M249 | Downtown",
+    "color": [
+      "Blue",
+      "Pink",
+      "Purple"
+    ],
+    "case": "Recoil Case"
+  },
+  "Sage Camo": {
+    "class": "white",
+    "image": "/img/skins/m249/sage-camo.webp",
+    "name": "M249 | Sage Camo",
+    "color": [],
+    "collection": "The Boreal Collection"
+  }
+}

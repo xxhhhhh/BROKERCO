@@ -1,0 +1,68 @@
+{
+  "The Pro (Foil)": {
+    "class": "pink",
+    "name": "Sticker | The Pro (Foil)",
+    "image": "/img/skins/stickers/team-roles/sticker-the-pro-foil.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-the-pro-foil.png"
+  },
+  "The Bot": {
+    "class": "blue",
+    "name": "Sticker | The Bot",
+    "image": "/img/skins/stickers/team-roles/sticker-the-bot.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-the-bot.png"
+  },
+  "The Baiter": {
+    "class": "blue",
+    "name": "Sticker | The Baiter",
+    "image": "/img/skins/stickers/team-roles/sticker-the-baiter.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-the-baiter.png"
+  },
+  "The Ninja": {
+    "class": "blue",
+    "name": "Sticker | The Ninja",
+    "image": "/img/skins/stickers/team-roles/sticker-the-ninja.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-the-ninja.png"
+  },
+  "Support": {
+    "class": "blue",
+    "name": "Sticker | Support",
+    "image": "/img/skins/stickers/team-roles/sticker-support.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-support.png"
+  },
+  "The Fragger": {
+    "class": "blue",
+    "name": "Sticker | The Fragger",
+    "image": "/img/skins/stickers/team-roles/sticker-the-fragger.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-the-fragger.png"
+  },
+  "The Awper": {
+    "class": "blue",
+    "name": "Sticker | The Awper",
+    "image": "/img/skins/stickers/team-roles/sticker-the-awper.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-the-awper.png"
+  },
+  "The Leader": {
+    "class": "blue",
+    "name": "Sticker | The Leader",
+    "image": "/img/skins/stickers/team-roles/sticker-the-leader.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-the-leader.png"
+  },
+  "The Lurker": {
+    "class": "blue",
+    "name": "Sticker | The Lurker",
+    "image": "/img/skins/stickers/team-roles/sticker-the-lurker.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-the-lurker.png"
+  },
+  "The 'Nader": {
+    "class": "blue",
+    "name": "Sticker | The 'Nader",
+    "image": "/img/skins/stickers/team-roles/sticker-the-nader.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-the-nader.png"
+  },
+  "The Bomber": {
+    "class": "blue",
+    "name": "Sticker | The Bomber",
+    "image": "/img/skins/stickers/team-roles/sticker-the-bomber.png",
+    "imageOG": "/img/skins/stickers/team-roles/small/sticker-the-bomber.png"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "Nemiga (Gold)": {
+    "class": "red",
+    "name": "Nemiga (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-nemiga-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-nemiga-gold-2020-rmr.png"
+  },
+  "Astralis (Gold)": {
+    "class": "red",
+    "name": "Astralis (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-astralis-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-astralis-gold-2020-rmr.png"
+  },
+  "BIG (Gold)": {
+    "class": "red",
+    "name": "BIG (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-big-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-big-gold-2020-rmr.png"
+  },
+  "G2 (Gold)": {
+    "class": "red",
+    "name": "G2 (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-g2-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-g2-gold-2020-rmr.png"
+  },
+  "Fnatic (Gold)": {
+    "class": "red",
+    "name": "Fnatic (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-fnatic-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-fnatic-gold-2020-rmr.png"
+  },
+  "OG (Gold)": {
+    "class": "red",
+    "name": "OG (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-og-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-og-gold-2020-rmr.png"
+  },
+  "Liquid (Gold)": {
+    "class": "red",
+    "name": "Liquid (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-liquid-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-liquid-gold-2020-rmr.png"
+  },
+  "GODSENT (Gold)": {
+    "class": "red",
+    "name": "GODSENT (Gold) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-godsent-gold-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-godsent-gold-2020-rmr.png"
+  },
+  "Astralis (Foil)": {
+    "class": "pink",
+    "name": "Astralis (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-astralis-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-astralis-foil-2020-rmr.png"
+  },
+  "Fnatic (Foil)": {
+    "class": "pink",
+    "name": "Fnatic (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-fnatic-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-fnatic-foil-2020-rmr.png"
+  },
+  "Liquid (Foil)": {
+    "class": "pink",
+    "name": "Liquid (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-liquid-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-liquid-foil-2020-rmr.png"
+  },
+  "Nemiga (Foil)": {
+    "class": "pink",
+    "name": "Nemiga (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-nemiga-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-nemiga-foil-2020-rmr.png"
+  },
+  "GODSENT (Foil)": {
+    "class": "pink",
+    "name": "GODSENT (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-godsent-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-godsent-foil-2020-rmr.png"
+  },
+  "OG (Foil)": {
+    "class": "pink",
+    "name": "OG (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-og-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-og-foil-2020-rmr.png"
+  },
+  "G2 (Foil)": {
+    "class": "pink",
+    "name": "G2 (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-g2-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-g2-foil-2020-rmr.png"
+  },
+  "BIG (Foil)": {
+    "class": "pink",
+    "name": "BIG (Foil) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-big-foil-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-big-foil-2020-rmr.png"
+  },
+  "Astralis (Holo)": {
+    "class": "purple",
+    "name": "Astralis (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-astralis-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-astralis-holo-2020-rmr.png"
+  },
+  "Liquid (Holo)": {
+    "class": "purple",
+    "name": "Liquid (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-liquid-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-liquid-holo-2020-rmr.png"
+  },
+  "BIG (Holo)": {
+    "class": "purple",
+    "name": "BIG (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-big-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-big-holo-2020-rmr.png"
+  },
+  "Fnatic (Holo)": {
+    "class": "purple",
+    "name": "Fnatic (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-fnatic-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-fnatic-holo-2020-rmr.png"
+  },
+  "Nemiga (Holo)": {
+    "class": "purple",
+    "name": "Nemiga (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-nemiga-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-nemiga-holo-2020-rmr.png"
+  },
+  "OG (Holo)": {
+    "class": "purple",
+    "name": "OG (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-og-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-og-holo-2020-rmr.png"
+  },
+  "G2 (Holo)": {
+    "class": "purple",
+    "name": "G2 (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-g2-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-g2-holo-2020-rmr.png"
+  },
+  "GODSENT (Holo)": {
+    "class": "purple",
+    "name": "GODSENT (Holo) | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-godsent-holo-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-godsent-holo-2020-rmr.png"
+  },
+  "Astralis": {
+    "class": "blue",
+    "name": "Astralis | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-astralis-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-astralis-2020-rmr.png"
+  },
+  "Nemiga": {
+    "class": "blue",
+    "name": "Nemiga | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-nemiga-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-nemiga-2020-rmr.png"
+  },
+  "G2": {
+    "class": "blue",
+    "name": "G2 | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-g2-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-g2-2020-rmr.png"
+  },
+  "Fnatic": {
+    "class": "blue",
+    "name": "Fnatic | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-fnatic-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-fnatic-2020-rmr.png"
+  },
+  "GODSENT": {
+    "class": "blue",
+    "name": "GODSENT | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-godsent-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-godsent-2020-rmr.png"
+  },
+  "BIG": {
+    "class": "blue",
+    "name": "BIG | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-big-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-big-2020-rmr.png"
+  },
+  "OG": {
+    "class": "blue",
+    "name": "OG | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-og-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-og-2020-rmr.png"
+  },
+  "Liquid": {
+    "class": "blue",
+    "name": "Liquid | 2020 RMR",
+    "image": "/img/skins/stickers/2020-rmr/sticker-liquid-2020-rmr.png",
+    "imageOG": "/img/skins/stickers/2020-rmr/small/sticker-liquid-2020-rmr.png"
+  }
+}

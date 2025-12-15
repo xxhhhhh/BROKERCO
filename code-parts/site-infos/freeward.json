@@ -1,0 +1,29 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/earning/offerwalls\" aria-label=\"Offerwalls\" class=\"offerwalls\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3,
+        "Support": 3,
+        "Payments": 3,
+        "Variety": 4.5
+    },
+    "name": "Freeward",
+    "languages": "en, ru, tr, es",
+    "link": "https://freeward.net/ref/v2vod",
+    "featuresContent": ["SignUpBonus", "DailyRewards", "ProgressiveRewards"],
+    "Main Mode": "earning",
+    "Sites Alternatives"  : ["freecash", "idle-empire", "grindbux"]
+}

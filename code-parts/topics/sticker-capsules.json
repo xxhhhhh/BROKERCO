@@ -1,0 +1,455 @@
+{
+  "customPath": "stickers",
+  "items": [
+    {
+      "id": "budapest-2025-legends-sticker-capsule",
+      "title": "Budapest 2025 Legends",
+      "img": "/img/skins/sticker-capsules/budapest-2025-legends-sticker-capsule.png",
+      "date": "13.11.25"
+    },
+    {
+      "id": "budapest-2025-challengers-sticker-capsule",
+      "title": "Budapest 2025 Challengers",
+      "img": "/img/skins/sticker-capsules/budapest-2025-challengers-sticker-capsule.png",
+      "date": "13.11.25"
+    },
+    {
+      "id": "budapest-2025-contenders-sticker-capsule",
+      "title": "Budapest 2025 Contenders",
+      "img": "/img/skins/sticker-capsules/budapest-2025-contenders-sticker-capsule.png",
+      "date": "13.11.25"
+    },
+    {
+      "id": "2025-community-stickers",
+      "title": "2025 Community Stickers",
+      "img": "/img/skins/sticker-capsules/2025-community-stickers.webp",
+      "date": "13.10.25"
+    },
+    {
+      "id": "sugarface-2-stickers",
+      "title": "Sugarface 2 Stickers",
+      "img": "/img/skins/sticker-capsules/sugarface-2-stickers.webp",
+      "date": "01.10.25"
+    },
+    {
+      "id": "austin-2025-legends-sticker-capsule",
+      "title": "Austin 2025 Legends",
+      "img": "/img/skins/sticker-capsules/austin-2025-legends-sticker-capsule.png",
+      "date": "22.05.25"
+    },
+    {
+      "id": "austin-2025-challengers-sticker-capsule",
+      "title": "Austin 2025 Challengers",
+      "img": "/img/skins/sticker-capsules/austin-2025-challengers-sticker-capsule.png",
+      "date": "22.05.25"
+    },
+    {
+      "id": "austin-2025-contenders-sticker-capsule",
+      "title": "Austin 2025 Contenders",
+      "img": "/img/skins/sticker-capsules/austin-2025-contenders-sticker-capsule.png",
+      "date": "22.05.25"
+    },
+    {
+      "id": "warhammer-40000-xenos-sticker-capsule",
+      "title": "Warhammer 40,000 Xenos",
+      "img": "/img/skins/sticker-capsules/warhammer-40000-xenos-sticker-capsule.png",
+      "date": "22.05.25"
+    },
+    {
+      "id": "warhammer-40000-imperium-sticker-capsule",
+      "title": "Warhammer 40,000 Imperium",
+      "img": "/img/skins/sticker-capsules/warhammer-40000-imperium-sticker-capsule.png",
+      "date": "22.05.25"
+    },
+    {
+      "id": "warhammer-40000-adeptus-astartes-sticker-capsule",
+      "title": "Warhammer 40,000 Adeptus Astartes",
+      "img": "/img/skins/sticker-capsules/warhammer-40000-adeptus-astartes-sticker-capsule.png",
+      "date": "22.05.25"
+    },
+    {
+      "id": "warhammer-40000-traitor-astartes-sticker-capsule",
+      "title": "Warhammer 40,000 Traitor Astartes",
+      "img": "/img/skins/sticker-capsules/warhammer-40000-traitor-astartes-sticker-capsule.png",
+      "date": "22.05.25"
+    },
+    {
+      "id": "shanghai-2024-legends-sticker-capsule",
+      "title": "Shanghai 2024 Legends",
+      "img": "/img/skins/sticker-capsules/shanghai-2024-legends-sticker-capsule.png",
+      "date": "27.11.24"
+    },
+    {
+      "id": "shanghai-2024-challengers-sticker-capsule",
+      "title": "Shanghai 2024 Challengers",
+      "img": "/img/skins/sticker-capsules/shanghai-2024-challengers-sticker-capsule.png",
+      "date": "27.11.24"
+    },
+    {
+      "id": "shanghai-2024-contenders-sticker-capsule",
+      "title": "Shanghai 2024 Contenders",
+      "img": "/img/skins/sticker-capsules/shanghai-2024-contenders-sticker-capsule.png",
+      "date": "27.11.24"
+    },
+    {
+      "id": "elemental-craft-stickers",
+      "title": "Elemental Craft Stickers",
+      "img": "/img/skins/sticker-capsules/elemental-craft-stickers.webp",
+      "date": "09.10.24"
+    },
+    {
+      "id": "character-craft-stickers",
+      "title": "Character Craft Stickers",
+      "img": "/img/skins/sticker-capsules/character-craft-stickers.webp",
+      "date": "09.10.24"
+    },
+    {
+      "id": "10-year-birthday-sticker-capsule",
+      "title": "10 Year Birthday",
+      "img": "/img/skins/sticker-capsules/10-year-birthday-sticker-capsule.png",
+      "date": "09.10.24"
+    },
+    {
+      "id": "halo-sticker-capsule",
+      "title": "Halo",
+      "img": "/img/skins/sticker-capsules/halo-sticker-capsule.png",
+      "date": "26.11.19"
+    },
+    {
+      "id": "copenhagen-2024-challengers-sticker-capsule",
+      "title": "Copenhagen 2024 Challengers",
+      "img": "/img/skins/sticker-capsules/copenhagen-2024-challengers-sticker-capsule.png",
+      "date": "13.03.24"
+    },
+    {
+      "id": "copenhagen-2024-contenders-sticker-capsule",
+      "title": "Copenhagen 2024 Contenders",
+      "img": "/img/skins/sticker-capsules/copenhagen-2024-contenders-sticker-capsule.png",
+      "date": "13.03.24"
+    },
+    {
+      "id": "copenhagen-2024-legends-sticker-capsule",
+      "title": "Copenhagen 2024 Legends",
+      "img": "/img/skins/sticker-capsules/copenhagen-2024-legends-sticker-capsule.png",
+      "date": "13.03.24"
+    },
+    {
+      "id": "battlefield-2042-sticker-capsule",
+      "title": "Battlefield 2042",
+      "img": "/img/skins/sticker-capsules/battlefield-2042-sticker-capsule.png",
+      "date": "17.11.21"
+    },
+    {
+      "id": "espionage-sticker-capsule",
+      "title": "Espionage",
+      "img": "/img/skins/sticker-capsules/espionage-sticker-capsule.png",
+      "date": "09.02.23"
+    },
+    {
+      "id": "ambush-sticker-capsule",
+      "title": "Ambush",
+      "img": "/img/skins/sticker-capsules/ambush-sticker-capsule.png",
+      "date": "01.02.22"
+    },
+    {
+      "id": "the-boardroom-sticker-capsule",
+      "title": "The Boardroom",
+      "img": "/img/skins/sticker-capsules/the-boardroom-sticker-capsule.png",
+      "date": "26.11.19"
+    },
+    {
+      "id": "paris-2023-contenders-sticker-capsule",
+      "title": "Paris 2023 Contenders",
+      "img": "/img/skins/sticker-capsules/paris-2023-contenders-sticker-capsule.png",
+      "date": "04.05.23"
+    },
+    {
+      "id": "paris-2023-legends-sticker-capsule",
+      "title": "Paris 2023 Legends",
+      "img": "/img/skins/sticker-capsules/paris-2023-legends-sticker-capsule.png",
+      "date": "04.05.23"
+    },
+    {
+      "id": "paris-2023-challengers-sticker-capsule",
+      "title": "Paris 2023 Challengers",
+      "img": "/img/skins/sticker-capsules/paris-2023-challengers-sticker-capsule.png",
+      "date": "04.05.23"
+    },
+    {
+      "id": "rio-2022-contenders-sticker-capsule",
+      "title": "Rio 2022 Contenders",
+      "img": "/img/skins/sticker-capsules/rio-2022-contenders-sticker-capsule.png",
+      "date": "21.10.22"
+    },
+    {
+      "id": "rio-2022-legends-sticker-capsule",
+      "title": "Rio 2022 Legends",
+      "img": "/img/skins/sticker-capsules/rio-2022-legends-sticker-capsule.png",
+      "date": "21.10.22"
+    },
+    {
+      "id": "rio-2022-challengers-sticker-capsule",
+      "title": "Rio 2022 Challengers",
+      "img": "/img/skins/sticker-capsules/rio-2022-challengers-sticker-capsule.png",
+      "date": "21.10.22"
+    },
+    {
+      "id": "antwerp-2022-contenders-sticker-capsule",
+      "title": "Antwerp 2022 Contenders",
+      "img": "/img/skins/sticker-capsules/antwerp-2022-contenders-sticker-capsule.png",
+      "date": "03.05.22"
+    },
+    {
+      "id": "antwerp-2022-legends-sticker-capsule",
+      "title": "Antwerp 2022 Legends",
+      "img": "/img/skins/sticker-capsules/antwerp-2022-legends-sticker-capsule.png",
+      "date": "03.05.22"
+    },
+    {
+      "id": "antwerp-2022-challengers-sticker-capsule",
+      "title": "Antwerp 2022 Challengers",
+      "img": "/img/skins/sticker-capsules/antwerp-2022-challengers-sticker-capsule.png",
+      "date": "03.05.22"
+    },
+    {
+      "id": "stockholm-2021-contenders-sticker-capsule",
+      "title": "Stockholm 2021 Contenders",
+      "img": "/img/skins/sticker-capsules/stockholm-2021-contenders-sticker-capsule.png",
+      "date": "21.10.21"
+    },
+    {
+      "id": "stockholm-2021-legends-sticker-capsule",
+      "title": "Stockholm 2021 Legends",
+      "img": "/img/skins/sticker-capsules/stockholm-2021-legends-sticker-capsule.png",
+      "date": "21.10.21"
+    },
+    {
+      "id": "stockholm-2021-challengers-sticker-capsule",
+      "title": "Stockholm 2021 Challengers",
+      "img": "/img/skins/sticker-capsules/stockholm-2021-challengers-sticker-capsule.png",
+      "date": "21.10.21"
+    },
+    {
+      "id": "2021-community-sticker-capsule",
+      "title": "2021 Community",
+      "img": "/img/skins/sticker-capsules/2021-community-sticker-capsule.png",
+      "date": "09.09.21"
+    },
+    {
+      "id": "broken-fang-sticker-capsule",
+      "title": "Broken Fang",
+      "img": "/img/skins/sticker-capsules/broken-fang-sticker-capsule.png",
+      "date": "03.12.20"
+    },
+    {
+      "id": "recoil-sticker-capsule",
+      "title": "Recoil",
+      "img": "/img/skins/sticker-capsules/recoil-sticker-capsule.png",
+      "date": "03.12.20"
+    },
+    {
+      "id": "operation-riptide-sticker-capsule",
+      "title": "Operation Riptide",
+      "img": "/img/skins/sticker-capsules/operation-riptide-sticker-capsule.png",
+      "date": "21.09.21"
+    },
+    {
+      "id": "riptide-surf-shop-sticker-capsule",
+      "title": "Riptide Surf Shop",
+      "img": "/img/skins/sticker-capsules/riptide-surf-shop-sticker-capsule.png",
+      "date": "21.09.21"
+    },
+    {
+      "id": "poorly-drawn-sticker-capsule",
+      "title": "Poorly Drawn",
+      "img": "/img/skins/sticker-capsules/poorly-drawn-sticker-capsule.png",
+      "date": "18.03.21"
+    },
+    {
+      "id": "chicken-sticker-capsule",
+      "title": "Chicken",
+      "img": "/img/skins/sticker-capsules/chicken-sticker-capsule.png",
+      "date": "18.06.19"
+    },
+    {
+      "id": "cs20-sticker-capsule",
+      "title": "CS20",
+      "img": "/img/skins/sticker-capsules/cs20-sticker-capsule.png",
+      "date": "18.06.20"
+    },
+    {
+      "id": "feral-predators-sticker-capsule",
+      "title": "Feral Predators",
+      "img": "/img/skins/sticker-capsules/feral-predators-sticker-capsule.png",
+      "date": "28.03.19"
+    },
+    {
+      "id": "half-life-alyx-sticker-capsule",
+      "title": "Half-Life: Alyx",
+      "img": "/img/skins/sticker-capsules/half-life-alyx-sticker-capsule.png",
+      "date": "22.03.20"
+    },
+    {
+      "id": "shattered-web-sticker-capsule",
+      "title": "Shattered Web",
+      "img": "/img/skins/sticker-capsules/shattered-web-sticker-capsule.png",
+      "date": "18.11.19"
+    },
+    {
+      "id": "skill-groups-sticker-capsule",
+      "title": "Skill Group",
+      "img": "/img/skins/sticker-capsules/skill-groups-sticker-capsule.png",
+      "date": "14.11.18"
+    },
+    {
+      "id": "warhammer-40000-sticker-capsule",
+      "title": "Warhammer 40000",
+      "img": "/img/skins/sticker-capsules/warhammer-40000-sticker-capsule.png",
+      "date": "27.05.20"
+    },
+    {
+      "id": "2020-rmr-challengers-sticker-capsule",
+      "title": "2020 RMR Challengers",
+      "img": "/img/skins/sticker-capsules/2020-rmr-challengers-sticker-capsule.png",
+      "date": "27.01.21"
+    },
+    {
+      "id": "2020-rmr-contenders-sticker-capsule",
+      "title": "2020 RMR Contenders",
+      "img": "/img/skins/sticker-capsules/2020-rmr-contenders-sticker-capsule.png",
+      "date": "27.01.21"
+    },
+    {
+      "id": "2020-rmr-legends-sticker-capsule",
+      "title": "2020 RMR Legends",
+      "img": "/img/skins/sticker-capsules/2020-rmr-legends-sticker-capsule.png",
+      "date": "27.01.21"
+    },
+    {
+      "id": "berlin-2019-returning-challengers-holo-foil-sticker-capsule",
+      "title": "Berlin 2019 Returning Challengers (Holo-Foil)",
+      "img": "/img/skins/sticker-capsules/berlin-2019-returning-challengers-holo-foil-sticker-capsule.png",
+      "date": "14.08.19"
+    },
+    {
+      "id": "berlin-2019-minor-challengers-holo-foil-sticker-capsule",
+      "title": "Berlin 2019 Minor Challengers (Holo-Foil)",
+      "img": "/img/skins/sticker-capsules/berlin-2019-minor-challengers-holo-foil-sticker-capsule.png",
+      "date": "14.08.19"
+    },
+    {
+      "id": "berlin-2019-legends-holo-foil-sticker-capsule",
+      "title": "Berlin 2019 Legends (Holo-Foil)",
+      "img": "/img/skins/sticker-capsules/berlin-2019-legends-holo-foil-sticker-capsule.png",
+      "date": "14.08.19"
+    },
+    {
+      "id": "katowice-2019-returning-challengers-holo-foil-sticker-capsule",
+      "title": "Katowice 2019 Returning Challengers (Holo-Foil)",
+      "img": "/img/skins/sticker-capsules/katowice-2019-returning-challengers-holo-foil-sticker-capsule.png",
+      "date": "06.02.19"
+    },
+    {
+      "id": "katowice-2019-minor-challengers-holo-foil-sticker-capsule",
+      "title": "Katowice 2019 Minor Challengers (Holo-Foil)",
+      "img": "/img/skins/sticker-capsules/katowice-2019-minor-challengers-holo-foil-sticker-capsule.png",
+      "date": "06.02.19"
+    },
+    {
+      "id": "katowice-2019-legends-holo-foil-sticker-capsule",
+      "title": "Katowice 2019 Legends (Holo-Foil)",
+      "img": "/img/skins/sticker-capsules/katowice-2019-legends-holo-foil-sticker-capsule.png",
+      "date": "06.02.19"
+    },
+    {
+      "id": "london-2018-returning-challengers-holo-foil-sticker-capsule",
+      "title": "London 2018 Returning Challengers (Holo-Foil)",
+      "img": "/img/skins/sticker-capsules/london-2018-returning-challengers-holo-foil-sticker-capsule.webp",
+      "date": "29.08.18"
+    },
+    {
+      "id": "london-2018-minor-challengers-holo-foil-sticker-capsule",
+      "title": "London 2018 Minor Challengers (Holo-Foil)",
+      "img": "/img/skins/sticker-capsules/london-2018-minor-challengers-holo-foil-sticker-capsule.webp",
+      "date": "29.08.18"
+    },
+    {
+      "id": "london-2018-legends-holo-foil-sticker-capsule",
+      "title": "London 2018 Legends (Holo-Foil)",
+      "img": "/img/skins/sticker-capsules/london-2018-legends-holo-foil-sticker-capsule.webp",
+      "date": "29.08.18"
+    },
+    {
+      "id": "bestiary-sticker-capsule",
+      "title": "Bestiary",
+      "img": "/img/skins/sticker-capsules/bestiary-sticker-capsule.png",
+      "date": "29.09.16"
+    },
+    {
+      "id": "community-sticker-capsule-2018",
+      "title": "Community 2018",
+      "img": "/img/skins/sticker-capsules/community-sticker-capsule-2018.png",
+      "date": "14.02.18"
+    },
+    {
+      "id": "enfu-sticker-capsule",
+      "title": "Enfu",
+      "img": "/img/skins/sticker-capsules/enfu-sticker-capsule.png",
+      "date": "28.04.15"
+    },
+    {
+      "id": "perfect-world-sticker-capsule-1",
+      "title": "Perfect World 1",
+      "img": "/img/skins/sticker-capsules/perfect-world-sticker-capsule-1.png",
+      "date": "14.09.17"
+    },
+    {
+      "id": "perfect-world-sticker-capsule-2",
+      "title": "Perfect World 2",
+      "img": "/img/skins/sticker-capsules/perfect-world-sticker-capsule-2.png",
+      "date": "14.09.17"
+    },
+    {
+      "id": "pinups-sticker-capsule",
+      "title": "Pinups",
+      "img": "/img/skins/sticker-capsules/pinups-sticker-capsule.png",
+      "date": "11.12.15"
+    },
+    {
+      "id": "slid3-sticker-capsule",
+      "title": "Slid3",
+      "img": "/img/skins/sticker-capsules/slid3-sticker-capsule.png",
+      "date": "11.12.15"
+    },
+    {
+      "id": "sugarface-sticker-capsule",
+      "title": "Sugarface",
+      "img": "/img/skins/sticker-capsules/sugarface-sticker-capsule.png",
+      "date": "29.09.16"
+    },
+    {
+      "id": "team-roles-sticker-capsule",
+      "title": "Team Roles",
+      "img": "/img/skins/sticker-capsules/team-roles-sticker-capsule.png",
+      "date": "11.12.15"
+    },
+    {
+      "id": "sticker-capsule",
+      "title": "Sticker Capsule",
+      "img": "/img/skins/sticker-capsules/sticker-capsule.webp",
+      "date": "05.02.14"
+    },
+    {
+      "id": "sticker-capsule-2",
+      "title": "Sticker Capsule 2",
+      "img": "/img/skins/sticker-capsules/sticker-capsule-2.webp",
+      "date": "27.02.14"
+    },
+    {
+      "id": "community-sticker-capsule-1",
+      "title": "Community Sticker Capsule 1",
+      "img": "/img/skins/sticker-capsules/community-sticker-capsule-1.webp",
+      "date": "01.05.14"
+    }
+  ]
+}

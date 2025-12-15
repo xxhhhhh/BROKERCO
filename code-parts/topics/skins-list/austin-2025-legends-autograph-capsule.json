@@ -1,0 +1,962 @@
+{
+  "NAF (Gold)": {
+    "class": "red",
+    "name": "NAF (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-naf-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-naf-gold-austin-2025.webp"
+  },
+  "siuhy (Gold)": {
+    "class": "red",
+    "name": "siuhy (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-siuhy-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-siuhy-gold-austin-2025.webp"
+  },
+  "NertZ (Gold)": {
+    "class": "red",
+    "name": "NertZ (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nertz-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nertz-gold-austin-2025.webp"
+  },
+  "ultimate (Gold)": {
+    "class": "red",
+    "name": "ultimate (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-ultimate-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-ultimate-gold-austin-2025.webp"
+  },
+  "Twistzz (Gold)": {
+    "class": "red",
+    "name": "Twistzz (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-twistzz-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-twistzz-gold-austin-2025.webp"
+  },
+  "hades (Gold)": {
+    "class": "red",
+    "name": "hades (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-hades-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-hades-gold-austin-2025.webp"
+  },
+  "Heavygod (Gold)": {
+    "class": "red",
+    "name": "Heavygod (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-heavygod-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-heavygod-gold-austin-2025.webp"
+  },
+  "malbsMd (Gold)": {
+    "class": "red",
+    "name": "malbsMd (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-malbsmd-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-malbsmd-gold-austin-2025.webp"
+  },
+  "huNter- (Gold)": {
+    "class": "red",
+    "name": "huNter- (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-hunter-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-hunter-gold-austin-2025.webp"
+  },
+  "Snax (Gold)": {
+    "class": "red",
+    "name": "Snax (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-snax-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-snax-gold-austin-2025.webp"
+  },
+  "iM (Gold)": {
+    "class": "red",
+    "name": "iM (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-im-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-im-gold-austin-2025.webp"
+  },
+  "b1t (Gold)": {
+    "class": "red",
+    "name": "b1t (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-b1t-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-b1t-gold-austin-2025.webp"
+  },
+  "jL (Gold)": {
+    "class": "red",
+    "name": "jL (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jl-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jl-gold-austin-2025.webp"
+  },
+  "Aleksib (Gold)": {
+    "class": "red",
+    "name": "Aleksib (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-aleksib-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-aleksib-gold-austin-2025.webp"
+  },
+  "w0nderful (Gold)": {
+    "class": "red",
+    "name": "w0nderful (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-w0nderful-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-w0nderful-gold-austin-2025.webp"
+  },
+  "woxic (Gold)": {
+    "class": "red",
+    "name": "woxic (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-woxic-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-woxic-gold-austin-2025.webp"
+  },
+  "Wicadia (Gold)": {
+    "class": "red",
+    "name": "Wicadia (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-wicadia-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-wicadia-gold-austin-2025.webp"
+  },
+  "jottAAA (Gold)": {
+    "class": "red",
+    "name": "jottAAA (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jottaaa-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jottaaa-gold-austin-2025.webp"
+  },
+  "XANTARES (Gold)": {
+    "class": "red",
+    "name": "XANTARES (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-xantares-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-xantares-gold-austin-2025.webp"
+  },
+  "MAJ3R (Gold)": {
+    "class": "red",
+    "name": "MAJ3R (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-maj3r-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-maj3r-gold-austin-2025.webp"
+  },
+  "mzinho (Gold)": {
+    "class": "red",
+    "name": "mzinho (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-mzinho-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-mzinho-gold-austin-2025.webp"
+  },
+  "910 (Gold)": {
+    "class": "red",
+    "name": "910 (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-910-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-910-gold-austin-2025.webp"
+  },
+  "Senzu (Gold)": {
+    "class": "red",
+    "name": "Senzu (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-senzu-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-senzu-gold-austin-2025.webp"
+  },
+  "Techno4K (Gold)": {
+    "class": "red",
+    "name": "Techno4K (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-techno4k-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-techno4k-gold-austin-2025.webp"
+  },
+  "bLitz (Gold)": {
+    "class": "red",
+    "name": "bLitz (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-blitz-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-blitz-gold-austin-2025.webp"
+  },
+  "zont1x (Gold)": {
+    "class": "red",
+    "name": "zont1x (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-zont1x-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-zont1x-gold-austin-2025.webp"
+  },
+  "sh1ro (Gold)": {
+    "class": "red",
+    "name": "sh1ro (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-sh1ro-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-sh1ro-gold-austin-2025.webp"
+  },
+  "donk (Gold)": {
+    "class": "red",
+    "name": "donk (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-donk-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-donk-gold-austin-2025.webp"
+  },
+  "magixx (Gold)": {
+    "class": "red",
+    "name": "magixx (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-magixx-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-magixx-gold-austin-2025.webp"
+  },
+  "chopper (Gold)": {
+    "class": "red",
+    "name": "chopper (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-chopper-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-chopper-gold-austin-2025.webp"
+  },
+  "xertioN (Gold)": {
+    "class": "red",
+    "name": "xertioN (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-xertion-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-xertion-gold-austin-2025.webp"
+  },
+  "Spinx (Gold)": {
+    "class": "red",
+    "name": "Spinx (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-spinx-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-spinx-gold-austin-2025.webp"
+  },
+  "Brollan (Gold)": {
+    "class": "red",
+    "name": "Brollan (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-brollan-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-brollan-gold-austin-2025.webp"
+  },
+  "Jimpphat (Gold)": {
+    "class": "red",
+    "name": "Jimpphat (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jimpphat-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jimpphat-gold-austin-2025.webp"
+  },
+  "torzsi (Gold)": {
+    "class": "red",
+    "name": "torzsi (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-torzsi-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-torzsi-gold-austin-2025.webp"
+  },
+  "ropz (Gold)": {
+    "class": "red",
+    "name": "ropz (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-ropz-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-ropz-gold-austin-2025.webp"
+  },
+  "mezii (Gold)": {
+    "class": "red",
+    "name": "mezii (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-mezii-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-mezii-gold-austin-2025.webp"
+  },
+  "FlameZ (Gold)": {
+    "class": "red",
+    "name": "FlameZ (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-flamez-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-flamez-gold-austin-2025.webp"
+  },
+  "ZywOo (Gold)": {
+    "class": "red",
+    "name": "ZywOo (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-zywoo-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-zywoo-gold-austin-2025.webp"
+  },
+  "apEX (Gold)": {
+    "class": "red",
+    "name": "apEX (Gold) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-apex-gold-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-apex-gold-austin-2025.webp"
+  },
+  "NAF (Holo)": {
+    "class": "pink",
+    "name": "NAF (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-naf-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-naf-holo-austin-2025.webp"
+  },
+  "siuhy (Holo)": {
+    "class": "pink",
+    "name": "siuhy (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-siuhy-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-siuhy-holo-austin-2025.webp"
+  },
+  "NertZ (Holo)": {
+    "class": "pink",
+    "name": "NertZ (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nertz-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nertz-holo-austin-2025.webp"
+  },
+  "ultimate (Holo)": {
+    "class": "pink",
+    "name": "ultimate (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-ultimate-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-ultimate-holo-austin-2025.webp"
+  },
+  "Twistzz (Holo)": {
+    "class": "pink",
+    "name": "Twistzz (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-twistzz-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-twistzz-holo-austin-2025.webp"
+  },
+  "hades (Holo)": {
+    "class": "pink",
+    "name": "hades (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-hades-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-hades-holo-austin-2025.webp"
+  },
+  "Heavygod (Holo)": {
+    "class": "pink",
+    "name": "Heavygod (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-heavygod-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-heavygod-holo-austin-2025.webp"
+  },
+  "malbsMd (Holo)": {
+    "class": "pink",
+    "name": "malbsMd (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-malbsmd-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-malbsmd-holo-austin-2025.webp"
+  },
+  "huNter- (Holo)": {
+    "class": "pink",
+    "name": "huNter- (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-hunter-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-hunter-holo-austin-2025.webp"
+  },
+  "Snax (Holo)": {
+    "class": "pink",
+    "name": "Snax (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-snax-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-snax-holo-austin-2025.webp"
+  },
+  "iM (Holo)": {
+    "class": "pink",
+    "name": "iM (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-im-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-im-holo-austin-2025.webp"
+  },
+  "b1t (Holo)": {
+    "class": "pink",
+    "name": "b1t (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-b1t-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-b1t-holo-austin-2025.webp"
+  },
+  "jL (Holo)": {
+    "class": "pink",
+    "name": "jL (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jl-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jl-holo-austin-2025.webp"
+  },
+  "Aleksib (Holo)": {
+    "class": "pink",
+    "name": "Aleksib (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-aleksib-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-aleksib-holo-austin-2025.webp"
+  },
+  "w0nderful (Holo)": {
+    "class": "pink",
+    "name": "w0nderful (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-w0nderful-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-w0nderful-holo-austin-2025.webp"
+  },
+  "woxic (Holo)": {
+    "class": "pink",
+    "name": "woxic (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-woxic-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-woxic-holo-austin-2025.webp"
+  },
+  "Wicadia (Holo)": {
+    "class": "pink",
+    "name": "Wicadia (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-wicadia-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-wicadia-holo-austin-2025.webp"
+  },
+  "jottAAA (Holo)": {
+    "class": "pink",
+    "name": "jottAAA (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jottaaa-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jottaaa-holo-austin-2025.webp"
+  },
+  "XANTARES (Holo)": {
+    "class": "pink",
+    "name": "XANTARES (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-xantares-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-xantares-holo-austin-2025.webp"
+  },
+  "MAJ3R (Holo)": {
+    "class": "pink",
+    "name": "MAJ3R (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-maj3r-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-maj3r-holo-austin-2025.webp"
+  },
+  "mzinho (Holo)": {
+    "class": "pink",
+    "name": "mzinho (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-mzinho-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-mzinho-holo-austin-2025.webp"
+  },
+  "910 (Holo)": {
+    "class": "pink",
+    "name": "910 (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-910-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-910-holo-austin-2025.webp"
+  },
+  "Senzu (Holo)": {
+    "class": "pink",
+    "name": "Senzu (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-senzu-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-senzu-holo-austin-2025.webp"
+  },
+  "Techno4K (Holo)": {
+    "class": "pink",
+    "name": "Techno4K (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-techno4k-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-techno4k-holo-austin-2025.webp"
+  },
+  "bLitz (Holo)": {
+    "class": "pink",
+    "name": "bLitz (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-blitz-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-blitz-holo-austin-2025.webp"
+  },
+  "zont1x (Holo)": {
+    "class": "pink",
+    "name": "zont1x (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-zont1x-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-zont1x-holo-austin-2025.webp"
+  },
+  "sh1ro (Holo)": {
+    "class": "pink",
+    "name": "sh1ro (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-sh1ro-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-sh1ro-holo-austin-2025.webp"
+  },
+  "donk (Holo)": {
+    "class": "pink",
+    "name": "donk (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-donk-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-donk-holo-austin-2025.webp"
+  },
+  "magixx (Holo)": {
+    "class": "pink",
+    "name": "magixx (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-magixx-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-magixx-holo-austin-2025.webp"
+  },
+  "chopper (Holo)": {
+    "class": "pink",
+    "name": "chopper (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-chopper-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-chopper-holo-austin-2025.webp"
+  },
+  "xertioN (Holo)": {
+    "class": "pink",
+    "name": "xertioN (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-xertion-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-xertion-holo-austin-2025.webp"
+  },
+  "Spinx (Holo)": {
+    "class": "pink",
+    "name": "Spinx (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-spinx-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-spinx-holo-austin-2025.webp"
+  },
+  "Brollan (Holo)": {
+    "class": "pink",
+    "name": "Brollan (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-brollan-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-brollan-holo-austin-2025.webp"
+  },
+  "Jimpphat (Holo)": {
+    "class": "pink",
+    "name": "Jimpphat (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jimpphat-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jimpphat-holo-austin-2025.webp"
+  },
+  "torzsi (Holo)": {
+    "class": "pink",
+    "name": "torzsi (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-torzsi-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-torzsi-holo-austin-2025.webp"
+  },
+  "ropz (Holo)": {
+    "class": "pink",
+    "name": "ropz (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-ropz-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-ropz-holo-austin-2025.webp"
+  },
+  "mezii (Holo)": {
+    "class": "pink",
+    "name": "mezii (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-mezii-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-mezii-holo-austin-2025.webp"
+  },
+  "FlameZ (Holo)": {
+    "class": "pink",
+    "name": "FlameZ (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-flamez-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-flamez-holo-austin-2025.webp"
+  },
+  "ZywOo (Holo)": {
+    "class": "pink",
+    "name": "ZywOo (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-zywoo-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-zywoo-holo-austin-2025.webp"
+  },
+  "apEX (Holo)": {
+    "class": "pink",
+    "name": "apEX (Holo) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-apex-holo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-apex-holo-austin-2025.webp"
+  },
+  "NAF (Foil)": {
+    "class": "purple",
+    "name": "NAF (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-naf-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-naf-foil-austin-2025.webp"
+  },
+  "siuhy (Foil)": {
+    "class": "purple",
+    "name": "siuhy (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-siuhy-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-siuhy-foil-austin-2025.webp"
+  },
+  "NertZ (Foil)": {
+    "class": "purple",
+    "name": "NertZ (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nertz-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nertz-foil-austin-2025.webp"
+  },
+  "ultimate (Foil)": {
+    "class": "purple",
+    "name": "ultimate (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-ultimate-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-ultimate-foil-austin-2025.webp"
+  },
+  "Twistzz (Foil)": {
+    "class": "purple",
+    "name": "Twistzz (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-twistzz-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-twistzz-foil-austin-2025.webp"
+  },
+  "hades (Foil)": {
+    "class": "purple",
+    "name": "hades (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-hades-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-hades-foil-austin-2025.webp"
+  },
+  "Heavygod (Foil)": {
+    "class": "purple",
+    "name": "Heavygod (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-heavygod-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-heavygod-foil-austin-2025.webp"
+  },
+  "malbsMd (Foil)": {
+    "class": "purple",
+    "name": "malbsMd (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-malbsmd-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-malbsmd-foil-austin-2025.webp"
+  },
+  "huNter- (Foil)": {
+    "class": "purple",
+    "name": "huNter- (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-hunter-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-hunter-foil-austin-2025.webp"
+  },
+  "Snax (Foil)": {
+    "class": "purple",
+    "name": "Snax (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-snax-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-snax-foil-austin-2025.webp"
+  },
+  "iM (Foil)": {
+    "class": "purple",
+    "name": "iM (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-im-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-im-foil-austin-2025.webp"
+  },
+  "b1t (Foil)": {
+    "class": "purple",
+    "name": "b1t (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-b1t-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-b1t-foil-austin-2025.webp"
+  },
+  "jL (Foil)": {
+    "class": "purple",
+    "name": "jL (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jl-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jl-foil-austin-2025.webp"
+  },
+  "Aleksib (Foil)": {
+    "class": "purple",
+    "name": "Aleksib (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-aleksib-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-aleksib-foil-austin-2025.webp"
+  },
+  "w0nderful (Foil)": {
+    "class": "purple",
+    "name": "w0nderful (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-w0nderful-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-w0nderful-foil-austin-2025.webp"
+  },
+  "woxic (Foil)": {
+    "class": "purple",
+    "name": "woxic (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-woxic-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-woxic-foil-austin-2025.webp"
+  },
+  "Wicadia (Foil)": {
+    "class": "purple",
+    "name": "Wicadia (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-wicadia-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-wicadia-foil-austin-2025.webp"
+  },
+  "jottAAA (Foil)": {
+    "class": "purple",
+    "name": "jottAAA (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jottaaa-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jottaaa-foil-austin-2025.webp"
+  },
+  "XANTARES (Foil)": {
+    "class": "purple",
+    "name": "XANTARES (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-xantares-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-xantares-foil-austin-2025.webp"
+  },
+  "MAJ3R (Foil)": {
+    "class": "purple",
+    "name": "MAJ3R (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-maj3r-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-maj3r-foil-austin-2025.webp"
+  },
+  "mzinho (Foil)": {
+    "class": "purple",
+    "name": "mzinho (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-mzinho-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-mzinho-foil-austin-2025.webp"
+  },
+  "910 (Foil)": {
+    "class": "purple",
+    "name": "910 (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-910-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-910-foil-austin-2025.webp"
+  },
+  "Senzu (Foil)": {
+    "class": "purple",
+    "name": "Senzu (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-senzu-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-senzu-foil-austin-2025.webp"
+  },
+  "Techno4K (Foil)": {
+    "class": "purple",
+    "name": "Techno4K (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-techno4k-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-techno4k-foil-austin-2025.webp"
+  },
+  "bLitz (Foil)": {
+    "class": "purple",
+    "name": "bLitz (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-blitz-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-blitz-foil-austin-2025.webp"
+  },
+  "zont1x (Foil)": {
+    "class": "purple",
+    "name": "zont1x (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-zont1x-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-zont1x-foil-austin-2025.webp"
+  },
+  "sh1ro (Foil)": {
+    "class": "purple",
+    "name": "sh1ro (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-sh1ro-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-sh1ro-foil-austin-2025.webp"
+  },
+  "donk (Foil)": {
+    "class": "purple",
+    "name": "donk (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-donk-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-donk-foil-austin-2025.webp"
+  },
+  "magixx (Foil)": {
+    "class": "purple",
+    "name": "magixx (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-magixx-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-magixx-foil-austin-2025.webp"
+  },
+  "chopper (Foil)": {
+    "class": "purple",
+    "name": "chopper (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-chopper-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-chopper-foil-austin-2025.webp"
+  },
+  "xertioN (Foil)": {
+    "class": "purple",
+    "name": "xertioN (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-xertion-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-xertion-foil-austin-2025.webp"
+  },
+  "Spinx (Foil)": {
+    "class": "purple",
+    "name": "Spinx (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-spinx-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-spinx-foil-austin-2025.webp"
+  },
+  "Brollan (Foil)": {
+    "class": "purple",
+    "name": "Brollan (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-brollan-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-brollan-foil-austin-2025.webp"
+  },
+  "Jimpphat (Foil)": {
+    "class": "purple",
+    "name": "Jimpphat (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jimpphat-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jimpphat-foil-austin-2025.webp"
+  },
+  "torzsi (Foil)": {
+    "class": "purple",
+    "name": "torzsi (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-torzsi-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-torzsi-foil-austin-2025.webp"
+  },
+  "ropz (Foil)": {
+    "class": "purple",
+    "name": "ropz (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-ropz-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-ropz-foil-austin-2025.webp"
+  },
+  "mezii (Foil)": {
+    "class": "purple",
+    "name": "mezii (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-mezii-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-mezii-foil-austin-2025.webp"
+  },
+  "FlameZ (Foil)": {
+    "class": "purple",
+    "name": "FlameZ (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-flamez-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-flamez-foil-austin-2025.webp"
+  },
+  "ZywOo (Foil)": {
+    "class": "purple",
+    "name": "ZywOo (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-zywoo-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-zywoo-foil-austin-2025.webp"
+  },
+  "apEX (Foil)": {
+    "class": "purple",
+    "name": "apEX (Foil) | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-apex-foil-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-apex-foil-austin-2025.webp"
+  },
+  "NAF": {
+    "class": "blue",
+    "name": "NAF | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-naf-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-naf-austin-2025.webp"
+  },
+  "siuhy": {
+    "class": "blue",
+    "name": "siuhy | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-siuhy-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-siuhy-austin-2025.webp"
+  },
+  "NertZ": {
+    "class": "blue",
+    "name": "NertZ | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-nertz-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-nertz-austin-2025.webp"
+  },
+  "ultimate": {
+    "class": "blue",
+    "name": "ultimate | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-ultimate-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-ultimate-austin-2025.webp"
+  },
+  "Twistzz": {
+    "class": "blue",
+    "name": "Twistzz | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-twistzz-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-twistzz-austin-2025.webp"
+  },
+  "hades": {
+    "class": "blue",
+    "name": "hades | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-hades-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-hades-austin-2025.webp"
+  },
+  "Heavygod": {
+    "class": "blue",
+    "name": "Heavygod | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-heavygod-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-heavygod-austin-2025.webp"
+  },
+  "malbsMd": {
+    "class": "blue",
+    "name": "malbsMd | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-malbsmd-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-malbsmd-austin-2025.webp"
+  },
+  "huNter-": {
+    "class": "blue",
+    "name": "huNter- | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-hunter-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-hunter-austin-2025.webp"
+  },
+  "Snax": {
+    "class": "blue",
+    "name": "Snax | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-snax-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-snax-austin-2025.webp"
+  },
+  "iM": {
+    "class": "blue",
+    "name": "iM | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-im-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-im-austin-2025.webp"
+  },
+  "b1t": {
+    "class": "blue",
+    "name": "b1t | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-b1t-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-b1t-austin-2025.webp"
+  },
+  "jL": {
+    "class": "blue",
+    "name": "jL | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jl-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jl-austin-2025.webp"
+  },
+  "Aleksib": {
+    "class": "blue",
+    "name": "Aleksib | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-aleksib-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-aleksib-austin-2025.webp"
+  },
+  "w0nderful": {
+    "class": "blue",
+    "name": "w0nderful | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-w0nderful-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-w0nderful-austin-2025.webp"
+  },
+  "woxic": {
+    "class": "blue",
+    "name": "woxic | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-woxic-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-woxic-austin-2025.webp"
+  },
+  "Wicadia": {
+    "class": "blue",
+    "name": "Wicadia | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-wicadia-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-wicadia-austin-2025.webp"
+  },
+  "jottAAA": {
+    "class": "blue",
+    "name": "jottAAA | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jottaaa-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jottaaa-austin-2025.webp"
+  },
+  "XANTARES": {
+    "class": "blue",
+    "name": "XANTARES | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-xantares-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-xantares-austin-2025.webp"
+  },
+  "MAJ3R": {
+    "class": "blue",
+    "name": "MAJ3R | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-maj3r-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-maj3r-austin-2025.webp"
+  },
+  "mzinho": {
+    "class": "blue",
+    "name": "mzinho | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-mzinho-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-mzinho-austin-2025.webp"
+  },
+  "910": {
+    "class": "blue",
+    "name": "910 | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-910-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-910-austin-2025.webp"
+  },
+  "Senzu": {
+    "class": "blue",
+    "name": "Senzu | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-senzu-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-senzu-austin-2025.webp"
+  },
+  "Techno4K": {
+    "class": "blue",
+    "name": "Techno4K | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-techno4k-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-techno4k-austin-2025.webp"
+  },
+  "bLitz": {
+    "class": "blue",
+    "name": "bLitz | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-blitz-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-blitz-austin-2025.webp"
+  },
+  "zont1x": {
+    "class": "blue",
+    "name": "zont1x | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-zont1x-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-zont1x-austin-2025.webp"
+  },
+  "sh1ro": {
+    "class": "blue",
+    "name": "sh1ro | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-sh1ro-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-sh1ro-austin-2025.webp"
+  },
+  "donk": {
+    "class": "blue",
+    "name": "donk | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-donk-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-donk-austin-2025.webp"
+  },
+  "magixx": {
+    "class": "blue",
+    "name": "magixx | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-magixx-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-magixx-austin-2025.webp"
+  },
+  "chopper": {
+    "class": "blue",
+    "name": "chopper | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-chopper-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-chopper-austin-2025.webp"
+  },
+  "xertioN": {
+    "class": "blue",
+    "name": "xertioN | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-xertion-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-xertion-austin-2025.webp"
+  },
+  "Spinx": {
+    "class": "blue",
+    "name": "Spinx | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-spinx-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-spinx-austin-2025.webp"
+  },
+  "Brollan": {
+    "class": "blue",
+    "name": "Brollan | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-brollan-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-brollan-austin-2025.webp"
+  },
+  "Jimpphat": {
+    "class": "blue",
+    "name": "Jimpphat | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-jimpphat-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-jimpphat-austin-2025.webp"
+  },
+  "torzsi": {
+    "class": "blue",
+    "name": "torzsi | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-torzsi-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-torzsi-austin-2025.webp"
+  },
+  "ropz": {
+    "class": "blue",
+    "name": "ropz | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-ropz-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-ropz-austin-2025.webp"
+  },
+  "mezii": {
+    "class": "blue",
+    "name": "mezii | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-mezii-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-mezii-austin-2025.webp"
+  },
+  "FlameZ": {
+    "class": "blue",
+    "name": "FlameZ | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-flamez-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-flamez-austin-2025.webp"
+  },
+  "ZywOo": {
+    "class": "blue",
+    "name": "ZywOo | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-zywoo-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-zywoo-austin-2025.webp"
+  },
+  "apEX": {
+    "class": "blue",
+    "name": "apEX | Austin 2025",
+    "image": "/img/skins/stickers/austin-2025/sticker-apex-austin-2025.webp",
+    "imageOG": "/img/skins/stickers/austin-2025/small/sticker-apex-austin-2025.webp"
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "Mirror Mosaic": {
+    "class": "pink",
+    "image": "/img/skins/glock-18/mirror-mosaic.webp",
+    "name": "Glock-18 | Mirror Mosaic",
+    "color": [],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Shinobu": {
+    "class": "pink",
+    "image": "/img/skins/glock-18/shinobu.webp",
+    "name": "Glock-18 | Shinobu",
+    "color": [
+      "Purple"
+    ],
+    "case": "Fever Case"
+  },
+  "Green Line": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/green-line.webp",
+    "name": "Glock-18 | Green Line",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Gold Toof": {
+    "class": "red",
+    "image": "/img/skins/glock-18/gold-toof.webp",
+    "name": "Glock-18 | Gold Toof",
+    "color": [
+      "Pink"
+    ],
+    "case": "Gallery Case"
+  },
+  "Franklin": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/franklin.webp",
+    "name": "Glock-18 | Franklin",
+    "color": [
+      "White"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Block-18": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/block-18.webp",
+    "name": "Glock-18 | Block-18",
+    "color": [
+      "White"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Wasteland Rebel": {
+    "class": "red",
+    "image": "/img/skins/glock-18/wasteland-rebel.webp",
+    "name": "Glock-18 | Wasteland Rebel",
+    "color": [
+      "Brown",
+      "White"
+    ],
+    "case": "Gamma Case"
+  },
+  "Dragon Tattoo": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/dragon-tattoo.webp",
+    "name": "Glock-18 | Dragon Tattoo",
+    "color": [
+      "Gray",
+      "Silver"
+    ],
+    "case": "CS:GO Weapon Case"
+  },
+  "Grinder": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/grinder.webp",
+    "name": "Glock-18 | Grinder",
+    "color": [
+      "Gray"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Wraiths": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/wraiths.webp",
+    "name": "Glock-18 | Wraiths",
+    "color": [
+      "Gray"
+    ],
+    "case": "Shadow Case"
+  },
+  "Steel Disruption": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/steel-disruption.webp",
+    "name": "Glock-18 | Steel Disruption",
+    "color": [
+      "Gray"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Catacombs": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/catacombs.webp",
+    "name": "Glock-18 | Catacombs",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "case": "Chroma Case"
+  },
+  "Ironwork": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/ironwork.webp",
+    "name": "Glock-18 | Ironwork",
+    "color": [
+      "Black",
+      "Gray",
+      "Silver"
+    ],
+    "case": "Glove Case"
+  },
+  "Red Tire": {
+    "class": "lblue",
+    "image": "/img/skins/glock-18/red-tire.webp",
+    "name": "Glock-18 | Red Tire",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Winterized": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/winterized.webp",
+    "name": "Glock-18 | Winterized",
+    "color": [
+      "Black"
+    ],
+    "case": "Recoil Case"
+  },
+  "Sand Dune": {
+    "class": "lblue",
+    "image": "/img/skins/glock-18/sand-dune.webp",
+    "name": "Glock-18 | Sand Dune",
+    "color": [],
+    "collection": "The Alpha Collection"
+  },
+  "Death Rattle": {
+    "class": "lblue",
+    "image": "/img/skins/glock-18/death-rattle.webp",
+    "name": "Glock-18 | Death Rattle",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Oxide Blaze": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/oxide-blaze.webp",
+    "name": "Glock-18 | Oxide Blaze",
+    "color": [
+      "Brown"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Sacrifice": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/sacrifice.webp",
+    "name": "Glock-18 | Sacrifice",
+    "color": [],
+    "case": "CS20 Case"
+  },
+  "Weasel": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/weasel.webp",
+    "name": "Glock-18 | Weasel",
+    "color": [
+      "Brown"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Warhawk": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/warhawk.webp",
+    "name": "Glock-18 | Warhawk",
+    "color": [],
+    "case": "Horizon Case"
+  },
+  "Clear Polymer": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/clear-polymer.webp",
+    "name": "Glock-18 | Clear Polymer",
+    "color": [
+      "Brown"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Candy Apple": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/candy-apple.webp",
+    "name": "Glock-18 | Candy Apple",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Water Elemental": {
+    "class": "pink",
+    "image": "/img/skins/glock-18/water-elemental.webp",
+    "name": "Glock-18 | Water Elemental",
+    "color": [
+      "Red"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Vogue": {
+    "class": "pink",
+    "image": "/img/skins/glock-18/vogue.webp",
+    "name": "Glock-18 | Vogue",
+    "color": [
+      "Pink",
+      "Purple",
+      "Red"
+    ],
+    "case": "Fracture Case"
+  },
+  "Royal Legion": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/royal-legion.webp",
+    "name": "Glock-18 | Royal Legion",
+    "color": [
+      "Orange"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Reactor": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/reactor.webp",
+    "name": "Glock-18 | Reactor",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/glock-18/fade.webp",
+    "name": "Glock-18 | Fade",
+    "color": [
+      "Pink",
+      "Yellow"
+    ],
+    "collection": "The Assault Collection"
+  },
+  "Ramese's Reach": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/remeses-reach.webp",
+    "name": "Glock-18 | Ramese's Reach",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Bullet Queen": {
+    "class": "red",
+    "image": "/img/skins/glock-18/bullet-queen.webp",
+    "name": "Glock-18 | Bullet Queen",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Umbral Rabbit": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/umbral-rabbit.webp",
+    "name": "Glock-18 | Umbral Rabbit",
+    "color": [],
+    "case": "Revolution Case"
+  },
+  "Snack Attack": {
+    "class": "pink",
+    "image": "/img/skins/glock-18/snack-attack.webp",
+    "name": "Glock-18 | Snack Attack",
+    "color": [],
+    "case": "Operation Riptide Case"
+  },
+  "Brass": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/brass.webp",
+    "name": "Glock-18 | Brass",
+    "color": [
+      "Yellow"
+    ],
+    "collection": "The Dust Collection"
+  },
+  "Groundwater": {
+    "class": "lblue",
+    "image": "/img/skins/glock-18/groundwater.webp",
+    "name": "Glock-18 | Groundwater",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"  
+  },
+  "Nuclear Garden": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/nuclear-garden.webp",
+    "name": "Glock-18 | Nuclear Garden",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Gamma Doppler Emerald": {
+    "class": "red",
+    "image": "/img/skins/glock-18/gamma-doppler.webp",
+    "name": "Glock-18 | Gamma Doppler Emerald",
+    "color": [
+      "Green"
+    ]
+  },
+  "Twilight Galaxy": {
+    "class": "pink",
+    "image": "/img/skins/glock-18/twilight-galaxy.webp",
+    "name": "Glock-18 | Twilight Galaxy",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Bunsen Burner": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/bunsen-burner.webp",
+    "name": "Glock-18 | Bunsen Burner",
+    "color": [
+      "Blue",
+      "Cyan"
+    ],
+    "case": "Falchion Case"
+  },
+  "High Beam": {
+    "class": "lblue",
+    "image": "/img/skins/glock-18/high-beam.webp",
+    "name": "Glock-18 | High Beam",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Off World": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/off-world.webp",
+    "name": "Glock-18 | Off World",
+    "color": [
+      "Blue"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Blue Fissure": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/blue-fissure.webp",
+    "name": "Glock-18 | Blue Fissure",
+    "color": [
+      "Blue"
+    ],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Synth Leaf": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/synth-leaf.webp",
+    "name": "Glock-18 | Synth Leaf",
+    "color": [
+      "Purple"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Night": {
+    "class": "lblue",
+    "image": "/img/skins/glock-18/night.webp",
+    "name": "Glock-18 | Night",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Moonrise": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/moonrise.webp",
+    "name": "Glock-18 | Moonrise",
+    "color": [
+      "Purple"
+    ],
+    "case": "Clutch Case"
+  },
+  "Pink DDPAT": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/pink-ddpat.webp",
+    "name": "Glock-18 | Pink DDPAT",
+    "color": [
+      "Gray",
+      "Pink"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Neo-Noir": {
+    "class": "red",
+    "image": "/img/skins/glock-18/neo-noir.webp",
+    "name": "Glock-18 | Neo-Noir",
+    "color": [
+      "Pink",
+      "Purple",
+      "White"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Teal Graf": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/teal-graf.webp",
+    "name": "Glock-18 | Teal Graf",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "AXIA": {
+    "class": "pink",
+    "image": "/img/skins/glock-18/AXIA.webp",
+    "name": "Glock-18 | AXIA",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Ocean Topo": {
+    "class": "lblue",
+    "image": "/img/skins/glock-18/ocean-topo.webp",
+    "name": "Glock-18 | Ocean Topo",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Coral Bloom": {
+    "class": "blue",
+    "image": "/img/skins/glock-18/coral-bloom.webp",
+    "name": "Glock-18 | Coral Bloom",
+    "color": [
+      "Red",
+      "Pink"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Glockingbird": {
+    "class": "purple",
+    "image": "/img/skins/glock-18/glockingbird.webp",
+    "name": "Glock-18 | Glockingbird",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "collection": "The Boreal Collection"
+  },
+  "Gamma Doppler": {
+    "class": "red",
+    "name": "Glock-18 | Gamma Doppler",
+    "image": "/img/skins/glock-18/gamma-doppler.webp",
+    "color": [],
+    "collection": "The 2021 Train Collection"
+  }
+}

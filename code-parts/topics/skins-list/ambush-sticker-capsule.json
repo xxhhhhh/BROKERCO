@@ -1,0 +1,128 @@
+{
+  "Dystopian Gaze (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Dystopian Gaze (Lenticular)",
+    "image": "/img/skins/stickers/ambush/sticker-dystopian-gaze-lenticular.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-dystopian-gaze-lenticular.png"
+  },
+  "Econometer (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Econometer (Lenticular)",
+    "image": "/img/skins/stickers/ambush/sticker-econometer-lenticular.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-econometer-lenticular.png"
+  },
+  "Old School (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Old School (Lenticular)",
+    "image": "/img/skins/stickers/ambush/sticker-old-school-lenticular.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-old-school-lenticular.png"
+  },
+  "Ouchie (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Ouchie (Foil)",
+    "image": "/img/skins/stickers/ambush/sticker-ouchie-foil.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-ouchie-foil.png"
+  },
+  "On An Eco (Foil)": {
+    "class": "pink",
+    "name": "Sticker | On An Eco (Foil)",
+    "image": "/img/skins/stickers/ambush/sticker-on-an-eco-foil.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-on-an-eco-foil.png"
+  },
+  "Lost In Smoke (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Lost In Smoke (Foil)",
+    "image": "/img/skins/stickers/ambush/sticker-lost-in-smoke-foil.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-lost-in-smoke-foil.png"
+  },
+  "Factory Sealed (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Factory Sealed (Foil)",
+    "image": "/img/skins/stickers/ambush/sticker-factory-sealed-foil.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-factory-sealed-foil.png"
+  },
+  "Lotus (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Lotus (Glitter)",
+    "image": "/img/skins/stickers/ambush/sticker-lotus-glitter.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-lotus-glitter.png"
+  },
+  "Loving Eyes (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Loving Eyes (Holo)",
+    "image": "/img/skins/stickers/ambush/sticker-loving-eyes-holo.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-loving-eyes-holo.png"
+  },
+  "Cedar Creek (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Cedar Creek (Holo)",
+    "image": "/img/skins/stickers/ambush/sticker-cedar-creek-holo.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-cedar-creek-holo.png"
+  },
+  "Lit (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Lit (Holo)",
+    "image": "/img/skins/stickers/ambush/sticker-lit-holo.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-lit-holo.png"
+  },
+  "Pushing Smokes (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Pushing Smokes (Glitter)",
+    "image": "/img/skins/stickers/ambush/sticker-pushing-smokes-glitter.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-pushing-smokes-glitter.png"
+  },
+  "Try Hard (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Try Hard (Holo)",
+    "image": "/img/skins/stickers/ambush/sticker-try-hard-holo.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-try-hard-holo.png"
+  },
+  "AKickflip-47": {
+    "class": "blue",
+    "name": "Sticker | AKickflip-47",
+    "image": "/img/skins/stickers/ambush/sticker-akickflip-47.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-akickflip-47.png"
+  },
+  "This Is Fine (Chicken)": {
+    "class": "blue",
+    "name": "Sticker | This Is Fine (Chicken)",
+    "image": "/img/skins/stickers/ambush/sticker-this-is-fine-chicken.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-this-is-fine-chicken.png"
+  },
+  "Bum A Smoke": {
+    "class": "blue",
+    "name": "Sticker | Bum A Smoke",
+    "image": "/img/skins/stickers/ambush/sticker-bum-a-smoke.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-bum-a-smoke.png"
+  },
+  "Peek-A-Boo": {
+    "class": "blue",
+    "name": "Sticker | Peek-A-Boo",
+    "image": "/img/skins/stickers/ambush/sticker-peek-a-boo.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-peek-a-boo.png"
+  },
+  "Easy For Ricksaw": {
+    "class": "blue",
+    "name": "Sticker | Easy For Ricksaw",
+    "image": "/img/skins/stickers/ambush/sticker-easy-for-ricksaw.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-easy-for-ricksaw.png"
+  },
+  "Retro Zeus": {
+    "class": "blue",
+    "name": "Sticker | Retro Zeus",
+    "image": "/img/skins/stickers/ambush/sticker-retro-zeus.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-retro-zeus.png"
+  },
+  "Angry T": {
+    "class": "blue",
+    "name": "Sticker | Angry T",
+    "image": "/img/skins/stickers/ambush/sticker-angry-t.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-angry-t.png"
+  },
+  "Please Return To": {
+    "class": "blue",
+    "name": "Sticker | Please Return To",
+    "image": "/img/skins/stickers/ambush/sticker-please-return-to.png",
+    "imageOG": "/img/skins/stickers/ambush/small/sticker-please-return-to.png"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "Hot Wurst": {
+    "class": "red",
+    "name": "Charm | Hot Wurst",
+    "image": "/img/skins/charms/missing-link-charms/charm-hot-wurst.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-hot-wurst.png"
+  },
+  "Hot Howl": {
+    "class": "red",
+    "name": "Charm | Hot Howl",
+    "image": "/img/skins/charms/missing-link-charms/charm-hot-howl.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-hot-howl.png"
+  },
+  "Diamond Dog": {
+    "class": "pink",
+    "name": "Charm | Diamond Dog",
+    "image": "/img/skins/charms/missing-link-charms/charm-diamond-dog.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-diamond-dog.png"
+  },
+  "Lil' Monster": {
+    "class": "pink",
+    "name": "Charm | Lil' Monster",
+    "image": "/img/skins/charms/missing-link-charms/charm-lil-monster.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-lil-monster.png"
+  },
+  "Diner Dog": {
+    "class": "pink",
+    "name": "Charm | Diner Dog",
+    "image": "/img/skins/charms/missing-link-charms/charm-diner-dog.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-diner-dog.png"
+  },
+  "Lil' Teacup": {
+    "class": "purple",
+    "name": "Charm | Lil' Teacup",
+    "image": "/img/skins/charms/missing-link-charms/charm-lil-teacup.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-lil-teacup.png"
+  },
+  "Chicken Lil'": {
+    "class": "purple",
+    "name": "Charm | Chicken Lil'",
+    "image": "/img/skins/charms/missing-link-charms/charm-chicken-lil.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-chicken-lil.png"
+  },
+  "That's Bananas": {
+    "class": "purple",
+    "name": "Charm | That's Bananas",
+    "image": "/img/skins/charms/missing-link-charms/charm-that-s-bananas.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-that-s-bananas.png"
+  },
+  "Lil' Whiskers": {
+    "class": "purple",
+    "name": "Charm | Lil' Whiskers",
+    "image": "/img/skins/charms/missing-link-charms/charm-lil-whiskers.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-lil-whiskers.png"
+  },
+  "Lil' Squatch": {
+    "class": "purple",
+    "name": "Charm | Lil' Squatch",
+    "image": "/img/skins/charms/missing-link-charms/charm-lil-squatch.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-lil-squatch.png"
+  },
+  "Lil' Sandy": {
+    "class": "purple",
+    "name": "Charm | Lil' Sandy",
+    "image": "/img/skins/charms/missing-link-charms/charm-lil-sandy.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-lil-sandy.png"
+  },
+  "Lil' Crass": {
+    "class": "blue",
+    "name": "Charm | Lil' Crass",
+    "image": "/img/skins/charms/missing-link-charms/charm-lil-crass.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-lil-crass.png"
+  },
+  "Lil' SAS": {
+    "class": "blue",
+    "name": "Charm | Lil' SAS",
+    "image": "/img/skins/charms/missing-link-charms/charm-lil-sas.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-lil-sas.png"
+  },
+  "Pinch O' Salt": {
+    "class": "blue",
+    "name": "Charm | Pinch O' Salt",
+    "image": "/img/skins/charms/missing-link-charms/charm-pinch-o-salt.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-pinch-o-salt.png"
+  },
+  "Lil' Ava": {
+    "class": "blue",
+    "name": "Charm | Lil' Ava",
+    "image": "/img/skins/charms/missing-link-charms/charm-lil-ava.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-lil-ava.png"
+  },
+  "Big Kev": {
+    "class": "blue",
+    "name": "Charm | Big Kev",
+    "image": "/img/skins/charms/missing-link-charms/charm-big-kev.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-big-kev.png"
+  },
+  "Hot Sauce": {
+    "class": "blue",
+    "name": "Charm | Hot Sauce",
+    "image": "/img/skins/charms/missing-link-charms/charm-hot-sauce.png",
+    "imageOG": "/img/skins/charms/missing-link-charms/small/charm-hot-sauce.png"
+  }
+}

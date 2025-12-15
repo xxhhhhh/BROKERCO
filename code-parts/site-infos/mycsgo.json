@@ -1,0 +1,42 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/csgo/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/csgo/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"Team Fortress 2 Items\" class=\"tf2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>",
+        "<a href=\"/\" aria-label=\"SkinsBack\" class=\"skinsback\"></a>",
+        "<a href=\"/\" aria-label=\"Google Pay\" class=\"gpay\"></a>",
+        "<a href=\"\" aria-label=\"SBP\" class=\"sbp\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 3,
+        "Payments": 4,
+        "Playability": 4
+    },
+    "codes": {
+        "Deposit Bonus": "+20%"
+    },
+    "name": "MYCSGO",
+    "languages": "en, ru, tr, es",
+    "link": "https://mycsgoo.co",
+    "code": "csgobroker",
+    "Main Mode": "cases",
+    "featuresContent": ["DepositBonus", "DailyRewards"],
+    "Sites Alternatives"  : ["ggdrop", "petuh", "skinbox", "hellcase"]
+}

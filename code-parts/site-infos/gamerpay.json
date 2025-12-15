@@ -1,0 +1,28 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/sell-skins\" aria-label=\"Sell Skins\" class=\"sell-skins\"></a>",
+        "<a href=\"/csgo/buy-skins\" aria-label=\"Buy Skins\" class=\"buy-skins\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 3.5,
+        "Payments": 3,
+        "Pricing": 3.5
+    },
+    "name": "Gamerpay",
+    "languages": "en, ru, tr, es",
+    "link": "https://gamerpay.gg/partner/0f78beaf1b",
+    "Main Mode": "marketplace",
+    "featuresContent": ["SignUpBonus"],
+    "Sites Alternatives"  : ["lis-skins", "dmarket", "bitskins", "avanmarket"]
+}

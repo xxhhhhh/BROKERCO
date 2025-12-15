@@ -1,0 +1,278 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/scar-20/vanilla.webp",
+    "name": "SCAR-20 | Vanilla",
+    "color": []
+  },
+  "Caged": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/caged.webp",
+    "name": "SCAR-20 | Caged",
+    "color": [
+      "Gray"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Wild Berry": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/wild-berry.webp",
+    "name": "SCAR-20 | Wild Berry",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Cyrex": {
+    "class": "pink",
+    "image": "/img/skins/scar-20/cyrex.webp",
+    "name": "SCAR-20 | Cyrex",
+    "color": [
+      "Red"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Fragments": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/fragments.webp",
+    "name": "SCAR-20 | Fragments",
+    "color": [
+      "Gray"
+    ],
+    "case": "Revolution Case"
+  },
+  "Trail Blazer": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/trail-blazer.webp",
+    "name": "SCAR-20 | Trail Blazer",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "case": "Gallery Case"
+  },
+  "Carbon Fiber": {
+    "class": "lblue",
+    "image": "/img/skins/scar-20/carbon-fiber.webp",
+    "name": "SCAR-20 | Carbon Fiber",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Enforcer": {
+    "class": "purple",
+    "image": "/img/skins/scar-20/enforcer.webp",
+    "name": "SCAR-20 | Enforcer",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Stone Mosaico": {
+    "class": "white",
+    "image": "/img/skins/scar-20/stone-mosaico.webp",
+    "name": "SCAR-20 | Stone Mosaico",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Torn": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/torn.webp",
+    "name": "SCAR-20 | Torn",
+    "color": [],
+    "case": "Shattered Web Case"
+  },
+  "Palm": {
+    "class": "lblue",
+    "image": "/img/skins/scar-20/palm.webp",
+    "name": "SCAR-20 | Palm",
+    "color": [],
+    "collection": "The Dust Collection"
+  },
+  "Contractor": {
+    "class": "white",
+    "image": "/img/skins/scar-20/contractor.webp",
+    "name": "SCAR-20 | Contractor",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Sand Mesh": {
+    "class": "white",
+    "image": "/img/skins/scar-20/sand-mesh.webp",
+    "name": "SCAR-20 | Sand Mesh",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Crimson Web": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/crimson-web.webp",
+    "name": "SCAR-20 | Crimson Web",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "case": "CS:GO Weapon Case 2"
+  },
+  "Bloodsport": {
+    "class": "pink",
+    "image": "/img/skins/scar-20/bloodsport.webp",
+    "name": "SCAR-20 | Bloodsport",
+    "color": [
+      "Red",
+      "White"
+    ],
+    "case": "Gamma Case"
+  },
+  "Cardiac": {
+    "class": "pink",
+    "image": "/img/skins/scar-20/cardiac.webp",
+    "name": "SCAR-20 | Cardiac",
+    "color": [
+      "Blue",
+      "Orange"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Brass": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/brass.webp",
+    "name": "SCAR-20 | Brass",
+    "color": [
+      "Yellow"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Jungle Slipstream": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/jungle-slipstream.webp",
+    "name": "SCAR-20 | Jungle Slipstream",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Emerald": {
+    "class": "purple",
+    "image": "/img/skins/scar-20/emerald.webp",
+    "name": "SCAR-20 | Emerald",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Alpha Collection"
+  },
+  "Powercore": {
+    "class": "purple",
+    "image": "/img/skins/scar-20/powercore.webp",
+    "name": "SCAR-20 | Powercore",
+    "color": [
+      "Green"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Outbreak": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/outbreak.webp",
+    "name": "SCAR-20 | Outbreak",
+    "color": [
+      "Green"
+    ],
+    "case": "Revolver Case"
+  },
+  "Green Marine": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/green-marine.webp",
+    "name": "SCAR-20 | Green Marine",
+    "color": [
+      "Green"
+    ],
+    "case": "Shadow Case"
+  },
+  "Army Sheen": {
+    "class": "white",
+    "image": "/img/skins/scar-20/army-sheen.webp",
+    "name": "SCAR-20 | Army Sheen",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "Storm": {
+    "class": "white",
+    "image": "/img/skins/scar-20/storm.webp",
+    "name": "SCAR-20 | Storm",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Grotto": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/grotto.webp",
+    "name": "SCAR-20 | Grotto",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Chroma Case"
+  },
+  "Assault": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/assault.webp",
+    "name": "SCAR-20 | Assault",
+    "color": [
+      "Blue"
+    ],
+    "case": "CS20 Case"
+  },
+  "Blueprint": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/blueprint.webp",
+    "name": "SCAR-20 | Blueprint",
+    "color": [
+      "Blue"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Magna Carta": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/magna-carta.webp",
+    "name": "SCAR-20 | Magna Carta",
+    "color": [
+      "Purple"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Poultrygeist": {
+    "class": "blue",
+    "image": "/img/skins/scar-20/poultrygeist.webp",
+    "name": "SCAR-20 | Poultrygeist",
+    "color": [
+      "Purple"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Splash Jam": {
+    "class": "pink",
+    "image": "/img/skins/scar-20/splash-jam.webp",
+    "name": "SCAR-20 | Splash Jam",
+    "color": [
+      "Pink"
+    ],
+    "collection": "The Militia Collection"
+  },
+  "Short Ochre": {
+    "class": "white",
+    "image": "/img/skins/scar-20/short-ochre.webp",
+    "name": "SCAR-20 | Short Ochre",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Radiant Collection"
+  }
+}

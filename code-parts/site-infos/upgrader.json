@@ -1,0 +1,27 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"TON\" class=\"ton\"></a>",
+        "<a href=\"/\" aria-label=\"SBP\" class=\"sbp\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 4,
+        "Payments": 3.5,
+        "Playability": 4.5
+    },
+    "name": "Upgrader",
+    "languages": "en, ru, tr, es",
+    "link": "http://upgrader.pro/?link=csgobroker",
+    "Main Mode": "classic",
+    "Sites Alternatives"  : ["csgo500", "csfail", "csgofast", "csgorun"]
+}

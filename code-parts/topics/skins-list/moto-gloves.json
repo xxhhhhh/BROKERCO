@@ -1,0 +1,74 @@
+{
+  "Spearmint": {
+    "class": "red",
+    "image": "/img/skins/gloves/spearmint.webp",
+    "name": "Moto Gloves | Spearmint",
+    "color": ["Cyan", "White"]
+  },
+  "Eclipse": {
+    "class": "red",
+    "image": "/img/skins/gloves/eclipse.webp",
+    "name": "Moto Gloves | Eclipse",
+    "color": ["Gray"]
+  },
+  "Boom!": {
+    "class": "red",
+    "image": "/img/skins/gloves/boom.webp",
+    "name": "Moto Gloves | Boom!",
+    "color": ["Gray"]
+  },
+  "Smoke Out": {
+    "class": "red",
+    "image": "/img/skins/gloves/smoke-out.webp",
+    "name": "Moto Gloves | Smoke Out",
+    "color": ["Black", "Gray", "White"]
+  },
+  "Blood Pressure": {
+    "class": "red",
+    "image": "/img/skins/gloves/blood-pressure.webp",
+    "name": "Moto Gloves | Blood Pressure",
+    "color": ["Red"]
+  },
+  "POW!": {
+    "class": "red",
+    "image": "/img/skins/gloves/pow.webp",
+    "name": "Moto Gloves | POW!",
+    "color": ["Orange"]
+  },
+  "Transport": {
+    "class": "red",
+    "image": "/img/skins/gloves/transport.webp",
+    "name": "Moto Gloves | Transport",
+    "color": ["Yellow"]
+  },
+  "Turtle": {
+    "class": "red",
+    "image": "/img/skins/gloves/turtle.webp",
+    "name": "Moto Gloves | Turtle",
+    "color": ["Green"]
+  },
+  "3rd Commando Company": {
+    "class": "red",
+    "image": "/img/skins/gloves/3rd-commando-company.webp",
+    "name": "Moto Gloves | 3rd Commando Company",
+    "color": ["Green"]
+  },
+  "Finish Line": {
+    "class": "red",
+    "image": "/img/skins/gloves/finish-line.webp",
+    "name": "Moto Gloves | Finish Line",
+    "color": ["Green"]
+  },
+  "Cool Mint": {
+    "class": "red",
+    "image": "/img/skins/gloves/cool-mint.webp",
+    "name": "Moto Gloves | Cool Mint",
+    "color": ["Blue"]
+  },
+  "Polygon": {
+    "class": "red",
+    "image": "/img/skins/gloves/polygon.webp",
+    "name": "Moto Gloves | Polygon",
+    "color": ["Blue"]
+  }
+}

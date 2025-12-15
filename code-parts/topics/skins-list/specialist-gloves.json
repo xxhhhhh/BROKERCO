@@ -1,0 +1,74 @@
+{
+  "Lt. Commander": {
+    "class": "red",
+    "image": "/img/skins/gloves/lt-commander.webp",
+    "name": "Specialist Gloves | Lt. Commander",
+    "color": ["Gray"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/gloves/crimson-web.webp",
+    "name": "Specialist Gloves | Crimson Web",
+    "color": ["Red"]
+  },
+  "Crimson Kimono": {
+    "class": "red",
+    "image": "/img/skins/gloves/crimson-kimono.webp",
+    "name": "Specialist Gloves | Crimson Kimono",
+    "color": ["Red"]
+  },
+  "Tiger Strike": {
+    "class": "red",
+    "image": "/img/skins/gloves/tiger-strike.webp",
+    "name": "Specialist Gloves | Tiger Strike",
+    "color": ["Orange"]
+  },
+  "Foundation": {
+    "class": "red",
+    "image": "/img/skins/gloves/foundation.webp",
+    "name": "Specialist Gloves | Foundation",
+    "color": ["Orange", "White"]
+  },
+  "Field Agent": {
+    "class": "red",
+    "image": "/img/skins/gloves/field-agent.webp",
+    "name": "Specialist Gloves | Field Agent",
+    "color": ["Blue", "Yellow"]
+  },
+  "Emerald Web": {
+    "class": "red",
+    "image": "/img/skins/gloves/emerald-web.webp",
+    "name": "Specialist Gloves | Emerald Web",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/gloves/forest-ddpat.webp",
+    "name": "Specialist Gloves | Forest DDPAT",
+    "color": ["Brown", "Green"]
+  },
+  "Buckshot": {
+    "class": "red",
+    "image": "/img/skins/gloves/buckshot.webp",
+    "name": "Specialist Gloves | Buckshot",
+    "color": ["Green"]
+  },
+  "Mogul": {
+    "class": "red",
+    "image": "/img/skins/gloves/mogul.webp",
+    "name": "Specialist Gloves | Mogul",
+    "color": ["Blue"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/gloves/fade.webp",
+    "name": "Specialist Gloves | Fade",
+    "color": ["Blue"]
+  },
+  "Marble Fade": {
+    "class": "red",
+    "image": "/img/skins/gloves/marble-fade.webp",
+    "name": "Specialist Gloves | Marble Fade",
+    "color": ["Blue"]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Lt. Commander Ricksaw": {
+    "class": "red",
+    "name": "Lt. Commander Ricksaw | NSWC SEAL",
+    "image": "/img/skins/agents/nswc-seal/lt-commander-ricksaw.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "Buckshot": {
+    "class": "purple",
+    "name": "Buckshot | NSWC SEAL",
+    "image": "/img/skins/agents/nswc-seal/buckshot.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "'Blueberries' Buckshot": {
+    "class": "purple",
+    "name": "'Blueberries' Buckshot | NSWC SEAL",
+    "image": "/img/skins/agents/nswc-seal/blueberries-buckshot.webp",
+    "color": [],
+    "collection": "Broken Fang Agents"
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "Magic Rush Ball (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Magic Rush Ball (Lenticular)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-magic-rush-ball-lenticular.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-magic-rush-ball-lenticular.png"
+  },
+  "TV Installation (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | TV Installation (Lenticular)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-tv-installation-lenticular.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-tv-installation-lenticular.png"
+  },
+  "Global TV (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Global TV (Lenticular)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-global-tv-lenticular.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-global-tv-lenticular.png"
+  },
+  "DJ Safecracker (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | DJ Safecracker (Lenticular)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-dj-safecracker-lenticular.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-dj-safecracker-lenticular.png"
+  },
+  "Freeze (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Freeze (Lenticular)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-freeze-lenticular.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-freeze-lenticular.png"
+  },
+  "Skin Lover (Lenticular)": {
+    "class": "red",
+    "name": "Sticker | Skin Lover (Lenticular)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-skin-lover-lenticular.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-skin-lover-lenticular.png"
+  },
+  "Showdown (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Showdown (Foil)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-showdown-foil.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-showdown-foil.png"
+  },
+  "Dust FA (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Dust FA (Foil)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-dust-fa-foil.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-dust-fa-foil.png"
+  },
+  "Approaching Site (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Approaching Site (Foil)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-approaching-site-foil.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-approaching-site-foil.png"
+  },
+  "Romanov's Fire (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Romanov's Fire (Foil)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-romanov-s-fire-foil.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-romanov-s-fire-foil.png"
+  },
+  "In The Fire (Foil)": {
+    "class": "pink",
+    "name": "Sticker | In The Fire (Foil)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-in-the-fire-foil.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-in-the-fire-foil.png"
+  },
+  "Pure Malt (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Pure Malt (Foil)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-pure-malt-foil.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-pure-malt-foil.png"
+  },
+  "Ten Years (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Ten Years (Foil)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-ten-years-foil.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-ten-years-foil.png"
+  },
+  "Overpass Diorama (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Overpass Diorama (Foil)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-overpass-diorama-foil.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-overpass-diorama-foil.png"
+  },
+  "Leaving The Station (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Leaving The Station (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-leaving-the-station-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-leaving-the-station-holo.png"
+  },
+  "Kawaii T (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Kawaii T (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-kawaii-t-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-kawaii-t-holo.png"
+  },
+  "Blue Gem (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Blue Gem (Glitter)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-blue-gem-glitter.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-blue-gem-glitter.png"
+  },
+  "Kawaii CT (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Kawaii CT (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-kawaii-ct-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-kawaii-ct-holo.png"
+  },
+  "Cbbl (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Cbbl (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-cbbl-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-cbbl-holo.png"
+  },
+  "Get Smoked (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Get Smoked (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-get-smoked-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-get-smoked-holo.png"
+  },
+  "Zeusception (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Zeusception (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-zeusception-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-zeusception-holo.png"
+  },
+  "Ace Clutch Co. (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Ace Clutch Co. (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-ace-clutch-co-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-ace-clutch-co-holo.png"
+  },
+  "Conspiracy Club (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Conspiracy Club (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-conspiracy-club-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-conspiracy-club-holo.png"
+  },
+  "Defuse It (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Defuse It (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-defuse-it-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-defuse-it-holo.png"
+  },
+  "Pain Train (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Pain Train (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-pain-train-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-pain-train-holo.png"
+  },
+  "Vertigo's Hero (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Vertigo's Hero (Holo)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-vertigo-s-hero-holo.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-vertigo-s-hero-holo.png"
+  },
+  "Go Boom (Glitter)": {
+    "class": "purple",
+    "name": "Sticker | Go Boom (Glitter)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-go-boom-glitter.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-go-boom-glitter.png"
+  },
+  "GO": {
+    "class": "blue",
+    "name": "Sticker | GO",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-go.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-go.png"
+  },
+  "Baby Howl": {
+    "class": "blue",
+    "name": "Sticker | Baby Howl",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-baby-howl.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-baby-howl.png"
+  },
+  "Co Co Co": {
+    "class": "blue",
+    "name": "Sticker | Co Co Co",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-co-co-co.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-co-co-co.png"
+  },
+  "Baby Medusa": {
+    "class": "blue",
+    "name": "Sticker | Baby Medusa",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-baby-medusa.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-baby-medusa.png"
+  },
+  "Zeused": {
+    "class": "blue",
+    "name": "Sticker | Zeused",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-zeused.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-zeused.png"
+  },
+  "Green's Problem": {
+    "class": "blue",
+    "name": "Sticker | Green's Problem",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-green-s-problem.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-green-s-problem.png"
+  },
+  "Beaky Decade": {
+    "class": "blue",
+    "name": "Sticker | Beaky Decade",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-beaky-decade.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-beaky-decade.png"
+  },
+  "Rush More": {
+    "class": "blue",
+    "name": "Sticker | Rush More",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-rush-more.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-rush-more.png"
+  },
+  "Shifty Tactics": {
+    "class": "blue",
+    "name": "Sticker | Shifty Tactics",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-shifty-tactics.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-shifty-tactics.png"
+  },
+  "Good Versus Evil": {
+    "class": "blue",
+    "name": "Sticker | Good Versus Evil",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-good-versus-evil.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-good-versus-evil.png"
+  },
+  "Baby Lore": {
+    "class": "blue",
+    "name": "Sticker | Baby Lore",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-baby-lore.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-baby-lore.png"
+  },
+  "Baby Cerberus": {
+    "class": "blue",
+    "name": "Sticker | Baby Cerberus",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-baby-cerberus.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-baby-cerberus.png"
+  },
+  "Laser Beam": {
+    "class": "blue",
+    "name": "Sticker | Laser Beam",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-laser-beam.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-laser-beam.png"
+  },
+  "Call Your Flashes": {
+    "class": "blue",
+    "name": "Sticker | Call Your Flashes",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-call-your-flashes.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-call-your-flashes.png"
+  },
+  "Dragon Tale": {
+    "class": "blue",
+    "name": "Sticker | Dragon Tale",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-dragon-tale.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-dragon-tale.png"
+  },
+  "Clicking Heads": {
+    "class": "blue",
+    "name": "Sticker | Clicking Heads",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-clicking-heads.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-clicking-heads.png"
+  },
+  "Baby Fire Serpent": {
+    "class": "blue",
+    "name": "Sticker | Baby Fire Serpent",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-baby-fire-serpent.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-baby-fire-serpent.png"
+  },
+  "Dreams And Mimics": {
+    "class": "blue",
+    "name": "Sticker | Dreams And Mimics",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-dreams-and-mimics.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-dreams-and-mimics.png"
+  },
+  "Monster": {
+    "class": "blue",
+    "name": "Sticker | Monster",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-monster.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-monster.png"
+  },
+  "Good Sports": {
+    "class": "blue",
+    "name": "Sticker | Good Sports",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-good-sports.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-good-sports.png"
+  },
+  "Arms Race": {
+    "class": "blue",
+    "name": "Sticker | Arms Race",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-arms-race.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-arms-race.png"
+  },
+  "Choose Wisely": {
+    "class": "blue",
+    "name": "Sticker | Choose Wisely",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-choose-wisely.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-choose-wisely.png"
+  },
+  "This Is Fine (H)": {
+    "class": "blue",
+    "name": "Sticker | This Is Fine (H)",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-this-is-fine-h.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-this-is-fine-h.png"
+  },
+  "Agent Select": {
+    "class": "blue",
+    "name": "Sticker | Agent Select",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-agent-select.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-agent-select.png"
+  },
+  "Press Start": {
+    "class": "blue",
+    "name": "Sticker | Press Start",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-press-start.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-press-start.png"
+  },
+  "Booth": {
+    "class": "blue",
+    "name": "Sticker | Booth",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-booth.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-booth.png"
+  },
+  "Endless Cycle": {
+    "class": "blue",
+    "name": "Sticker | Endless Cycle",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-endless-cycle.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-endless-cycle.png"
+  },
+  "C-S On The Go": {
+    "class": "blue",
+    "name": "Sticker | C-S On The Go",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-c-s-on-the-go.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-c-s-on-the-go.png"
+  },
+  "B-Day": {
+    "class": "blue",
+    "name": "Sticker | B-Day",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-b-day.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-b-day.png"
+  },
+  "Dragon's Keep": {
+    "class": "blue",
+    "name": "Sticker | Dragon's Keep",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-dragon-s-keep.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-dragon-s-keep.png"
+  },
+  "Exo Jumper": {
+    "class": "blue",
+    "name": "Sticker | Exo Jumper",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-exo-jumper.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-exo-jumper.png"
+  },
+  "Save Me": {
+    "class": "blue",
+    "name": "Sticker | Save Me",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-save-me.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-save-me.png"
+  },
+  "Free Range": {
+    "class": "blue",
+    "name": "Sticker | Free Range",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-free-range.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-free-range.png"
+  },
+  "Not For Resale": {
+    "class": "blue",
+    "name": "Sticker | Not For Resale",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-not-for-resale.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-not-for-resale.png"
+  },
+  "TV On Mirage": {
+    "class": "blue",
+    "name": "Sticker | TV On Mirage",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-tv-on-mirage.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-tv-on-mirage.png"
+  },
+  "Chicken Whisperer": {
+    "class": "blue",
+    "name": "Sticker | Chicken Whisperer",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-chicken-whisperer.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-chicken-whisperer.png"
+  },
+  "Noble Steed": {
+    "class": "blue",
+    "name": "Sticker | Noble Steed",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-noble-steed.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-noble-steed.png"
+  },
+  "Cursed Penmanship": {
+    "class": "blue",
+    "name": "Sticker | Cursed Penmanship",
+    "image": "/img/skins/stickers/10-year-birthday/sticker-cursed-penmanship.png",
+    "imageOG": "/img/skins/stickers/10-year-birthday/small/sticker-cursed-penmanship.png"
+  }
+}

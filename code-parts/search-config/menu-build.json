@@ -1,0 +1,1909 @@
+{
+  "nav": [
+    {
+      "key": "popular",
+      "icon": "fire",
+      "title": {
+        "en": "Popular",
+        "ru": "Популярное"
+      },
+      "groups": [
+        {
+          "name": {
+            "en": "Gambling",
+            "ru": "Гемблинг"
+          },
+          "reviews": [
+            {
+              "href": "/reviews/csgo500",
+              "img": "/img/csgo500-logo.webp",
+              "alt": "500CASINO logo"
+            },
+            {
+              "href": "/reviews/csgoempire",
+              "img": "/img/csgoempire-logo.webp",
+              "alt": "CSGOEmpire logo"
+            },
+            {
+              "href": "/reviews/gamdom",
+              "img": "/img/gamdom-logo.webp",
+              "alt": "Gamdom logo"
+            },
+            {
+              "href": "/reviews/duelbits",
+              "img": "/img/duelbits-logo.webp",
+              "alt": "Duelbits logo"
+            },
+            {
+              "href": "/reviews/howlgg",
+              "img": "/img/howlgg-logo.webp",
+              "alt": "HowlGG logo"
+            },
+            {
+              "href": "/reviews/csgoluck",
+              "img": "/img/csgoluck-logo.webp",
+              "alt": "CSGOLuck logo"
+            },
+            {
+              "href": "/reviews/csgoroll",
+              "img": "/img/csgoroll-logo.webp",
+              "alt": "CSGORoll logo"
+            },
+            {
+              "href": "/reviews/clashgg",
+              "img": "/img/clashgg-logo.webp",
+              "alt": "Clash.GG logo"
+            },
+            {
+              "href": "/reviews/ggdrop",
+              "img": "/img/ggdrop-logo.webp",
+              "alt": "GGDROP logo"
+            },
+            {
+              "href": "/reviews/key-drop",
+              "img": "/img/key-drop-logo.webp",
+              "alt": "Key-Drop logo"
+            },
+            {
+              "href": "/reviews/csgofast",
+              "img": "/img/csgofast-logo.webp",
+              "alt": "CSGOFast logo"
+            },
+            {
+              "href": "/reviews/csgopositive",
+              "img": "/img/csgopositive-logo.webp",
+              "alt": "csgopositive logo"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/csgoempire",
+              "img": "/img/csgoempire-logo.webp",
+              "alt": "CSGOEmpire logo"
+            },
+            {
+              "href": "/ru/reviews/csgo500",
+              "img": "/img/csgo500-logo.webp",
+              "alt": "CSGO500 logo"
+            },
+            {
+              "href": "/ru/reviews/csfail",
+              "img": "/img/csfail-logo.webp",
+              "alt": "CSFAIL logo"
+            },
+            {
+              "href": "/ru/reviews/csgofast",
+              "img": "/img/csgofast-logo.webp",
+              "alt": "CSGOFast logo"
+            },
+            {
+              "href": "/ru/reviews/upgrader",
+              "img": "/img/upgrader-logo.webp",
+              "alt": "Upgrader logo"
+            },
+            {
+              "href": "/ru/reviews/csgopolygon",
+              "img": "/img/csgopolygon-logo.webp",
+              "alt": "CSGOPolygon logo"
+            },
+            {
+              "href": "/ru/reviews/csgopositive",
+              "img": "/img/csgopositive-logo.webp",
+              "alt": "csgopositive logo"
+            },
+            {
+              "href": "/ru/reviews/duelbits",
+              "img": "/img/duelbits-logo.webp",
+              "alt": "Duelbits logo"
+            },
+            {
+              "href": "/ru/reviews/ggdrop",
+              "img": "/img/ggdrop-logo.webp",
+              "alt": "GGDROP logo"
+            },
+            {
+              "href": "/ru/reviews/csgorun",
+              "img": "/img/csgorun-logo.webp",
+              "alt": "CSGORUN logo"
+            },
+            {
+              "href": "/ru/reviews/petuh",
+              "img": "/img/petuh-logo.webp",
+              "alt": "Petuh logo"
+            },
+            {
+              "href": "/ru/reviews/howlgg",
+              "img": "/img/howlgg-logo.webp",
+              "alt": "HowlGG logo"
+            },
+            {
+              "href": "/ru/reviews/shuffle",
+              "img": "/img/shuffle-logo.webp",
+              "alt": "Shuffle logo"
+            },
+            {
+              "href": "/ru/reviews/bcgame",
+              "img": "/img/bcgame-logo.webp",
+              "alt": "BC.Game logo"
+            },
+            {
+              "href": "/ru/reviews/gamdom",
+              "img": "/img/gamdom-logo.webp",
+              "alt": "Gamdom logo"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Skin Selling and Trading",
+            "ru": "Продажа и Обмен Скинов"
+          },
+          "reviews": [
+            {
+              "href": "/reviews/avanmarket",
+              "img": "/img/avanmarket-logo.webp",
+              "alt": "Avan.Market logo"
+            },
+            {
+              "href": "/reviews/lis-skins",
+              "img": "/img/lis-skins-logo.svg",
+              "alt": "Lis-Skins logo"
+            },
+            {
+              "href": "/reviews/tradeit",
+              "img": "/img/tradeit-logo.webp",
+              "alt": "Tradeit logo"
+            },
+            {
+              "href": "/reviews/dmarket",
+              "img": "/img/dmarket-logo.webp",
+              "alt": "DMarket logo"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/avanmarket",
+              "img": "/img/avanmarket-logo.webp",
+              "alt": "Avan.Market logo"
+            },
+            {
+              "href": "/ru/reviews/lis-skins",
+              "img": "/img/lis-skins-logo.svg",
+              "alt": "Lis-Skins logo"
+            },
+            {
+              "href": "/ru/reviews/moonmarket",
+              "img": "/img/moonmarket-logo.webp",
+              "alt": "Moon.Market logo"
+            },
+            {
+              "href": "/ru/reviews/aimmarket",
+              "img": "/img/aimmarket-logo.webp",
+              "alt": "Aim.market logo"
+            },
+            {
+              "href": "/ru/reviews/csmoney",
+              "img": "/img/csmoney-logo.webp",
+              "alt": "CS.Money logo"
+            },
+            {
+              "href": "/ru/reviews/tradeit",
+              "img": "/img/tradeit-logo.webp",
+              "alt": "Tradeit logo"
+            },
+            {
+              "href": "/ru/reviews/pirateswap",
+              "img": "/img/pirateswap-logo.webp",
+              "alt": "PirateSwap logo"
+            },
+            {
+              "href": "/ru/reviews/skinswap",
+              "img": "/img/skinswap-logo.webp",
+              "alt": "SkinSwap logo"
+            }
+          ]
+        }
+      ],
+      "solid": [
+        {
+          "href": "/freebies",
+          "text": {
+            "en": "All Sites",
+            "ru": "Все Сайты"
+          }
+        },
+        {
+          "href": "/freebies/sign-up-bonuses",
+          "text": {
+            "en": "Sign Up Bonuses",
+            "ru": "Бонус за Регистрацию"
+          }
+        },
+        {
+          "href": "/freebies/deposit-bonuses",
+          "text": {
+            "en": "Deposit Bonuses",
+            "ru": "Бонус к Депозиту"
+          }
+        },
+        {
+          "href": "/freebies/daily-rewards",
+          "text": {
+            "en": "Daily Rewards",
+            "ru": "Ежедневный Бонус"
+          }
+        },
+        {
+          "href": "/freebies/bonuses-to-sale",
+          "text": {
+            "en": "Bonus to Sale",
+            "ru": "Бонус к Продаже"
+          }
+        },
+        {
+          "href": "/freebies/giveaways",
+          "text": {
+            "en": "Giveaways",
+            "ru": "Розыгрыши"
+          }
+        }
+      ]
+    },
+    {
+      "key": "cs2-sites",
+      "icon": "cs2",
+      "title": {
+        "en": "CS2 Sites",
+        "ru": "Сайты CS2"
+      },
+      "groups": [
+        {
+          "name": {
+            "en": "Gambling",
+            "ru": "Гемблинг"
+          },
+          "reviews": [
+            {
+              "href": "/reviews/csgo500",
+              "img": "/img/csgo500-logo.webp",
+              "alt": "500CASINO logo"
+            },
+            {
+              "href": "/reviews/gamdom",
+              "img": "/img/gamdom-logo.webp",
+              "alt": "Gamdom logo"
+            },
+            {
+              "href": "/reviews/duelbits",
+              "img": "/img/duelbits-logo.webp",
+              "alt": "Duelbits logo"
+            },
+            {
+              "href": "/reviews/howlgg",
+              "img": "/img/howlgg-logo.webp",
+              "alt": "HowlGG logo"
+            },
+            {
+              "href": "/reviews/clashgg",
+              "img": "/img/clashgg-logo.webp",
+              "alt": "Clash.GG logo"
+            },
+            {
+              "href": "/reviews/csgoempire",
+              "img": "/img/csgoempire-logo.webp",
+              "alt": "CSGOEmpire logo"
+            },
+            {
+              "href": "/reviews/skinrave",
+              "img": "/img/skinrave-logo.webp",
+              "alt": "SkinRave.GG logo"
+            },
+            {
+              "href": "/reviews/csgoluck",
+              "img": "/img/csgoluck-logo.webp",
+              "alt": "CSGOLuck logo"
+            },
+            {
+              "href": "/reviews/csfail",
+              "img": "/img/csfail-logo.webp",
+              "alt": "CSFAIL logo"
+            },
+            {
+              "href": "/reviews/ggdrop",
+              "img": "/img/ggdrop-logo.webp",
+              "alt": "GGDROP logo"
+            },
+            {
+              "href": "/reviews/upgrader",
+              "img": "/img/upgrader-logo.webp",
+              "alt": "Upgrader logo"
+            },
+            {
+              "href": "/reviews/csgoroll",
+              "img": "/img/csgoroll-logo.webp",
+              "alt": "CSGORoll logo"
+            },
+            {
+              "href": "/reviews/csbattle",
+              "img": "/img/csbattle-logo.webp",
+              "alt": "CSBattle logo"
+            },
+            {
+              "href": "/reviews/csgopolygon",
+              "img": "/img/csgopolygon-logo.webp",
+              "alt": "CSGOPolygon logo"
+            },
+            {
+              "href": "/reviews/rollbit",
+              "img": "/img/rollbit-logo.webp",
+              "alt": "Rollbit logo"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/csgoempire",
+              "img": "/img/csgoempire-logo.webp",
+              "alt": "CSGOEmpire logo"
+            },
+            {
+              "href": "/ru/reviews/csgo500",
+              "img": "/img/csgo500-logo.webp",
+              "alt": "CSGO500 logo"
+            },
+            {
+              "href": "/ru/reviews/csfail",
+              "img": "/img/csfail-logo.webp",
+              "alt": "CSFAIL logo"
+            },
+            {
+              "href": "/ru/reviews/csgofast",
+              "img": "/img/csgofast-logo.webp",
+              "alt": "CSGOFast logo"
+            },
+            {
+              "href": "/ru/reviews/csgopositive",
+              "img": "/img/csgopositive-logo.webp",
+              "alt": "csgopositive logo"
+            },
+            {
+              "href": "/ru/reviews/upgrader",
+              "img": "/img/upgrader-logo.webp",
+              "alt": "Upgrader logo"
+            },
+            {
+              "href": "/ru/reviews/csgopolygon",
+              "img": "/img/csgopolygon-logo.webp",
+              "alt": "CSGOPolygon logo"
+            },
+            {
+              "href": "/ru/reviews/duelbits",
+              "img": "/img/duelbits-logo.webp",
+              "alt": "Duelbits logo"
+            },
+            {
+              "href": "/ru/reviews/ggdrop",
+              "img": "/img/ggdrop-logo.webp",
+              "alt": "GGDROP logo"
+            },
+            {
+              "href": "/ru/reviews/howlgg",
+              "img": "/img/howlgg-logo.webp",
+              "alt": "HowlGG logo"
+            },
+            {
+              "href": "/ru/reviews/knifex",
+              "img": "/img/knifex-logo.webp",
+              "alt": "KNIFEX logo"
+            },
+            {
+              "href": "/ru/reviews/gamdom",
+              "img": "/img/gamdom-logo.webp",
+              "alt": "Gamdom logo"
+            },
+            {
+              "href": "/ru/reviews/petuh",
+              "img": "/img/petuh-logo.webp",
+              "alt": "Petuh logo"
+            },
+            {
+              "href": "/ru/reviews/csgorun",
+              "img": "/img/csgorun-logo.webp",
+              "alt": "CSGORUN logo"
+            },
+            {
+              "href": "/ru/reviews/skinbox",
+              "img": "/img/skinbox-logo.webp",
+              "alt": "SKINBOX logo"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Skin Selling and Trading",
+            "ru": "Продажа и Обмен Скинов"
+          },
+          "reviews": [
+            {
+              "href": "/reviews/lis-skins",
+              "img": "/img/lis-skins-logo.svg",
+              "alt": "Lis-Skins logo"
+            },
+            {
+              "href": "/reviews/avanmarket",
+              "img": "/img/avanmarket-logo.webp",
+              "alt": "Avan.Market logo"
+            },
+            {
+              "href": "/reviews/tradeit",
+              "img": "/img/tradeit-logo.webp",
+              "alt": "Tradeit logo"
+            },
+            {
+              "href": "/reviews/dmarket",
+              "img": "/img/dmarket-logo.webp",
+              "alt": "DMarket logo"
+            },
+            {
+              "href": "/reviews/csgoempire",
+              "img": "/img/csgoempire-logo.webp",
+              "alt": "CSGOEmpire logo"
+            },
+            {
+              "href": "/reviews/csmoney",
+              "img": "/img/csmoney-logo.webp",
+              "alt": "CS.Money logo"
+            },
+            {
+              "href": "/reviews/pirateswap",
+              "img": "/img/pirateswap-logo.webp",
+              "alt": "PirateSwap logo"
+            },
+            {
+              "href": "/reviews/skinswap",
+              "img": "/img/skinswap-logo.webp",
+              "alt": "SkinSwap logo"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/avanmarket",
+              "img": "/img/avanmarket-logo.webp",
+              "alt": "Avan.Market logo"
+            },
+            {
+              "href": "/ru/reviews/lis-skins",
+              "img": "/img/lis-skins-logo.svg",
+              "alt": "Lis-Skins logo"
+            },
+            {
+              "href": "/ru/reviews/aimmarket",
+              "img": "/img/aimmarket-logo.webp",
+              "alt": "Aim.market logo"
+            },
+            {
+              "href": "/ru/reviews/moonmarket",
+              "img": "/img/moonmarket-logo.webp",
+              "alt": "Moon.Market logo"
+            },
+            {
+              "href": "/ru/reviews/csmoney",
+              "img": "/img/csmoney-logo.webp",
+              "alt": "CS.Money logo"
+            },
+            {
+              "href": "/ru/reviews/tradeit",
+              "img": "/img/tradeit-logo.webp",
+              "alt": "Tradeit logo"
+            },
+            {
+              "href": "/ru/reviews/pirateswap",
+              "img": "/img/pirateswap-logo.webp",
+              "alt": "PirateSwap logo"
+            },
+            {
+              "href": "/ru/reviews/skinswap",
+              "img": "/img/skinswap-logo.webp",
+              "alt": "SkinSwap logo"
+            },
+            {
+              "href": "/ru/reviews/swapgg",
+              "img": "/img/swapgg-logo.webp",
+              "alt": "Swap.GG logo"
+            }
+          ]
+        }
+      ],
+      "solid": [
+        {
+          "href": "/cs2",
+          "text": {
+            "en": "Gambling Sites",
+            "ru": "Гемблинг Сайты"
+          }
+        },
+        {
+          "href": "/csgo/matchbetting",
+          "text": {
+            "en": "Match Betting",
+            "ru": "Ставки на Матчи"
+          }
+        },
+        {
+          "href": "/csgo/caseopening",
+          "text": {
+            "en": "Case Opening",
+            "ru": "Кейсы"
+          }
+        },
+        {
+          "href": "/csgo/case-battle",
+          "text": {
+            "en": "Case Battle",
+            "ru": "Битва Кейсов"
+          }
+        },
+        {
+          "href": "/csgo/roulette",
+          "text": {
+            "en": "Roulette",
+            "ru": "Рулетка"
+          }
+        },
+        {
+          "href": "/csgo/coinflip",
+          "text": {
+            "en": "Coinflip",
+            "ru": "Коинфлип"
+          }
+        },
+        {
+          "href": "/csgo/crash",
+          "text": {
+            "en": "Crash",
+            "ru": "Краш"
+          }
+        },
+        {
+          "href": "/csgo/casino",
+          "text": {
+            "en": "Slots",
+            "ru": "Слоты"
+          }
+        },
+        {
+          "href": "/csgo/mines",
+          "text": {
+            "en": "Mines",
+            "ru": "Мины"
+          }
+        },
+        {
+          "href": "/csgo/jackpot",
+          "text": {
+            "en": "Jackpot",
+            "ru": "Джекпот"
+          }
+        },
+        {
+          "href": "/csgo/upgrader",
+          "text": {
+            "en": "Upgrader",
+            "ru": "Апгрейдер"
+          }
+        },
+        {
+          "href": "/csgo/dice",
+          "text": {
+            "en": "Dice",
+            "ru": "Кости"
+          }
+        },
+        {
+          "href": "/csgo/marketplaces",
+          "text": {
+            "en": "Buy or Sell Skins",
+            "ru": "Купить/Продать Скины"
+          }
+        },
+        {
+          "href": "/csgo/instant-sell",
+          "text": {
+            "en": "Instant Sell",
+            "ru": "Быстрая Продажа"
+          }
+        },
+        {
+          "href": "/csgo/buy-skins",
+          "text": {
+            "en": "Buy Skins",
+            "ru": "Купить Скины"
+          }
+        },
+        {
+          "href": "/csgo/sell-skins",
+          "text": {
+            "en": "Sell Skins",
+            "ru": "Продать Скины"
+          }
+        },
+        {
+          "href": "/csgo/trade-skins",
+          "text": {
+            "en": "Trade Skins",
+            "ru": "Обменять Скины"
+          }
+        },
+        {
+          "href": "/csgo/earn-by-play-csgo",
+          "text": {
+            "en": "Earn by Play CS2",
+            "ru": "Заработок на Игре в CS2"
+          }
+        }
+      ]
+    },
+    {
+      "key": "rust",
+      "icon": "rust",
+      "title": {
+        "en": "Rust Sites",
+        "ru": "Сайты Rust"
+      },
+      "groups": [
+        {
+          "name": {
+            "en": "Gambling",
+            "ru": "Гемблинг"
+          },
+          "reviews": [
+            {
+              "href": "/reviews/csgo500",
+              "img": "/img/csgo500-logo.webp",
+              "alt": "500CASINO logo"
+            },
+            {
+              "href": "/reviews/howlgg",
+              "img": "/img/howlgg-logo.webp",
+              "alt": "HowlGG logo"
+            },
+            {
+              "href": "/reviews/banditcamp",
+              "img": "/img/banditcamp-logo.webp",
+              "alt": "BanditCamp logo"
+            },
+            {
+              "href": "/reviews/rustyloot",
+              "img": "/img/rustyloot-logo.webp",
+              "alt": "Rustyloot logo"
+            },
+            {
+              "href": "/reviews/rustypot",
+              "img": "/img/rustypot-logo.webp",
+              "alt": "RustyPot logo"
+            },
+            {
+              "href": "/reviews/rustclash",
+              "img": "/img/rustclash-logo.webp",
+              "alt": "RustClash logo"
+            },
+            {
+              "href": "/reviews/rustreaper",
+              "img": "/img/rustreaper-logo.webp",
+              "alt": "RustReaper logo"
+            },
+            {
+              "href": "/reviews/rustly",
+              "img": "/img/rustly-logo.svg",
+              "alt": "Rustly logo"
+            },
+            {
+              "href": "/reviews/rustmagic",
+              "img": "/img/rustmagic-logo.webp",
+              "alt": "RustMagic logo"
+            },
+            {
+              "href": "/reviews/csfail",
+              "img": "/img/csfail-logo.webp",
+              "alt": "CSFAIL logo"
+            },
+            {
+              "href": "/reviews/cobaltlab",
+              "img": "/img/cobaltlab-logo.webp",
+              "alt": "CobaltLab logo"
+            },
+            {
+              "href": "/reviews/splits",
+              "img": "/img/splits-logo.webp",
+              "alt": "Splits logo"
+            },
+            {
+              "href": "/reviews/insanegg",
+              "img": "/img/insanegg-logo.webp",
+              "alt": "InsaneGG logo"
+            },
+            {
+              "href": "/reviews/rustchance",
+              "img": "/img/rustchance-logo.webp",
+              "alt": "RustChance logo"
+            },
+            {
+              "href": "/reviews/bounty-stars",
+              "img": "/img/bounty-stars-logo.webp",
+              "alt": "Bounty Stars logo"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/howlgg",
+              "img": "/img/howlgg-logo.webp",
+              "alt": "HowlGG logo"
+            },
+            {
+              "href": "/ru/reviews/csgo500",
+              "img": "/img/csgo500-logo.webp",
+              "alt": "CSGO500 logo"
+            },
+            {
+              "href": "/ru/reviews/cobaltlab",
+              "img": "/img/cobaltlab-logo.webp",
+              "alt": "CobaltLab logo"
+            },
+            {
+              "href": "/ru/reviews/banditcamp",
+              "img": "/img/banditcamp-logo.webp",
+              "alt": "BanditCamp logo"
+            },
+            {
+              "href": "/ru/reviews/rustyloot",
+              "img": "/img/rustyloot-logo.webp",
+              "alt": "Rustyloot logo"
+            },
+            {
+              "href": "/ru/reviews/rustmagic",
+              "img": "/img/rustmagic-logo.webp",
+              "alt": "RustMagic logo"
+            },
+            {
+              "href": "/ru/reviews/csfail",
+              "img": "/img/csfail-logo.webp",
+              "alt": "CSFAIL logo"
+            },
+            {
+              "href": "/ru/reviews/rustypot",
+              "img": "/img/rustypot-logo.webp",
+              "alt": "RustyPot logo"
+            },
+            {
+              "href": "/ru/reviews/rustreaper",
+              "img": "/img/rustreaper-logo.webp",
+              "alt": "RustReaper logo"
+            },
+            {
+              "href": "/ru/reviews/rustclash",
+              "img": "/img/rustclash-logo.webp",
+              "alt": "RustClash logo"
+            },
+            {
+              "href": "/ru/reviews/insanegg",
+              "img": "/img/insanegg-logo.webp",
+              "alt": "InsaneGG logo"
+            },
+            {
+              "href": "/ru/reviews/rustly",
+              "img": "/img/rustly-logo.svg",
+              "alt": "Rustly logo"
+            },
+            {
+              "href": "/ru/reviews/splits",
+              "img": "/img/splits-logo.webp",
+              "alt": "Splits logo"
+            },
+            {
+              "href": "/ru/reviews/bounty-stars",
+              "img": "/img/bounty-stars-logo.webp",
+              "alt": "Bounty Stars logo"
+            },
+            {
+              "href": "/ru/reviews/csgorun",
+              "img": "/img/csgorun-logo.webp",
+              "alt": "CSGORUN logo"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Skin Selling and Trading",
+            "ru": "Продажа и Обмен Скинов"
+          },
+          "reviews": [
+            {
+              "href": "/reviews/dmarket",
+              "img": "/img/dmarket-logo.webp",
+              "alt": "DMarket logo"
+            },
+            {
+              "href": "/reviews/rapidskins",
+              "img": "/img/rapidskins-logo.webp",
+              "alt": "RAPIDSKINS logo"
+            },
+            {
+              "href": "/reviews/tradeit",
+              "img": "/img/tradeit-logo.webp",
+              "alt": "Tradeit logo"
+            },
+            {
+              "href": "/reviews/swapgg",
+              "img": "/img/swapgg-logo.webp",
+              "alt": "Swap.GG logo"
+            },
+            {
+              "href": "/reviews/skincashier",
+              "img": "/img/skincashier-logo.svg",
+              "alt": "SkinCashier logo"
+            },
+            {
+              "href": "/reviews/skinswap",
+              "img": "/img/skinswap-logo.webp",
+              "alt": "SkinSwap logo"
+            },
+            {
+              "href": "/reviews/itradegg",
+              "img": "/img/itradegg-logo.svg",
+              "alt": "iTrade.GG logo"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/lis-skins",
+              "img": "/img/lis-skins-logo.svg",
+              "alt": "Lis-Skins logo"
+            },
+            {
+              "href": "/ru/reviews/avanmarket",
+              "img": "/img/avanmarket-logo.webp",
+              "alt": "Avan.Market logo"
+            },
+            {
+              "href": "/ru/reviews/rapidskins",
+              "img": "/img/rapidskins-logo.webp",
+              "alt": "RAPIDSKINS logo"
+            },
+            {
+              "href": "/ru/reviews/aimmarket",
+              "img": "/img/aimmarket-logo.webp",
+              "alt": "Aim.market logo"
+            },
+            {
+              "href": "/ru/reviews/swapgg",
+              "img": "/img/swapgg-logo.webp",
+              "alt": "Swap.GG logo"
+            },
+            {
+              "href": "/ru/reviews/tradeit",
+              "img": "/img/tradeit-logo.webp",
+              "alt": "Tradeit logo"
+            },
+            {
+              "href": "/ru/reviews/skinswap",
+              "img": "/img/skinswap-logo.webp",
+              "alt": "SkinSwap logo"
+            },
+            {
+              "href": "/ru/reviews/dmarket",
+              "img": "/img/dmarket-logo.webp",
+              "alt": "DMarket logo"
+            },
+            {
+              "href": "/ru/reviews/itradegg",
+              "img": "/img/itradegg-logo.svg",
+              "alt": "iTrade.GG logo"
+            }
+          ]
+        }
+      ],
+      "solid": [
+        {
+          "href": "/rust",
+          "text": {
+            "en": "Gambling Sites",
+            "ru": "Гемблинг Сайты"
+          }
+        },
+        {
+          "href": "/rust/matchbetting",
+          "text": {
+            "en": "Match Betting",
+            "ru": "Ставки на Матчи"
+          }
+        },
+        {
+          "href": "/rust/caseopening",
+          "text": {
+            "en": "Case Opening",
+            "ru": "Кейсы"
+          }
+        },
+        {
+          "href": "/rust/case-battle",
+          "text": {
+            "en": "Case Battle",
+            "ru": "Битва Кейсов"
+          }
+        },
+        {
+          "href": "/rust/roulette",
+          "text": {
+            "en": "Roulette",
+            "ru": "Рулетка"
+          }
+        },
+        {
+          "href": "/rust/coinflip",
+          "text": {
+            "en": "Coinflip",
+            "ru": "Коинфлип"
+          }
+        },
+        {
+          "href": "/rust/crash",
+          "text": {
+            "en": "Crash",
+            "ru": "Краш"
+          }
+        },
+        {
+          "href": "/rust/casino",
+          "text": {
+            "en": "Slots",
+            "ru": "Слоты"
+          }
+        },
+        {
+          "href": "/rust/jackpot",
+          "text": {
+            "en": "Jackpot",
+            "ru": "Джекпот"
+          }
+        },
+        {
+          "href": "/rust/upgrader",
+          "text": {
+            "en": "Upgrader",
+            "ru": "Апгрейдер"
+          }
+        },
+        {
+          "href": "/rust/marketplaces",
+          "text": {
+            "en": "Buy or Sell Skins",
+            "ru": "Купить/Продать Скины"
+          }
+        },
+        {
+          "href": "/rust/instant-sell",
+          "text": {
+            "en": "Instant Sell",
+            "ru": "Быстрая Продажа"
+          }
+        },
+        {
+          "href": "/rust/buy-skins",
+          "text": {
+            "en": "Buy Skins",
+            "ru": "Купить Скины"
+          }
+        },
+        {
+          "href": "/rust/sell-skins",
+          "text": {
+            "en": "Sell Skins",
+            "ru": "Продать Скины"
+          }
+        },
+        {
+          "href": "/rust/trade-skins",
+          "text": {
+            "en": "Trade Skins",
+            "ru": "Обменять Скины"
+          }
+        }
+      ]
+    },
+    {
+      "key": "steam",
+      "icon": "steam",
+      "title": {
+        "en": "Steam Sites",
+        "ru": "Сайты Steam"
+      },
+      "groups": [
+        {
+          "name": {
+            "en": "Increase Level",
+            "ru": "Увеличить Уровень"
+          },
+          "reviews": [
+            {
+              "href": "/reviews/steamlvlup",
+              "img": "/img/steamlvlup-logo.webp",
+              "alt": "SteamLvlUp"
+            },
+            {
+              "href": "/reviews/steamlevelu",
+              "img": "/img/steamlevelu-logo.png",
+              "alt": "SteamLevelU"
+            },
+            {
+              "href": "/reviews/steamlevels",
+              "img": "/img/steamlevels-logo.svg",
+              "alt": "SteamLevels logo"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/steamlvlup",
+              "img": "/img/steamlvlup-logo.webp",
+              "alt": "SteamLvlUp"
+            },
+            {
+              "href": "/ru/reviews/steamlevelu",
+              "img": "/img/steamlevelu-logo.png",
+              "alt": "SteamLevelU"
+            },
+            {
+              "href": "/ru/reviews/steamlevels",
+              "img": "/img/steamlevels-logo.svg",
+              "alt": "SteamLevels logo"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Top Up Balance",
+            "ru": "Пополнить Баланс"
+          },
+          "reviews": [
+            {
+              "href": "/reviews/aimmarket",
+              "img": "/img/aimmarket-logo.webp",
+              "alt": "Aim.market logo"
+            },
+            {
+              "href": "/reviews/steamify",
+              "img": "/img/steamify-logo.webp",
+              "alt": "Steamify logo"
+            },
+            {
+              "href": "/reviews/steamlevelu",
+              "img": "/img/steamlevelu-logo.png",
+              "alt": "SteamLevelU"
+            },
+            {
+              "href": "/reviews/steamlvlup",
+              "img": "/img/steamlvlup-logo.webp",
+              "alt": "SteamLvlUp"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/aimmarket",
+              "img": "/img/aimmarket-logo.webp",
+              "alt": "Aim.market logo"
+            },
+            {
+              "href": "/ru/reviews/steamify",
+              "img": "/img/steamify-logo.webp",
+              "alt": "Steamify logo"
+            },
+            {
+              "href": "/ru/reviews/steamlevelu",
+              "img": "/img/steamlevelu-logo.png",
+              "alt": "SteamLevelU"
+            },
+            {
+              "href": "/ru/reviews/steamlvlup",
+              "img": "/img/steamlvlup-logo.webp",
+              "alt": "SteamLvlUp"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Buy Games",
+            "ru": "Купить Игры"
+          },
+          "reviews": [
+            {
+              "href": "/reviews/g2a",
+              "img": "/img/g2a-logo.png",
+              "alt": "G2A logo"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/plati",
+              "img": "/img/plati-logo.webp",
+              "alt": "Plati.Market logo"
+            },
+            {
+              "href": "/ru/reviews/g2a",
+              "img": "/img/g2a-logo.png",
+              "alt": "G2A logo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "crypto",
+      "icon": "crypto",
+      "title": {
+        "en": "Crypto Sites",
+        "ru": "Крипто-сайты"
+      },
+      "groups": [
+        {
+          "reviews": [
+            {
+              "href": "/reviews/csgo500",
+              "img": "/img/csgo500-logo.webp",
+              "alt": "500CASINO logo"
+            },
+            {
+              "href": "/reviews/roobet",
+              "img": "/img/roobet-logo.png",
+              "alt": "Roobet logo"
+            },
+            {
+              "href": "/reviews/rainbet",
+              "img": "/img/rainbet-logo.webp",
+              "alt": "Rainbet logo"
+            },
+            {
+              "href": "/reviews/bcgame",
+              "img": "/img/bcgame-logo.webp",
+              "alt": "BC.Game logo"
+            },
+            {
+              "href": "/reviews/csgoempire",
+              "img": "/img/csgoempire-logo.webp",
+              "alt": "CSGOEmpire logo"
+            },
+            {
+              "href": "/reviews/shuffle",
+              "img": "/img/shuffle-logo.webp",
+              "alt": "Shuffle logo"
+            },
+            {
+              "href": "/reviews/gamdom",
+              "img": "/img/gamdom-logo.webp",
+              "alt": "Gamdom logo"
+            },
+            {
+              "href": "/reviews/rollbit",
+              "img": "/img/rollbit-logo.webp",
+              "alt": "Rollbit logo"
+            },
+            {
+              "href": "/reviews/duelbits",
+              "img": "/img/duelbits-logo.webp",
+              "alt": "Duelbits logo"
+            },
+            {
+              "href": "/reviews/howlgg",
+              "img": "/img/howlgg-logo.webp",
+              "alt": "HowlGG logo"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/csgo500",
+              "img": "/img/csgo500-logo.webp",
+              "alt": "CSGO500 logo"
+            },
+            {
+              "href": "/ru/reviews/rainbet",
+              "img": "/img/rainbet-logo.webp",
+              "alt": "Rainbet logo"
+            },
+            {
+              "href": "/ru/reviews/shuffle",
+              "img": "/img/shuffle-logo.webp",
+              "alt": "Shuffle logo"
+            },
+            {
+              "href": "/ru/reviews/roobet",
+              "img": "/img/roobet-logo.png",
+              "alt": "Roobet logo"
+            },
+            {
+              "href": "/ru/reviews/bcgame",
+              "img": "/img/bcgame-logo.webp",
+              "alt": "BC.Game logo"
+            },
+            {
+              "href": "/ru/reviews/gamdom",
+              "img": "/img/gamdom-logo.webp",
+              "alt": "Gamdom logo"
+            },
+            {
+              "href": "/ru/reviews/duelbits",
+              "img": "/img/duelbits-logo.webp",
+              "alt": "Duelbits logo"
+            },
+            {
+              "href": "/ru/reviews/howlgg",
+              "img": "/img/howlgg-logo.webp",
+              "alt": "HowlGG logo"
+            },
+            {
+              "href": "/ru/reviews/csgoempire",
+              "img": "/img/csgoempire-logo.webp",
+              "alt": "CSGOEmpire logo"
+            },
+            {
+              "href": "/ru/reviews/rollbit",
+              "img": "/img/rollbit-logo.webp",
+              "alt": "Rollbit logo"
+            }
+          ]
+        }
+      ],
+      "solid": [
+        {
+          "href": "/crypto",
+          "text": {
+            "en": "Gambling Sites",
+            "ru": "Гемблинг Сайты"
+          }
+        },
+        {
+          "href": "/crypto/matchbetting",
+          "text": {
+            "en": "Match Betting",
+            "ru": "Ставки на Матчи"
+          }
+        },
+        {
+          "href": "/crypto/casino",
+          "text": {
+            "en": "Slots",
+            "ru": "Слоты"
+          }
+        },
+        {
+          "href": "/crypto/roulette",
+          "text": {
+            "en": "Roulette",
+            "ru": "Рулетка"
+          }
+        },
+        {
+          "href": "/crypto/coinflip",
+          "text": {
+            "en": "Coinflip",
+            "ru": "Коинфлип"
+          }
+        },
+        {
+          "href": "/crypto/crash",
+          "text": {
+            "en": "Crash",
+            "ru": "Краш"
+          }
+        }
+      ]
+    },
+    {
+      "key": "earning",
+      "icon": "earning",
+      "title": {
+        "en": "Earning Sites",
+        "ru": "Заработок"
+      },
+      "groups": [
+        {
+          "reviews": [
+            {
+              "href": "/reviews/freecash",
+              "img": "/img/freecash-logo.webp",
+              "alt": "Freecash logo"
+            },
+            {
+              "href": "/reviews/grindbux",
+              "img": "/img/grindbux-logo.png",
+              "alt": "GrindBux logo"
+            },
+            {
+              "href": "/reviews/idle-empire",
+              "img": "/img/idle-empire-logo.png",
+              "alt": "Idle-Empire logo"
+            },
+            {
+              "href": "/reviews/banditcamp",
+              "img": "/img/banditcamp-logo.webp",
+              "alt": "BanditCamp logo"
+            },
+            {
+              "href": "/reviews/freeward",
+              "img": "/img/freeward-logo.webp",
+              "alt": "Freeward logo"
+            },
+            {
+              "href": "/reviews/xplay",
+              "img": "/img/xplay-logo.svg",
+              "alt": "xplay logo"
+            },
+            {
+              "href": "/reviews/salad",
+              "img": "/img/salad-logo.webp",
+              "alt": "Salad logo"
+            },
+            {
+              "href": "/reviews/gametame",
+              "img": "/img/gametame-logo.webp",
+              "alt": "GameTame"
+            },
+            {
+              "href": "/reviews/steamgifts",
+              "img": "/img/steamgifts-logo.png",
+              "alt": "SteamGifts"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/freecash",
+              "img": "/img/freecash-logo.webp",
+              "alt": "Freecash logo"
+            },
+            {
+              "href": "/ru/reviews/grindbux",
+              "img": "/img/grindbux-logo.png",
+              "alt": "GrindBux logo"
+            },
+            {
+              "href": "/ru/reviews/xplay",
+              "img": "/img/xplay-logo.svg",
+              "alt": "xplay logo"
+            },
+            {
+              "href": "/ru/reviews/idle-empire",
+              "img": "/img/idle-empire-logo.png",
+              "alt": "Idle-Empire logo"
+            },
+            {
+              "href": "/ru/reviews/banditcamp",
+              "img": "/img/banditcamp-logo.webp",
+              "alt": "BanditCamp logo"
+            },
+            {
+              "href": "/ru/reviews/freeward",
+              "img": "/img/freeward-logo.webp",
+              "alt": "Freeward logo"
+            },
+            {
+              "href": "/ru/reviews/salad",
+              "img": "/img/salad-logo.webp",
+              "alt": "Salad logo"
+            },
+            {
+              "href": "/ru/reviews/gametame",
+              "img": "/img/gametame-logo.webp",
+              "alt": "GameTame"
+            },
+            {
+              "href": "/ru/reviews/steamgifts",
+              "img": "/img/steamgifts-logo.png",
+              "alt": "SteamGifts"
+            }
+          ]
+        }
+      ],
+      "solid": [
+        {
+          "href": "/earning",
+          "text": {
+            "en": "All Sites",
+            "ru": "Все Сайты"
+          }
+        },
+        {
+          "href": "/earning/offerwalls",
+          "text": {
+            "en": "Offerwall Sites",
+            "ru": "Задания"
+          }
+        },
+        {
+          "href": "/earning/earn-by-play",
+          "text": {
+            "en": "Earn by Play Sites",
+            "ru": "Заработок на Игре"
+          }
+        }
+      ]
+    },
+    {
+      "key": "newest",
+      "icon": "newest",
+      "title": {
+        "en": "Newest Sites",
+        "ru": "Новые Сайты"
+      },
+      "groups": [
+        {
+          "reviews": [
+            {
+              "href": "/reviews/upgrader",
+              "img": "/img/upgrader-logo.webp",
+              "alt": "Upgrader logo"
+            },
+            {
+              "href": "/reviews/petuh",
+              "img": "/img/petuh-logo.webp",
+              "alt": "Petuh logo"
+            },
+            {
+              "href": "/reviews/csbattle",
+              "img": "/img/csbattle-logo.webp",
+              "alt": "CSBattle logo"
+            },
+            {
+              "href": "/reviews/pirateswap",
+              "img": "/img/pirateswap-logo.webp",
+              "alt": "PirateSwap logo"
+            },
+            {
+              "href": "/reviews/rainbet",
+              "img": "/img/rainbet-logo.webp",
+              "alt": "Rainbet logo"
+            },
+            {
+              "href": "/reviews/skinrave",
+              "img": "/img/skinrave-logo.webp",
+              "alt": "SkinRave.GG logo"
+            },
+            {
+              "href": "/reviews/itradegg",
+              "img": "/img/itradegg-logo.svg",
+              "alt": "iTrade.GG logo"
+            },
+            {
+              "href": "/reviews/chickengg",
+              "img": "/img/chickengg-logo.webp",
+              "alt": "Chicken.GG logo"
+            },
+            {
+              "href": "/reviews/splits",
+              "img": "/img/splits-logo.webp",
+              "alt": "Splits logo"
+            },
+            {
+              "href": "/reviews/rustmagic",
+              "img": "/img/rustmagic-logo.webp",
+              "alt": "RustMagic logo"
+            },
+            {
+              "href": "/reviews/rustreaper",
+              "img": "/img/rustreaper-logo.webp",
+              "alt": "RustReaper logo"
+            },
+            {
+              "href": "/reviews/csgostake",
+              "img": "/img/csgostake-logo.webp",
+              "alt": "CSGOStake logo"
+            },
+            {
+              "href": "/reviews/rustly",
+              "img": "/img/rustly-logo.svg",
+              "alt": "Rustly logo"
+            },
+            {
+              "href": "/reviews/cobaltlab",
+              "img": "/img/cobaltlab-logo.webp",
+              "alt": "CobaltLab logo"
+            },
+            {
+              "href": "/reviews/rapidskins",
+              "img": "/img/rapidskins-logo.webp",
+              "alt": "RAPIDSKINS logo"
+            },
+            {
+              "href": "/reviews/skinfans",
+              "img": "/img/skinfans-logo.webp",
+              "alt": "SKINFANS logo"
+            },
+            {
+              "href": "/reviews/ggdrop",
+              "img": "/img/ggdrop-logo.webp",
+              "alt": "GGDROP logo"
+            },
+            {
+              "href": "/reviews/aimmarket",
+              "img": "/img/aimmarket-logo.webp",
+              "alt": "Aim.market logo"
+            },
+            {
+              "href": "/reviews/moonmarket",
+              "img": "/img/moonmarket-logo.webp",
+              "alt": "Moon.Market logo"
+            },
+            {
+              "href": "/reviews/tradeit",
+              "img": "/img/tradeit-logo.webp",
+              "alt": "Tradeit logo"
+            },
+            {
+              "href": "/reviews/skinswap",
+              "img": "/img/skinswap-logo.webp",
+              "alt": "SkinSwap logo"
+            },
+            {
+              "href": "/reviews/xplay",
+              "img": "/img/xplay-logo.svg",
+              "alt": "xplay logo"
+            },
+            {
+              "href": "/reviews/lis-skins",
+              "img": "/img/lis-skins-logo.svg",
+              "alt": "Lis-Skins logo"
+            },
+            {
+              "href": "/reviews/bounty-stars",
+              "img": "/img/bounty-stars-logo.webp",
+              "alt": "Bounty Stars logo"
+            },
+            {
+              "href": "/reviews/banditcamp",
+              "img": "/img/banditcamp-logo.webp",
+              "alt": "BanditCamp logo"
+            },
+            {
+              "href": "/reviews/grindbux",
+              "img": "/img/grindbux-logo.png",
+              "alt": "GrindBux logo"
+            },
+            {
+              "href": "/reviews/rustclash",
+              "img": "/img/rustclash-logo.webp",
+              "alt": "RustClash"
+            },
+            {
+              "href": "/reviews/clashgg",
+              "img": "/img/clashgg-logo.webp",
+              "alt": "Clash.GG logo"
+            },
+            {
+              "href": "/reviews/howlgg",
+              "img": "/img/howlgg-logo.webp",
+              "alt": "HowlGG logo"
+            },
+            {
+              "href": "/reviews/csgoluck",
+              "img": "/img/csgoluck-logo.webp",
+              "alt": "CSGOLuck logo"
+            }
+          ],
+          "reviews-ru": [
+            {
+              "href": "/ru/reviews/upgrader",
+              "img": "/img/upgrader-logo.webp",
+              "alt": "Upgrader logo"
+            },
+            {
+              "href": "/ru/reviews/petuh",
+              "img": "/img/petuh-logo.webp",
+              "alt": "Petuh logo"
+            },
+            {
+              "href": "/ru/reviews/mycsgo",
+              "img": "/img/mycsgo-logo.webp",
+              "alt": "MYCSGO logo"
+            },
+            {
+              "href": "/ru/reviews/csbattle",
+              "img": "/img/csbattle-logo.webp",
+              "alt": "CSBattle logo"
+            },
+            {
+              "href": "/ru/reviews/steamify",
+              "img": "/img/steamify-logo.webp",
+              "alt": "Steamify logo"
+            },
+            {
+              "href": "/ru/reviews/pirateswap",
+              "img": "/img/pirateswap-logo.webp",
+              "alt": "PirateSwap logo"
+            },
+            {
+              "href": "/ru/reviews/rainbet",
+              "img": "/img/rainbet-logo.webp",
+              "alt": "Rainbet logo"
+            },
+            {
+              "href": "/ru/reviews/skinrave",
+              "img": "/img/skinrave-logo.webp",
+              "alt": "SkinRave.GG logo"
+            },
+            {
+              "href": "/ru/reviews/itradegg",
+              "img": "/img/itradegg-logo.svg",
+              "alt": "iTrade.GG logo"
+            },
+            {
+              "href": "/ru/reviews/chickengg",
+              "img": "/img/chickengg-logo.webp",
+              "alt": "Chicken.GG logo"
+            },
+            {
+              "href": "/ru/reviews/splits",
+              "img": "/img/splits-logo.webp",
+              "alt": "Splits logo"
+            },
+            {
+              "href": "/ru/reviews/rustmagic",
+              "img": "/img/rustmagic-logo.webp",
+              "alt": "RustMagic logo"
+            },
+            {
+              "href": "/ru/reviews/rustreaper",
+              "img": "/img/rustreaper-logo.webp",
+              "alt": "RustReaper logo"
+            },
+            {
+              "href": "/ru/reviews/cobaltlab",
+              "img": "/img/cobaltlab-logo.webp",
+              "alt": "CobaltLab logo"
+            },
+            {
+              "href": "/ru/reviews/rustly",
+              "img": "/img/rustly-logo.svg",
+              "alt": "Rustly logo"
+            },
+            {
+              "href": "/ru/reviews/ggdrop",
+              "img": "/img/ggdrop-logo.webp",
+              "alt": "GGDROP logo"
+            },
+            {
+              "href": "/ru/reviews/csgostake",
+              "img": "/img/csgostake-logo.webp",
+              "alt": "CSGOStake logo"
+            },
+            {
+              "href": "/ru/reviews/skinfans",
+              "img": "/img/skinfans-logo.webp",
+              "alt": "SKINFANS logo"
+            },
+            {
+              "href": "/ru/reviews/rapidskins",
+              "img": "/img/rapidskins-logo.webp",
+              "alt": "RAPIDSKINS logo"
+            },
+            {
+              "href": "/ru/reviews/aimmarket",
+              "img": "/img/aimmarket-logo.webp",
+              "alt": "Aim.market logo"
+            },
+            {
+              "href": "/ru/reviews/tradeit",
+              "img": "/img/tradeit-logo.webp",
+              "alt": "Tradeit logo"
+            },
+            {
+              "href": "/ru/reviews/skinswap",
+              "img": "/img/skinswap-logo.webp",
+              "alt": "SkinSwap logo"
+            },
+            {
+              "href": "/ru/reviews/xplay",
+              "img": "/img/xplay-logo.svg",
+              "alt": "xplay logo"
+            },
+            {
+              "href": "/ru/reviews/lis-skins",
+              "img": "/img/lis-skins-logo.svg",
+              "alt": "Lis-Skins logo"
+            },
+            {
+              "href": "/ru/reviews/bounty-stars",
+              "img": "/img/bounty-stars-logo.webp",
+              "alt": "Bounty Stars logo"
+            },
+            {
+              "href": "/ru/reviews/banditcamp",
+              "img": "/img/banditcamp-logo.webp",
+              "alt": "BanditCamp logo"
+            },
+            {
+              "href": "/ru/reviews/grindbux",
+              "img": "/img/grindbux-logo.png",
+              "alt": "GrindBux logo"
+            },
+            {
+              "href": "/ru/reviews/rustclash",
+              "img": "/img/rustclash-logo.webp",
+              "alt": "RustClash logo"
+            },
+            {
+              "href": "/ru/reviews/clashgg",
+              "img": "/img/clashgg-logo.webp",
+              "alt": "Clash.GG logo"
+            },
+            {
+              "href": "/ru/reviews/howlgg",
+              "img": "/img/howlgg-logo.webp",
+              "alt": "HowlGG logo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "wiki",
+      "icon": "wiki",
+      "title": {
+        "en": "Skins Wiki",
+        "ru": "Вики CS2"
+      },
+      "solid": [
+        {
+          "href": "/topic/items",
+          "img": "/img/icons/gamemodes/box-open-full.svg",
+          "text": {
+            "en": "All Items",
+            "ru": "Все Предметы"
+          }
+        },
+        {
+          "href": "/topic/items-type/knives",
+          "img": "/img/icons/gamemodes/knives-category.svg",
+          "text": {
+            "en": "All Knives",
+            "ru": "Все Ножи"
+          }
+        },
+        {
+          "href": "/topic/items-type/gloves",
+          "img": "/img/icons/gamemodes/gloves-category.svg",
+          "text": {
+            "en": "All Gloves",
+            "ru": "Все Перчатки"
+          }
+        },
+        {
+          "href": "/topic/items-type/rifles",
+          "img": "/img/icons/gamemodes/rifles-category.png",
+          "text": {
+            "en": "All Rifles",
+            "ru": "Все Винтовки"
+          }
+        },
+        {
+          "href": "/topic/items-type/sniper-rifles",
+          "img": "/img/icons/gamemodes/snipers-category.svg",
+          "text": {
+            "en": "All Sniper Rifles",
+            "ru": "Все Снайпер. Винтовки"
+          }
+        },
+        {
+          "href": "/topic/items-type/pistols",
+          "img": "/img/icons/gamemodes/pistols-category.svg",
+          "text": {
+            "en": "All Pistols",
+            "ru": "Все Пистолеты"
+          }
+        },
+        {
+          "href": "/topic/items-type/smgs",
+          "img": "/img/icons/gamemodes/smgs-category.svg",
+          "text": {
+            "en": "All SMGS",
+            "ru": "Все ПП"
+          }
+        },
+        {
+          "href": "/topic/items-type/shotguns",
+          "img": "/img/icons/gamemodes/shotguns-category.svg",
+          "text": {
+            "en": "All Shotguns",
+            "ru": "Все Дробовики"
+          }
+        },
+        {
+          "href": "/topic/items-type/machineguns",
+          "img": "/img/icons/gamemodes/mguns-category.svg",
+          "text": {
+            "en": "All Machineguns",
+            "ru": "Все Пулеметы"
+          }
+        },
+        {
+          "href": "/topic/items/agents",
+          "img": "/img/icons/gamemodes/agents.webp",
+          "text": {
+            "en": "All Agents",
+            "ru": "Все Агенты"
+          }
+        },
+        {
+          "href": "/topic/items-type/cases",
+          "img": "/img/icons/gamemodes/mods-box/cases.webp",
+          "text": {
+            "en": "All Cases",
+            "ru": "Все Кейсы"
+          }
+        },
+        {
+          "href": "/topic/items-type/collections",
+          "img": "/img/icons/gamemodes/collections.webp",
+          "text": {
+            "en": "All Collections",
+            "ru": "Все Коллекции"
+          }
+        },
+        {
+          "href": "/topic/items-type/sticker-capsules",
+          "img": "/img/icons/gamemodes/capsule-category.png",
+          "text": {
+            "en": "All Sticker Capsules",
+            "ru": "Все Стикер-Капсулы"
+          }
+        },
+        {
+          "href": "/topic/items-type/autograph-capsules",
+          "img": "/img/icons/gamemodes/capsule-category.png",
+          "text": {
+            "en": "All Autograph Capsules",
+            "ru": "Все Автограф-Капсулы"
+          }
+        },
+        {
+          "href": "/topic/items-type/charms",
+          "img": "/img/icons/gamemodes/charms.png",
+          "text": {
+            "en": "All Charms",
+            "ru": "Все Брелоки"
+          }
+        },
+        {
+          "href": "/topic/skins",
+          "img": "/img/icons/gamemodes/palette.png",
+          "text": {
+            "en": "Skins by Color CS2",
+            "ru": "Все Скины по Цвету"
+          }
+        },
+        {
+          "href": "/topic/sticker-crafts",
+          "img": "/img/icons/gamemodes/stickers-category.png",
+          "text": {
+            "en": "All Sticker Crafts",
+            "ru": "Все Стикер-Крафты"
+          }
+        }
+      ]
+    }
+  ]
+}

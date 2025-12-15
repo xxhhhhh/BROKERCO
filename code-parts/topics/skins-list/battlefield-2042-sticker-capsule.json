@@ -1,0 +1,104 @@
+{
+  "PAC AI (Foil)": {
+    "class": "pink",
+    "name": "Sticker | PAC AI (Foil)",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-pac-ai-foil.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-pac-ai-foil.png"
+  },
+  "Tornado Chaos (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Tornado Chaos (Foil)",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-tornado-chaos-foil.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-tornado-chaos-foil.png"
+  },
+  "Mr. Chompy (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Mr. Chompy (Foil)",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-mr-chompy-foil.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-mr-chompy-foil.png"
+  },
+  "No Pats (Holo)": {
+    "class": "purple",
+    "name": "Sticker | No Pats (Holo)",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-no-pats-holo.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-no-pats-holo.png"
+  },
+  "PTFO (Holo)": {
+    "class": "purple",
+    "name": "Sticker | PTFO (Holo)",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-ptfo-holo.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-ptfo-holo.png"
+  },
+  "Ready For Battle (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Ready For Battle (Holo)",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-ready-for-battle-holo.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-ready-for-battle-holo.png"
+  },
+  "Wingsuit (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Wingsuit (Holo)",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-wingsuit-holo.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-wingsuit-holo.png"
+  },
+  "No Pats": {
+    "class": "blue",
+    "name": "Sticker | No Pats",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-no-pats.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-no-pats.png"
+  },
+  "Forty Two": {
+    "class": "blue",
+    "name": "Sticker | Forty Two",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-forty-two.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-forty-two.png"
+  },
+  "BF 2042": {
+    "class": "blue",
+    "name": "Sticker | BF 2042",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-bf-2042.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-bf-2042.png"
+  },
+  "PTFO": {
+    "class": "blue",
+    "name": "Sticker | PTFO",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-ptfo.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-ptfo.png"
+  },
+  "Knives Out": {
+    "class": "blue",
+    "name": "Sticker | Knives Out",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-knives-out.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-knives-out.png"
+  },
+  "PAC AI": {
+    "class": "blue",
+    "name": "Sticker | PAC AI",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-pac-ai.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-pac-ai.png"
+  },
+  "Mr. Chompy": {
+    "class": "blue",
+    "name": "Sticker | Mr. Chompy",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-mr-chompy.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-mr-chompy.png"
+  },
+  "Battlefield Portal": {
+    "class": "blue",
+    "name": "Sticker | Battlefield Portal",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-battlefield-portal.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-battlefield-portal.png"
+  },
+  "Ready For Battle": {
+    "class": "blue",
+    "name": "Sticker | Ready For Battle",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-ready-for-battle.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-ready-for-battle.png"
+  },
+  "Come Here Boy": {
+    "class": "blue",
+    "name": "Sticker | Come Here Boy",
+    "image": "/img/skins/stickers/battlefield-2042/sticker-come-here-boy.png",
+    "imageOG": "/img/skins/stickers/battlefield-2042/small/sticker-come-here-boy.png"
+  }
+}

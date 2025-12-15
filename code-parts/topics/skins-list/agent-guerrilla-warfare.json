@@ -1,0 +1,51 @@
+{
+  "Crasswater The Forgotten": {
+    "class": "red",
+    "name": "Crasswater The Forgotten | Guerrilla Warfare",
+    "image": "/img/skins/agents/guerrilla-warfare/crasswater-the-forgotten.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "'Medium Rare' Crasswater": {
+    "class": "red",
+    "name": "'Medium Rare' Crasswater | Guerrilla Warfare",
+    "image": "/img/skins/agents/guerrilla-warfare/medium-rare-crasswater.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "Vypa Sista of the Revolution": {
+    "class": "red",
+    "name": "Vypa Sista of the Revolution | Guerrilla Warfare",
+    "image": "/img/skins/agents/guerrilla-warfare/vypa-sista-of-the-revolution.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "Elite Trapper Solman": {
+    "class": "pink",
+    "name": "Elite Trapper Solman | Guerrilla Warfare",
+    "image": "/img/skins/agents/guerrilla-warfare/elite-trapper-solman.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "Arno The Overgrown": {
+    "class": "pink",
+    "name": "Arno The Overgrown | Guerrilla Warfare",
+    "image": "/img/skins/agents/guerrilla-warfare/arno-the-overgrown.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "Col. Mangos Dabisi": {
+    "class": "purple",
+    "name": "Col. Mangos Dabisi | Guerrilla Warfare",
+    "image": "/img/skins/agents/guerrilla-warfare/col-mangos-dabisi.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "Trapper": {
+    "class": "purple",
+    "name": "Trapper | Guerrilla Warfare",
+    "image": "/img/skins/agents/guerrilla-warfare/trapper.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  }
+}

@@ -1,0 +1,55 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/matchbetting\" aria-label=\"Esports Betting\" class=\"cs2\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Slots\" class=\"slots\"></a>",
+        "<a href=\"/csgo/matchbetting\" aria-label=\"Sport Betting\" class=\"sport\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Live Dealer\" class=\"livedealer\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Poker\" class=\"poker\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Blackjack\" class=\"blackjack\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Baccarat\" class=\"baccarat\"></a>",
+        "<a href=\"/csgo/roulette\" aria-label=\"Wheel of Fortune\" class=\"wheel\"></a>",
+        "<a href=\"/csgo/coinflip\" aria-label=\"Coinflip\" class=\"coinflip\"></a>",
+        "<a href=\"/csgo/crash\" aria-label=\"Crash\" class=\"crash\"></a>",
+        "<a href=\"/csgo/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/csgo/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/csgo/jackpot\" aria-label=\"Jackpot\" class=\"jackpot\"></a>",
+        "<a href=\"/csgo/mines\" aria-label=\"Mines\" class=\"mines\"></a>",
+        "<a href=\"/\" aria-label=\"Towers\" class=\"towers\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 4,
+        "Payments": 4,
+        "Playability": 4.5
+    },
+    "codes": {
+        "Free Else": "5 Free Cases",
+        "Deposit Bonus": "+100%"
+    },
+    "name": "CSGOLuck",
+    "languages": "en, ru, tr, es",
+    "link": "https://csgoluck.com/r/CSGOBROKER",
+    "featuresContent": ["SignUpBonus", "DepositBonus", "ProgressiveRewards", "DailyRewards", "Rakeback"],
+    "code": "csgobroker",
+    "Main Mode": "classic",
+    "Sites Alternatives"  : ["csgo500", "csgofast", "csgopolygon", "csgoempire"]
+}

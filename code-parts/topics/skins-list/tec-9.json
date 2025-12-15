@@ -1,0 +1,415 @@
+{
+  "Bamboo Forest": {
+    "class": "white",
+    "image": "/img/skins/tec-9/bamboo-forest.webp",
+    "name": "Tec-9 | Bamboo Forest",
+    "color": [
+      "Green",
+      "White"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Whiteout": {
+    "class": "purple",
+    "image": "/img/skins/tec-9/whiteout.webp",
+    "name": "Tec-9 | Whiteout",
+    "color": [
+      "White"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Hades": {
+    "class": "lblue",
+    "image": "/img/skins/tec-9/hades.webp",
+    "name": "Tec-9 | Hades",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Avalanche": {
+    "class": "purple",
+    "image": "/img/skins/tec-9/avalanche.webp",
+    "name": "Tec-9 | Avalanche",
+    "color": [
+      "Blue",
+      "Cyan"
+    ],
+    "case": "Revolver Case"
+  },
+  "Urban DDPAT": {
+    "class": "white",
+    "image": "/img/skins/tec-9/urban-ddpat.webp",
+    "name": "Tec-9 | Urban DDPAT",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Slag": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/slag.webp",
+    "name": "Tec-9 | Slag",
+    "color": [
+      "Gray"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Cut Out": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/cut-out.webp",
+    "name": "Tec-9 | Cut Out",
+    "color": [
+      "White"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Jambiya": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/jambiya.webp",
+    "name": "Tec-9 | Jambiya",
+    "color": [
+      "Gray"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Rebel": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/rebel.webp",
+    "name": "Tec-9 | Rebel",
+    "color": [],
+    "case": "Revolution Case"
+  },
+  "Blast From the Past": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/blast-from-the-past.webp",
+    "name": "Tec-9 | Blast From the Past",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "VariCamo": {
+    "class": "lblue",
+    "image": "/img/skins/tec-9/varicamo.webp",
+    "name": "Tec-9 | VariCamo",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Mummy's Rot": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/mummys-rot.webp",
+    "name": "Tec-9 | Mummy's Rot",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Brother": {
+    "class": "purple",
+    "image": "/img/skins/tec-9/brother.webp",
+    "name": "Tec-9 | Brother",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "case": "Fracture Case"
+  },
+  "Cracked Opal": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/cracked-opal.webp",
+    "name": "Tec-9 | Cracked Opal",
+    "color": [
+      "Brown",
+      "Cyan"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Rust Leaf": {
+    "class": "lblue",
+    "image": "/img/skins/tec-9/rust-leaf.webp",
+    "name": "Tec-9 | Rust Leaf",
+    "color": [],
+    "collection": "The St. Marc Collection"
+  },
+  "Orange Murano": {
+    "class": "lblue",
+    "image": "/img/skins/tec-9/orange-murano.webp",
+    "name": "Tec-9 | Orange Murano",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Army Mesh": {
+    "class": "white",
+    "image": "/img/skins/tec-9/army-mesh.webp",
+    "name": "Tec-9 | Army Mesh",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Safehouse Collection"
+  },
+  "Flash Out": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/flash-out.webp",
+    "name": "Tec-9 | Flash Out",
+    "color": [],
+    "case": "CS20 Case"
+  },
+  "Tornado": {
+    "class": "white",
+    "image": "/img/skins/tec-9/tornado.webp",
+    "name": "Tec-9 | Tornado",
+    "color": [],
+    "collection": "The Alpha Collection"
+  },
+  "Isaac": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/isaac.webp",
+    "name": "Tec-9 | Isaac",
+    "color": [
+      "Black",
+      "Red"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Re-Entry": {
+    "class": "purple",
+    "image": "/img/skins/tec-9/re-entry.webp",
+    "name": "Tec-9 | Re-Entry",
+    "color": [
+      "Blue",
+      "Orange"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Snek-9": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/snek-9.webp",
+    "name": "Tec-9 | Snek-9",
+    "color": [
+      "Red"
+    ],
+    "case": "Horizon Case"
+  },
+  "Safety Net": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/safety-net.webp",
+    "name": "Tec-9 | Safety Net",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Toxic": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/toxic.webp",
+    "name": "Tec-9 | Toxic",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Red Quartz": {
+    "class": "purple",
+    "image": "/img/skins/tec-9/red-quartz.webp",
+    "name": "Tec-9 | Red Quartz",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Terrace": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/terrace.webp",
+    "name": "Tec-9 | Terrace",
+    "color": [
+      "Yellow"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Fuel Injector": {
+    "class": "pink",
+    "image": "/img/skins/tec-9/fuel-injector.webp",
+    "name": "Tec-9 | Fuel Injector",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Brass": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/brass.webp",
+    "name": "Tec-9 | Brass",
+    "color": [
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Inferno Collection"
+  },
+  "Fubar": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/fubar.webp",
+    "name": "Tec-9 | Fubar",
+    "color": [
+      "Green"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Groundwater": {
+    "class": "white",
+    "image": "/img/skins/tec-9/groundwater.webp",
+    "name": "Tec-9 | Groundwater",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Ossified": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/ossified.webp",
+    "name": "Tec-9 | Ossified",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Aztec Collection"
+  },
+  "Bamboozle": {
+    "class": "purple",
+    "image": "/img/skins/tec-9/bamboozle.webp",
+    "name": "Tec-9 | Bamboozle",
+    "color": [
+      "Green"
+    ],
+    "case": "Prisma Case"
+  },
+  "Nuclear Threat": {
+    "class": "purple",
+    "image": "/img/skins/tec-9/nuclear-threat.webp",
+    "name": "Tec-9 | Nuclear Threat",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Nuke Collection"
+  },
+  "Remote Control": {
+    "class": "pink",
+    "image": "/img/skins/tec-9/remote-control.webp",
+    "name": "Tec-9 | Remote Control",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Blue Titanium": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/blue-titanium.webp",
+    "name": "Tec-9 | Blue Titanium",
+    "color": [
+      "Blue"
+    ],
+    "case": "CS:GO Weapon Case 2"
+  },
+  "Titanium Bit": {
+    "class": "purple",
+    "image": "/img/skins/tec-9/titanium-bit.webp",
+    "name": "Tec-9 | Titanium Bit",
+    "color": [
+      "Blue"
+    ],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Ice Cap": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/ice-cap.webp",
+    "name": "Tec-9 | Ice Cap",
+    "color": [
+      "Blue"
+    ],
+    "case": "Gamma Case"
+  },
+  "Phoenix Chalk": {
+    "class": "white",
+    "image": "/img/skins/tec-9/phoenix-chalk.webp",
+    "name": "Tec-9 | Phoenix Chalk",
+    "color": [],
+    "collection": "The Havoc Collection"
+  },
+  "Sandstorm": {
+    "class": "blue",
+    "image": "/img/skins/tec-9/sandstorm.webp",
+    "name": "Tec-9 | Sandstorm",
+    "color": [
+      "Purple"
+    ],
+    "case": "Operation Phoenix Weapon Case"
+  },
+  "Decimator": {
+    "class": "pink",
+    "image": "/img/skins/tec-9/deciminator.webp",
+    "name": "Tec-9 | Decimator",
+    "color": [
+      "Blue",
+      "Pink",
+      "Purple"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Tiger Stencil": {
+    "class": "lblue",
+    "image": "/img/skins/tec-9/tiger-stencil.webp",
+    "name": "Tec-9 | Tiger Stencil",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Blue Blast": {
+    "class": "white",
+    "image": "/img/skins/tec-9/blue-blast.webp",
+    "name": "Tec-9 | Blue Blast",
+    "color": [
+      "Cyan",
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Citric Acid": {
+    "class": "lblue",
+    "image": "/img/skins/tec-9/citric-acid.webp",
+    "name": "Tec-9 | Citric Acid",
+    "color": [
+      "Yellow"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Garter-9": {
+    "class": "lblue",
+    "image": "/img/skins/tec-9/garter-9.webp",
+    "name": "Tec-9 | Garter-9",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  },
+  "Raw Ceramic": {
+    "class": "white",
+    "image": "/img/skins/tec-9/raw-ceramic.webp",
+    "name": "Tec-9 | Raw Ceramic",
+    "color": [],
+    "collection": "The Boreal Collection"
+  }
+}

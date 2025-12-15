@@ -1,0 +1,233 @@
+{
+  "customPath": "stickers",
+  "items": [
+    {
+      "id": "budapest-2025-legends-autograph-capsule",
+      "title": "Budapest 2025 Legends",
+      "img": "/img/skins/sticker-capsules/budapest-2025-legends-autograph-capsule.png",
+      "date": "13.11.25"
+    },
+    {
+      "id": "budapest-2025-challengers-autograph-capsule",
+      "title": "Budapest 2025 Challengers",
+      "img": "/img/skins/sticker-capsules/budapest-2025-challengers-autograph-capsule.png",
+      "date": "13.11.25"
+    },
+    {
+      "id": "budapest-2025-contenders-autograph-capsule",
+      "title": "Budapest 2025 Contenders",
+      "img": "/img/skins/sticker-capsules/budapest-2025-contenders-autograph-capsule.png",
+      "date": "13.11.25"
+    },
+    {
+      "id": "austin-2025-champions-autograph-capsule",
+      "title": "Austin 2025 Champions",
+      "img": "/img/skins/sticker-capsules/austin-2025-champions-autograph-capsule.png",
+      "date": "02.07.25"
+    },
+    {
+      "id": "austin-2025-legends-autograph-capsule",
+      "title": "Austin 2025 Legends",
+      "img": "/img/skins/sticker-capsules/austin-2025-legends-autograph-capsule.png",
+      "date": "22.05.25"
+    },
+    {
+      "id": "austin-2025-challengers-autograph-capsule",
+      "title": "Austin 2025 Challengers",
+      "img": "/img/skins/sticker-capsules/austin-2025-challengers-autograph-capsule.png",
+      "date": "22.05.25"
+    },
+    {
+      "id": "austin-2025-contenders-autograph-capsule",
+      "title": "Austin 2025 Contenders",
+      "img": "/img/skins/sticker-capsules/austin-2025-contenders-autograph-capsule.png",
+      "date": "22.05.25"
+    },
+    {
+      "id": "shanghai-2024-champions-autograph-capsule",
+      "title": "Shanghai 2024 Champions",
+      "img": "/img/skins/sticker-capsules/shanghai-2024-champions-autograph-capsule.png",
+      "date": "19.12.24"
+    },
+    {
+      "id": "shanghai-2024-legends-autograph-capsule",
+      "title": "Shanghai 2024 Legends",
+      "img": "/img/skins/sticker-capsules/shanghai-2024-legends-autograph-capsule.png",
+      "date": "27.11.24"
+    },
+    {
+      "id": "shanghai-2024-challengers-autograph-capsule",
+      "title": "Shanghai 2024 Challengers",
+      "img": "/img/skins/sticker-capsules/shanghai-2024-challengers-autograph-capsule.png",
+      "date": "27.11.24"
+    },
+    {
+      "id": "copenhagen-2024-challengers-autograph-capsule",
+      "title": "Copenhagen 2024 Challengers",
+      "img": "/img/skins/sticker-capsules/copenhagen-2024-challengers-autograph-capsule.png",
+      "date": "13.03.24"
+    },
+    {
+      "id": "shanghai-2024-contenders-autograph-capsule",
+      "title": "Shanghai 2024 Contenders",
+      "img": "/img/skins/sticker-capsules/shanghai-2024-contenders-autograph-capsule.png",
+      "date": "27.11.24"
+    },
+    {
+      "id": "copenhagen-2024-champions-autograph-capsule",
+      "title": "Copenhagen 2024 Champions",
+      "img": "/img/skins/sticker-capsules/copenhagen-2024-champions-autograph-capsule.png",
+      "date": "02.04.24"
+    },
+    {
+      "id": "copenhagen-2024-contenders-autograph-capsule",
+      "title": "Copenhagen 2024 Contenders",
+      "img": "/img/skins/sticker-capsules/copenhagen-2024-contenders-autograph-capsule.png",
+      "date": "13.03.24"
+    },
+    {
+      "id": "copenhagen-2024-legends-autograph-capsule",
+      "title": "Copenhagen 2024 Legends",
+      "img": "/img/skins/sticker-capsules/copenhagen-2024-legends-autograph-capsule.png",
+      "date": "13.03.24"
+    },
+    {
+      "id": "paris-2023-legends-autograph-capsule",
+      "title": "Paris 2023 Legends",
+      "img": "/img/skins/sticker-capsules/paris-2023-legends-autograph-capsule.png",
+      "date": "04.05.23"
+    },
+    {
+      "id": "paris-2023-contenders-autograph-capsule",
+      "title": "Paris 2023 Contenders",
+      "img": "/img/skins/sticker-capsules/paris-2023-contenders-autograph-capsule.png",
+      "date": "04.05.23"
+    },
+    {
+      "id": "paris-2023-challengers-autograph-capsule",
+      "title": "Paris 2023 Challengers",
+      "img": "/img/skins/sticker-capsules/paris-2023-challengers-autograph-capsule.png",
+      "date": "04.05.23"
+    },
+    {
+      "id": "paris-2023-champions-autograph-capsule",
+      "title": "Paris 2023 Champions",
+      "img": "/img/skins/sticker-capsules/paris-2023-champions-autograph-capsule.png",
+      "date": "01.06.23"
+    },
+    {
+      "id": "rio-2022-legends-autograph-capsule",
+      "title": "Rio 2022 Legends",
+      "img": "/img/skins/sticker-capsules/rio-2022-legends-autograph-capsule.png",
+      "date": "21.10.22"
+    },
+    {
+      "id": "rio-2022-contenders-autograph-capsule",
+      "title": "Rio 2022 Contenders",
+      "img": "/img/skins/sticker-capsules/rio-2022-contenders-autograph-capsule.png",
+      "date": "21.10.22"
+    },
+    {
+      "id": "rio-2022-challengers-autograph-capsule",
+      "title": "Rio 2022 Challengers",
+      "img": "/img/skins/sticker-capsules/rio-2022-challengers-autograph-capsule.png",
+      "date": "21.10.22"
+    },
+    {
+      "id": "rio-2022-champions-autograph-capsule",
+      "title": "Rio 2022 Champions",
+      "img": "/img/skins/sticker-capsules/rio-2022-champions-autograph-capsule.png",
+      "date": "15.11.22"
+    },
+    {
+      "id": "antwerp-2022-legends-autograph-capsule",
+      "title": "Antwerp 2022 Legends",
+      "img": "/img/skins/sticker-capsules/antwerp-2022-legends-autograph-capsule.png",
+      "date": "03.05.22"
+    },
+    {
+      "id": "antwerp-2022-contenders-autograph-capsule",
+      "title": "Antwerp 2022 Contenders",
+      "img": "/img/skins/sticker-capsules/antwerp-2022-contenders-autograph-capsule.png",
+      "date": "03.05.22"
+    },
+    {
+      "id": "antwerp-2022-challengers-autograph-capsule",
+      "title": "Antwerp 2022 Challengers",
+      "img": "/img/skins/sticker-capsules/antwerp-2022-challengers-autograph-capsule.png",
+      "date": "03.05.22"
+    },
+    {
+      "id": "antwerp-2022-champions-autograph-capsule",
+      "title": "Antwerp 2022 Champions",
+      "img": "/img/skins/sticker-capsules/antwerp-2022-champions-autograph-capsule.png",
+      "date": "23.05.22"
+    },
+    {
+      "id": "stockholm-2021-finalists-autograph-capsule",
+      "title": "Stockholm 2021 Finalists",
+      "img": "/img/skins/sticker-capsules/stockholm-2021-finalists-autograph-capsule.png",
+      "date": "09.11.21"
+    },
+    {
+      "id": "stockholm-2021-champions-autograph-capsule",
+      "title": "Stockholm 2021 Champions",
+      "img": "/img/skins/sticker-capsules/stockholm-2021-champions-autograph-capsule.png",
+      "date": "09.11.21"
+    },
+    {
+      "id": "berlin-2019-returning-challengers-autograph-capsule",
+      "title": "Berlin 2019 Returning Challengers",
+      "img": "/img/skins/sticker-capsules/berlin-2019-returning-challengers-autograph-capsule.png",
+      "date": "14.08.19"
+    },
+    {
+      "id": "berlin-2019-minor-challengers-autograph-capsule",
+      "title": "Berlin 2019 Minor Challengers",
+      "img": "/img/skins/sticker-capsules/berlin-2019-minor-challengers-autograph-capsule.png",
+      "date": "14.08.19"
+    },
+    {
+      "id": "berlin-2019-legends-autograph-capsule",
+      "title": "Berlin 2019 Legends",
+      "img": "/img/skins/sticker-capsules/berlin-2019-legends-autograph-capsule.png",
+      "date": "14.08.19"
+    },
+    {
+      "id": "katowice-2019-returning-challengers-autograph-capsule",
+      "title": "Katowice 2019 Returning Challengers",
+      "img": "/img/skins/sticker-capsules/katowice-2019-returning-challengers-autograph-capsule.png",
+      "date": "06.02.19"
+    },
+    {
+      "id": "katowice-2019-minor-challengers-autograph-capsule",
+      "title": "Katowice 2019 Minor Challengers",
+      "img": "/img/skins/sticker-capsules/katowice-2019-minor-challengers-autograph-capsule.png",
+      "date": "06.02.19"
+    },
+    {
+      "id": "katowice-2019-legends-autograph-capsule",
+      "title": "Katowice 2019 Legends",
+      "img": "/img/skins/sticker-capsules/katowice-2019-legends-autograph-capsule.png",
+      "date": "06.02.19"
+    },
+    {
+      "id": "london-2018-returning-challengers-autograph-capsule",
+      "title": "London 2018 Returning Challengers",
+      "img": "/img/skins/sticker-capsules/london-2018-returning-challengers-autograph-capsule.webp",
+      "date": "29.08.18"
+    },
+    {
+      "id": "london-2018-minor-challengers-autograph-capsule",
+      "title": "London 2018 Minor Challengers",
+      "img": "/img/skins/sticker-capsules/london-2018-minor-challengers-autograph-capsule.webp",
+      "date": "29.08.18"
+    },
+    {
+      "id": "london-2018-legends-autograph-capsule",
+      "title": "London 2018 Legends",
+      "img": "/img/skins/sticker-capsules/london-2018-legends-autograph-capsule.webp",
+      "date": "29.08.18"
+    }
+  ]
+}

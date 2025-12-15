@@ -1,0 +1,104 @@
+{
+  "Legendary (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Legendary (Foil)",
+    "image": "/img/skins/stickers/halo-stickers/sticker-legendary-foil.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-legendary-foil.png"
+  },
+  "Chief (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Chief (Foil)",
+    "image": "/img/skins/stickers/halo-stickers/sticker-chief-foil.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-chief-foil.png"
+  },
+  "Incineration (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Incineration (Holo)",
+    "image": "/img/skins/stickers/halo-stickers/sticker-incineration-holo.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-incineration-holo.png"
+  },
+  "Assassin (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Assassin (Holo)",
+    "image": "/img/skins/stickers/halo-stickers/sticker-assassin-holo.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-assassin-holo.png"
+  },
+  "Killjoy (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Killjoy (Holo)",
+    "image": "/img/skins/stickers/halo-stickers/sticker-killjoy-holo.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-killjoy-holo.png"
+  },
+  "Noble (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Noble (Holo)",
+    "image": "/img/skins/stickers/halo-stickers/sticker-noble-holo.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-noble-holo.png"
+  },
+  "Chief (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Chief (Holo)",
+    "image": "/img/skins/stickers/halo-stickers/sticker-chief-holo.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-chief-holo.png"
+  },
+  "Assassin": {
+    "class": "blue",
+    "name": "Sticker | Assassin",
+    "image": "/img/skins/stickers/halo-stickers/sticker-assassin.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-assassin.png"
+  },
+  "Killjoy": {
+    "class": "blue",
+    "name": "Sticker | Killjoy",
+    "image": "/img/skins/stickers/halo-stickers/sticker-killjoy.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-killjoy.png"
+  },
+  "Noble": {
+    "class": "blue",
+    "name": "Sticker | Noble",
+    "image": "/img/skins/stickers/halo-stickers/sticker-noble.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-noble.png"
+  },
+  "Dirty Money": {
+    "class": "blue",
+    "name": "Sticker | Dirty Money",
+    "image": "/img/skins/stickers/halo-stickers/sticker-dirty-money.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-dirty-money.png"
+  },
+  "Mister Chief": {
+    "class": "blue",
+    "name": "Sticker | Mister Chief",
+    "image": "/img/skins/stickers/halo-stickers/sticker-mister-chief.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-mister-chief.png"
+  },
+  "Incineration": {
+    "class": "blue",
+    "name": "Sticker | Incineration",
+    "image": "/img/skins/stickers/halo-stickers/sticker-incineration.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-incineration.png"
+  },
+  "Extermination": {
+    "class": "blue",
+    "name": "Sticker | Extermination",
+    "image": "/img/skins/stickers/halo-stickers/sticker-extermination.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-extermination.png"
+  },
+  "Legendary": {
+    "class": "blue",
+    "name": "Sticker | Legendary",
+    "image": "/img/skins/stickers/halo-stickers/sticker-legendary.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-legendary.png"
+  },
+  "Spartan": {
+    "class": "blue",
+    "name": "Sticker | Spartan",
+    "image": "/img/skins/stickers/halo-stickers/sticker-spartan.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-spartan.png"
+  },
+  "Chief": {
+    "class": "blue",
+    "name": "Sticker | Chief",
+    "image": "/img/skins/stickers/halo-stickers/sticker-chief.png",
+    "imageOG": "/img/skins/stickers/halo-stickers/small/sticker-chief.png"
+  }
+}

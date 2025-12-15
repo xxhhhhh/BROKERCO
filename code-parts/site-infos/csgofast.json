@@ -1,0 +1,67 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/jackpot\" aria-label=\"Jackpot\" class=\"jackpot\"></a>",
+        "<a href=\"/\" aria-label=\"Duels\" class=\"duels\"></a>",
+        "<a href=\"/csgo/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/csgo/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/\" aria-label=\"Hilo\" class=\"hilo\"></a>",
+        "<a href=\"/csgo/crash\" aria-label=\"Crash\" class=\"crash\"></a>",
+        "<a href=\"/csgo/roulette\" aria-label=\"Roulette\" class=\"roulette\"></a>",
+        "<a href=\"/csgo/roulette\" aria-label=\"Wheel of Fortune\" class=\"wheel\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Baccarat\" class=\"baccarat\"></a>",
+        "<a href=\"/\" aria-label=\"Towers\" class=\"towers\"></a>",
+        "<a href=\"/csgo/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>",
+        "<a href=\"/csgo/casino\" aria-label=\"Slots\" class=\"slots\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Cardano\" class=\"cardano\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"TON Coin\" class=\"ton\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>",
+        "<a href=\"/\" aria-label=\"UnionPay\" class=\"unionpay\"></a>",
+        "<a href=\"/\" aria-label=\"YUMoney\" class=\"yumoney\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 3.5,
+        "Payments": 3.5,
+        "Playability": 4
+    },
+    "codes": {
+        "Deposit Bonus": "+10%"
+    },
+    "name": "CSGOFast",
+    "languages": "en, ru, tr, es",
+    "link": "https://xcsgofast.com/?ref=broker",
+    "mirror": "true",
+    "featuresContent": ["DepositBonus"],
+    "code": "broker",
+    "Main Mode": "classic",
+    "Sites Alternatives"  : ["csgo500", "csgopolygon", "gamdom", "howlgg"]
+}

@@ -1,0 +1,147 @@
+{
+  "categories": {
+    "cs2": {
+      "items": [
+        {
+          "title": "Gambling Sites",
+          "url": "/cs2",
+          "children": [
+            { "title": "All Sites", "url": "/cs2" },
+            { "title": "Match Betting", "url": "/csgo/matchbetting" },
+            { "title": "Case Opening", "url": "/csgo/caseopening" },
+            { "title": "Case Battle", "url": "/csgo/case-battle" },
+            { "title": "Roulette", "url": "/csgo/roulette" },
+            { "title": "Coinflip", "url": "/csgo/coinflip" },
+            { "title": "Crash", "url": "/csgo/crash" },
+            { "title": "Slots", "url": "/csgo/casino" },
+            { "title": "Mines", "url": "/csgo/mines" },
+            { "title": "Jackpot", "url": "/csgo/jackpot" },
+            { "title": "Upgrader", "url": "/csgo/upgrader" },
+            { "title": "Dice", "url": "/csgo/dice" }
+          ]
+        },
+        {
+          "title": "Buy or Sell Skins",
+          "url": "/csgo/marketplaces",
+          "children": [
+            { "title": "Marketplaces", "url": "/csgo/marketplaces" },
+            { "title": "Instant Sell", "url": "/csgo/instant-sell" },
+            { "title": "Buy Skins", "url": "/csgo/buy-skins" },
+            { "title": "Sell Skins", "url": "/csgo/sell-skins" },
+            { "title": "Trade Skins", "url": "/csgo/trade-skins" }
+          ]
+        },
+        {
+          "title": "Earn by Play CS2",
+          "url": "/csgo/earn-by-play-csgo"
+        },
+        {
+          "title": "Wiki",
+          "url": "/topic",
+          "children": [
+            { "title": "Skins By Color", "url": "/topic/skins" },
+            { "title": "Skins By Weapon Types", "url": "/topic/items" },
+            { "title": "Sticker-Crafts", "url": "/topic/sticker-crafts" }
+          ]
+        }
+      ]
+    },
+    "rust": {
+      "items": [
+        {
+          "title": "Gambling Sites",
+          "url": "/rust",
+          "children": [
+            { "title": "All Sites", "url": "/rust" },
+            { "title": "Match Betting", "url": "/rust/matchbetting" },
+            { "title": "Case Opening", "url": "/rust/caseopening" },
+            { "title": "Case Battle", "url": "/rust/case-battle" },
+            { "title": "Roulette", "url": "/rust/roulette" },
+            { "title": "Coinflip", "url": "/rust/coinflip" },
+            { "title": "Crash", "url": "/rust/crash" },
+            { "title": "Slots", "url": "/rust/casino" },
+            { "title": "Jackpot", "url": "/rust/jackpot" },
+            { "title": "Upgrader", "url": "/rust/upgrader" }
+          ]
+        },
+        {
+          "title": "Buy or Sell Skins",
+          "url": "/rust/marketplaces",
+          "children": [
+            { "title": "Marketplaces", "url": "/rust/marketplaces" },
+            { "title": "Instant Sell", "url": "/rust/instant-sell" },
+            { "title": "Buy Skins", "url": "/rust/buy-skins" },
+            { "title": "Sell Skins", "url": "/rust/sell-skins" },
+            { "title": "Trade Skins", "url": "/rust/trade-skins" }
+          ]
+        }
+      ]
+    },
+    "dota": {
+      "items": [
+        {
+          "title": "Gambling Sites",
+          "url": "/dota",
+          "children": [
+            { "title": "All Sites", "url": "/dota" },
+            { "title": "Match Betting", "url": "/dota/matchbetting" },
+            { "title": "Case Opening", "url": "/dota/caseopening" },
+            { "title": "Roulette", "url": "/dota/roulette" },
+            { "title": "Upgrader", "url": "/dota/upgrader" }
+          ]
+        },
+        {
+          "title": "Buy or Sell Items",
+          "url": "/dota/marketplaces",
+          "children": [
+            { "title": "Marketplaces", "url": "/dota/marketplaces" },
+            { "title": "Instant Sell", "url": "/dota/instant-sell" },
+            { "title": "Buy Items", "url": "/dota/buy-items" },
+            { "title": "Sell Items", "url": "/dota/sell-items" },
+            { "title": "Trade Items", "url": "/dota/trade-items" }
+          ]
+        }
+      ]
+    },
+    "crypto": {
+      "items": [
+        {
+          "title": "Gambling Sites",
+          "url": "/crypto",
+          "children": [
+            { "title": "All Sites", "url": "/crypto" },
+            { "title": "Match Betting", "url": "/crypto/matchbetting" },
+            { "title": "Slots", "url": "/crypto/casino" },
+            { "title": "Roulette", "url": "/crypto/roulette" },
+            { "title": "Coinflip", "url": "/crypto/coinflip" },
+            { "title": "Crash", "url": "/crypto/crash" }
+          ]
+        }
+      ]
+    },
+    "earning": {
+      "items": [
+        { "title": "All Sites", "url": "/earning" },
+        { "title": "Offerwall Sites", "url": "/earning/offerwalls" },
+        { "title": "Earn by Play Sites", "url": "/earning/earn-by-play" }
+      ]
+    },
+    "freebies": {
+      "items": [
+        { "title": "All Sites", "url": "/freebies" },
+        { "title": "Sign Up Bonuses", "url": "/freebies/sign-up-bonuses" },
+        { "title": "Deposit Bonuses", "url": "/freebies/deposit-bonuses" },
+        { "title": "Daily Rewards", "url": "/freebies/daily-rewards" },
+        { "title": "Bonus to Sale", "url": "/freebies/bonuses-to-sale" },
+        { "title": "Giveaways", "url": "/freebies/giveaways" }
+      ]
+    },
+    "steam": {
+      "items": [
+        { "title": "Steam Level Up", "url": "/steam/levelup" },
+        { "title": "Top Up Steam", "url": "/steam/topup" },
+        { "title": "Buy Steam Games", "url": "/steam/buy-games" }
+      ]
+    }
+  }
+}

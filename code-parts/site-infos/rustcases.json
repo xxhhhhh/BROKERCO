@@ -1,0 +1,36 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/rust/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/rust/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/rust/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>",
+        "<a href=\"/\" aria-label=\"UnionPay\" class=\"unionpay\"></a>",
+        "<a href=\"/\" aria-label=\"PaySafeCard\" class=\"paysafe\"></a>",
+        "<a href=\"/\" aria-label=\"WebMoney\" class=\"webmoney\"></a>",
+        "<a href=\"/\" aria-label=\"Google Pay\" class=\"gpay\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 3.5,
+        "Payments": 2.5,
+        "Playability": 3.5
+    },
+    "name": "RustCases",
+    "languages": "en, ru, tr, es",
+    "link": "https://rustcases.com/",
+    "Main Mode": "cases",
+    "featuresContent": ["DailyRewards", "Giveaways"],
+    "Sites Alternatives"  : ["banditcamp", "rustmagic", "rustyloot", "rustclash"]
+}

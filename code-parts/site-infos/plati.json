@@ -1,0 +1,46 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/steam/buy-games\" aria-label=\"Buy Games\" class=\"buy-games\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"Team Fortress 2 Items\" class=\"tf2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>",
+        "<a href=\"/\" aria-label=\"UnionPay\" class=\"unionpay\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>",
+        "<a href=\"/\" aria-label=\"YUMoney\" class=\"yumoney\"></a>",
+        "<a href=\"/\" aria-label=\"WebMoney\" class=\"webmoney\"></a>",
+        "<a href=\"/\" aria-label=\"SBP\" class=\"sbp\"></a>",
+        "<a href=\"/\" aria-label=\"GameMoney\" class=\"gamemoney\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Games\" class=\"games\"></a>"
+    ],
+    "ratings": {
+        "Trust": 5,
+        "Support": 4,
+        "Payments": 5,
+        "Pricing": 5
+    },
+    "name": "Plati",
+    "languages": "ru",
+    "link": "http://www.plati.market/?ai=513392",
+    "Main Mode": "marketplace"
+}

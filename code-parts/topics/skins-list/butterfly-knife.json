@@ -1,0 +1,212 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/knives/butterfly-vanilla.webp",
+    "name": "Vanilla",
+    "color": []
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-stained.webp",
+    "name": "Butterfly Knife | Stained",
+    "color": ["Gray"]
+  },
+  "Rust Coat": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-rust-coat.webp",
+    "name": "Butterfly Knife | Rust Coat",
+    "color": []
+  },
+  "Rust Coat BS": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-rust-coat-bs.webp",
+    "name": "Butterfly Knife | Rust Coat (Battle-Scarred)",
+    "color": ["Brown"]
+  },
+  "Damascus Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-damascus.webp",
+    "name": "Butterfly Knife | Damascus Steel",
+    "color": ["White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-urban-masked.webp",
+    "name": "Butterfly Knife | Urban Masked",
+    "color": ["Gray"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-scorched.webp",
+    "name": "Butterfly Knife | Scorched",
+    "color": ["Black"]
+  },
+  "Black Laminate": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-black-laminate.webp",
+    "name": "Butterfly Knife | Black Laminate",
+    "color": ["Black", "Gray"]
+  },
+  "Night": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-night.webp",
+    "name": "Butterfly Knife | Night",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-blue-steel.webp",
+    "name": "Butterfly Knife | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-safari-mesh.webp",
+    "name": "Butterfly Knife | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-borealforest.webp",
+    "name": "Butterfly Knife | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-forestddpat.webp",
+    "name": "Butterfly Knife | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Doppler Ruby": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-ruby.webp",
+    "name": "Butterfly Knife | Doppler Ruby",
+    "color": ["Red"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-knife-crimson-web.webp",
+    "name": "Butterfly Knife | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-knife-slaughter.webp",
+    "name": "Butterfly Knife | Slaughter",
+    "color": ["Red"]
+  },
+  "Autotronic": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-knife-autotronic.webp",
+    "name": "Butterfly Knife | Autotronic",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-fade.webp",
+    "name": "Butterfly Knife | Fade",
+    "color": []
+  },
+  "Marble Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-marble-fade.webp",
+    "name": "Butterfly Knife | Marble Fade",
+    "color": []
+  },
+  "Tiger Tooth": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-tiger-tooth.webp",
+    "name": "Butterfly Knife | Tiger Tooth",
+    "color": ["Orange", "Yellow"]
+  },
+  "Lore": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-lore.webp",
+    "name": "Butterfly Knife | Lore",
+    "color": ["Golden", "Yellow"]
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-case-hardened.webp",
+    "name": "Butterfly Knife | Case Hardened",
+    "color": []
+  },
+  "Gamma Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-gamma-doppler-phase-3.webp",
+    "name": "Butterfly Knife | Gamma Doppler Phase 3",
+    "color": ["Cyan", "Green"]
+  },
+  "Gamma Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-gamma-doppler-phase-4.webp",
+    "name": "Butterfly Knife | Gamma Doppler Phase 4",
+    "color": ["Cyan", "Green"]
+  },
+  "Gamma Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-gamma-doppler-phase-2.webp",
+    "name": "Butterfly Knife | Gamma Doppler Phase 2",
+    "color": ["Green"]
+  },
+  "Gamma Doppler Emerald": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-emerald.webp",
+    "name": "Butterfly Knife | Gamma Doppler Emerald",
+    "color": ["Green"]
+  },
+  "Gamma Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-gamma-doppler-phase-1.webp",
+    "name": "Butterfly Knife | Gamma Doppler Phase 1",
+    "color": []
+  },
+  "Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-doppler-phase-3.webp",
+    "name": "Butterfly Knife | Doppler Phase 3",
+    "color": []
+  },
+  "Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-doppler-phase-4.webp",
+    "name": "Butterfly Knife | Doppler Phase 4",
+    "color": []
+  },
+  "Doppler Sapphire": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-doppler-sapphire.webp",
+    "name": "Butterfly Knife | Doppler Sapphire",
+    "color": ["Blue"]
+  },
+  "Bright Water": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-bright-water.webp",
+    "name": "Butterfly Knife | Bright Water",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-doppler-phase-1.webp",
+    "name": "Butterfly Knife | Doppler Phase 1",
+    "color": ["Purple"]
+  },
+  "Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-doppler-phase-2.webp",
+    "name": "Butterfly Knife | Doppler Phase 2",
+    "color": ["Pink", "Purple"]
+  },
+  "Freehand": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-freehand.webp",
+    "name": "Butterfly Knife | Freehand",
+    "color": ["Purple"]
+  },
+  "Ultraviolet": {
+    "class": "red",
+    "image": "/img/skins/knives/butterfly-ultraviolet.webp",
+    "name": "Butterfly Knife | Ultraviolet",
+    "color": ["Black", "Purple"]
+  }
+}

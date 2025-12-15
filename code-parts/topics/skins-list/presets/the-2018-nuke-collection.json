@@ -1,0 +1,74 @@
+[
+  {
+    "weapon": "m4a1-s",
+    "skin-id": "Control Panel"
+  },
+  {
+    "weapon": "tec-9",
+    "skin-id": "Remote Control"
+  },
+  {
+    "weapon": "glock-18",
+    "skin-id": "Nuclear Garden"
+  },
+  {
+    "weapon": "aug",
+    "skin-id": "Random Access"
+  },
+  {
+    "weapon": "mag-7",
+    "skin-id": "Core Breach"
+  },
+  {
+    "weapon": "awp",
+    "skin-id": "Acheron"
+  },
+  {
+    "weapon": "mp5-sd",
+    "skin-id": "Co-Processor"
+  },
+  {
+    "weapon": "p90",
+    "skin-id": "Facility Negative"
+  },
+  {
+    "weapon": "p250",
+    "skin-id": "Exchanger"
+  },
+  {
+    "weapon": "m4a4",
+    "skin-id": "Mainframe"
+  },
+  {
+    "weapon": "galil-ar",
+    "skin-id": "Cold Fusion"
+  },
+  {
+    "weapon": "negev",
+    "skin-id": "Bulkhead"
+  },
+  {
+    "weapon": "mp7",
+    "skin-id": "Motherboard"
+  },
+  {
+    "weapon": "pp-bizon",
+    "skin-id": "Facility Sketch"
+  },
+  {
+    "weapon": "ump-45",
+    "skin-id": "Facility Dark"
+  },
+  {
+    "weapon": "five-seven",
+    "skin-id": "Coolant"
+  },
+  {
+    "weapon": "p250",
+    "skin-id": "Facility Draft"
+  },
+  {
+    "weapon": "nova",
+    "skin-id": "Mandrel"
+  }
+]

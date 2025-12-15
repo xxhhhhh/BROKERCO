@@ -1,0 +1,962 @@
+{
+  "910 (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-910-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-910-gold-shanghai-2024.png",
+    "name": "910 (Gold) | Shanghai 2024"
+  },
+  "FalleN (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fallen-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fallen-gold-shanghai-2024.png",
+    "name": "FalleN (Gold) | Shanghai 2024"
+  },
+  "NAF (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-naf-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-naf-gold-shanghai-2024.png",
+    "name": "NAF (Gold) | Shanghai 2024"
+  },
+  "snow (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-snow-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-snow-gold-shanghai-2024.png",
+    "name": "snow (Gold) | Shanghai 2024"
+  },
+  "YEKINDAR (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-yekindar-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-yekindar-gold-shanghai-2024.png",
+    "name": "YEKINDAR (Gold) | Shanghai 2024"
+  },
+  "EliGE (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-elige-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-elige-gold-shanghai-2024.png",
+    "name": "EliGE (Gold) | Shanghai 2024"
+  },
+  "yuurih (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-yuurih-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-yuurih-gold-shanghai-2024.png",
+    "name": "yuurih (Gold) | Shanghai 2024"
+  },
+  "Grim (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-grim-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-grim-gold-shanghai-2024.png",
+    "name": "Grim (Gold) | Shanghai 2024"
+  },
+  "skullz (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-skullz-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-skullz-gold-shanghai-2024.png",
+    "name": "skullz (Gold) | Shanghai 2024"
+  },
+  "bLitz (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-blitz-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-blitz-gold-shanghai-2024.png",
+    "name": "bLitz (Gold) | Shanghai 2024"
+  },
+  "FL1T (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fl1t-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fl1t-gold-shanghai-2024.png",
+    "name": "FL1T (Gold) | Shanghai 2024"
+  },
+  "mzinho (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mzinho-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mzinho-gold-shanghai-2024.png",
+    "name": "mzinho (Gold) | Shanghai 2024"
+  },
+  "Jame (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jame-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jame-gold-shanghai-2024.png",
+    "name": "Jame (Gold) | Shanghai 2024"
+  },
+  "JDC (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jdc-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jdc-gold-shanghai-2024.png",
+    "name": "JDC (Gold) | Shanghai 2024"
+  },
+  "MATYS (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-matys-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-matys-gold-shanghai-2024.png",
+    "name": "MATYS (Gold) | Shanghai 2024"
+  },
+  "rigoN (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-rigon-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-rigon-gold-shanghai-2024.png",
+    "name": "rigoN (Gold) | Shanghai 2024"
+  },
+  "biguzera (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-biguzera-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-biguzera-gold-shanghai-2024.png",
+    "name": "biguzera (Gold) | Shanghai 2024"
+  },
+  "tabseN (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-tabsen-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-tabsen-gold-shanghai-2024.png",
+    "name": "tabseN (Gold) | Shanghai 2024"
+  },
+  "Krimbo (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-krimbo-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-krimbo-gold-shanghai-2024.png",
+    "name": "Krimbo (Gold) | Shanghai 2024"
+  },
+  "hallzerk (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-hallzerk-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-hallzerk-gold-shanghai-2024.png",
+    "name": "hallzerk (Gold) | Shanghai 2024"
+  },
+  "KRIMZ (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-krimz-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-krimz-gold-shanghai-2024.png",
+    "name": "KRIMZ (Gold) | Shanghai 2024"
+  },
+  "lux (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-lux-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-lux-gold-shanghai-2024.png",
+    "name": "lux (Gold) | Shanghai 2024"
+  },
+  "afro (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-afro-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-afro-gold-shanghai-2024.png",
+    "name": "afro (Gold) | Shanghai 2024"
+  },
+  "NQZ (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-nqz-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-nqz-gold-shanghai-2024.png",
+    "name": "NQZ (Gold) | Shanghai 2024"
+  },
+  "kauez (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-kauez-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-kauez-gold-shanghai-2024.png",
+    "name": "kauez (Gold) | Shanghai 2024"
+  },
+  "Senzu (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-senzu-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-senzu-gold-shanghai-2024.png",
+    "name": "Senzu (Gold) | Shanghai 2024"
+  },
+  "Techno4K (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-techno4k-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-techno4k-gold-shanghai-2024.png",
+    "name": "Techno4K (Gold) | Shanghai 2024"
+  },
+  "blameF (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-blamef-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-blamef-gold-shanghai-2024.png",
+    "name": "blameF (Gold) | Shanghai 2024"
+  },
+  "bodyy (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-bodyy-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-bodyy-gold-shanghai-2024.png",
+    "name": "bodyy (Gold) | Shanghai 2024"
+  },
+  "syrsoN (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-syrson-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-syrson-gold-shanghai-2024.png",
+    "name": "syrsoN (Gold) | Shanghai 2024"
+  },
+  "JT (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jt-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jt-gold-shanghai-2024.png",
+    "name": "JT (Gold) | Shanghai 2024"
+  },
+  "floppy (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-floppy-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-floppy-gold-shanghai-2024.png",
+    "name": "floppy (Gold) | Shanghai 2024"
+  },
+  "jks (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jks-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jks-gold-shanghai-2024.png",
+    "name": "jks (Gold) | Shanghai 2024"
+  },
+  "ultimate (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-ultimate-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-ultimate-gold-shanghai-2024.png",
+    "name": "ultimate (Gold) | Shanghai 2024"
+  },
+  "Twistzz (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-twistzz-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-twistzz-gold-shanghai-2024.png",
+    "name": "Twistzz (Gold) | Shanghai 2024"
+  },
+  "electronic (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-electronic-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-electronic-gold-shanghai-2024.png",
+    "name": "electronic (Gold) | Shanghai 2024"
+  },
+  "n0rb3r7 (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-n0rb3r7-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-n0rb3r7-gold-shanghai-2024.png",
+    "name": "n0rb3r7 (Gold) | Shanghai 2024"
+  },
+  "fame (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fame-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fame-gold-shanghai-2024.png",
+    "name": "fame (Gold) | Shanghai 2024"
+  },
+  "KSCERATO (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-kscerato-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-kscerato-gold-shanghai-2024.png",
+    "name": "KSCERATO (Gold) | Shanghai 2024"
+  },
+  "chelo (Gold)": {
+    "class": "red",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-chelo-gold-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-chelo-gold-shanghai-2024.png",
+    "name": "chelo (Gold) | Shanghai 2024"
+  },
+  "910 (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-910-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-910-holo-shanghai-2024.png",
+    "name": "910 (Holo) | Shanghai 2024"
+  },
+  "KSCERATO (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-kscerato-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-kscerato-holo-shanghai-2024.png",
+    "name": "KSCERATO (Holo) | Shanghai 2024"
+  },
+  "Twistzz (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-twistzz-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-twistzz-holo-shanghai-2024.png",
+    "name": "Twistzz (Holo) | Shanghai 2024"
+  },
+  "FalleN (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fallen-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fallen-holo-shanghai-2024.png",
+    "name": "FalleN (Holo) | Shanghai 2024"
+  },
+  "jks (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jks-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jks-holo-shanghai-2024.png",
+    "name": "jks (Holo) | Shanghai 2024"
+  },
+  "skullz (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-skullz-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-skullz-holo-shanghai-2024.png",
+    "name": "skullz (Holo) | Shanghai 2024"
+  },
+  "Senzu (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-senzu-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-senzu-holo-shanghai-2024.png",
+    "name": "Senzu (Holo) | Shanghai 2024"
+  },
+  "EliGE (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-elige-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-elige-holo-shanghai-2024.png",
+    "name": "EliGE (Holo) | Shanghai 2024"
+  },
+  "YEKINDAR (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-yekindar-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-yekindar-holo-shanghai-2024.png",
+    "name": "YEKINDAR (Holo) | Shanghai 2024"
+  },
+  "ultimate (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-ultimate-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-ultimate-holo-shanghai-2024.png",
+    "name": "ultimate (Holo) | Shanghai 2024"
+  },
+  "electronic (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-electronic-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-electronic-holo-shanghai-2024.png",
+    "name": "electronic (Holo) | Shanghai 2024"
+  },
+  "yuurih (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-yuurih-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-yuurih-holo-shanghai-2024.png",
+    "name": "yuurih (Holo) | Shanghai 2024"
+  },
+  "Jame (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jame-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jame-holo-shanghai-2024.png",
+    "name": "Jame (Holo) | Shanghai 2024"
+  },
+  "Techno4K (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-techno4k-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-techno4k-holo-shanghai-2024.png",
+    "name": "Techno4K (Holo) | Shanghai 2024"
+  },
+  "mzinho (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mzinho-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mzinho-holo-shanghai-2024.png",
+    "name": "mzinho (Holo) | Shanghai 2024"
+  },
+  "snow (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-snow-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-snow-holo-shanghai-2024.png",
+    "name": "snow (Holo) | Shanghai 2024"
+  },
+  "NAF (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-naf-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-naf-holo-shanghai-2024.png",
+    "name": "NAF (Holo) | Shanghai 2024"
+  },
+  "bLitz (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-blitz-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-blitz-holo-shanghai-2024.png",
+    "name": "bLitz (Holo) | Shanghai 2024"
+  },
+  "Grim (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-grim-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-grim-holo-shanghai-2024.png",
+    "name": "Grim (Holo) | Shanghai 2024"
+  },
+  "blameF (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-blamef-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-blamef-holo-shanghai-2024.png",
+    "name": "blameF (Holo) | Shanghai 2024"
+  },
+  "chelo (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-chelo-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-chelo-holo-shanghai-2024.png",
+    "name": "chelo (Holo) | Shanghai 2024"
+  },
+  "kauez (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-kauez-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-kauez-holo-shanghai-2024.png",
+    "name": "kauez (Holo) | Shanghai 2024"
+  },
+  "Krimbo (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-krimbo-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-krimbo-holo-shanghai-2024.png",
+    "name": "Krimbo (Holo) | Shanghai 2024"
+  },
+  "MATYS (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-matys-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-matys-holo-shanghai-2024.png",
+    "name": "MATYS (Holo) | Shanghai 2024"
+  },
+  "FL1T (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fl1t-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fl1t-holo-shanghai-2024.png",
+    "name": "FL1T (Holo) | Shanghai 2024"
+  },
+  "hallzerk (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-hallzerk-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-hallzerk-holo-shanghai-2024.png",
+    "name": "hallzerk (Holo) | Shanghai 2024"
+  },
+  "JT (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jt-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jt-holo-shanghai-2024.png",
+    "name": "JT (Holo) | Shanghai 2024"
+  },
+  "KRIMZ (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-krimz-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-krimz-holo-shanghai-2024.png",
+    "name": "KRIMZ (Holo) | Shanghai 2024"
+  },
+  "tabseN (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-tabsen-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-tabsen-holo-shanghai-2024.png",
+    "name": "tabseN (Holo) | Shanghai 2024"
+  },
+  "floppy (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-floppy-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-floppy-holo-shanghai-2024.png",
+    "name": "floppy (Holo) | Shanghai 2024"
+  },
+  "fame (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fame-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fame-holo-shanghai-2024.png",
+    "name": "fame (Holo) | Shanghai 2024"
+  },
+  "bodyy (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-bodyy-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-bodyy-holo-shanghai-2024.png",
+    "name": "bodyy (Holo) | Shanghai 2024"
+  },
+  "NQZ (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-nqz-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-nqz-holo-shanghai-2024.png",
+    "name": "NQZ (Holo) | Shanghai 2024"
+  },
+  "JDC (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jdc-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jdc-holo-shanghai-2024.png",
+    "name": "JDC (Holo) | Shanghai 2024"
+  },
+  "lux (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-lux-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-lux-holo-shanghai-2024.png",
+    "name": "lux (Holo) | Shanghai 2024"
+  },
+  "rigoN (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-rigon-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-rigon-holo-shanghai-2024.png",
+    "name": "rigoN (Holo) | Shanghai 2024"
+  },
+  "afro (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-afro-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-afro-holo-shanghai-2024.png",
+    "name": "afro (Holo) | Shanghai 2024"
+  },
+  "biguzera (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-biguzera-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-biguzera-holo-shanghai-2024.png",
+    "name": "biguzera (Holo) | Shanghai 2024"
+  },
+  "syrsoN (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-syrson-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-syrson-holo-shanghai-2024.png",
+    "name": "syrsoN (Holo) | Shanghai 2024"
+  },
+  "n0rb3r7 (Holo)": {
+    "class": "pink",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-n0rb3r7-holo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-n0rb3r7-holo-shanghai-2024.png",
+    "name": "n0rb3r7 (Holo) | Shanghai 2024"
+  },
+  "910 (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-910-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-910-glitter-shanghai-2024.png",
+    "name": "910 (Glitter) | Shanghai 2024"
+  },
+  "jks (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jks-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jks-glitter-shanghai-2024.png",
+    "name": "jks (Glitter) | Shanghai 2024"
+  },
+  "KSCERATO (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-kscerato-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-kscerato-glitter-shanghai-2024.png",
+    "name": "KSCERATO (Glitter) | Shanghai 2024"
+  },
+  "Twistzz (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-twistzz-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-twistzz-glitter-shanghai-2024.png",
+    "name": "Twistzz (Glitter) | Shanghai 2024"
+  },
+  "YEKINDAR (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-yekindar-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-yekindar-glitter-shanghai-2024.png",
+    "name": "YEKINDAR (Glitter) | Shanghai 2024"
+  },
+  "ultimate (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-ultimate-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-ultimate-glitter-shanghai-2024.png",
+    "name": "ultimate (Glitter) | Shanghai 2024"
+  },
+  "FalleN (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fallen-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fallen-glitter-shanghai-2024.png",
+    "name": "FalleN (Glitter) | Shanghai 2024"
+  },
+  "mzinho (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mzinho-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mzinho-glitter-shanghai-2024.png",
+    "name": "mzinho (Glitter) | Shanghai 2024"
+  },
+  "yuurih (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-yuurih-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-yuurih-glitter-shanghai-2024.png",
+    "name": "yuurih (Glitter) | Shanghai 2024"
+  },
+  "Senzu (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-senzu-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-senzu-glitter-shanghai-2024.png",
+    "name": "Senzu (Glitter) | Shanghai 2024"
+  },
+  "Techno4K (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-techno4k-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-techno4k-glitter-shanghai-2024.png",
+    "name": "Techno4K (Glitter) | Shanghai 2024"
+  },
+  "EliGE (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-elige-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-elige-glitter-shanghai-2024.png",
+    "name": "EliGE (Glitter) | Shanghai 2024"
+  },
+  "Jame (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jame-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jame-glitter-shanghai-2024.png",
+    "name": "Jame (Glitter) | Shanghai 2024"
+  },
+  "skullz (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-skullz-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-skullz-glitter-shanghai-2024.png",
+    "name": "skullz (Glitter) | Shanghai 2024"
+  },
+  "n0rb3r7 (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-n0rb3r7-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-n0rb3r7-glitter-shanghai-2024.png",
+    "name": "n0rb3r7 (Glitter) | Shanghai 2024"
+  },
+  "snow (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-snow-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-snow-glitter-shanghai-2024.png",
+    "name": "snow (Glitter) | Shanghai 2024"
+  },
+  "electronic (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-electronic-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-electronic-glitter-shanghai-2024.png",
+    "name": "electronic (Glitter) | Shanghai 2024"
+  },
+  "fame (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fame-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fame-glitter-shanghai-2024.png",
+    "name": "fame (Glitter) | Shanghai 2024"
+  },
+  "NAF (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-naf-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-naf-glitter-shanghai-2024.png",
+    "name": "NAF (Glitter) | Shanghai 2024"
+  },
+  "NQZ (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-nqz-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-nqz-glitter-shanghai-2024.png",
+    "name": "NQZ (Glitter) | Shanghai 2024"
+  },
+  "bodyy (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-bodyy-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-bodyy-glitter-shanghai-2024.png",
+    "name": "bodyy (Glitter) | Shanghai 2024"
+  },
+  "JT (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jt-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jt-glitter-shanghai-2024.png",
+    "name": "JT (Glitter) | Shanghai 2024"
+  },
+  "KRIMZ (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-krimz-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-krimz-glitter-shanghai-2024.png",
+    "name": "KRIMZ (Glitter) | Shanghai 2024"
+  },
+  "FL1T (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fl1t-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fl1t-glitter-shanghai-2024.png",
+    "name": "FL1T (Glitter) | Shanghai 2024"
+  },
+  "lux (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-lux-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-lux-glitter-shanghai-2024.png",
+    "name": "lux (Glitter) | Shanghai 2024"
+  },
+  "floppy (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-floppy-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-floppy-glitter-shanghai-2024.png",
+    "name": "floppy (Glitter) | Shanghai 2024"
+  },
+  "bLitz (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-blitz-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-blitz-glitter-shanghai-2024.png",
+    "name": "bLitz (Glitter) | Shanghai 2024"
+  },
+  "tabseN (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-tabsen-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-tabsen-glitter-shanghai-2024.png",
+    "name": "tabseN (Glitter) | Shanghai 2024"
+  },
+  "hallzerk (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-hallzerk-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-hallzerk-glitter-shanghai-2024.png",
+    "name": "hallzerk (Glitter) | Shanghai 2024"
+  },
+  "kauez (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-kauez-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-kauez-glitter-shanghai-2024.png",
+    "name": "kauez (Glitter) | Shanghai 2024"
+  },
+  "rigoN (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-rigon-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-rigon-glitter-shanghai-2024.png",
+    "name": "rigoN (Glitter) | Shanghai 2024"
+  },
+  "Krimbo (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-krimbo-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-krimbo-glitter-shanghai-2024.png",
+    "name": "Krimbo (Glitter) | Shanghai 2024"
+  },
+  "biguzera (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-biguzera-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-biguzera-glitter-shanghai-2024.png",
+    "name": "biguzera (Glitter) | Shanghai 2024"
+  },
+  "MATYS (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-matys-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-matys-glitter-shanghai-2024.png",
+    "name": "MATYS (Glitter) | Shanghai 2024"
+  },
+  "Grim (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-grim-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-grim-glitter-shanghai-2024.png",
+    "name": "Grim (Glitter) | Shanghai 2024"
+  },
+  "afro (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-afro-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-afro-glitter-shanghai-2024.png",
+    "name": "afro (Glitter) | Shanghai 2024"
+  },
+  "JDC (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jdc-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jdc-glitter-shanghai-2024.png",
+    "name": "JDC (Glitter) | Shanghai 2024"
+  },
+  "blameF (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-blamef-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-blamef-glitter-shanghai-2024.png",
+    "name": "blameF (Glitter) | Shanghai 2024"
+  },
+  "chelo (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-chelo-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-chelo-glitter-shanghai-2024.png",
+    "name": "chelo (Glitter) | Shanghai 2024"
+  },
+  "syrsoN (Glitter)": {
+    "class": "purple",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-syrson-glitter-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-syrson-glitter-shanghai-2024.png",
+    "name": "syrsoN (Glitter) | Shanghai 2024"
+  },
+  "Twistzz": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-twistzz-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-twistzz-shanghai-2024.png",
+    "name": "Twistzz | Shanghai 2024"
+  },
+  "910": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-910-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-910-shanghai-2024.png",
+    "name": "910 | Shanghai 2024"
+  },
+  "jks": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jks-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jks-shanghai-2024.png",
+    "name": "jks | Shanghai 2024"
+  },
+  "lux": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-lux-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-lux-shanghai-2024.png",
+    "name": "lux | Shanghai 2024"
+  },
+  "KSCERATO": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-kscerato-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-kscerato-shanghai-2024.png",
+    "name": "KSCERATO | Shanghai 2024"
+  },
+  "blameF": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-blamef-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-blamef-shanghai-2024.png",
+    "name": "blameF | Shanghai 2024"
+  },
+  "FalleN": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fallen-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fallen-shanghai-2024.png",
+    "name": "FalleN | Shanghai 2024"
+  },
+  "KRIMZ": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-krimz-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-krimz-shanghai-2024.png",
+    "name": "KRIMZ | Shanghai 2024"
+  },
+  "YEKINDAR": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-yekindar-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-yekindar-shanghai-2024.png",
+    "name": "YEKINDAR | Shanghai 2024"
+  },
+  "Senzu": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-senzu-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-senzu-shanghai-2024.png",
+    "name": "Senzu | Shanghai 2024"
+  },
+  "EliGE": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-elige-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-elige-shanghai-2024.png",
+    "name": "EliGE | Shanghai 2024"
+  },
+  "fame": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fame-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fame-shanghai-2024.png",
+    "name": "fame | Shanghai 2024"
+  },
+  "kauez": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-kauez-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-kauez-shanghai-2024.png",
+    "name": "kauez | Shanghai 2024"
+  },
+  "Jame": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jame-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jame-shanghai-2024.png",
+    "name": "Jame | Shanghai 2024"
+  },
+  "yuurih": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-yuurih-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-yuurih-shanghai-2024.png",
+    "name": "yuurih | Shanghai 2024"
+  },
+  "chelo": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-chelo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-chelo-shanghai-2024.png",
+    "name": "chelo | Shanghai 2024"
+  },
+  "snow": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-snow-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-snow-shanghai-2024.png",
+    "name": "snow | Shanghai 2024"
+  },
+  "mzinho": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-mzinho-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-mzinho-shanghai-2024.png",
+    "name": "mzinho | Shanghai 2024"
+  },
+  "electronic": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-electronic-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-electronic-shanghai-2024.png",
+    "name": "electronic | Shanghai 2024"
+  },
+  "ultimate": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-ultimate-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-ultimate-shanghai-2024.png",
+    "name": "ultimate | Shanghai 2024"
+  },
+  "NQZ": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-nqz-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-nqz-shanghai-2024.png",
+    "name": "NQZ | Shanghai 2024"
+  },
+  "floppy": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-floppy-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-floppy-shanghai-2024.png",
+    "name": "floppy | Shanghai 2024"
+  },
+  "bLitz": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-blitz-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-blitz-shanghai-2024.png",
+    "name": "bLitz | Shanghai 2024"
+  },
+  "MATYS": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-matys-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-matys-shanghai-2024.png",
+    "name": "MATYS | Shanghai 2024"
+  },
+  "FL1T": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-fl1t-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-fl1t-shanghai-2024.png",
+    "name": "FL1T | Shanghai 2024"
+  },
+  "rigoN": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-rigon-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-rigon-shanghai-2024.png",
+    "name": "rigoN | Shanghai 2024"
+  },
+  "Techno4K": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-techno4k-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-techno4k-shanghai-2024.png",
+    "name": "Techno4K | Shanghai 2024"
+  },
+  "NAF": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-naf-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-naf-shanghai-2024.png",
+    "name": "NAF | Shanghai 2024"
+  },
+  "n0rb3r7": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-n0rb3r7-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-n0rb3r7-shanghai-2024.png",
+    "name": "n0rb3r7 | Shanghai 2024"
+  },
+  "tabseN": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-tabsen-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-tabsen-shanghai-2024.png",
+    "name": "tabseN | Shanghai 2024"
+  },
+  "syrsoN": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-syrson-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-syrson-shanghai-2024.png",
+    "name": "syrsoN | Shanghai 2024"
+  },
+  "Krimbo": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-krimbo-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-krimbo-shanghai-2024.png",
+    "name": "Krimbo | Shanghai 2024"
+  },
+  "biguzera": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-biguzera-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-biguzera-shanghai-2024.png",
+    "name": "biguzera | Shanghai 2024"
+  },
+  "bodyy": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-bodyy-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-bodyy-shanghai-2024.png",
+    "name": "bodyy | Shanghai 2024"
+  },
+  "JT": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jt-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jt-shanghai-2024.png",
+    "name": "JT | Shanghai 2024"
+  },
+  "hallzerk": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-hallzerk-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-hallzerk-shanghai-2024.png",
+    "name": "hallzerk | Shanghai 2024"
+  },
+  "Grim": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-grim-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-grim-shanghai-2024.png",
+    "name": "Grim | Shanghai 2024"
+  },
+  "JDC": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-jdc-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-jdc-shanghai-2024.png",
+    "name": "JDC | Shanghai 2024"
+  },
+  "afro": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-afro-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-afro-shanghai-2024.png",
+    "name": "afro | Shanghai 2024"
+  },
+  "skullz": {
+    "class": "blue",
+    "image": "/img/skins/stickers/shanghai-2024/sticker-skullz-shanghai-2024.png",
+    "imageOG": "/img/skins/stickers/shanghai-2024/small/sticker-skullz-shanghai-2024.png",
+    "name": "skullz | Shanghai 2024"
+  }
+}

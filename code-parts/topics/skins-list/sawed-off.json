@@ -1,0 +1,311 @@
+{
+  "Sage Spray": {
+    "class": "white",
+    "image": "/img/skins/sawed-off/sage-spray.webp",
+    "name": "Sawed-Off | Sage Spray",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Bamboo Shadow": {
+    "class": "white",
+    "image": "/img/skins/sawed-off/bamboo-shadow.webp",
+    "name": "Sawed-Off | Bamboo Shadow",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Rust Coat": {
+    "class": "lblue",
+    "image": "/img/skins/sawed-off/rust-coat.webp",
+    "name": "Sawed-Off | Rust Coat",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Rust Coat BS": {
+    "class": "lblue",
+    "image": "/img/skins/sawed-off/rust-coat-bs.webp",
+    "name": "Sawed-Off | Rust Coat (Battle-Scarred)",
+    "color": [
+      "Brown"
+    ]
+  },
+  "Copper": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/copper.webp",
+    "name": "Sawed-Off | Copper",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Dust Collection"
+  },
+  "Clay Ambush": {
+    "class": "white",
+    "image": "/img/skins/sawed-off/clay-ambush.webp",
+    "name": "Sawed-Off | Clay Ambush",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Mosaico": {
+    "class": "lblue",
+    "image": "/img/skins/sawed-off/mosaico.webp",
+    "name": "Sawed-Off | Mosaico",
+    "color": [],
+    "collection": "The Alpha Collection"
+  },
+  "Snake Camo": {
+    "class": "lblue",
+    "image": "/img/skins/sawed-off/snake-camo.webp",
+    "name": "Sawed-Off | Snake Camo",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Spirit Board": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/spirit-board.webp",
+    "name": "Sawed-Off | Spirit Board",
+    "color": [
+      "Brown"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Brake Light": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/brake-light.webp",
+    "name": "Sawed-Off | Brake Light",
+    "color": [
+      "Red",
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "Full Stop": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/full-stop.webp",
+    "name": "Sawed-Off | Full Stop",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "The Kraken": {
+    "class": "red",
+    "image": "/img/skins/sawed-off/the-kraken.webp",
+    "name": "Sawed-Off | The Kraken",
+    "color": [
+      "Orange"
+    ],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Devourer": {
+    "class": "pink",
+    "image": "/img/skins/sawed-off/devourer.webp",
+    "name": "Sawed-Off | Devourer",
+    "color": [
+      "Orange"
+    ],
+    "case": "Horizon Case"
+  },
+  "Analog Input": {
+    "class": "purple",
+    "image": "/img/skins/sawed-off/analog-input.webp",
+    "name": "Sawed-Off | Analog Input",
+    "color": [],
+    "case": "Kilowatt Case"
+  },
+  "Origami": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/origami.webp",
+    "name": "Sawed-Off | Origami",
+    "color": [
+      "Orange",
+      "Yellow"
+    ],
+    "case": "Chroma 2 Case"
+  },
+  "Orange DDPAT": {
+    "class": "purple",
+    "image": "/img/skins/sawed-off/orange-ddpat.webp",
+    "name": "Sawed-Off | Orange DDPAT",
+    "color": [
+      "Black",
+      "Orange"
+    ],
+    "case": "eSports 2013 Case"
+  },
+  "Irradiated Alert": {
+    "class": "white",
+    "image": "/img/skins/sawed-off/irradiated-alert.webp",
+    "name": "Sawed-Off | Irradiated Alert",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Nuke Collection"
+  },
+  "Highwayman": {
+    "class": "purple",
+    "image": "/img/skins/sawed-off/highwayman.webp",
+    "name": "Sawed-Off | Highwayman",
+    "color": [
+      "Orange"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Yorick": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/yorick.webp",
+    "name": "Sawed-Off | Yorick",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "case": "Revolver Case"
+  },
+  "Amber Fade": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/amber-fade.webp",
+    "name": "Sawed-Off | Amber Fade",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Jungle Thicket": {
+    "class": "lblue",
+    "image": "/img/skins/sawed-off/jungle-thicket.webp",
+    "name": "Sawed-Off | Jungle Thicket",
+    "color": [
+      "Green"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Limelight": {
+    "class": "purple",
+    "image": "/img/skins/sawed-off/limelight.webp",
+    "name": "Sawed-Off | Limelight",
+    "color": [
+      "Green"
+    ],
+    "case": "Gamma Case"
+  },
+  "Forest DDPAT": {
+    "class": "lblue",
+    "image": "/img/skins/sawed-off/ddpat.webp",
+    "name": "Sawed-Off | Forest DDPAT",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Black Sand": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/black-sand.webp",
+    "name": "Sawed-Off | Black Sand",
+    "color": [
+      "Black",
+      "Green"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Morris": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/morris.webp",
+    "name": "Sawed-Off | Morris",
+    "color": [
+      "Green"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "First Class": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/first-class.webp",
+    "name": "Sawed-Off | First Class",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Fubar": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/fubar.webp",
+    "name": "Sawed-Off | Fubar",
+    "color": [
+      "Green"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Zander": {
+    "class": "blue",
+    "image": "/img/skins/sawed-off/zander.webp",
+    "name": "Sawed-Off | Zander",
+    "color": [],
+    "case": "Spectrum Case"
+  },
+  "Serenity": {
+    "class": "purple",
+    "image": "/img/skins/sawed-off/serenity.webp",
+    "name": "Sawed-Off | Serenity",
+    "color": [
+      "Green"
+    ],
+    "case": "Chroma Case"
+  },
+  "Parched": {
+    "class": "white",
+    "image": "/img/skins/sawed-off/parched.webp",
+    "name": "Sawed-Off | Parched",
+    "color": [
+      "Purple"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Apocalypto": {
+    "class": "purple",
+    "image": "/img/skins/sawed-off/apocalypto.webp",
+    "name": "Sawed-Off | Apocalypto",
+    "color": [
+      "Cyan",
+      "Purple"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Kiss♥Love": {
+    "class": "purple",
+    "image": "/img/skins/sawed-off/kiss.webp",
+    "name": "Sawed-Off | Kiss♥Love",
+    "color": [
+      "Purple"
+    ],
+    "case": "Recoil Case"
+  },
+  "Wasteland Princess": {
+    "class": "pink",
+    "image": "/img/skins/sawed-off/wasteland-princess.webp",
+    "name": "Sawed-Off | Wasteland Princess",
+    "color": [
+      "Pink",
+      "White"
+    ],
+    "case": "Glove Case"
+  },
+  "Runoff": {
+    "class": "white",
+    "image": "/img/skins/sawed-off/runoff.webp",
+    "name": "Sawed-Off | Runoff",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Ascent Collection"
+  }
+}

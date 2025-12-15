@@ -1,0 +1,110 @@
+{
+  "Global Elite (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Global Elite (Foil)",
+    "image": "/img/skins/stickers/skill-groups/sticker-global-elite-foil.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-global-elite-foil.png"
+  },
+  "Silver (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Silver (Foil)",
+    "image": "/img/skins/stickers/skill-groups/sticker-silver-foil.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-silver-foil.png"
+  },
+  "Legendary Eagle Master (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Legendary Eagle Master (Holo)",
+    "image": "/img/skins/stickers/skill-groups/sticker-legendary-eagle-master-holo.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-legendary-eagle-master-holo.png"
+  },
+  "Gold Nova (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Gold Nova (Holo)",
+    "image": "/img/skins/stickers/skill-groups/sticker-gold-nova-holo.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-gold-nova-holo.png"
+  },
+  "Master Guardian Elite (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Master Guardian Elite (Holo)",
+    "image": "/img/skins/stickers/skill-groups/sticker-master-guardian-elite-holo.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-master-guardian-elite-holo.png"
+  },
+  "Supreme Master First Class (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Supreme Master First Class (Holo)",
+    "image": "/img/skins/stickers/skill-groups/sticker-supreme-master-first-class-holo.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-supreme-master-first-class-holo.png"
+  },
+  "Legendary Eagle (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Legendary Eagle (Holo)",
+    "image": "/img/skins/stickers/skill-groups/sticker-legendary-eagle-holo.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-legendary-eagle-holo.png"
+  },
+  "Master Guardian (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Master Guardian (Holo)",
+    "image": "/img/skins/stickers/skill-groups/sticker-master-guardian-holo.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-master-guardian-holo.png"
+  },
+  "Distinguished Master Guardian (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Distinguished Master Guardian (Holo)",
+    "image": "/img/skins/stickers/skill-groups/sticker-distinguished-master-guardian-holo.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-distinguished-master-guardian-holo.png"
+  },
+  "Gold Nova": {
+    "class": "blue",
+    "name": "Sticker | Gold Nova",
+    "image": "/img/skins/stickers/skill-groups/sticker-gold-nova.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-gold-nova.png"
+  },
+  "Global Elite": {
+    "class": "blue",
+    "name": "Sticker | Global Elite",
+    "image": "/img/skins/stickers/skill-groups/sticker-global-elite.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-global-elite.png"
+  },
+  "Silver": {
+    "class": "blue",
+    "name": "Sticker | Silver",
+    "image": "/img/skins/stickers/skill-groups/sticker-silver.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-silver.png"
+  },
+  "Legendary Eagle": {
+    "class": "blue",
+    "name": "Sticker | Legendary Eagle",
+    "image": "/img/skins/stickers/skill-groups/sticker-legendary-eagle.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-legendary-eagle.png"
+  },
+  "Legendary Eagle Master": {
+    "class": "blue",
+    "name": "Sticker | Legendary Eagle Master",
+    "image": "/img/skins/stickers/skill-groups/sticker-legendary-eagle-master.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-legendary-eagle-master.png"
+  },
+  "Master Guardian": {
+    "class": "blue",
+    "name": "Sticker | Master Guardian",
+    "image": "/img/skins/stickers/skill-groups/sticker-master-guardian.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-master-guardian.png"
+  },
+  "Master Guardian Elite": {
+    "class": "blue",
+    "name": "Sticker | Master Guardian Elite",
+    "image": "/img/skins/stickers/skill-groups/sticker-master-guardian-elite.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-master-guardian-elite.png"
+  },
+  "Supreme Master First Class": {
+    "class": "blue",
+    "name": "Sticker | Supreme Master First Class",
+    "image": "/img/skins/stickers/skill-groups/sticker-supreme-master-first-class.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-supreme-master-first-class.png"
+  },
+  "Distinguished Master Guardian": {
+    "class": "blue",
+    "name": "Sticker | Distinguished Master Guardian",
+    "image": "/img/skins/stickers/skill-groups/sticker-distinguished-master-guardian.png",
+    "imageOG": "/img/skins/stickers/skill-groups/small/sticker-distinguished-master-guardian.png"
+  }
+}

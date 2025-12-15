@@ -1,0 +1,92 @@
+{
+  "Pixiu (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Pixiu (Foil)",
+    "image": "/img/skins/stickers/perfect-world/sticker-pixiu-foil.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-pixiu-foil.png"
+  },
+  "Longevity (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Longevity (Foil)",
+    "image": "/img/skins/stickers/perfect-world/sticker-longevity-foil.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-longevity-foil.png"
+  },
+  "Twin Koi (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Twin Koi (Holo)",
+    "image": "/img/skins/stickers/perfect-world/sticker-twin-koi-holo.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-twin-koi-holo.png"
+  },
+  "Zombie Hop": {
+    "class": "blue",
+    "name": "Sticker | Zombie Hop",
+    "image": "/img/skins/stickers/perfect-world/sticker-zombie-hop.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-zombie-hop.png"
+  },
+  "Rage": {
+    "class": "blue",
+    "name": "Sticker | Rage",
+    "image": "/img/skins/stickers/perfect-world/sticker-rage.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-rage.png"
+  },
+  "Non-Veg": {
+    "class": "blue",
+    "name": "Sticker | Non-Veg",
+    "image": "/img/skins/stickers/perfect-world/sticker-non-veg.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-non-veg.png"
+  },
+  "Longevity": {
+    "class": "blue",
+    "name": "Sticker | Longevity",
+    "image": "/img/skins/stickers/perfect-world/sticker-longevity.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-longevity.png"
+  },
+  "Blue Swallow": {
+    "class": "blue",
+    "name": "Sticker | Blue Swallow",
+    "image": "/img/skins/stickers/perfect-world/sticker-blue-swallow.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-blue-swallow.png"
+  },
+  "Nezha": {
+    "class": "blue",
+    "name": "Sticker | Nezha",
+    "image": "/img/skins/stickers/perfect-world/sticker-nezha.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-nezha.png"
+  },
+  "Green Swallow": {
+    "class": "blue",
+    "name": "Sticker | Green Swallow",
+    "image": "/img/skins/stickers/perfect-world/sticker-green-swallow.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-green-swallow.png"
+  },
+  "God of Fortune": {
+    "class": "blue",
+    "name": "Sticker | God of Fortune",
+    "image": "/img/skins/stickers/perfect-world/sticker-god-of-fortune.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-god-of-fortune.png"
+  },
+  "Shaolin": {
+    "class": "blue",
+    "name": "Sticker | Shaolin",
+    "image": "/img/skins/stickers/perfect-world/sticker-shaolin.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-shaolin.png"
+  },
+  "Huaji": {
+    "class": "blue",
+    "name": "Sticker | Huaji",
+    "image": "/img/skins/stickers/perfect-world/sticker-huaji.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-huaji.png"
+  },
+  "Pixiu": {
+    "class": "blue",
+    "name": "Sticker | Pixiu",
+    "image": "/img/skins/stickers/perfect-world/sticker-pixiu.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-pixiu.png"
+  },
+  "Twin Koi": {
+    "class": "blue",
+    "name": "Sticker | Twin Koi",
+    "image": "/img/skins/stickers/perfect-world/sticker-twin-koi.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-twin-koi.png"
+  }
+}

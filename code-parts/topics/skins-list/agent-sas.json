@@ -1,0 +1,16 @@
+{
+  "D Squadron Officer (NZ)": {
+    "class": "blue",
+    "name": "D Squadron Officer (NZ) | SAS",
+    "image": "/img/skins/agents/sas/d-squadron-officer-nz.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "B Squadron Officer": {
+    "class": "blue",
+    "name": "B Squadron Officer | SAS",
+    "image": "/img/skins/agents/sas/b-squadron-officer.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  }
+}

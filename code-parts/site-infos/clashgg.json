@@ -1,0 +1,55 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>",
+        "<a href=\"/csgo/caseopening\" aria-label=\"Case Opening\" class=\"cases\"></a>",
+        "<a href=\"/csgo/case-battle\" aria-label=\"Case Battles\" class=\"casebattles\"></a>",
+        "<a href=\"/\" aria-label=\"Jackpot\" class=\"jackpot\"></a>",
+        "<a href=\"/\" aria-label=\"Mines\" class=\"mines\"></a>",
+        "<a href=\"/csgo/plinko\" aria-label=\"Plinko\" class=\"plinko\"></a>",
+        "<a href=\"/csgo/roulette\" aria-label=\"Roulette\" class=\"roulette\"></a>",
+        "<a href=\"/\" aria-label=\"Dice\" class=\"dice\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ripple\" class=\"ripple\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>",
+        "<a href=\"/\" aria-label=\"WebMoney\" class=\"webmoney\"></a>",
+        "<a href=\"/\" aria-label=\"SkinsBack\" class=\"skinsback\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 4.5,
+        "Payments": 3.5,
+        "Playability": 4
+    },
+    "codes": {
+        "Deposit Bonus": "+5%"
+    },
+    "name": "ClashGG",
+    "languages": "en, ru, tr, es",
+    "link": "https://clash.gg/r/broker",
+    "featuresContent": ["DepositBonus", "ProgressiveRewards", "Rakeback", "Faucet", "Rain"],
+    "code": "broker",
+    "Main Mode": "classic",
+    "Sites Alternatives"  : ["csgofast", "csgoempire", "gamdom", "rustclash"]
+}

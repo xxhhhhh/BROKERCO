@@ -1,0 +1,152 @@
+{
+  "Vanilla": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-vanilla.webp",
+    "name": "Paracord Knife",
+    "color": []
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-stained.webp",
+    "name": "Paracord Knife | Stained",
+    "color": ["Gray", "White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-urban-masked.webp",
+    "name": "Paracord Knife | Urban Masked",
+    "color": ["Gray"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-scorched.webp",
+    "name": "Paracord Knife | Scorched",
+    "color": ["Black", "Gray"]
+  },
+  "Night Stripe": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-night-stripe.webp",
+    "name": "Paracord Knife | Night Stripe",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-blue-steel.webp",
+    "name": "Paracord Knife | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-safari-mesh.webp",
+    "name": "Paracord Knife | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-boreal.webp",
+    "name": "Paracord Knife | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-ddpat.webp",
+    "name": "Paracord Knife | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Doppler Ruby": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-doppler-ruby.webp",
+    "name": "Paracord Knife | Doppler Ruby",
+    "color": ["Red"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-knife-crimson-web.webp",
+    "name": "Paracord Knife | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-knife-slaughter.webp",
+    "name": "Paracord Knife | Slaughter",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-fade.webp",
+    "name": "Paracord Knife | Fade",
+    "color": []
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-case-hardened.webp",
+    "name": "Paracord Knife | Case Hardened",
+    "color": []
+  },
+  "Tiger Tooth": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-tiger-tooth.webp",
+    "name": "Paracord Knife | Tiger Tooth",
+    "color": ["Orange", "Yellow"]
+  },
+  "Rust Coat": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-rust-coat.webp",
+    "name": "Paracord Knife | Rust Coat",
+    "color": []
+  },
+  "Marble Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-marble-fade.webp",
+    "name": "Paracord Knife | Marble Fade",
+    "color": []
+  },
+  "Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-doppler-phase-3.webp",
+    "name": "Paracord Knife | Doppler Phase 3",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-doppler-phase-4.webp",
+    "name": "Paracord Knife | Doppler Phase 4",
+    "color": ["Blue"]
+  },
+  "Doppler Sapphire": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-doppler-sapphire.webp",
+    "name": "Paracord Knife | Doppler Sapphire",
+    "color": ["Blue"]
+  },
+  "Bright Water": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-bright-water.webp",
+    "name": "Paracord Knife | Bright Water",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-doppler-phase-1.webp",
+    "name": "Paracord Knife | Doppler Phase 1",
+    "color": ["Purple"]
+  },
+  "Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-doppler-phase-2.webp",
+    "name": "Paracord Knife | Doppler Phase 2",
+    "color": ["Pink", "Purple"]
+  },
+  "Ultraviolet": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-ultraviolet.webp",
+    "name": "Paracord Knife | Ultraviolet",
+    "color": ["Black", "Purple"]
+  },
+  "Damascus Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/paracord-damascus-steel.webp",
+    "name": "Paracord Knife | Damascus Steel",
+    "color": ["White"]
+  }
+}

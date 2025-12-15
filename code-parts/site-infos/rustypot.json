@@ -1,0 +1,29 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/rust/jackpot\" aria-label=\"Jackpot\" class=\"jackpot\"></a>",
+        "<a href=\"/rust/coinflip\" aria-label=\"Coinflip\" class=\"coinflip\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4.5,
+        "Support": 3,
+        "Payments": 3,
+        "Playability": 3.5
+    },
+    "codes": {
+        "Free Bonus": "1.00$"
+    },
+    "name": "RustyPot",
+    "languages": "en, ru, tr, es",
+    "link": "https://rustypot.com/",
+    "code": "csgobroker",
+    "Main Mode": "classic",
+    "featuresContent": ["SignUpBonus"],
+    "Sites Alternatives"  : ["howlgg", "banditcamp", "rustmagic", "rustyloot"]
+}

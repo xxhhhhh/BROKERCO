@@ -1,0 +1,38 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/roulette\" aria-label=\"Wheel of Fortune\" class=\"wheel\"></a>",
+        "<a href=\"/csgo/coinflip\" aria-label=\"Coinflip\" class=\"coinflip\"></a>",
+        "<a href=\"/csgo/crash\" aria-label=\"Crash\" class=\"crash\"></a>",
+        "<a href=\"/csgo/jackpot\" aria-label=\"Jackpot\" class=\"jackpot\"></a>",
+        "<a href=\"/csgo/upgrader\" aria-label=\"Upgrader\" class=\"upgrader\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/\" aria-label=\"FK Wallet\" class=\"fkwallet\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>"
+    ],
+    "ratings": {
+        "Trust": 0.5,
+        "Support": 3,
+        "Payments": 1.5,
+        "Playability": 4
+    },
+    "codes": {
+        "Free Bonus": "2.00$"
+    },
+    "name": "HellStore",
+    "languages": "en, ru, tr, es",
+    "link": "https://hellstore.me/r/38108",
+    "code": "38108",
+    "Main Mode": "classic",
+    "featuresContent": ["SignUpBonus", "DepositBonus", "DailyRewards", "Giveaways"],
+    "Sites Alternatives"  : ["csgo500", "csgopolygon", "csgofast", "insanegg"]
+}

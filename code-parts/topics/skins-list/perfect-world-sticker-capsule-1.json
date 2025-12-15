@@ -1,0 +1,92 @@
+{
+  "Fancy Koi (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Fancy Koi (Foil)",
+    "image": "/img/skins/stickers/perfect-world/sticker-fancy-koi-foil.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-fancy-koi-foil.png"
+  },
+  "Guardian Dragon (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Guardian Dragon (Foil)",
+    "image": "/img/skins/stickers/perfect-world/sticker-guardian-dragon-foil.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-guardian-dragon-foil.png"
+  },
+  "Cheongsam (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Cheongsam (Holo)",
+    "image": "/img/skins/stickers/perfect-world/sticker-cheongsam-holo.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-cheongsam-holo.png"
+  },
+  "Cheongsam": {
+    "class": "blue",
+    "name": "Sticker | Cheongsam",
+    "image": "/img/skins/stickers/perfect-world/sticker-cheongsam.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-cheongsam.png"
+  },
+  "Water Gun": {
+    "class": "blue",
+    "name": "Sticker | Water Gun",
+    "image": "/img/skins/stickers/perfect-world/sticker-water-gun.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-water-gun.png"
+  },
+  "Mahjong Fa": {
+    "class": "blue",
+    "name": "Sticker | Mahjong Fa",
+    "image": "/img/skins/stickers/perfect-world/sticker-mahjong-fa.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-mahjong-fa.png"
+  },
+  "Fancy Koi": {
+    "class": "blue",
+    "name": "Sticker | Fancy Koi",
+    "image": "/img/skins/stickers/perfect-world/sticker-fancy-koi.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-fancy-koi.png"
+  },
+  "Mahjong Rooster": {
+    "class": "blue",
+    "name": "Sticker | Mahjong Rooster",
+    "image": "/img/skins/stickers/perfect-world/sticker-mahjong-rooster.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-mahjong-rooster.png"
+  },
+  "Mahjong Zhong": {
+    "class": "blue",
+    "name": "Sticker | Mahjong Zhong",
+    "image": "/img/skins/stickers/perfect-world/sticker-mahjong-zhong.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-mahjong-zhong.png"
+  },
+  "Guardian Dragon": {
+    "class": "blue",
+    "name": "Sticker | Guardian Dragon",
+    "image": "/img/skins/stickers/perfect-world/sticker-guardian-dragon.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-guardian-dragon.png"
+  },
+  "Noodles": {
+    "class": "blue",
+    "name": "Sticker | Noodles",
+    "image": "/img/skins/stickers/perfect-world/sticker-noodles.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-noodles.png"
+  },
+  "Hotpot": {
+    "class": "blue",
+    "name": "Sticker | Hotpot",
+    "image": "/img/skins/stickers/perfect-world/sticker-hotpot.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-hotpot.png"
+  },
+  "Toy Tiger": {
+    "class": "blue",
+    "name": "Sticker | Toy Tiger",
+    "image": "/img/skins/stickers/perfect-world/sticker-toy-tiger.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-toy-tiger.png"
+  },
+  "Rice Bomb": {
+    "class": "blue",
+    "name": "Sticker | Rice Bomb",
+    "image": "/img/skins/stickers/perfect-world/sticker-rice-bomb.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-rice-bomb.png"
+  },
+  "Terror Rice": {
+    "class": "blue",
+    "name": "Sticker | Terror Rice",
+    "image": "/img/skins/stickers/perfect-world/sticker-terror-rice.png",
+    "imageOG": "/img/skins/stickers/perfect-world/small/sticker-terror-rice.png"
+  }
+}

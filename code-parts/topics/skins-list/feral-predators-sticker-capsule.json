@@ -1,0 +1,110 @@
+{
+  "Lurker (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Lurker (Foil)",
+    "image": "/img/skins/stickers/feral-predators/sticker-lurker-foil.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-lurker-foil.png"
+  },
+  "Toxic (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Toxic (Foil)",
+    "image": "/img/skins/stickers/feral-predators/sticker-toxic-foil.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-toxic-foil.png"
+  },
+  "Bite Me (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Bite Me (Foil)",
+    "image": "/img/skins/stickers/feral-predators/sticker-bite-me-foil.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-bite-me-foil.png"
+  },
+  "First Blood (Holo)": {
+    "class": "purple",
+    "name": "Sticker | First Blood (Holo)",
+    "image": "/img/skins/stickers/feral-predators/sticker-first-blood-holo.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-first-blood-holo.png"
+  },
+  "Free Hugs (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Free Hugs (Holo)",
+    "image": "/img/skins/stickers/feral-predators/sticker-free-hugs-holo.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-free-hugs-holo.png"
+  },
+  "Cluck (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Cluck (Holo)",
+    "image": "/img/skins/stickers/feral-predators/sticker-cluck-holo.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-cluck-holo.png"
+  },
+  "One Sting (Holo)": {
+    "class": "purple",
+    "name": "Sticker | One Sting (Holo)",
+    "image": "/img/skins/stickers/feral-predators/sticker-one-sting-holo.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-one-sting-holo.png"
+  },
+  "Baited (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Baited (Holo)",
+    "image": "/img/skins/stickers/feral-predators/sticker-baited-holo.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-baited-holo.png"
+  },
+  "Scavenger (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Scavenger (Holo)",
+    "image": "/img/skins/stickers/feral-predators/sticker-scavenger-holo.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-scavenger-holo.png"
+  },
+  "First Blood": {
+    "class": "blue",
+    "name": "Sticker | First Blood",
+    "image": "/img/skins/stickers/feral-predators/sticker-first-blood.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-first-blood.png"
+  },
+  "Cluck": {
+    "class": "blue",
+    "name": "Sticker | Cluck",
+    "image": "/img/skins/stickers/feral-predators/sticker-cluck.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-cluck.png"
+  },
+  "Free Hugs": {
+    "class": "blue",
+    "name": "Sticker | Free Hugs",
+    "image": "/img/skins/stickers/feral-predators/sticker-free-hugs.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-free-hugs.png"
+  },
+  "Toxic": {
+    "class": "blue",
+    "name": "Sticker | Toxic",
+    "image": "/img/skins/stickers/feral-predators/sticker-toxic.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-toxic.png"
+  },
+  "Baited": {
+    "class": "blue",
+    "name": "Sticker | Baited",
+    "image": "/img/skins/stickers/feral-predators/sticker-baited.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-baited.png"
+  },
+  "One Sting": {
+    "class": "blue",
+    "name": "Sticker | One Sting",
+    "image": "/img/skins/stickers/feral-predators/sticker-one-sting.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-one-sting.png"
+  },
+  "Lurker": {
+    "class": "blue",
+    "name": "Sticker | Lurker",
+    "image": "/img/skins/stickers/feral-predators/sticker-lurker.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-lurker.png"
+  },
+  "Bite Me": {
+    "class": "blue",
+    "name": "Sticker | Bite Me",
+    "image": "/img/skins/stickers/feral-predators/sticker-bite-me.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-bite-me.png"
+  },
+  "Scavenger": {
+    "class": "blue",
+    "name": "Sticker | Scavenger",
+    "image": "/img/skins/stickers/feral-predators/sticker-scavenger.png",
+    "imageOG": "/img/skins/stickers/feral-predators/small/sticker-scavenger.png"
+  }
+}

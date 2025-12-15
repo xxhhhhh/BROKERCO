@@ -1,0 +1,44 @@
+{
+  "'The Doctor' Romanov": {
+    "class": "red",
+    "name": "'The Doctor' Romanov | Sabre",
+    "image": "/img/skins/agents/sabre/the-doctor-romanov.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "Blackwolf": {
+    "class": "pink",
+    "name": "Blackwolf | Sabre",
+    "image": "/img/skins/agents/sabre/blackwolf.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "Rezan The Ready": {
+    "class": "pink",
+    "name": "Rezan The Ready | Sabre",
+    "image": "/img/skins/agents/sabre/rezan-the-ready.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "Rezan the Redshirt": {
+    "class": "pink",
+    "name": "Rezan the Redshirt | Sabre",
+    "image": "/img/skins/agents/sabre/rezan-the-redshirt.webp",
+    "color": [],
+    "collection": "Broken Fang Agents"
+  },
+  "Maximus": {
+    "class": "purple",
+    "name": "Maximus | Sabre",
+    "image": "/img/skins/agents/sabre/maximus.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  },
+  "Dragomir": {
+    "class": "purple",
+    "name": "Dragomir | Sabre",
+    "image": "/img/skins/agents/sabre/dragomir.webp",
+    "color": [],
+    "collection": "Shattered Web Agents"
+  }
+}

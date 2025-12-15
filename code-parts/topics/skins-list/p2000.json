@@ -1,0 +1,328 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/p2000/vanilla.webp",
+    "name": "P2000 | Vanilla",
+    "color": []
+  },
+  "Red Wing": {
+    "class": "blue",
+    "image": "/img/skins/p2000/red-wing.webp",
+    "name": "P2000 | Red Wing",
+    "color": [
+      "Red",
+      "Gray"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Sure Grip": {
+    "class": "blue",
+    "image": "/img/skins/p2000/sure-grip.webp",
+    "name": "P2000 | Sure Grip",
+    "color": [
+      "Gray"
+    ],
+    "case": "Fever Case"
+  },
+  "Coral Halftone": {
+    "class": "lblue",
+    "image": "/img/skins/p2000/coral-halftone.webp",
+    "name": "P2000 | Coral Halftone",
+    "color": [],
+    "collection": "The Graphic Design Collection"
+  },
+  "Ivory": {
+    "class": "blue",
+    "image": "/img/skins/p2000/ivory.webp",
+    "name": "P2000 | Ivory",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Dispatch": {
+    "class": "blue",
+    "image": "/img/skins/p2000/dispatch.webp",
+    "name": "P2000 | Dispatch",
+    "color": [
+      "Blue",
+      "White"
+    ],
+    "collection": "The Control Collection"
+  },
+  "Wicked Sick": {
+    "class": "pink",
+    "image": "/img/skins/p2000/wicked-sick.webp",
+    "name": "P2000 | Wicked Sick",
+    "color": [
+      "White"
+    ],
+    "case": "Revolution Case"
+  },
+  "Silver": {
+    "class": "blue",
+    "image": "/img/skins/p2000/silver.webp",
+    "name": "P2000 | Silver",
+    "color": [
+      "Gray",
+      "Silver"
+    ],
+    "collection": "The Office Collection"
+  },
+  "Granite Marbleized": {
+    "class": "lblue",
+    "image": "/img/skins/p2000/granite-marbleized.webp",
+    "name": "P2000 | Granite Marbleized",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Pathfinder": {
+    "class": "lblue",
+    "image": "/img/skins/p2000/pathfinder.webp",
+    "name": "P2000 | Pathfinder",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Chainmail": {
+    "class": "blue",
+    "image": "/img/skins/p2000/chainmail.webp",
+    "name": "P2000 | Chainmail",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Panther Camo": {
+    "class": "lblue",
+    "image": "/img/skins/p2000/panther-camo.webp",
+    "name": "P2000 | Panther Camo",
+    "color": [
+      "Black"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Scorpion": {
+    "class": "purple",
+    "image": "/img/skins/p2000/scorpion.webp",
+    "name": "P2000 | Scorpion",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Dust Collection"
+  },
+  "Coach Class": {
+    "class": "lblue",
+    "image": "/img/skins/p2000/coach-class.webp",
+    "name": "P2000 | Coach Class",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Lifted Spirits": {
+    "class": "blue",
+    "image": "/img/skins/p2000/lifted-spirits.webp",
+    "name": "P2000 | Lifted Spirits",
+    "color": [
+      "Black",
+      "Brown"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Space Race": {
+    "class": "purple",
+    "image": "/img/skins/p2000/space-race.webp",
+    "name": "P2000 | Space Race",
+    "color": [],
+    "collection": "The 2021 Train Collection"
+  },
+  "Grassland Leaves": {
+    "class": "lblue",
+    "image": "/img/skins/p2000/grassland-leaves.webp",
+    "name": "P2000 | Grassland Leaves",
+    "color": [
+      "Brown",
+      "Green"
+    ],
+    "collection": "The Militia Collection"
+  },
+  "Grassland": {
+    "class": "lblue",
+    "image": "/img/skins/p2000/grassland.webp",
+    "name": "P2000 | Grassland",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Urban Hazard": {
+    "class": "blue",
+    "image": "/img/skins/p2000/urban-hazard.webp",
+    "name": "P2000 | Urban Hazard",
+    "color": [
+      "Red"
+    ],
+    "case": "Clutch Case"
+  },
+  "Obsidian": {
+    "class": "purple",
+    "image": "/img/skins/p2000/obsidian.webp",
+    "name": "P2000 | Obsidian",
+    "color": [
+      "Red"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Imperial": {
+    "class": "blue",
+    "image": "/img/skins/p2000/imperial.webp",
+    "name": "P2000 | Imperial",
+    "color": [
+      "Red"
+    ],
+    "case": "Revolver Case"
+  },
+  "Red FragCam": {
+    "class": "blue",
+    "image": "/img/skins/p2000/red-fragcam.webp",
+    "name": "P2000 | Red FragCam",
+    "color": [],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Imperial Dragon": {
+    "class": "pink",
+    "image": "/img/skins/p2000/imperial-dragon.webp",
+    "name": "P2000 | Imperial Dragon",
+    "color": [
+      "Red"
+    ],
+    "case": "Gamma Case"
+  },
+  "Amber Fade": {
+    "class": "purple",
+    "image": "/img/skins/p2000/amber-fade.webp",
+    "name": "P2000 | Amber Fade",
+    "color": [
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Woodsman": {
+    "class": "purple",
+    "image": "/img/skins/p2000/woodsman.webp",
+    "name": "P2000 | Woodsman",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Hydra Case"
+  },
+  "Acid Etched": {
+    "class": "purple",
+    "image": "/img/skins/p2000/acid-etched.webp",
+    "name": "P2000 | Acid Etched",
+    "color": [
+      "Purple"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Pulse": {
+    "class": "blue",
+    "image": "/img/skins/p2000/pulse.webp",
+    "name": "P2000 | Pulse",
+    "color": [
+      "Green"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Turf": {
+    "class": "blue",
+    "image": "/img/skins/p2000/turf.webp",
+    "name": "P2000 | Turf",
+    "color": [
+      "Green"
+    ],
+    "case": "Glove Case"
+  },
+  "Gnarled": {
+    "class": "blue",
+    "image": "/img/skins/p2000/gnarled.webp",
+    "name": "P2000 | Gnarled",
+    "color": [],
+    "case": "Fracture Case"
+  },
+  "Handgun": {
+    "class": "purple",
+    "image": "/img/skins/p2000/handgun.webp",
+    "name": "P2000 | Handgun",
+    "color": [],
+    "case": "Falchion Case"
+  },
+  "Corticera": {
+    "class": "pink",
+    "image": "/img/skins/p2000/corticera.webp",
+    "name": "P2000 | Corticera",
+    "color": [
+      "Blue",
+      "Cyan"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Fire Elemental": {
+    "class": "red",
+    "image": "/img/skins/p2000/fire-elemental.webp",
+    "name": "P2000 | Fire Elemental",
+    "color": [
+      "Blue",
+      "Orange"
+    ],
+    "case": "Operation Vanguard Weapon Case"
+  },
+  "Oceanic": {
+    "class": "blue",
+    "image": "/img/skins/p2000/oceanic.webp",
+    "name": "P2000 | Oceanic",
+    "color": [
+      "Blue"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Ocean Foam": {
+    "class": "pink",
+    "image": "/img/skins/p2000/ocean-foam.webp",
+    "name": "P2000 | Ocean Foam",
+    "color": [
+      "Blue"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Royal Baroque": {
+    "class": "blue",
+    "image": "/img/skins/p2000/royal-baroque.webp",
+    "name": "P2000 | Royal Baroque",
+    "color": [
+      "Blue",
+      "Yellow"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Marsh": {
+    "class": "lblue",
+    "image": "/img/skins/p2000/marsh.webp",
+    "name": "P2000 | Marsh",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Boreal Collection"
+  }
+}

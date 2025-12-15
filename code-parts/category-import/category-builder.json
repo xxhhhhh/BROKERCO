@@ -1,0 +1,48 @@
+{
+    "categories": [
+      {
+        "href": "/cs2",
+        "label": "CS2 Sites List",
+        "logo": "/img/icons/main-modes/cs2-logo.png",
+        "classes": ["locked"]
+      },
+      {
+        "href": "/rust",
+        "label": "Rust Sites List",
+        "logo": "/img/icons/main-modes/rust-logo.png"
+      },
+      {
+        "href": "/crypto",
+        "label": "Crypto Sites List",
+        "logo": "/img/icons/main-modes/crypto-logo.png"
+      },
+      {
+        "href": "/freebies",
+        "label": "Freebies Only",
+        "logo": "/img/icons/main-modes/freebies.png",
+        "classes": ["last"]
+      },
+      {
+        "href": "/earning",
+        "label": "Earning Sites",
+        "logo": "/img/icons/main-modes/earning.png"
+      },
+      {
+        "href": "/dota",
+        "label": "Dota 2 Sites List",
+        "logo": "/img/icons/main-modes/dota2-logo.png"
+      },
+      {
+        "href": "/steam/levelup",
+        "label": "Steam Sites",
+        "logo": "/img/icons/main-modes/steam.png"
+      },
+      {
+        "href": "/newest",
+        "label": "Newest Sites",
+        "logo": "/img/icons/main-modes/new.png",
+        "classes": ["newest"]
+      }
+    ]
+  }
+  

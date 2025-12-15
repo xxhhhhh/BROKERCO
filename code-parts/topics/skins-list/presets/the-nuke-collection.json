@@ -1,0 +1,38 @@
+[
+  {
+    "weapon": "tec-9",
+    "skin-id": "Nuclear Threat"
+  },
+  {
+    "weapon": "p250",
+    "skin-id": "Nuclear Threat"
+  },
+  {
+    "weapon": "m4a4",
+    "skin-id": "Radiation Hazard"
+  },
+  {
+    "weapon": "xm1014",
+    "skin-id": "Fallout Warning"
+  },
+  {
+    "weapon": "ump-45",
+    "skin-id": "Fallout Warning"
+  },
+  {
+    "weapon": "p90",
+    "skin-id": "Fallout Warning"
+  },
+  {
+    "weapon": "sawed-off",
+    "skin-id": "Irradiated Alert"
+  },
+  {
+    "weapon": "pp-bizon",
+    "skin-id": "Irradiated Alert"
+  },
+  {
+    "weapon": "mag-7",
+    "skin-id": "Irradiated Alert"
+  }
+]

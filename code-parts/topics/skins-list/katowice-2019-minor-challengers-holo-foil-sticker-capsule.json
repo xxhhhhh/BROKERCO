@@ -1,0 +1,134 @@
+{
+  "Team Spirit (Foil)": {
+    "class": "pink",
+    "name": "Team Spirit (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-team-spirit-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-team-spirit-foil-katowice-2019.png"
+  },
+  "FURIA (Foil)": {
+    "class": "pink",
+    "name": "FURIA (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-furia-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-furia-foil-katowice-2019.png"
+  },
+  "ENCE (Foil)": {
+    "class": "pink",
+    "name": "ENCE (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-ence-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-ence-foil-katowice-2019.png"
+  },
+  "Renegades (Foil)": {
+    "class": "pink",
+    "name": "Renegades (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-renegades-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-renegades-foil-katowice-2019.png"
+  },
+  "IEM (Foil)": {
+    "class": "pink",
+    "name": "IEM (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-iem-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-iem-foil-katowice-2019.png"
+  },
+  "Winstrike Team (Foil)": {
+    "class": "pink",
+    "name": "Winstrike Team (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-winstrike-team-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-winstrike-team-foil-katowice-2019.png"
+  },
+  "Vitality (Foil)": {
+    "class": "pink",
+    "name": "Vitality (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-vitality-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-vitality-foil-katowice-2019.png"
+  },
+  "ViCi Gaming (Foil)": {
+    "class": "pink",
+    "name": "ViCi Gaming (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-vici-gaming-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-vici-gaming-foil-katowice-2019.png"
+  },
+  "NRG (Foil)": {
+    "class": "pink",
+    "name": "NRG (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-nrg-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-nrg-foil-katowice-2019.png"
+  },
+  "Grayhound Gaming (Foil)": {
+    "class": "pink",
+    "name": "Grayhound Gaming (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-grayhound-gaming-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-grayhound-gaming-foil-katowice-2019.png"
+  },
+  "Avangar (Foil)": {
+    "class": "pink",
+    "name": "Avangar (Foil) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-avangar-foil-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-avangar-foil-katowice-2019.png"
+  },
+  "Team Spirit (Holo)": {
+    "class": "purple",
+    "name": "Team Spirit (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-team-spirit-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-team-spirit-holo-katowice-2019.png"
+  },
+  "FURIA (Holo)": {
+    "class": "purple",
+    "name": "FURIA (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-furia-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-furia-holo-katowice-2019.png"
+  },
+  "ViCi Gaming (Holo)": {
+    "class": "purple",
+    "name": "ViCi Gaming (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-vici-gaming-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-vici-gaming-holo-katowice-2019.png"
+  },
+  "Winstrike Team (Holo)": {
+    "class": "purple",
+    "name": "Winstrike Team (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-winstrike-team-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-winstrike-team-holo-katowice-2019.png"
+  },
+  "IEM (Holo)": {
+    "class": "purple",
+    "name": "IEM (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-iem-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-iem-holo-katowice-2019.png"
+  },
+  "Grayhound Gaming (Holo)": {
+    "class": "purple",
+    "name": "Grayhound Gaming (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-grayhound-gaming-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-grayhound-gaming-holo-katowice-2019.png"
+  },
+  "Vitality (Holo)": {
+    "class": "purple",
+    "name": "Vitality (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-vitality-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-vitality-holo-katowice-2019.png"
+  },
+  "Renegades (Holo)": {
+    "class": "purple",
+    "name": "Renegades (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-renegades-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-renegades-holo-katowice-2019.png"
+  },
+  "Avangar (Holo)": {
+    "class": "purple",
+    "name": "Avangar (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-avangar-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-avangar-holo-katowice-2019.png"
+  },
+  "NRG (Holo)": {
+    "class": "purple",
+    "name": "NRG (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-nrg-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-nrg-holo-katowice-2019.png"
+  },
+  "ENCE (Holo)": {
+    "class": "purple",
+    "name": "ENCE (Holo) | Katowice 2019",
+    "image": "/img/skins/stickers/katowice-2019/sticker-ence-holo-katowice-2019.png",
+    "imageOG": "/img/skins/stickers/katowice-2019/small/sticker-ence-holo-katowice-2019.png"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/earning/offerwalls\" aria-label=\"Offerwalls\" class=\"offerwalls\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>"
+    ],
+    "ratings": {
+        "Trust": 1,
+        "Support": 3,
+        "Payments": 3,
+        "Variety": 3
+    },
+    "name": "Earnweb",
+    "languages": "en, ru, tr, es, pl",
+    "link": "https://r.earnweb.com/5b31393334375d",
+    "featuresContent": ["SignUpBonus"],
+    "code": "1PPSTARTCGB",
+    "Main Mode": "earning",
+    "Sites Alternatives"  : ["freecash", "idle-empire", "grindbux", "freeward"]
+}

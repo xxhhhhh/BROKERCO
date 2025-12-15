@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Knives",
+    "name-ru": "Ножи",
+    "alt": "Knife Icon",
+    "image": "/img/icons/gamemodes/knives-category.svg",
+    "items": [
+      {
+        "name": "Bayonet",
+        "link": "/topic/items/bayonet",
+        "image": "/img/skins/knives/bayonet-vanilla.webp"
+      },
+      {
+        "name": "Bowie Knife",
+        "link": "/topic/items/bowie-knife",
+        "image": "/img/skins/knives/bowie-vanilla.webp"
+      },
+      {
+        "name": "Butterfly Knife",
+        "link": "/topic/items/butterfly-knife",
+        "image": "/img/skins/knives/butterfly-vanilla.webp"
+      },
+      {
+        "name": "Classic Knife",
+        "link": "/topic/items/classic-knife",
+        "image": "/img/skins/knives/classic-vanilla.webp"
+      },
+      {
+        "name": "Falchion Knife",
+        "link": "/topic/items/falchion-knife",
+        "image": "/img/skins/knives/falchion-classic.webp"
+      },
+      {
+        "name": "Flip Knife",
+        "link": "/topic/items/flip-knife",
+        "image": "/img/skins/knives/flip-vanilla.webp"
+      },
+      {
+        "name": "Gut Knife",
+        "link": "/topic/items/gut-knife",
+        "image": "/img/skins/knives/gut-vanilla.webp"
+      },
+      {
+        "name": "Huntsman Knife",
+        "link": "/topic/items/huntsman-knife",
+        "image": "/img/skins/knives/huntsman-vanilla.webp"
+      },
+      {
+        "name": "Karambit",
+        "link": "/topic/items/karambit",
+        "image": "/img/skins/knives/karambit-vanilla.webp"
+      },
+      {
+        "name": "Kukri Knife",
+        "link": "/topic/items/kukri-knife",
+        "image": "/img/skins/knives/kukri-vanilla.webp"
+      },
+      {
+        "name": "M9 Bayonet",
+        "link": "/topic/items/m9-bayonet",
+        "image": "/img/skins/knives/m9-vanilla.webp"
+      },
+      {
+        "name": "Navaja Knife",
+        "link": "/topic/items/navaja-knife",
+        "image": "/img/skins/knives/navaja-vanilla.webp"
+      },
+      {
+        "name": "Nomad Knife",
+        "link": "/topic/items/nomad-knife",
+        "image": "/img/skins/knives/nomad-vanilla.webp"
+      },
+      {
+        "name": "Paracord Knife",
+        "link": "/topic/items/paracord-knife",
+        "image": "/img/skins/knives/paracord-vanilla.webp"
+      },
+      {
+        "name": "Shadow Daggers",
+        "link": "/topic/items/shadow-daggers",
+        "image": "/img/skins/knives/sd-vanilla.webp"
+      },
+      {
+        "name": "Skeleton Knife",
+        "link": "/topic/items/skeleton-knife",
+        "image": "/img/skins/knives/skeleton-vanilla.webp"
+      },
+      {
+        "name": "Stiletto Knife",
+        "link": "/topic/items/stiletto-knife",
+        "image": "/img/skins/knives/stiletto-vanilla.webp"
+      },
+      {
+        "name": "Survival Knife",
+        "link": "/topic/items/survival-knife",
+        "image": "/img/skins/knives/survival-vanilla.webp"
+      },
+      {
+        "name": "Talon Knife",
+        "link": "/topic/items/talon-knife",
+        "image": "/img/skins/knives/talon-vanilla.webp"
+      },
+      {
+        "name": "Ursus Knife",
+        "link": "/topic/items/ursus-knife",
+        "image": "/img/skins/knives/ursus-vanilla.webp"
+      }
+    ]
+  },
+  {
+    "name": "Gloves",
+    "name-ru": "Перчатки",
+    "alt": "Gloves Icon",
+    "image": "/img/icons/gamemodes/gloves-category.svg",
+    "items": [
+      {
+        "name": "Bloodhound Gloves",
+        "link": "/topic/items/bloodhound-gloves",
+        "image": "/img/skins/gloves/charred.webp"
+      },
+      {
+        "name": "Broken Fang Gloves",
+        "link": "/topic/items/broken-fang-gloves",
+        "image": "/img/skins/gloves/unhinged.webp"
+      },
+      {
+        "name": "Driver Gloves",
+        "link": "/topic/items/driver-gloves",
+        "image": "/img/skins/gloves/black-tie.webp"
+      },
+      {
+        "name": "Hand Wraps",
+        "link": "/topic/items/hand-wraps",
+        "image": "/img/skins/gloves/duct-tape.webp"
+      },
+      {
+        "name": "Hydra Gloves",
+        "link": "/topic/items/hydra-gloves",
+        "image": "/img/skins/gloves/emerald.webp"
+      },
+      {
+        "name": "Moto Gloves",
+        "link": "/topic/items/moto-gloves",
+        "image": "/img/skins/gloves/smoke-out.webp"
+      },
+      {
+        "name": "Specialist Gloves",
+        "link": "/topic/items/specialist-gloves",
+        "image": "/img/skins/gloves/field-agent.webp"
+      },
+      {
+        "name": "Sport Gloves",
+        "link": "/topic/items/sport-gloves",
+        "image": "/img/skins/gloves/nocts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Pistols",
+    "name-ru": "Пистолеты",
+    "alt": "Pistol Icon",
+    "image": "/img/icons/gamemodes/pistols-category.svg",
+    "items": [
+      {
+        "name": "CZ75-Auto",
+        "link": "/topic/items/cz75-auto",
+        "image": "/img/skins/cz75-auto/vanilla.webp"
+      },
+      {
+        "name": "Desert Eagle",
+        "link": "/topic/items/desert-eagle",
+        "image": "/img/skins/desert-eagle/vanilla.webp"
+      },
+      {
+        "name": "Dual Berettas",
+        "link": "/topic/items/dual-berettas",
+        "image": "/img/skins/dual-berettas/vanilla.webp"
+      },
+      {
+        "name": "Five-SeveN",
+        "link": "/topic/items/five-seven",
+        "image": "/img/skins/five-seven/vanilla.webp"
+      },
+      {
+        "name": "Glock-18",
+        "link": "/topic/items/glock-18",
+        "image": "/img/skins/glock-18/vanilla.webp"
+      },
+      {
+        "name": "P2000",
+        "link": "/topic/items/p2000",
+        "image": "/img/skins/p2000/vanilla.webp"
+      },
+      {
+        "name": "P250",
+        "link": "/topic/items/p250",
+        "image": "/img/skins/p250/vanilla.webp"
+      },
+      {
+        "name": "R8 Revolver",
+        "link": "/topic/items/r8-revolver",
+        "image": "/img/skins/r8-revolver/vanilla.webp"
+      },
+      {
+        "name": "Tec-9",
+        "link": "/topic/items/tec-9",
+        "image": "/img/skins/tec-9/vanilla.webp"
+      },
+      {
+        "name": "USP-S",
+        "link": "/topic/items/usp-s",
+        "image": "/img/skins/usp-s/vanilla.webp"
+      },
+      {
+        "name": "Zeus x27",
+        "link": "/topic/items/zeus-x27",
+        "image": "/img/skins/zeus-x27/vanilla.webp"
+      }
+    ]
+  },
+  {
+    "name": "SMGs",
+    "name-ru": "Пистолеты-Пулеметы",
+    "alt": "SMG Icon",
+    "image": "/img/icons/gamemodes/smgs-category.svg",
+    "items": [
+      {
+        "name": "MAC-10",
+        "link": "/topic/items/mac-10",
+        "image": "/img/skins/mac-10/vanilla.webp"
+      },
+      {
+        "name": "MP5-SD",
+        "link": "/topic/items/mp5-sd",
+        "image": "/img/skins/mp5-sd/vanilla.webp"
+      },
+      {
+        "name": "MP7",
+        "link": "/topic/items/mp7",
+        "image": "/img/skins/mp7/vanilla.webp"
+      },
+      {
+        "name": "MP9",
+        "link": "/topic/items/mp9",
+        "image": "/img/skins/mp9/vanilla.webp"
+      },
+      {
+        "name": "P90",
+        "link": "/topic/items/p90",
+        "image": "/img/skins/p90/vanilla.webp"
+      },
+      {
+        "name": "PP-Bizon",
+        "link": "/topic/items/pp-bizon",
+        "image": "/img/skins/pp-bizon/vanilla.webp"
+      },
+      {
+        "name": "UMP-45",
+        "link": "/topic/items/ump-45",
+        "image": "/img/skins/ump-45/vanilla.webp"
+      }
+    ]
+  },
+  {
+    "name": "Shotguns",
+    "name-ru": "Дробовики",
+    "alt": "Shotgun Icon",
+    "image": "/img/icons/gamemodes/shotguns-category.svg",
+    "items": [
+      {
+        "name": "MAG-7",
+        "link": "/topic/items/mag-7",
+        "image": "/img/skins/mag-7/vanilla.webp"
+      },
+      {
+        "name": "Nova",
+        "link": "/topic/items/nova",
+        "image": "/img/skins/nova/vanilla.webp"
+      },
+      {
+        "name": "Sawed-Off",
+        "link": "/topic/items/sawed-off",
+        "image": "/img/skins/sawed-off/vanilla.webp"
+      },
+      {
+        "name": "XM1014",
+        "link": "/topic/items/xm1014",
+        "image": "/img/skins/xm1014/vanilla.webp"
+      }
+    ]
+  },
+  {
+    "name": "Machineguns",
+    "name-ru": "Пулеметы",
+    "alt": "MachineGun Icon",
+    "image": "/img/icons/gamemodes/mguns-category.svg",
+    "items": [
+      {
+        "name": "M249",
+        "link": "/topic/items/m249",
+        "image": "/img/skins/m249/vanilla.webp"
+      },
+      {
+        "name": "Negev",
+        "link": "/topic/items/negev",
+        "image": "/img/skins/negev/vanilla.webp"
+      }
+    ]
+  },
+  {
+    "name": "Rifles",
+    "name-ru": "Винтовки",
+    "alt": "Rifle Icon",
+    "image": "/img/icons/gamemodes/rifles-category.png",
+    "items": [
+      {
+        "name": "AK-47",
+        "link": "/topic/items/ak-47",
+        "image": "/img/skins/ak-47/vanilla.webp"
+      },
+      {
+        "name": "AUG",
+        "link": "/topic/items/aug",
+        "image": "/img/skins/aug/vanilla.webp"
+      },
+      {
+        "name": "FAMAS",
+        "link": "/topic/items/famas",
+        "image": "/img/skins/famas/vanilla.webp"
+      },
+      {
+        "name": "Galil AR",
+        "link": "/topic/items/galil-ar",
+        "image": "/img/skins/galil-ar/vanilla.webp"
+      },
+      {
+        "name": "M4A1-S",
+        "link": "/topic/items/m4a1-s",
+        "image": "/img/skins/m4a1-s/vanilla.webp"
+      },
+      {
+        "name": "M4A4",
+        "link": "/topic/items/m4a4",
+        "image": "/img/skins/m4a4/vanilla.webp"
+      },
+      {
+        "name": "SG 553",
+        "link": "/topic/items/sg-553",
+        "image": "/img/skins/sg-553/vanilla.webp"
+      }
+    ]
+  },
+  {
+    "name": "Sniper Rifles",
+    "name-ru": "Снайперские Винтовки",
+    "alt": "Sniper Rifle Icon",
+    "image": "/img/icons/gamemodes/snipers-category.svg",
+    "items": [
+      {
+        "name": "AWP",
+        "link": "/topic/items/awp",
+        "image": "/img/skins/awp/vanilla.webp"
+      },
+      {
+        "name": "G3SG1",
+        "link": "/topic/items/g3sg1",
+        "image": "/img/skins/g3sg1/vanilla.webp"
+      },
+      {
+        "name": "SCAR-20",
+        "link": "/topic/items/scar-20",
+        "image": "/img/skins/scar-20/vanilla.webp"
+      },
+      {
+        "name": "SSG 08",
+        "link": "/topic/items/ssg-08",
+        "image": "/img/skins/ssg-08/vanilla.webp"
+      }
+    ]
+  },
+  {
+    "name": "Sticker Capsules",
+    "name-ru": "Капсулы со Стикерами",
+    "alt": "Sticker Capsule Icon",
+    "image": "/img/icons/gamemodes/capsule-category.png",
+    "import-items": "sticker-capsules"
+  },
+  {
+    "name": "Autograph Capsules",
+    "name-ru": "Капсулы с Автографами",
+    "alt": "Autograph Capsule Icon",
+    "image": "/img/icons/gamemodes/capsule-category.png",
+    "import-items": "autograph-capsules"
+  },
+  {
+    "name": "Collections",
+    "name-ru": "Коллекции",
+    "alt": "Collection Icon",
+    "image": "/img/icons/gamemodes/collections.webp",
+    "import-items": "collections"
+  },
+  {
+    "name": "Cases",
+    "name-ru": "Кейсы",
+    "alt": "Case Icon",
+    "image": "/img/icons/gamemodes/mods-box/cases.webp",
+    "import-items": "cases"
+  },
+  {
+    "name": "Charms",
+    "name-ru": "Брелоки",
+    "alt": "Charms Icon",
+    "image": "/img/icons/gamemodes/charms.png",
+    "import-items": "charms"
+  },
+  {
+    "name": "Agents",
+    "name-ru": "Агенты",
+    "alt": "Agent Icon",
+    "image": "/img/icons/gamemodes/agents.webp",
+    "items": [
+      {
+        "name": "All Agents",
+        "link": "/topic/items/agents",
+        "image": "/img/skins/agents/the-professionals/number-k.webp"
+      }
+    ]
+  },
+  {
+    "name": "Skins by Color",
+    "name-ru": "Скины по Цвету",
+    "alt": "Palette Icon",
+    "image": "/img/icons/gamemodes/palette.png",
+    "items": [
+      {
+        "name": "White Skins",
+        "link": "/topic/skins/white-skins",
+        "class": "colorbox white"
+      },
+      {
+        "name": "Silver Skins",
+        "link": "/topic/skins/silver-skins",
+        "class": "colorbox silver"
+      },
+      {
+        "name": "Gray Skins",
+        "link": "/topic/skins/gray-skins",
+        "class": "colorbox gray"
+      },
+      {
+        "name": "Black Skins",
+        "link": "/topic/skins/black-skins",
+        "class": "colorbox black"
+      },
+      {
+        "name": "Brown Skins",
+        "link": "/topic/skins/brown-skins",
+        "class": "colorbox brown"
+      },
+      {
+        "name": "Red Skins",
+        "link": "/topic/skins/red-skins",
+        "class": "colorbox red"
+      },
+      {
+        "name": "Orange Skins",
+        "link": "/topic/skins/orange-skins",
+        "class": "colorbox orange"
+      },
+      {
+        "name": "Golden Skins",
+        "link": "/topic/skins/golden-skins",
+        "class": "colorbox golden"
+      },
+      {
+        "name": "Yellow Skins",
+        "link": "/topic/skins/yellow-skins",
+        "class": "colorbox yellow"
+      },
+      {
+        "name": "Green Skins",
+        "link": "/topic/skins/green-skins",
+        "class": "colorbox green"
+      },
+      {
+        "name": "Cyan Skins",
+        "link": "/topic/skins/cyan-skins",
+        "class": "colorbox cyan"
+      },
+      {
+        "name": "Blue Skins",
+        "link": "/topic/skins/blue-skins",
+        "class": "colorbox blue"
+      },
+      {
+        "name": "Purple Skins",
+        "link": "/topic/skins/purple-skins",
+        "class": "colorbox purple"
+      },
+      {
+        "name": "Pink Skins",
+        "link": "/topic/skins/pink-skins",
+        "class": "colorbox pink"
+      }
+    ]
+  }
+]

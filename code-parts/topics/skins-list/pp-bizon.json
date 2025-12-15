@@ -1,0 +1,343 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/pp-bizon/vanilla.webp",
+    "name": "PP-Bizon | Vanilla",
+    "color": []
+  },
+  "Bamboo Print": {
+    "class": "white",
+    "image": "/img/skins/pp-bizon/bamboo-print.webp",
+    "name": "PP-Bizon | Bamboo Print",
+    "color": [
+      "White"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Facility Sketch": {
+    "class": "white",
+    "image": "/img/skins/pp-bizon/facility-sketch.webp",
+    "name": "PP-Bizon | Facility Sketch",
+    "color": [
+      "White"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Modern Hunter": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/modern-hunter.webp",
+    "name": "PP-Bizon | Modern Hunter",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Militia Collection"
+  },
+  "Urban Dashed": {
+    "class": "white",
+    "image": "/img/skins/pp-bizon/urban-dashed.webp",
+    "name": "PP-Bizon | Urban Dashed",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Lumen": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/lumen.webp",
+    "name": "PP-Bizon | Lumen",
+    "color": [
+      "Black"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "Carbon Fiber": {
+    "class": "lblue",
+    "image": "/img/skins/pp-bizon/carbon-fiber.webp",
+    "name": "PP-Bizon | Carbon Fiber",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Vertigo Collection"
+  },
+  "Harvester": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/harvester.webp",
+    "name": "PP-Bizon | Harvester",
+    "color": [
+      "Gray"
+    ],
+    "case": "Gamma Case"
+  },
+  "Runic": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/runic.webp",
+    "name": "PP-Bizon | Runic",
+    "color": [
+      "Orange"
+    ],
+    "case": "Fracture Case"
+  },
+  "Antique": {
+    "class": "purple",
+    "image": "/img/skins/pp-bizon/antique.webp",
+    "name": "PP-Bizon | Antique",
+    "color": [
+      "Brown"
+    ],
+    "case": "Huntsman Weapon Case"
+  },
+  "Death Rattle": {
+    "class": "white",
+    "image": "/img/skins/pp-bizon/death-rattle.webp",
+    "name": "PP-Bizon | Death Rattle",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Sand Dashed": {
+    "class": "white",
+    "image": "/img/skins/pp-bizon/sand-dashed.webp",
+    "name": "PP-Bizon | Sand Dashed",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Candy Apple": {
+    "class": "lblue",
+    "image": "/img/skins/pp-bizon/candy-apple.webp",
+    "name": "PP-Bizon | Candy Apple",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Inferno Collection"
+  },
+  "High Roller": {
+    "class": "pink",
+    "image": "/img/skins/pp-bizon/high-roller.webp",
+    "name": "PP-Bizon | High Roller",
+    "color": [
+      "Red"
+    ],
+    "case": "Spectrum 2 Case"
+  },
+  "Breaker Box": {
+    "class": "lblue",
+    "image": "/img/skins/pp-bizon/breaker-box.webp",
+    "name": "PP-Bizon | Breaker Box",
+    "color": [],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Irradiated Alert": {
+    "class": "white",
+    "image": "/img/skins/pp-bizon/irradiated-alert.webp",
+    "name": "PP-Bizon | Irradiated Alert",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Nuke Collection"
+  },
+  "Osiris": {
+    "class": "purple",
+    "image": "/img/skins/pp-bizon/osiris.webp",
+    "name": "PP-Bizon | Osiris",
+    "color": [
+      "Black",
+      "Yellow"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Judgement of Anubis": {
+    "class": "red",
+    "image": "/img/skins/pp-bizon/judgement-of-anubis.webp",
+    "name": "PP-Bizon | Judgement of Anubis",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Chroma 3 Case"
+  },
+  "Brass": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/brass.webp",
+    "name": "PP-Bizon | Brass",
+    "color": [
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Jungle Slipstream": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/jungle-slipstream.webp",
+    "name": "PP-Bizon | Jungle Slipstream",
+    "color": [
+      "Green",
+      "Yellow"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Chemical Green": {
+    "class": "lblue",
+    "image": "/img/skins/pp-bizon/chemical-green.webp",
+    "name": "PP-Bizon | Chemical Green",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "Fuel Rod": {
+    "class": "purple",
+    "image": "/img/skins/pp-bizon/fuel-rod.webp",
+    "name": "PP-Bizon | Fuel Rod",
+    "color": [
+      "Green"
+    ],
+    "case": "Revolver Case"
+  },
+  "Forest Leaves": {
+    "class": "white",
+    "image": "/img/skins/pp-bizon/forest-leaves.webp",
+    "name": "PP-Bizon | Forest Leaves",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Militia Collection"
+  },
+  "Anolis": {
+    "class": "white",
+    "image": "/img/skins/pp-bizon/anolis.webp",
+    "name": "PP-Bizon | Anolis",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Photic Zone": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/photic-zone.webp",
+    "name": "PP-Bizon | Photic Zone",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Embargo": {
+    "class": "purple",
+    "image": "/img/skins/pp-bizon/embargo.webp",
+    "name": "PP-Bizon | Embargo",
+    "color": [
+      "Brown",
+      "Cyan"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Seabird": {
+    "class": "white",
+    "image": "/img/skins/pp-bizon/seabird.webp",
+    "name": "PP-Bizon | Seabird",
+    "color": [
+      "Cyan"
+    ],
+    "collection": "The St. Marc Collection"
+  },
+  "Cobalt Halftone": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/cobalt-halftone.webp",
+    "name": "PP-Bizon | Cobalt Halftone",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Night Riot": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/night-riot.webp",
+    "name": "PP-Bizon | Night Riot",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Clutch Case"
+  },
+  "Blue Streak": {
+    "class": "purple",
+    "image": "/img/skins/pp-bizon/blue-streak.webp",
+    "name": "PP-Bizon | Blue Streak",
+    "color": [
+      "Blue"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Rust Coat": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/rust-coat.webp",
+    "name": "PP-Bizon | Rust Coat",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Alpha Collection"
+  },
+  "Rust Coat BS": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/rust-coat-bs.webp",
+    "name": "PP-Bizon | Rust Coat (Battle-Scarred)",
+    "color": [
+      "Brown"
+    ]
+  },
+  "Night Ops": {
+    "class": "lblue",
+    "image": "/img/skins/pp-bizon/night-ops.webp",
+    "name": "PP-Bizon | Night Ops",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Water Sigil": {
+    "class": "blue",
+    "image": "/img/skins/pp-bizon/water-sigil.webp",
+    "name": "PP-Bizon | Water Sigil",
+    "color": [
+      "Blue",
+      "Purple"
+    ],
+    "case": "eSports 2013 Winter Case"
+  },
+  "Space Cat": {
+    "class": "purple",
+    "image": "/img/skins/pp-bizon/space-cat.webp",
+    "name": "PP-Bizon | Space Cat",
+    "color": [
+      "Purple",
+      "White"
+    ],
+    "case": "Dreams & Nightmares Case"
+  },
+  "Cold Cell": {
+    "class": "lblue",
+    "image": "/img/skins/pp-bizon/cold-cell.webp",
+    "name": "PP-Bizon | Cold Cell",
+    "color": [
+      "Cyan"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Wood Block Camo": {
+    "class": "white",
+    "image": "/img/skins/pp-bizon/wood-block-camo.webp",
+    "name": "PP-Bizon | Wood Block Camo",
+    "color": [
+      "Gray",
+      "Red"
+    ],
+    "collection": "The Radiant Collection"
+  }
+}

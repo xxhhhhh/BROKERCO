@@ -1,0 +1,98 @@
+{
+  "Baby Karat CT": {
+    "class": "red",
+    "name": "Charm | Baby Karat CT",
+    "image": "/img/skins/charms/small-arms-charms/charm-baby-karat-ct.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-baby-karat-ct.png"
+  },
+  "Baby Karat T": {
+    "class": "red",
+    "name": "Charm | Baby Karat T",
+    "image": "/img/skins/charms/small-arms-charms/charm-baby-karat-t.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-baby-karat-t.png"
+  },
+  "Semi-Precious": {
+    "class": "pink",
+    "name": "Charm | Semi-Precious",
+    "image": "/img/skins/charms/small-arms-charms/charm-semi-precious.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-semi-precious.png"
+  },
+  "Titeenium AWP": {
+    "class": "pink",
+    "name": "Charm | Titeenium AWP",
+    "image": "/img/skins/charms/small-arms-charms/charm-titeenium-awp.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-titeenium-awp.png"
+  },
+  "Lil' Squirt": {
+    "class": "pink",
+    "name": "Charm | Lil' Squirt",
+    "image": "/img/skins/charms/small-arms-charms/charm-lil-squirt.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-lil-squirt.png"
+  },
+  "Die-cast AK": {
+    "class": "purple",
+    "name": "Charm | Die-cast AK",
+    "image": "/img/skins/charms/small-arms-charms/charm-die-cast-ak.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-die-cast-ak.png"
+  },
+  "Glamour Shot": {
+    "class": "purple",
+    "name": "Charm | Glamour Shot",
+    "image": "/img/skins/charms/small-arms-charms/charm-glamour-shot.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-glamour-shot.png"
+  },
+  "Hot Hands": {
+    "class": "purple",
+    "name": "Charm | Hot Hands",
+    "image": "/img/skins/charms/small-arms-charms/charm-hot-hands.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-hot-hands.png"
+  },
+  "POP Art": {
+    "class": "purple",
+    "name": "Charm | POP Art",
+    "image": "/img/skins/charms/small-arms-charms/charm-pop-art.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-pop-art.png"
+  },
+  "Disco MAC": {
+    "class": "purple",
+    "name": "Charm | Disco MAC",
+    "image": "/img/skins/charms/small-arms-charms/charm-disco-mac.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-disco-mac.png"
+  },
+  "Baby's AK": {
+    "class": "blue",
+    "name": "Charm | Baby's AK",
+    "image": "/img/skins/charms/small-arms-charms/charm-baby-s-ak.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-baby-s-ak.png"
+  },
+  "Pocket AWP": {
+    "class": "blue",
+    "name": "Charm | Pocket AWP",
+    "image": "/img/skins/charms/small-arms-charms/charm-pocket-awp.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-pocket-awp.png"
+  },
+  "Whittle Knife": {
+    "class": "blue",
+    "name": "Charm | Whittle Knife",
+    "image": "/img/skins/charms/small-arms-charms/charm-whittle-knife.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-whittle-knife.png"
+  },
+  "Lil' Cap Gun": {
+    "class": "blue",
+    "name": "Charm | Lil' Cap Gun",
+    "image": "/img/skins/charms/small-arms-charms/charm-lil-cap-gun.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-lil-cap-gun.png"
+  },
+  "Backsplash": {
+    "class": "blue",
+    "name": "Charm | Backsplash",
+    "image": "/img/skins/charms/small-arms-charms/charm-backsplash.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-backsplash.png"
+  },
+  "Stitch-Loaded": {
+    "class": "blue",
+    "name": "Charm | Stitch-Loaded",
+    "image": "/img/skins/charms/small-arms-charms/charm-stitch-loaded.png",
+    "imageOG": "/img/skins/charms/small-arms-charms/small/charm-stitch-loaded.png"
+  }
+}

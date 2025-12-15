@@ -1,0 +1,280 @@
+{
+    "items": [
+      {
+        "id": "the-genesis-collection",
+        "title": "The Genesis Collection",
+        "img": "/img/skins/collections/the-genesis-collection.webp",
+        "date": "16.09.25"
+      },
+      {
+        "id": "the-train-2025-collection",
+        "title": "The Train 2025 Collection",
+        "img": "/img/skins/collections/the-train-2025-collection.webp",
+        "date": "31.03.25"
+      },
+      {
+        "id": "the-ascent-collection",
+        "title": "The Ascent Collection",
+        "img": "/img/skins/collections/the-ascent-collection.webp",
+        "date": "31.03.25"
+      },
+      {
+        "id": "the-radiant-collection",
+        "title": "The Radiant Collection",
+        "img": "/img/skins/collections/the-radiant-collection.webp",
+        "date": "31.03.25"
+      },
+      {
+        "id": "the-boreal-collection",
+        "title": "The Boreal Collection",
+        "img": "/img/skins/collections/the-boreal-collection.webp",
+        "date": "31.03.25"
+      },
+      {
+        "id": "the-overpass-2024-collection",
+        "title": "The Overpass 2024 Collection",
+        "img": "/img/skins/collections/the-overpass-2024-collection.webp",
+        "date": "01.10.24"
+      },
+      {
+        "id": "the-sport-field-collection",
+        "title": "The Sport & Field Collection",
+        "img": "/img/skins/collections/the-sport-field-collection.webp",
+        "date": "01.10.24"
+      },
+      {
+        "id": "the-graphic-design-collection",
+        "title": "The Graphic Design Collection",
+        "img": "/img/skins/collections/the-graphic-design-collection.webp",
+        "date": "01.10.24"
+      },
+      {
+        "id": "the-2018-inferno-collection",
+        "title": "The 2018 Inferno Collection",
+        "img": "/img/skins/collections/the-2018-inferno-collection.webp",
+        "date": "01.09.18"
+      },
+      {
+        "id": "the-2018-nuke-collection",
+        "title": "The 2018 Nuke Collection",
+        "img": "/img/skins/collections/the-2018-nuke-collection.webp",
+        "date": "01.09.18"
+      },
+      {
+        "id": "the-2021-dust-2-collection",
+        "title": "The 2021 Dust 2 Collection",
+        "img": "/img/skins/collections/the-2021-dust-2-collection.webp",
+        "date": "22.09.21"
+      },
+      {
+        "id": "the-2021-mirage-collection",
+        "title": "The 2021 Mirage Collection",
+        "img": "/img/skins/collections/the-2021-mirage-collection.webp",
+        "date": "22.09.21"
+      },
+      {
+        "id": "the-2021-train-collection",
+        "title": "The 2021 Train Collection",
+        "img": "/img/skins/collections/the-2021-train-collection.webp",
+        "date": "22.09.21"
+      },
+      {
+        "id": "the-2021-vertigo-collection",
+        "title": "The 2021 Vertigo Collection",
+        "img": "/img/skins/collections/the-2021-vertigo-collection.webp",
+        "date": "22.09.21"
+      },
+      {
+        "id": "the-alpha-collection",
+        "title": "The Alpha Collection",
+        "img": "/img/skins/collections/the-alpha-collection.webp",
+        "date": "19.09.13"
+      },
+      {
+        "id": "the-ancient-collection",
+        "title": "The Ancient Collection",
+        "img": "/img/skins/collections/the-ancient-collection.webp",
+        "date": "03.12.20"
+      },
+      {
+        "id": "the-anubis-collection",
+        "title": "The Anubis Collection",
+        "img": "/img/skins/collections/the-anubis-collection.webp",
+        "date": "25.04.23"
+      },
+      {
+        "id": "the-assault-collection",
+        "title": "The Assault Collection",
+        "img": "/img/skins/collections/the-assault-collection.webp",
+        "date": "14.08.13"
+      },
+      {
+        "id": "the-aztec-collection",
+        "title": "The Aztec Collection",
+        "img": "/img/skins/collections/the-aztec-collection.webp",
+        "date": "14.08.13"
+      },
+      {
+        "id": "the-baggage-collection",
+        "title": "The Baggage Collection",
+        "img": "/img/skins/collections/the-baggage-collection.webp",
+        "date": "01.06.14"
+      },
+      {
+        "id": "the-huntsman-collection",
+        "title": "The Huntsman Collection",
+        "img": "/img/skins/collections/the-huntsman-collection.webp",
+        "date": "01.05.14"
+      },
+      {
+        "id": "the-bank-collection",
+        "title": "The Bank Collection",
+        "img": "/img/skins/collections/the-bank-collection.webp",
+        "date": "01.05.14"
+      },
+      {
+        "id": "the-blacksite-collection",
+        "title": "The Blacksite Collection",
+        "img": "/img/skins/collections/the-blacksite-collection.webp",
+        "date": "06.12.18"
+      },
+      {
+        "id": "the-cache-collection",
+        "title": "The Cache Collection",
+        "img": "/img/skins/collections/the-cache-collection.webp",
+        "date": "08.08.14"
+      },
+      {
+        "id": "the-canals-collection",
+        "title": "The Canals Collection",
+        "img": "/img/skins/collections/the-canals-collection.webp",
+        "date": "18.11.19"
+      },
+      {
+        "id": "the-chop-shop-collection",
+        "title": "The Chop Shop Collection",
+        "img": "/img/skins/collections/the-chop-shop-collection.webp",
+        "date": "26.05.15"
+      },
+      {
+        "id": "the-dust-2-collection",
+        "title": "The Dust 2 Collection",
+        "img": "/img/skins/collections/the-dust-2-collection.webp",
+        "date": "27.11.13"
+      },
+      {
+        "id": "the-dust-collection",
+        "title": "The Dust Collection",
+        "img": "/img/skins/collections/the-dust-collection.webp",
+        "date": "14.08.13"
+      },
+      {
+        "id": "the-gods-and-monsters-collection",
+        "title": "The Gods and Monsters Collection",
+        "img": "/img/skins/collections/the-gods-and-monsters-collection.webp",
+        "date": "26.05.15"
+      },
+      {
+        "id": "the-havoc-collection",
+        "title": "The Havoc Collection",
+        "img": "/img/skins/collections/the-havoc-collection.webp",
+        "date": "03.12.20"
+      },
+      {
+        "id": "the-inferno-collection",
+        "title": "The Inferno Collection",
+        "img": "/img/skins/collections/the-inferno-collection.webp",
+        "date": "14.08.13"
+      },
+      {
+        "id": "the-italy-collection",
+        "title": "The Italy Collection",
+        "img": "/img/skins/collections/the-italy-collection.webp",
+        "date": "27.11.13"
+      },
+      {
+        "id": "the-lake-collection",
+        "title": "The Lake Collection",
+        "img": "/img/skins/collections/the-lake-collection.webp",
+        "date": "27.11.13"
+      },
+      {
+        "id": "the-militia-collection",
+        "title": "The Militia Collection",
+        "img": "/img/skins/collections/the-militia-collection.webp",
+        "date": "14.08.13"
+      },
+      {
+        "id": "the-mirage-collection",
+        "title": "The Mirage Collection",
+        "img": "/img/skins/collections/the-mirage-collection.webp",
+        "date": "27.11.13"
+      },
+      {
+        "id": "the-cobblestone-collection",
+        "title": "The Cobblestone Collection",
+        "img": "/img/skins/collections/the-cobblestone-collection.webp",
+        "date": "01.07.14"
+      },
+      {
+        "id": "the-norse-collection",
+        "title": "The Norse Collection",
+        "img": "/img/skins/collections/the-norse-collection.webp",
+        "date": "18.11.19"
+      },
+      {
+        "id": "the-nuke-collection",
+        "title": "The Nuke Collection",
+        "img": "/img/skins/collections/the-nuke-collection.webp",
+        "date": "14.08.13"
+      },
+      {
+        "id": "the-office-collection",
+        "title": "The Office Collection",
+        "img": "/img/skins/collections/the-office-collection.webp",
+        "date": "14.08.13"
+      },
+      {
+        "id": "the-overpass-collection",
+        "title": "The Overpass Collection",
+        "img": "/img/skins/collections/the-overpass-collection.webp",
+        "date": "01.06.14"
+      },
+      {
+        "id": "the-rising-sun-collection",
+        "title": "The Rising Sun Collection",
+        "img": "/img/skins/collections/the-rising-sun-collection.webp",
+        "date": "26.05.15"
+      },
+      {
+        "id": "the-safehouse-collection",
+        "title": "The Safehouse Collection",
+        "img": "/img/skins/collections/the-safehouse-collection.webp",
+        "date": "27.11.13"
+      },
+      {
+        "id": "the-st-marc-collection",
+        "title": "The St. Marc Collection",
+        "img": "/img/skins/collections/the-st-marc-collection.webp",
+        "date": "18.11.19"
+      },
+      {
+        "id": "the-train-collection",
+        "title": "The Train Collection",
+        "img": "/img/skins/collections/the-train-collection.webp",
+        "date": "27.11.13"
+      },
+      {
+        "id": "the-vertigo-collection",
+        "title": "The Vertigo Collection",
+        "img": "/img/skins/collections/the-vertigo-collection.webp",
+        "date": "14.08.13"
+      },
+      {
+        "id": "the-control-collection",
+        "title": "The Control Collection",
+        "img": "/img/skins/collections/the-control-collection.webp",
+        "date": "03.12.20"
+      }
+    ]
+  }

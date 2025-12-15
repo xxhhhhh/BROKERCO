@@ -1,0 +1,110 @@
+{
+  "Silver Skulls": {
+    "class": "blue",
+    "name": "Sticker | Silver Skulls",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-silver-skulls.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-silver-skulls.webp"
+  },
+  "Crimson Fists": {
+    "class": "blue",
+    "name": "Sticker | Crimson Fists",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-crimson-fists.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-crimson-fists.webp"
+  },
+  "Adeptus Astartes": {
+    "class": "blue",
+    "name": "Sticker | Adeptus Astartes",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-adeptus-astartes.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-adeptus-astartes.webp"
+  },
+  "Blood Ravens": {
+    "class": "blue",
+    "name": "Sticker | Blood Ravens",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-blood-ravens.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-blood-ravens.webp"
+  },
+  "Scythes of the Emperor": {
+    "class": "blue",
+    "name": "Sticker | Scythes of the Emperor",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-scythes-of-the-emperor.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-scythes-of-the-emperor.webp"
+  },
+  "Flesh Tearers": {
+    "class": "blue",
+    "name": "Sticker | Flesh Tearers",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-flesh-tearers.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-flesh-tearers.webp"
+  },
+  "Iron Halo": {
+    "class": "blue",
+    "name": "Sticker | Iron Halo",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-iron-halo.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-iron-halo.webp"
+  },
+  "Iron Hands": {
+    "class": "blue",
+    "name": "Sticker | Iron Hands",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-iron-hands.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-iron-hands.webp"
+  },
+  "Raptors": {
+    "class": "blue",
+    "name": "Sticker | Raptors",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-raptors.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-raptors.webp"
+  },
+  "Astartes Skull": {
+    "class": "blue",
+    "name": "Sticker | Astartes Skull",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-astartes-skull.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-astartes-skull.webp"
+  },
+  "Raven Guard": {
+    "class": "blue",
+    "name": "Sticker | Raven Guard",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-raven-guard.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-raven-guard.webp"
+  },
+  "White Scars": {
+    "class": "blue",
+    "name": "Sticker | White Scars",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-white-scars.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-white-scars.webp"
+  },
+  "Salamanders": {
+    "class": "blue",
+    "name": "Sticker | Salamanders",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-salamanders.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-salamanders.webp"
+  },
+  "Imperial Fists": {
+    "class": "blue",
+    "name": "Sticker | Imperial Fists",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-imperial-fists.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-imperial-fists.webp"
+  },
+  "Space Wolves": {
+    "class": "blue",
+    "name": "Sticker | Space Wolves",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-space-wolves.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-space-wolves.webp"
+  },
+  "Blood Angels": {
+    "class": "blue",
+    "name": "Sticker | Blood Angels",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-blood-angels.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-blood-angels.webp"
+  },
+  "Dark Angels": {
+    "class": "blue",
+    "name": "Sticker | Dark Angels",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-dark-angels.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-dark-angels.webp"
+  },
+  "Ultramarines": {
+    "class": "blue",
+    "name": "Sticker | Ultramarines",
+    "image": "/img/skins/stickers/warhammer-40000/sticker-ultramarines.webp",
+    "imageOG": "/img/skins/stickers/warhammer-40000/small/sticker-ultramarines.webp"
+  }
+}

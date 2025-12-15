@@ -1,0 +1,52 @@
+{
+  "SignUpBonus": {
+    "name": "Sign Up Bonus",
+    "path": "/freebies/sign-up-bonuses",
+    "icon": "officon signupbonus"
+  },
+  "DepositBonus": {
+    "name": "Deposit Bonus",
+    "path": "/freebies/deposit-bonuses",
+    "icon": "officon depositbonuses"
+  },
+  "DailyRewards": {
+    "name": "Daily Rewards",
+    "path": "/freebies/daily-rewards",
+    "icon": "officon dailyrewards"
+  },
+  "ProgressiveRewards": {
+    "name": "Progressive Rewards",
+    "path": "/freebies/progressive-rewards",
+    "icon": "officon signupbonus"
+  },
+  "Faucet": {
+    "name": "Faucet System",
+    "path": "/freebies/faucet-system",
+    "icon": "officon faucet"
+  },
+  "Rakeback": {
+    "name": "Rakeback System",
+    "path": "/freebies/rakeback-system",
+    "icon": "officon rakeback"
+  },
+  "RakebackBoost": {
+    "name": "Rakeback Boost",
+    "path": "/freebies/rakeback-system",
+    "icon": "officon rakeback"
+  },
+  "Giveaways": {
+    "name": "Giveaways",
+    "path": "/freebies/giveaways",
+    "icon": "officon giveaways"
+  },
+  "Rain": {
+    "name": "Rain System",
+    "path": "/freebies/rain-system",
+    "icon": "officon rain"
+  },
+  "BonustoSale": {
+    "name": "Bonus to Sale",
+    "path": "/freebies/bonuses-to-sale",
+    "icon": "officon sell-bonus"
+  }
+}

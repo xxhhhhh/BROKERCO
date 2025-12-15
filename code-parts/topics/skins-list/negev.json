@@ -1,0 +1,235 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/negev/vanilla.webp",
+    "name": "Negev | Vanilla",
+    "color": []
+  },
+  "Dazzle": {
+    "class": "blue",
+    "image": "/img/skins/negev/dazzle.webp",
+    "name": "Negev | Dazzle",
+    "color": [
+      "Blue",
+      "White"
+    ],
+    "case": "Gamma 2 Case"
+  },
+  "Prototype": {
+    "class": "blue",
+    "image": "/img/skins/negev/prototype.webp",
+    "name": "Negev | Prototype",
+    "color": [
+      "Gray",
+      "White"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Ultralight": {
+    "class": "blue",
+    "image": "/img/skins/negev/ultralight.webp",
+    "name": "Negev | Ultralight",
+    "color": [
+      "Black"
+    ],
+    "case": "Fracture Case"
+  },
+  "Boroque Sand": {
+    "class": "white",
+    "image": "/img/skins/negev/boroque-sand.webp",
+    "name": "Negev | Boroque Sand",
+    "color": [],
+    "collection": "The Canals Collection"
+  },
+  "Desert-Strike": {
+    "class": "blue",
+    "image": "/img/skins/negev/desert-strike.webp",
+    "name": "Negev | Desert-Strike",
+    "color": [
+      "Black"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Palm": {
+    "class": "lblue",
+    "image": "/img/skins/negev/palm.webp",
+    "name": "Negev | Palm",
+    "color": [],
+    "collection": "The Alpha Collection"
+  },
+  "Infrastructure": {
+    "class": "blue",
+    "image": "/img/skins/negev/infrastructure.webp",
+    "name": "Negev | Infrastructure",
+    "color": [
+      "Black"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "CaliCamo": {
+    "class": "lblue",
+    "image": "/img/skins/negev/calicamo.webp",
+    "name": "Negev | CaliCamo",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Mirage Collection"
+  },
+  "Drop Me": {
+    "class": "blue",
+    "image": "/img/skins/negev/drop-me.webp",
+    "name": "Negev | Drop Me",
+    "color": [
+      "Brown"
+    ],
+    "case": "Recoil Case"
+  },
+  "Phoenix Stencil": {
+    "class": "blue",
+    "image": "/img/skins/negev/phoenix-stencil.webp",
+    "name": "Negev | Phoenix Stencil",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Mjölnir": {
+    "class": "pink",
+    "image": "/img/skins/negev/mjolnir.webp",
+    "name": "Negev | Mjölnir",
+    "color": [
+      "Orange",
+      "Red"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Lionfish": {
+    "class": "purple",
+    "image": "/img/skins/negev/lionfish.webp",
+    "name": "Negev | Lionfish",
+    "color": [
+      "Red"
+    ],
+    "case": "Clutch Case"
+  },
+  "Nuclear Waste": {
+    "class": "lblue",
+    "image": "/img/skins/negev/nuclear-waste.webp",
+    "name": "Negev | Nuclear Waste",
+    "color": [
+      "Orange"
+    ],
+    "souvenir": true,
+    "collection": "The Cache Collection"
+  },
+  "dev_texture": {
+    "class": "purple",
+    "image": "/img/skins/negev/dev-texture.webp",
+    "name": "Negev | dev_texture",
+    "color": [
+      "Orange"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Bratatat": {
+    "class": "blue",
+    "image": "/img/skins/negev/bratatat.webp",
+    "name": "Negev | Bratatat",
+    "color": [
+      "Black"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Power Loader": {
+    "class": "purple",
+    "image": "/img/skins/negev/power-loader.webp",
+    "name": "Negev | Power Loader",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Revolver Case"
+  },
+  "Bulkhead": {
+    "class": "lblue",
+    "image": "/img/skins/negev/bulkhead.webp",
+    "name": "Negev | Bulkhead",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Loudmouth": {
+    "class": "purple",
+    "image": "/img/skins/negev/loudmouth.webp",
+    "name": "Negev | Loudmouth",
+    "color": [
+      "Orange"
+    ],
+    "case": "Falchion Case"
+  },
+  "Army Sheen": {
+    "class": "white",
+    "image": "/img/skins/negev/army-sheen.webp",
+    "name": "Negev | Army Sheen",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Terrain": {
+    "class": "blue",
+    "image": "/img/skins/negev/terrain.webp",
+    "name": "Negev | Terrain",
+    "color": [
+      "Cyan"
+    ],
+    "case": "Operation Phoenix Weapon Case"
+  },
+  "Man-o'-war": {
+    "class": "blue",
+    "image": "/img/skins/negev/man-o-war.webp",
+    "name": "Negev | Man-o'-war",
+    "color": [
+      "Blue"
+    ],
+    "case": "Chroma 2 Case"
+  },
+  "Anodized Navy": {
+    "class": "blue",
+    "image": "/img/skins/negev/anodized-navy.webp",
+    "name": "Negev | Anodized Navy",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Assault Collection"
+  },
+  "Wall Bang": {
+    "class": "lblue",
+    "image": "/img/skins/negev/wall-bang.webp",
+    "name": "Negev | Wall Bang",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Sour Grapes": {
+    "class": "lblue",
+    "image": "/img/skins/negev/sour-grapes.webp",
+    "name": "Negev | Sour Grapes",
+    "color": [
+      "Purple"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Raw Ceramic": {
+    "class": "white",
+    "image": "/img/skins/negev/raw-ceramic.webp",
+    "name": "Negev | Raw Ceramic",
+    "color": [],
+    "collection": "The Boreal Collection"
+  }
+}

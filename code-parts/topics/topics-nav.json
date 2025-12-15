@@ -1,0 +1,104 @@
+[
+  {
+    "href": "/topic/items",
+    "img": "/img/icons/gamemodes/box-open-full.svg",
+    "alt": "All Items",
+    "data-title-ru": "Все Предметы"
+  },
+  {
+    "href": "/topic/items-type/knives",
+    "img": "/img/icons/gamemodes/knives-category.svg",
+    "alt": "All Knives",
+    "data-title-ru": "Все Ножи"
+  },
+  {
+    "href": "/topic/items-type/gloves",
+    "img": "/img/icons/gamemodes/gloves-category.svg",
+    "alt": "All Gloves",
+    "data-title-ru": "Все Перчатки"
+  },
+  {
+    "href": "/topic/items-type/rifles",
+    "img": "/img/icons/gamemodes/rifles-category.png",
+    "alt": "All Rifles",
+    "data-title-ru": "Все Винтовки"
+  },
+  {
+    "href": "/topic/items-type/sniper-rifles",
+    "img": "/img/icons/gamemodes/snipers-category.svg",
+    "alt": "All Sniper Rifles",
+    "data-title-ru": "Все Снайпер. Винтовки"
+  },
+  {
+    "href": "/topic/items-type/pistols",
+    "img": "/img/icons/gamemodes/pistols-category.svg",
+    "alt": "All Pistols",
+    "data-title-ru": "Все Пистолеты"
+  },
+  {
+    "href": "/topic/items-type/smgs",
+    "img": "/img/icons/gamemodes/smgs-category.svg",
+    "alt": "All SMGS",
+    "data-title-ru": "Все ПП"
+  },
+  {
+    "href": "/topic/items-type/shotguns",
+    "img": "/img/icons/gamemodes/shotguns-category.svg",
+    "alt": "All Shotguns",
+    "data-title-ru": "Все Дробовики"
+  },
+  {
+    "href": "/topic/items-type/machineguns",
+    "img": "/img/icons/gamemodes/mguns-category.svg",
+    "alt": "All Machineguns",
+    "data-title-ru": "Все Пулеметы"
+  },
+  {
+    "href": "/topic/items/agents",
+    "img": "/img/icons/gamemodes/agents.webp",
+    "alt": "All Agents",
+    "data-title-ru": "Все Агенты"
+  },
+  {
+    "href": "/topic/items-type/cases",
+    "img": "/img/icons/gamemodes/mods-box/cases.webp",
+    "alt": "All Cases",
+    "data-title-ru": "Все Кейсы"
+  },
+  {
+    "href": "/topic/items-type/collections",
+    "img": "/img/icons/gamemodes/collections.webp",
+    "alt": "All Collections",
+    "data-title-ru": "Все Коллекции"
+  },
+  {
+    "href": "/topic/items-type/sticker-capsules",
+    "img": "/img/icons/gamemodes/capsule-category.png",
+    "alt": "All Sticker Capsules",
+    "data-title-ru": "Все Стикер-Капсулы"
+  },
+  {
+    "href": "/topic/items-type/autograph-capsules",
+    "img": "/img/icons/gamemodes/capsule-category.png",
+    "alt": "All Autograph Capsules",
+    "data-title-ru": "Все Автограф-Капсулы"
+  },
+  {
+    "href": "/topic/items-type/charms",
+    "img": "/img/icons/gamemodes/charms.png",
+    "alt": "All Charms",
+    "data-title-ru": "Все Брелоки"
+  },
+  {
+    "href": "/topic/skins",
+    "img": "/img/icons/gamemodes/palette.png",
+    "alt": "Skins by Color CS2",
+    "data-title-ru": "Все Скины по Цвету"
+  },
+  {
+    "href": "/topic/sticker-crafts",
+    "img": "/img/icons/gamemodes/stickers-category.png",
+    "alt": "All Sticker Crafts",
+    "data-title-ru": "Все Стикер-Крафты"
+  }
+]

@@ -1,0 +1,32 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/steam/buy-games\" aria-label=\"Buy Games\" class=\"buy-games\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Skrill\" class=\"skrill\"></a>",
+        "<a href=\"/\" aria-label=\"UnionPay\" class=\"unionpay\"></a>",
+        "<a href=\"/\" aria-label=\"PaySafeCard\" class=\"paysafe\"></a>",
+        "<a href=\"/\" aria-label=\"PayPal\" class=\"paypal\"></a>",
+        "<a href=\"/\" aria-label=\"G2A Pay\" class=\"g2apay\"></a>",
+        "<a href=\"/\" aria-label=\"WebMoney\" class=\"webmoney\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Games\" class=\"games\"></a>"
+    ],
+    "ratings": {
+        "Trust": 5,
+        "Support": 4.5,
+        "Payments": 5,
+        "Pricing": 5
+    },
+    "name": "G2A",
+    "languages": "en, ru, tr, es",
+    "link": "https://www.g2a.com/n/csgobroker",
+    "Main Mode": "marketplace"
+}

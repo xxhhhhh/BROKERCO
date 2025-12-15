@@ -1,0 +1,262 @@
+{
+    "items": [
+      {
+        "id": "sealed-genesis-terminal",
+        "title": "Sealed Genesis Terminal",
+        "img": "/img/skins/cases/sealed-genesis-terminal.webp",
+        "date": "16.09.25"
+      },
+      {
+        "id": "fever-case",
+        "title": "Fever Case",
+        "img": "/img/skins/cases/fever-case.webp",
+        "date": "31.03.25"
+      },
+      {
+        "id": "gallery-case",
+        "title": "Gallery Case",
+        "img": "/img/skins/cases/gallery-case.webp",
+        "date": "02.10.24"
+      },
+      {
+        "id": "kilowatt-case",
+        "title": "Kilowatt Case",
+        "img": "/img/skins/cases/kilowatt-case.webp",
+        "date": "06.02.24"
+      },
+      {
+        "id": "dreams-nightmares-case",
+        "title": "Dreams & Nightmares Case",
+        "img": "/img/skins/cases/dreams-nightmares-case.webp",
+        "date": "20.01.22"
+      },
+      {
+        "id": "cs20-case",
+        "title": "CS20 Case",
+        "img": "/img/skins/cases/cs20-case.webp",
+        "date": "18.10.19"
+      },
+      {
+        "id": "chroma-case",
+        "title": "Chroma Case",
+        "img": "/img/skins/cases/chroma-case.webp",
+        "date": "08.01.15"
+      },
+      {
+        "id": "chroma-2-case",
+        "title": "Chroma 2 Case",
+        "img": "/img/skins/cases/chroma-2-case.webp",
+        "date": "15.04.15"
+      },
+      {
+        "id": "chroma-3-case",
+        "title": "Chroma 3 Case",
+        "img": "/img/skins/cases/chroma-3-case.webp",
+        "date": "27.04.16"
+      },
+      {
+        "id": "clutch-case",
+        "title": "Clutch Case",
+        "img": "/img/skins/cases/clutch-case.webp",
+        "date": "14.02.18"
+      },
+      {
+        "id": "csgo-weapon-case",
+        "title": "CS:GO Weapon Case",
+        "img": "/img/skins/cases/csgo-weapon-case.webp",
+        "date": "14.08.13"
+      },
+      {
+        "id": "csgo-weapon-case-2",
+        "title": "CS:GO Weapon Case 2",
+        "img": "/img/skins/cases/csgo-weapon-case-2.webp",
+        "date": "06.11.13"
+      },
+      {
+        "id": "csgo-weapon-case-3",
+        "title": "CS:GO Weapon Case 3",
+        "img": "/img/skins/cases/csgo-weapon-case-3.webp",
+        "date": "12.02.14"
+      },
+      {
+        "id": "danger-zone-case",
+        "title": "Danger Zone Case",
+        "img": "/img/skins/cases/danger-zone-case.webp",
+        "date": "06.12.18"
+      },
+      {
+        "id": "esports-2013-case",
+        "title": "eSports 2013 Case",
+        "img": "/img/skins/cases/esports-2013-case.webp",
+        "date": "14.08.13"
+      },
+      {
+        "id": "esports-2013-winter-case",
+        "title": "eSports 2013 Winter Case",
+        "img": "/img/skins/cases/esports-2013-winter-case.webp",
+        "date": "18.12.13"
+      },
+      {
+        "id": "esports-2014-summer-case",
+        "title": "eSports 2014 Summer Case",
+        "img": "/img/skins/cases/esports-2014-summer-case.webp",
+        "date": "10.07.14"
+      },
+      {
+        "id": "falchion-case",
+        "title": "Falchion Case",
+        "img": "/img/skins/cases/falchion-case.webp",
+        "date": "26.05.15"
+      },
+      {
+        "id": "fracture-case",
+        "title": "Fracture Case",
+        "img": "/img/skins/cases/fracture-case.webp",
+        "date": "06.08.20"
+      },
+      {
+        "id": "gamma-case",
+        "title": "Gamma Case",
+        "img": "/img/skins/cases/gamma-case.webp",
+        "date": "15.06.16"
+      },
+      {
+        "id": "gamma-2-case",
+        "title": "Gamma 2 Case",
+        "img": "/img/skins/cases/gamma-2-case.webp",
+        "date": "18.08.16"
+      },
+      {
+        "id": "glove-case",
+        "title": "Glove Case",
+        "img": "/img/skins/cases/glove-case.webp",
+        "date": "28.11.16"
+      },
+      {
+        "id": "horizon-case",
+        "title": "Horizon Case",
+        "img": "/img/skins/cases/horizon-case.webp",
+        "date": "02.08.18"
+      },
+      {
+        "id": "huntsman-weapon-case",
+        "title": "Huntsman Weapon Case",
+        "img": "/img/skins/cases/huntsman-weapon-case.webp",
+        "date": "01.05.14"
+      },
+      {
+        "id": "operation-bravo-case",
+        "title": "Operation Bravo Case",
+        "img": "/img/skins/cases/operation-bravo-case.webp",
+        "date": "19.09.13"
+      },
+      {
+        "id": "operation-breakout-weapon-case",
+        "title": "Operation Breakout Weapon Case",
+        "img": "/img/skins/cases/operation-breakout-weapon-case.webp",
+        "date": "01.07.14"
+      },
+      {
+        "id": "operation-broken-fang-case",
+        "title": "Operation Broken Fang Case",
+        "img": "/img/skins/cases/operation-broken-fang-case.webp",
+        "date": "03.12.20"
+      },
+      {
+        "id": "operation-hydra-case",
+        "title": "Operation Hydra Case",
+        "img": "/img/skins/cases/operation-hydra-case.webp",
+        "date": "23.05.17"
+      },
+      {
+        "id": "operation-phoenix-weapon-case",
+        "title": "Operation Phoenix Weapon Case",
+        "img": "/img/skins/cases/operation-phoenix-weapon-case.webp",
+        "date": "20.02.14"
+      },
+      {
+        "id": "operation-riptide-case",
+        "title": "Operation Riptide Case",
+        "img": "/img/skins/cases/operation-riptide-case.webp",
+        "date": "22.09.21"
+      },
+      {
+        "id": "operation-vanguard-weapon-case",
+        "title": "Operation Vanguard Weapon Case",
+        "img": "/img/skins/cases/operation-vanguard-weapon-case.webp",
+        "date": "11.11.14"
+      },
+      {
+        "id": "operation-wildfire-case",
+        "title": "Operation Wildfire Case",
+        "img": "/img/skins/cases/operation-wildfire-case.webp",
+        "date": "17.02.16"
+      },
+      {
+        "id": "prisma-case",
+        "title": "Prisma Case",
+        "img": "/img/skins/cases/prisma-case.webp",
+        "date": "13.03.19"
+      },
+      {
+        "id": "prisma-2-case",
+        "title": "Prisma 2 Case",
+        "img": "/img/skins/cases/prisma-2-case.webp",
+        "date": "31.03.20"
+      },
+      {
+        "id": "revolution-case",
+        "title": "Revolution Case",
+        "img": "/img/skins/cases/revolution-case.webp",
+        "date": "09.02.23"
+      },
+      {
+        "id": "revolver-case",
+        "title": "Revolver Case",
+        "img": "/img/skins/cases/revolver-case.webp",
+        "date": "08.12.15"
+      },
+      {
+        "id": "recoil-case",
+        "title": "Recoil Case",
+        "img": "/img/skins/cases/recoil-case.webp",
+        "date": "01.07.22"
+      },
+      {
+        "id": "shadow-case",
+        "title": "Shadow Case",
+        "img": "/img/skins/cases/shadow-case.webp",
+        "date": "17.09.15"
+      },
+      {
+        "id": "shattered-web-case",
+        "title": "Shattered Web Case",
+        "img": "/img/skins/cases/shattered-web-case.webp",
+        "date": "18.11.19"
+      },
+      {
+        "id": "snakebite-case",
+        "title": "Snakebite Case",
+        "img": "/img/skins/cases/snakebite-case.webp",
+        "date": "03.05.21"
+      },
+      {
+        "id": "spectrum-case",
+        "title": "Spectrum Case",
+        "img": "/img/skins/cases/spectrum-case.webp",
+        "date": "15.03.17"
+      },
+      {
+        "id": "spectrum-2-case",
+        "title": "Spectrum 2 Case",
+        "img": "/img/skins/cases/spectrum-2-case.webp",
+        "date": "14.09.17"
+      },
+      {
+        "id": "winter-offensive-weapon-case",
+        "title": "Winter Offensive Weapon Case",
+        "img": "/img/skins/cases/winter-offensive-weapon-case.webp",
+        "date": "18.12.13"
+      }
+    ]
+  }

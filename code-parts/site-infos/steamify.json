@@ -1,0 +1,58 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/csgo/instant-sell\" aria-label=\"Instant Sell Skins\" class=\"instant-sell\"></a>",
+        "<a href=\"/csgo/buy-skins\" aria-label=\"Buy Skins\" class=\"buy-skins\"></a>",
+        "<a href=\"/steam/topup\" aria-label=\"Steam Top Up\" class=\"steamtopup\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"Team Fortress 2 Items\" class=\"tf2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Binance Coin\" class=\"bnb\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"TON Coin\" class=\"ton\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"\" aria-label=\"SBP\" class=\"sbp\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Avalanche\" class=\"avalanche\"></a>" 
+    ],
+    "secondMethodContent": [
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"TON Coin\" class=\"ton\"></a>",
+        "<a href=\"\" aria-label=\"SBP\" class=\"sbp\"></a>"
+    ],
+    "ratings": {
+        "Trust": 3.5,
+        "Support": 4,
+        "Payments": 4,
+        "Pricing": 3.5
+    },
+    "codes": {
+        "Free Else": "+100% Cashback"
+    },
+    "name": "Steamify",
+    "languages": "en, ru, tr, es",
+    "link": "https://steamify.io/cashout/cs2?utm_source=broker&utm_medium=sermsite&utm_lang=ru",
+    "link-en": "https://steamify.io/cashout/cs2?utm_source=broker&utm_medium=sermsite&utm_lang=en",
+    "tg-app": "https://t.me/steamify_bot/app?startapp=broker-utm_source=broker-utm_medium=sermsite-utm_lang=ru",
+    "tg-app-en": "https://t.me/steamify_bot/app?startapp=broker-utm_source=broker-utm_medium=sermsite-utm_lang=en",
+    "Main Mode": "instant-sell",
+    "featuresContent": ["BonustoSale"],
+    "Sites Alternatives"  : ["avanmarket", "lis-skins", "aimmarket", "moonmarket"],
+    "code": "BROKER"
+}

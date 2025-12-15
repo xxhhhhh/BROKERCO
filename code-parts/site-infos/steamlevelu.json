@@ -1,0 +1,43 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/steam/levelup\" aria-label=\"Steam Level Up\" class=\"steamlvlup\"></a>",
+        "<a href=\"/steam/topup\" aria-label=\"Steam Top Up\" class=\"steamtopup\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/\" aria-label=\"MasterCard\" class=\"mastercard\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Tron\" class=\"tron\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDC\" class=\"usdc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin Cash\" class=\"btcc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Solana\" class=\"solana\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Polygon (Matic)\" class=\"polygon\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"SkinsBack\" class=\"skinsback\"></a>",
+        "<a href=\"/\" aria-label=\"SBP\" class=\"sbp\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/\" aria-label=\"Steam Trading Cards\" class=\"tradingcards\"></a>",
+        "<a href=\"/\" aria-label=\"Buy Games\" class=\"games\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4.5,
+        "Support": 3,
+        "Payments": 4.5,
+        "Functional": 4
+    },
+    "name": "STEAMLEVELU",
+    "languages": "en, ru, tr, es",
+    "link": "https://steamlevelu.com/p/83346597",
+    "Main Mode": "steamlvlup",
+    "featuresContent": ["SignUpBonus"],
+    "Sites Alternatives"  : ["steamlvlup", "steamlevels"]
+}

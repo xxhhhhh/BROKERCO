@@ -1,0 +1,62 @@
+[
+  {
+    "weapon": "ak-47",
+    "skin-id": "Jet Set"
+  },
+  {
+    "weapon": "desert-eagle",
+    "skin-id": "Pilot"
+  },
+  {
+    "weapon": "ak-47",
+    "skin-id": "First Class"
+  },
+  {
+    "weapon": "usp-s",
+    "skin-id": "Business Class"
+  },
+  {
+    "weapon": "xm1014",
+    "skin-id": "Red Leather"
+  },
+  {
+    "weapon": "sawed-off",
+    "skin-id": "First Class"
+  },
+  {
+    "weapon": "p2000",
+    "skin-id": "Coach Class"
+  },
+  {
+    "weapon": "p90",
+    "skin-id": "Leather"
+  },
+  {
+    "weapon": "mac-10",
+    "skin-id": "Commuter"
+  },
+  {
+    "weapon": "sg-553",
+    "skin-id": "Traveler"
+  },
+  {
+    "weapon": "mp9",
+    "skin-id": "Green Plaid"
+  },
+  {
+    "weapon": "ssg-08",
+    "skin-id": "Sand Dune"
+  },
+  {
+    "weapon": "g3sg1",
+    "skin-id": "Contractor"
+  },
+  {
+    "weapon": "cz75-auto",
+    "skin-id": "Green Plaid"
+  },
+  {
+    "weapon": "mp7",
+    "skin-id": "Olive Plaid"
+  }
+]

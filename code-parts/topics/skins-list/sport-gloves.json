@@ -1,0 +1,80 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/gloves/nocts.webp",
+    "name": "Sport Gloves | Nocts",
+    "color": []
+  },
+  "Nocts": {
+    "class": "red",
+    "image": "/img/skins/gloves/nocts.webp",
+    "name": "Sport Gloves | Nocts",
+    "color": ["Black"]
+  },
+  "Scarlet Shamagh": {
+    "class": "red",
+    "image": "/img/skins/gloves/scarlet-shamagh.webp",
+    "name": "Sport Gloves | Scarlet Shamagh",
+    "color": ["Red"]
+  },
+  "Slingshot": {
+    "class": "red",
+    "image": "/img/skins/gloves/slingshot.webp",
+    "name": "Sport Gloves | Slingshot",
+    "color": ["Red"]
+  },
+  "Bronze Morph": {
+    "class": "red",
+    "image": "/img/skins/gloves/bronze-morph.webp",
+    "name": "Sport Gloves | Bronze Morph",
+    "color": ["Green", "Red"]
+  },
+  "Big Game": {
+    "class": "red",
+    "image": "/img/skins/gloves/big-game.webp",
+    "name": "Sport Gloves | Big Game",
+    "color": ["Brown", "Orange"]
+  },
+  "Arid": {
+    "class": "red",
+    "image": "/img/skins/gloves/arid.webp",
+    "name": "Sport Gloves | Arid",
+    "color": ["Yellow"]
+  },
+  "Omega": {
+    "class": "red",
+    "image": "/img/skins/gloves/omega.webp",
+    "name": "Sport Gloves | Omega",
+    "color": ["Yellow"]
+  },
+  "Hedge Maze": {
+    "class": "red",
+    "image": "/img/skins/gloves/hedge-maze.webp",
+    "name": "Sport Gloves | Hedge Maze",
+    "color": ["Green"]
+  },
+  "Superconductor": {
+    "class": "red",
+    "image": "/img/skins/gloves/superconductor.webp",
+    "name": "Sport Gloves | Superconductor",
+    "color": ["Blue", "White"]
+  },
+  "Amphibious": {
+    "class": "red",
+    "image": "/img/skins/gloves/amphibious.webp",
+    "name": "Sport Gloves | Amphibious",
+    "color": ["Blue"]
+  },
+  "Pandora's Box": {
+    "class": "red",
+    "image": "/img/skins/gloves/pandora-s-box.webp",
+    "name": "Sport Gloves | Pandora's Box",
+    "color": ["Purple"]
+  },
+  "Vice": {
+    "class": "red",
+    "image": "/img/skins/gloves/vice.webp",
+    "name": "Sport Gloves | Vice",
+    "color": ["Blue", "Pink"]
+  }
+}

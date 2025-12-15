@@ -1,0 +1,38 @@
+[
+  {
+    "weapon": "desert-eagle",
+    "skin-id": "Blaze"
+  },
+  {
+    "weapon": "glock-18",
+    "skin-id": "Brass"
+  },
+  {
+    "weapon": "p2000",
+    "skin-id": "Scorpion"
+  },
+  {
+    "weapon": "awp",
+    "skin-id": "Snake Camo"
+  },
+  {
+    "weapon": "sawed-off",
+    "skin-id": "Copper"
+  },
+  {
+    "weapon": "aug",
+    "skin-id": "Copperhead"
+  },
+  {
+    "weapon": "ak-47",
+    "skin-id": "Predator"
+  },
+  {
+    "weapon": "m4a4",
+    "skin-id": "Desert Storm"
+  },
+  {
+    "weapon": "scar-20",
+    "skin-id": "Palm"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "weapon": "p250",
+    "skin-id": "Franklin"
+  },
+  {
+    "weapon": "ak-47",
+    "skin-id": "Emerald Pinstripe"
+  },
+  {
+    "weapon": "desert-eagle",
+    "skin-id": "Meteorite"
+  },
+  {
+    "weapon": "galil-ar",
+    "skin-id": "Tuxedo"
+  },
+  {
+    "weapon": "cz75-auto",
+    "skin-id": "Tuxedo"
+  },
+  {
+    "weapon": "mac-10",
+    "skin-id": "Silver"
+  },
+  {
+    "weapon": "ump-45",
+    "skin-id": "Carbon Fiber"
+  },
+  {
+    "weapon": "nova",
+    "skin-id": "Caged Steel"
+  },
+  {
+    "weapon": "g3sg1",
+    "skin-id": "Green Apple"
+  },
+  {
+    "weapon": "glock-18",
+    "skin-id": "Death Rattle"
+  },
+  {
+    "weapon": "sg-553",
+    "skin-id": "Army Sheen"
+  },
+  {
+    "weapon": "negev",
+    "skin-id": "Army Sheen"
+  },
+  {
+    "weapon": "tec-9",
+    "skin-id": "Urban DDPAT"
+  },
+  {
+    "weapon": "r8-revolver",
+    "skin-id": "Bone Mask"
+  },
+  {
+    "weapon": "sawed-off",
+    "skin-id": "Forest DDPAT"
+  },
+  {
+    "weapon": "mp7",
+    "skin-id": "Forest DDPAT"
+  }
+]

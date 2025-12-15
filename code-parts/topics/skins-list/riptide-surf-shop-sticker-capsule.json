@@ -1,0 +1,434 @@
+{
+  "Doppler Poison Frog (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Doppler Poison Frog (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-doppler-poison-frog-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-doppler-poison-frog-foil.webp"
+  },
+  "Dragon Lore Surf Ava (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Dragon Lore Surf Ava (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-dragon-lore-surf-ava-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-dragon-lore-surf-ava-foil.webp"
+  },
+  "Crimson Web Poison Frog (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Crimson Web Poison Frog (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-crimson-web-poison-frog-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-crimson-web-poison-frog-foil.webp"
+  },
+  "Blaze Surf K (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Blaze Surf K (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-blaze-surf-k-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-blaze-surf-k-foil.webp"
+  },
+  "Lore Poison Frog (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Lore Poison Frog (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-lore-poison-frog-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-lore-poison-frog-foil.webp"
+  },
+  "Hypnotic Surf K (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Hypnotic Surf K (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-hypnotic-surf-k-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-hypnotic-surf-k-foil.webp"
+  },
+  "Sticker Bomb Surf K (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Sticker Bomb Surf K (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-sticker-bomb-surf-k-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-sticker-bomb-surf-k-foil.webp"
+  },
+  "Dark Water Surf Ava (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Dark Water Surf Ava (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-dark-water-surf-ava-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-dark-water-surf-ava-foil.webp"
+  },
+  "Sticker Bomb Surf Ava (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Sticker Bomb Surf Ava (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-sticker-bomb-surf-ava-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-sticker-bomb-surf-ava-foil.webp"
+  },
+  "Fire Serpent Surf K (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Fire Serpent Surf K (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-fire-serpent-surf-k-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-fire-serpent-surf-k-foil.webp"
+  },
+  "Ultraviolet Poison Frog (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Ultraviolet Poison Frog (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-ultraviolet-poison-frog-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-ultraviolet-poison-frog-foil.webp"
+  },
+  "Akihabara Accept Surf Ava (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Akihabara Accept Surf Ava (Foil)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-akihabara-accept-surf-ava-foil.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-akihabara-accept-surf-ava-foil.webp"
+  },
+  "Miami Flow (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Miami Flow (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-miami-flow-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-miami-flow-holo.webp"
+  },
+  "Toxic Flow (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Toxic Flow (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-toxic-flow-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-toxic-flow-holo.webp"
+  },
+  "Flame Tier6 (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Flame Tier6 (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-flame-tier6-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-flame-tier6-holo.webp"
+  },
+  "Forge Tier6 (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Forge Tier6 (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-forge-tier6-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-forge-tier6-holo.webp"
+  },
+  "Miami Tier6 (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Miami Tier6 (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-miami-tier6-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-miami-tier6-holo.webp"
+  },
+  "Cotton Candy Flow (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Cotton Candy Flow (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-cotton-candy-flow-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-cotton-candy-flow-holo.webp"
+  },
+  "Opal Flick (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Opal Flick (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-opal-flick-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-opal-flick-holo.webp"
+  },
+  "Watermelon Strafe (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Watermelon Strafe (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-watermelon-strafe-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-watermelon-strafe-holo.webp"
+  },
+  "Neon Opal Strafe (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Neon Opal Strafe (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-neon-opal-strafe-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-neon-opal-strafe-holo.webp"
+  },
+  "Bubble Gum Skill Surf (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Bubble Gum Skill Surf (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-bubble-gum-skill-surf-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-bubble-gum-skill-surf-holo.webp"
+  },
+  "Watermelon Tier6 (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Watermelon Tier6 (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-watermelon-tier6-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-watermelon-tier6-holo.webp"
+  },
+  "Mood Ring Strafe (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Mood Ring Strafe (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-mood-ring-strafe-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-mood-ring-strafe-holo.webp"
+  },
+  "Candy Buttery (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Candy Buttery (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-candy-buttery-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-candy-buttery-holo.webp"
+  },
+  "Miami Flick (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Miami Flick (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-miami-flick-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-miami-flick-holo.webp"
+  },
+  "Watermelon Flow (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Watermelon Flow (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-watermelon-flow-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-watermelon-flow-holo.webp"
+  },
+  "Ocean Sunset Flick (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Ocean Sunset Flick (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-ocean-sunset-flick-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-ocean-sunset-flick-holo.webp"
+  },
+  "Ocean Sunset Skill Surf (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Ocean Sunset Skill Surf (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-ocean-sunset-skill-surf-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-ocean-sunset-skill-surf-holo.webp"
+  },
+  "Abalone Strafe (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Abalone Strafe (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-abalone-strafe-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-abalone-strafe-holo.webp"
+  },
+  "Coral Skill Surf (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Coral Skill Surf (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-coral-skill-surf-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-coral-skill-surf-holo.webp"
+  },
+  "Miami Skill Surf (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Miami Skill Surf (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-miami-skill-surf-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-miami-skill-surf-holo.webp"
+  },
+  "Mercury Flick (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Mercury Flick (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-mercury-flick-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-mercury-flick-holo.webp"
+  },
+  "Miami Buttery (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Miami Buttery (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-miami-buttery-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-miami-buttery-holo.webp"
+  },
+  "Watermelon Buttery (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Watermelon Buttery (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-watermelon-buttery-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-watermelon-buttery-holo.webp"
+  },
+  "Flame Buttery (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Flame Buttery (Holo)",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-flame-buttery-holo.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-flame-buttery-holo.webp"
+  },
+  "Purple Bombster": {
+    "class": "blue",
+    "name": "Sticker | Purple Bombster",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-purple-bombster.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-purple-bombster.webp"
+  },
+  "Yellow Bombster": {
+    "class": "blue",
+    "name": "Sticker | Yellow Bombster",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-yellow-bombster.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-yellow-bombster.webp"
+  },
+  "Green Bombster": {
+    "class": "blue",
+    "name": "Sticker | Green Bombster",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-green-bombster.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-green-bombster.webp"
+  },
+  "Black Jaggyfish": {
+    "class": "blue",
+    "name": "Sticker | Black Jaggyfish",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-black-jaggyfish.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-black-jaggyfish.webp"
+  },
+  "Green Cyclawps": {
+    "class": "blue",
+    "name": "Sticker | Green Cyclawps",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-green-cyclawps.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-green-cyclawps.webp"
+  },
+  "White Bombster": {
+    "class": "blue",
+    "name": "Sticker | White Bombster",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-white-bombster.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-white-bombster.webp"
+  },
+  "Toxic Tentaskull": {
+    "class": "blue",
+    "name": "Sticker | Toxic Tentaskull",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-toxic-tentaskull.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-toxic-tentaskull.webp"
+  },
+  "Blue Shark Shooter": {
+    "class": "blue",
+    "name": "Sticker | Blue Shark Shooter",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-blue-shark-shooter.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-blue-shark-shooter.webp"
+  },
+  "Watermelon Tentaskull": {
+    "class": "blue",
+    "name": "Sticker | Watermelon Tentaskull",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-watermelon-tentaskull.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-watermelon-tentaskull.webp"
+  },
+  "Miami Stabbyfish": {
+    "class": "blue",
+    "name": "Sticker | Miami Stabbyfish",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-miami-stabbyfish.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-miami-stabbyfish.webp"
+  },
+  "Yellow Jaggyfish": {
+    "class": "blue",
+    "name": "Sticker | Yellow Jaggyfish",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-yellow-jaggyfish.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-yellow-jaggyfish.webp"
+  },
+  "Purple Jaggyfish": {
+    "class": "blue",
+    "name": "Sticker | Purple Jaggyfish",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-purple-jaggyfish.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-purple-jaggyfish.webp"
+  },
+  "Ocean Sunset Stabbyfish": {
+    "class": "blue",
+    "name": "Sticker | Ocean Sunset Stabbyfish",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-ocean-sunset-stabbyfish.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-ocean-sunset-stabbyfish.webp"
+  },
+  "Green Lethal": {
+    "class": "blue",
+    "name": "Sticker | Green Lethal",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-green-lethal.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-green-lethal.webp"
+  },
+  "Miami Wave Rider": {
+    "class": "blue",
+    "name": "Sticker | Miami Wave Rider",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-miami-wave-rider.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-miami-wave-rider.webp"
+  },
+  "Pink Jaggyfish": {
+    "class": "blue",
+    "name": "Sticker | Pink Jaggyfish",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-pink-jaggyfish.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-pink-jaggyfish.webp"
+  },
+  "Green Shark Shooter": {
+    "class": "blue",
+    "name": "Sticker | Green Shark Shooter",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-green-shark-shooter.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-green-shark-shooter.webp"
+  },
+  "Yellow Lethal": {
+    "class": "blue",
+    "name": "Sticker | Yellow Lethal",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-yellow-lethal.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-yellow-lethal.webp"
+  },
+  "Blood Moon Wave Rider": {
+    "class": "blue",
+    "name": "Sticker | Blood Moon Wave Rider",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-blood-moon-wave-rider.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-blood-moon-wave-rider.webp"
+  },
+  "Fade Lethal": {
+    "class": "blue",
+    "name": "Sticker | Fade Lethal",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-fade-lethal.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-fade-lethal.webp"
+  },
+  "Green Gnar": {
+    "class": "blue",
+    "name": "Sticker | Green Gnar",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-green-gnar.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-green-gnar.webp"
+  },
+  "Blue Lethal": {
+    "class": "blue",
+    "name": "Sticker | Blue Lethal",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-blue-lethal.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-blue-lethal.webp"
+  },
+  "Red Shark Shooter": {
+    "class": "blue",
+    "name": "Sticker | Red Shark Shooter",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-red-shark-shooter.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-red-shark-shooter.webp"
+  },
+  "Blue Gnar": {
+    "class": "blue",
+    "name": "Sticker | Blue Gnar",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-blue-gnar.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-blue-gnar.webp"
+  },
+  "Watermelon Stabbyfish": {
+    "class": "blue",
+    "name": "Sticker | Watermelon Stabbyfish",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-watermelon-stabbyfish.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-watermelon-stabbyfish.webp"
+  },
+  "Blood Moon Tentaskull": {
+    "class": "blue",
+    "name": "Sticker | Blood Moon Tentaskull",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-blood-moon-tentaskull.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-blood-moon-tentaskull.webp"
+  },
+  "Purple Gnar": {
+    "class": "blue",
+    "name": "Sticker | Purple Gnar",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-purple-gnar.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-purple-gnar.webp"
+  },
+  "Fools Gold Wave Rider": {
+    "class": "blue",
+    "name": "Sticker | Fools Gold Wave Rider",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-fools-gold-wave-rider.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-fools-gold-wave-rider.webp"
+  },
+  "Orange Gnar": {
+    "class": "blue",
+    "name": "Sticker | Orange Gnar",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-orange-gnar.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-orange-gnar.webp"
+  },
+  "Purple Cyclawps": {
+    "class": "blue",
+    "name": "Sticker | Purple Cyclawps",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-purple-cyclawps.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-purple-cyclawps.webp"
+  },
+  "Black Shark Shooter": {
+    "class": "blue",
+    "name": "Sticker | Black Shark Shooter",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-black-shark-shooter.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-black-shark-shooter.webp"
+  },
+  "After Hours Stabbyfish": {
+    "class": "blue",
+    "name": "Sticker | After Hours Stabbyfish",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-after-hours-stabbyfish.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-after-hours-stabbyfish.webp"
+  },
+  "Sunset Ocean Tentaskull": {
+    "class": "blue",
+    "name": "Sticker | Sunset Ocean Tentaskull",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-sunset-ocean-tentaskull.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-sunset-ocean-tentaskull.webp"
+  },
+  "Yellow Cyclawps": {
+    "class": "blue",
+    "name": "Sticker | Yellow Cyclawps",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-yellow-cyclawps.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-yellow-cyclawps.webp"
+  },
+  "Red Cyclawps": {
+    "class": "blue",
+    "name": "Sticker | Red Cyclawps",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-red-cyclawps.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-red-cyclawps.webp"
+  },
+  "Toxic Wave Rider": {
+    "class": "blue",
+    "name": "Sticker | Toxic Wave Rider",
+    "image": "/img/skins/stickers/riptide-surf-shop/sticker-toxic-wave-rider.webp",
+    "imageOG": "/img/skins/stickers/riptide-surf-shop/small/sticker-toxic-wave-rider.webp"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Chef d'Escadron Rouchard": {
+    "class": "red",
+    "name": "Chef d'Escadron Rouchard | Gendarmerie Nationale",
+    "image": "/img/skins/agents/gendarmerie-nationale/chef-d-escadron-rouchard.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "Chem-Haz Capitaine": {
+    "class": "pink",
+    "name": "Chem-Haz Capitaine | Gendarmerie Nationale",
+    "image": "/img/skins/agents/gendarmerie-nationale/chem-haz-capitaine.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "Officer Jacques Beltram": {
+    "class": "purple",
+    "name": "Officer Jacques Beltram | Gendarmerie Nationale",
+    "image": "/img/skins/agents/gendarmerie-nationale/officer-jacques-beltram.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  },
+  "Sous-Lieutenant Medic": {
+    "class": "purple",
+    "name": "Sous-Lieutenant Medic | Gendarmerie Nationale",
+    "image": "/img/skins/agents/gendarmerie-nationale/sous-lieutenant-medic.webp",
+    "color": [],
+    "collection": "Operation Riptide Agents"
+  }
+}

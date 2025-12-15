@@ -1,0 +1,218 @@
+{
+  "FURIA (Gold)": {
+    "class": "red",
+    "name": "FURIA (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-furia-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-furia-gold-paris-2023.png"
+  },
+  "Vitality (Gold)": {
+    "class": "red",
+    "name": "Vitality (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-vitality-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-vitality-gold-paris-2023.png"
+  },
+  "Natus Vincere (Gold)": {
+    "class": "red",
+    "name": "Natus Vincere (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-natus-vincere-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-natus-vincere-gold-paris-2023.png"
+  },
+  "BLAST.tv (Gold)": {
+    "class": "red",
+    "name": "BLAST.tv (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blast-tv-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blast-tv-gold-paris-2023.png"
+  },
+  "Fnatic (Gold)": {
+    "class": "red",
+    "name": "Fnatic (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fnatic-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fnatic-gold-paris-2023.png"
+  },
+  "Bad News Eagles (Gold)": {
+    "class": "red",
+    "name": "Bad News Eagles (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-bad-news-eagles-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-bad-news-eagles-gold-paris-2023.png"
+  },
+  "Heroic (Gold)": {
+    "class": "red",
+    "name": "Heroic (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-heroic-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-heroic-gold-paris-2023.png"
+  },
+  "9INE (Gold)": {
+    "class": "red",
+    "name": "9INE (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-9ine-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-9ine-gold-paris-2023.png"
+  },
+  "Into The Breach (Gold)": {
+    "class": "red",
+    "name": "Into The Breach (Gold) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-into-the-breach-gold-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-into-the-breach-gold-paris-2023.png"
+  },
+  "FURIA (Holo)": {
+    "class": "pink",
+    "name": "FURIA (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-furia-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-furia-holo-paris-2023.png"
+  },
+  "Natus Vincere (Holo)": {
+    "class": "pink",
+    "name": "Natus Vincere (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-natus-vincere-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-natus-vincere-holo-paris-2023.png"
+  },
+  "9INE (Holo)": {
+    "class": "pink",
+    "name": "9INE (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-9ine-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-9ine-holo-paris-2023.png"
+  },
+  "Fnatic (Holo)": {
+    "class": "pink",
+    "name": "Fnatic (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fnatic-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fnatic-holo-paris-2023.png"
+  },
+  "Vitality (Holo)": {
+    "class": "pink",
+    "name": "Vitality (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-vitality-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-vitality-holo-paris-2023.png"
+  },
+  "Into The Breach (Holo)": {
+    "class": "pink",
+    "name": "Into The Breach (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-into-the-breach-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-into-the-breach-holo-paris-2023.png"
+  },
+  "Heroic (Holo)": {
+    "class": "pink",
+    "name": "Heroic (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-heroic-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-heroic-holo-paris-2023.png"
+  },
+  "Bad News Eagles (Holo)": {
+    "class": "pink",
+    "name": "Bad News Eagles (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-bad-news-eagles-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-bad-news-eagles-holo-paris-2023.png"
+  },
+  "BLAST.tv (Holo)": {
+    "class": "pink",
+    "name": "BLAST.tv (Holo) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blast-tv-holo-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blast-tv-holo-paris-2023.png"
+  },
+  "9INE (Glitter)": {
+    "class": "purple",
+    "name": "9INE (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-9ine-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-9ine-glitter-paris-2023.png"
+  },
+  "Natus Vincere (Glitter)": {
+    "class": "purple",
+    "name": "Natus Vincere (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-natus-vincere-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-natus-vincere-glitter-paris-2023.png"
+  },
+  "Fnatic (Glitter)": {
+    "class": "purple",
+    "name": "Fnatic (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fnatic-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fnatic-glitter-paris-2023.png"
+  },
+  "FURIA (Glitter)": {
+    "class": "purple",
+    "name": "FURIA (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-furia-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-furia-glitter-paris-2023.png"
+  },
+  "Into The Breach (Glitter)": {
+    "class": "purple",
+    "name": "Into The Breach (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-into-the-breach-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-into-the-breach-glitter-paris-2023.png"
+  },
+  "BLAST.tv (Glitter)": {
+    "class": "purple",
+    "name": "BLAST.tv (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blast-tv-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blast-tv-glitter-paris-2023.png"
+  },
+  "Vitality (Glitter)": {
+    "class": "purple",
+    "name": "Vitality (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-vitality-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-vitality-glitter-paris-2023.png"
+  },
+  "Bad News Eagles (Glitter)": {
+    "class": "purple",
+    "name": "Bad News Eagles (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-bad-news-eagles-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-bad-news-eagles-glitter-paris-2023.png"
+  },
+  "Heroic (Glitter)": {
+    "class": "purple",
+    "name": "Heroic (Glitter) | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-heroic-glitter-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-heroic-glitter-paris-2023.png"
+  },
+  "BLAST.tv": {
+    "class": "blue",
+    "name": "BLAST.tv | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-blast-tv-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-blast-tv-paris-2023.png"
+  },
+  "FURIA": {
+    "class": "blue",
+    "name": "FURIA | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-furia-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-furia-paris-2023.png"
+  },
+  "Bad News Eagles": {
+    "class": "blue",
+    "name": "Bad News Eagles | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-bad-news-eagles-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-bad-news-eagles-paris-2023.png"
+  },
+  "Natus Vincere": {
+    "class": "blue",
+    "name": "Natus Vincere | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-natus-vincere-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-natus-vincere-paris-2023.png"
+  },
+  "Heroic": {
+    "class": "blue",
+    "name": "Heroic | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-heroic-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-heroic-paris-2023.png"
+  },
+  "Fnatic": {
+    "class": "blue",
+    "name": "Fnatic | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-fnatic-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-fnatic-paris-2023.png"
+  },
+  "9INE": {
+    "class": "blue",
+    "name": "9INE | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-9ine-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-9ine-paris-2023.png"
+  },
+  "Vitality": {
+    "class": "blue",
+    "name": "Vitality | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-vitality-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-vitality-paris-2023.png"
+  },
+  "Into The Breach": {
+    "class": "blue",
+    "name": "Into The Breach | Paris 2023",
+    "image": "/img/skins/stickers/paris-2023/sticker-into-the-breach-paris-2023.png",
+    "imageOG": "/img/skins/stickers/paris-2023/small/sticker-into-the-breach-paris-2023.png"
+  }
+}

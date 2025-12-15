@@ -1,0 +1,54 @@
+[
+  {
+    "weapon": "galil-ar",
+    "skin-id": "Cerberus"
+  },
+  {
+    "weapon": "famas",
+    "skin-id": "Styx"
+  },
+  {
+    "weapon": "glock-18",
+    "skin-id": "Reactor"
+  },
+  {
+    "weapon": "mac-10",
+    "skin-id": "Nuclear Garden"
+  },
+  {
+    "weapon": "tec-9",
+    "skin-id": "Toxic"
+  },
+  {
+    "weapon": "mp9",
+    "skin-id": "Setting Sun"
+  },
+  {
+    "weapon": "xm1014",
+    "skin-id": "Bone Machine"
+  },
+  {
+    "weapon": "five-seven",
+    "skin-id": "Hot Shot"
+  },
+  {
+    "weapon": "aug",
+    "skin-id": "Radiation Hazard"
+  },
+  {
+    "weapon": "pp-bizon",
+    "skin-id": "Chemical Green"
+  },
+  {
+    "weapon": "sg-553",
+    "skin-id": "Fallout Warning"
+  },
+  {
+    "weapon": "negev",
+    "skin-id": "Nuclear Waste"
+  },
+  {
+    "weapon": "p250",
+    "skin-id": "Contamination"
+  }
+]

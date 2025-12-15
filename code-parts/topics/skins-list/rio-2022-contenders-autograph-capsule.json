@@ -1,0 +1,962 @@
+{
+  "KSCERATO (Gold)": {
+    "class": "red",
+    "name": "KSCERATO (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-kscerato-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-kscerato-gold-rio-2022.png"
+  },
+  "qikert (Gold)": {
+    "class": "red",
+    "name": "qikert (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-qikert-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-qikert-gold-rio-2022.png"
+  },
+  "mezii (Gold)": {
+    "class": "red",
+    "name": "mezii (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-mezii-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-mezii-gold-rio-2022.png"
+  },
+  "boltz (Gold)": {
+    "class": "red",
+    "name": "boltz (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-boltz-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-boltz-gold-rio-2022.png"
+  },
+  "drop (Gold)": {
+    "class": "red",
+    "name": "drop (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-drop-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-drop-gold-rio-2022.png"
+  },
+  "acoR (Gold)": {
+    "class": "red",
+    "name": "acoR (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-acor-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-acor-gold-rio-2022.png"
+  },
+  "fame (Gold)": {
+    "class": "red",
+    "name": "fame (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fame-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fame-gold-rio-2022.png"
+  },
+  "Jame (Gold)": {
+    "class": "red",
+    "name": "Jame (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-jame-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-jame-gold-rio-2022.png"
+  },
+  "n0rb3r7 (Gold)": {
+    "class": "red",
+    "name": "n0rb3r7 (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-n0rb3r7-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-n0rb3r7-gold-rio-2022.png"
+  },
+  "FL1T (Gold)": {
+    "class": "red",
+    "name": "FL1T (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fl1t-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fl1t-gold-rio-2022.png"
+  },
+  "chelo (Gold)": {
+    "class": "red",
+    "name": "chelo (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-chelo-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-chelo-gold-rio-2022.png"
+  },
+  "VINI (Gold)": {
+    "class": "red",
+    "name": "VINI (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-vini-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-vini-gold-rio-2022.png"
+  },
+  "fer (Gold)": {
+    "class": "red",
+    "name": "fer (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fer-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fer-gold-rio-2022.png"
+  },
+  "FalleN (Gold)": {
+    "class": "red",
+    "name": "FalleN (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fallen-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fallen-gold-rio-2022.png"
+  },
+  "ANNIHILATION (Gold)": {
+    "class": "red",
+    "name": "ANNIHILATION (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-annihilation-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-annihilation-gold-rio-2022.png"
+  },
+  "bLitz (Gold)": {
+    "class": "red",
+    "name": "bLitz (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-blitz-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-blitz-gold-rio-2022.png"
+  },
+  "kabal (Gold)": {
+    "class": "red",
+    "name": "kabal (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-kabal-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-kabal-gold-rio-2022.png"
+  },
+  "Techno4K (Gold)": {
+    "class": "red",
+    "name": "Techno4K (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-techno4k-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-techno4k-gold-rio-2022.png"
+  },
+  "sk0R (Gold)": {
+    "class": "red",
+    "name": "sk0R (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-sk0r-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-sk0r-gold-rio-2022.png"
+  },
+  "aliStair (Gold)": {
+    "class": "red",
+    "name": "aliStair (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-alistair-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-alistair-gold-rio-2022.png"
+  },
+  "Liazz (Gold)": {
+    "class": "red",
+    "name": "Liazz (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-liazz-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-liazz-gold-rio-2022.png"
+  },
+  "Sico (Gold)": {
+    "class": "red",
+    "name": "Sico (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-sico-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-sico-gold-rio-2022.png"
+  },
+  "vexite (Gold)": {
+    "class": "red",
+    "name": "vexite (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-vexite-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-vexite-gold-rio-2022.png"
+  },
+  "INS (Gold)": {
+    "class": "red",
+    "name": "INS (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-ins-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-ins-gold-rio-2022.png"
+  },
+  "isak (Gold)": {
+    "class": "red",
+    "name": "isak (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-isak-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-isak-gold-rio-2022.png"
+  },
+  "Keoz (Gold)": {
+    "class": "red",
+    "name": "Keoz (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-keoz-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-keoz-gold-rio-2022.png"
+  },
+  "siuhy (Gold)": {
+    "class": "red",
+    "name": "siuhy (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-siuhy-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-siuhy-gold-rio-2022.png"
+  },
+  "iM (Gold)": {
+    "class": "red",
+    "name": "iM (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-im-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-im-gold-rio-2022.png"
+  },
+  "arT (Gold)": {
+    "class": "red",
+    "name": "arT (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-art-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-art-gold-rio-2022.png"
+  },
+  "saffee (Gold)": {
+    "class": "red",
+    "name": "saffee (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-saffee-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-saffee-gold-rio-2022.png"
+  },
+  "yuurih (Gold)": {
+    "class": "red",
+    "name": "yuurih (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-yuurih-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-yuurih-gold-rio-2022.png"
+  },
+  "nicoodoz (Gold)": {
+    "class": "red",
+    "name": "nicoodoz (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-nicoodoz-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-nicoodoz-gold-rio-2022.png"
+  },
+  "roeJ (Gold)": {
+    "class": "red",
+    "name": "roeJ (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-roej-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-roej-gold-rio-2022.png"
+  },
+  "FASHR (Gold)": {
+    "class": "red",
+    "name": "FASHR (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fashr-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fashr-gold-rio-2022.png"
+  },
+  "KRIMZ (Gold)": {
+    "class": "red",
+    "name": "KRIMZ (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-krimz-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-krimz-gold-rio-2022.png"
+  },
+  "dumau (Gold)": {
+    "class": "red",
+    "name": "dumau (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-dumau-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-dumau-gold-rio-2022.png"
+  },
+  "latto (Gold)": {
+    "class": "red",
+    "name": "latto (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-latto-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-latto-gold-rio-2022.png"
+  },
+  "TRY (Gold)": {
+    "class": "red",
+    "name": "TRY (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-try-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-try-gold-rio-2022.png"
+  },
+  "coldzera (Gold)": {
+    "class": "red",
+    "name": "coldzera (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-coldzera-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-coldzera-gold-rio-2022.png"
+  },
+  "TACO (Gold)": {
+    "class": "red",
+    "name": "TACO (Gold) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-taco-gold-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-taco-gold-rio-2022.png"
+  },
+  "FalleN (Holo)": {
+    "class": "pink",
+    "name": "FalleN (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fallen-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fallen-holo-rio-2022.png"
+  },
+  "INS (Holo)": {
+    "class": "pink",
+    "name": "INS (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-ins-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-ins-holo-rio-2022.png"
+  },
+  "aliStair (Holo)": {
+    "class": "pink",
+    "name": "aliStair (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-alistair-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-alistair-holo-rio-2022.png"
+  },
+  "KRIMZ (Holo)": {
+    "class": "pink",
+    "name": "KRIMZ (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-krimz-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-krimz-holo-rio-2022.png"
+  },
+  "saffee (Holo)": {
+    "class": "pink",
+    "name": "saffee (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-saffee-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-saffee-holo-rio-2022.png"
+  },
+  "TRY (Holo)": {
+    "class": "pink",
+    "name": "TRY (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-try-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-try-holo-rio-2022.png"
+  },
+  "fer (Holo)": {
+    "class": "pink",
+    "name": "fer (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fer-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fer-holo-rio-2022.png"
+  },
+  "n0rb3r7 (Holo)": {
+    "class": "pink",
+    "name": "n0rb3r7 (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-n0rb3r7-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-n0rb3r7-holo-rio-2022.png"
+  },
+  "drop (Holo)": {
+    "class": "pink",
+    "name": "drop (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-drop-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-drop-holo-rio-2022.png"
+  },
+  "yuurih (Holo)": {
+    "class": "pink",
+    "name": "yuurih (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-yuurih-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-yuurih-holo-rio-2022.png"
+  },
+  "Techno4K (Holo)": {
+    "class": "pink",
+    "name": "Techno4K (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-techno4k-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-techno4k-holo-rio-2022.png"
+  },
+  "latto (Holo)": {
+    "class": "pink",
+    "name": "latto (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-latto-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-latto-holo-rio-2022.png"
+  },
+  "chelo (Holo)": {
+    "class": "pink",
+    "name": "chelo (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-chelo-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-chelo-holo-rio-2022.png"
+  },
+  "roeJ (Holo)": {
+    "class": "pink",
+    "name": "roeJ (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-roej-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-roej-holo-rio-2022.png"
+  },
+  "nicoodoz (Holo)": {
+    "class": "pink",
+    "name": "nicoodoz (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-nicoodoz-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-nicoodoz-holo-rio-2022.png"
+  },
+  "bLitz (Holo)": {
+    "class": "pink",
+    "name": "bLitz (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-blitz-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-blitz-holo-rio-2022.png"
+  },
+  "FL1T (Holo)": {
+    "class": "pink",
+    "name": "FL1T (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fl1t-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fl1t-holo-rio-2022.png"
+  },
+  "FASHR (Holo)": {
+    "class": "pink",
+    "name": "FASHR (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fashr-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fashr-holo-rio-2022.png"
+  },
+  "Keoz (Holo)": {
+    "class": "pink",
+    "name": "Keoz (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-keoz-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-keoz-holo-rio-2022.png"
+  },
+  "fame (Holo)": {
+    "class": "pink",
+    "name": "fame (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fame-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fame-holo-rio-2022.png"
+  },
+  "qikert (Holo)": {
+    "class": "pink",
+    "name": "qikert (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-qikert-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-qikert-holo-rio-2022.png"
+  },
+  "Jame (Holo)": {
+    "class": "pink",
+    "name": "Jame (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-jame-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-jame-holo-rio-2022.png"
+  },
+  "VINI (Holo)": {
+    "class": "pink",
+    "name": "VINI (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-vini-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-vini-holo-rio-2022.png"
+  },
+  "boltz (Holo)": {
+    "class": "pink",
+    "name": "boltz (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-boltz-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-boltz-holo-rio-2022.png"
+  },
+  "ANNIHILATION (Holo)": {
+    "class": "pink",
+    "name": "ANNIHILATION (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-annihilation-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-annihilation-holo-rio-2022.png"
+  },
+  "kabal (Holo)": {
+    "class": "pink",
+    "name": "kabal (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-kabal-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-kabal-holo-rio-2022.png"
+  },
+  "sk0R (Holo)": {
+    "class": "pink",
+    "name": "sk0R (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-sk0r-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-sk0r-holo-rio-2022.png"
+  },
+  "Liazz (Holo)": {
+    "class": "pink",
+    "name": "Liazz (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-liazz-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-liazz-holo-rio-2022.png"
+  },
+  "Sico (Holo)": {
+    "class": "pink",
+    "name": "Sico (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-sico-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-sico-holo-rio-2022.png"
+  },
+  "vexite (Holo)": {
+    "class": "pink",
+    "name": "vexite (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-vexite-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-vexite-holo-rio-2022.png"
+  },
+  "isak (Holo)": {
+    "class": "pink",
+    "name": "isak (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-isak-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-isak-holo-rio-2022.png"
+  },
+  "siuhy (Holo)": {
+    "class": "pink",
+    "name": "siuhy (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-siuhy-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-siuhy-holo-rio-2022.png"
+  },
+  "iM (Holo)": {
+    "class": "pink",
+    "name": "iM (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-im-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-im-holo-rio-2022.png"
+  },
+  "acoR (Holo)": {
+    "class": "pink",
+    "name": "acoR (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-acor-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-acor-holo-rio-2022.png"
+  },
+  "arT (Holo)": {
+    "class": "pink",
+    "name": "arT (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-art-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-art-holo-rio-2022.png"
+  },
+  "KSCERATO (Holo)": {
+    "class": "pink",
+    "name": "KSCERATO (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-kscerato-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-kscerato-holo-rio-2022.png"
+  },
+  "mezii (Holo)": {
+    "class": "pink",
+    "name": "mezii (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-mezii-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-mezii-holo-rio-2022.png"
+  },
+  "dumau (Holo)": {
+    "class": "pink",
+    "name": "dumau (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-dumau-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-dumau-holo-rio-2022.png"
+  },
+  "coldzera (Holo)": {
+    "class": "pink",
+    "name": "coldzera (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-coldzera-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-coldzera-holo-rio-2022.png"
+  },
+  "TACO (Holo)": {
+    "class": "pink",
+    "name": "TACO (Holo) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-taco-holo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-taco-holo-rio-2022.png"
+  },
+  "fame (Glitter)": {
+    "class": "purple",
+    "name": "fame (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fame-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fame-glitter-rio-2022.png"
+  },
+  "FalleN (Glitter)": {
+    "class": "purple",
+    "name": "FalleN (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fallen-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fallen-glitter-rio-2022.png"
+  },
+  "INS (Glitter)": {
+    "class": "purple",
+    "name": "INS (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-ins-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-ins-glitter-rio-2022.png"
+  },
+  "TRY (Glitter)": {
+    "class": "purple",
+    "name": "TRY (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-try-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-try-glitter-rio-2022.png"
+  },
+  "qikert (Glitter)": {
+    "class": "purple",
+    "name": "qikert (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-qikert-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-qikert-glitter-rio-2022.png"
+  },
+  "roeJ (Glitter)": {
+    "class": "purple",
+    "name": "roeJ (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-roej-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-roej-glitter-rio-2022.png"
+  },
+  "coldzera (Glitter)": {
+    "class": "purple",
+    "name": "coldzera (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-coldzera-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-coldzera-glitter-rio-2022.png"
+  },
+  "mezii (Glitter)": {
+    "class": "purple",
+    "name": "mezii (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-mezii-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-mezii-glitter-rio-2022.png"
+  },
+  "TACO (Glitter)": {
+    "class": "purple",
+    "name": "TACO (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-taco-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-taco-glitter-rio-2022.png"
+  },
+  "yuurih (Glitter)": {
+    "class": "purple",
+    "name": "yuurih (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-yuurih-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-yuurih-glitter-rio-2022.png"
+  },
+  "FL1T (Glitter)": {
+    "class": "purple",
+    "name": "FL1T (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fl1t-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fl1t-glitter-rio-2022.png"
+  },
+  "VINI (Glitter)": {
+    "class": "purple",
+    "name": "VINI (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-vini-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-vini-glitter-rio-2022.png"
+  },
+  "arT (Glitter)": {
+    "class": "purple",
+    "name": "arT (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-art-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-art-glitter-rio-2022.png"
+  },
+  "latto (Glitter)": {
+    "class": "purple",
+    "name": "latto (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-latto-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-latto-glitter-rio-2022.png"
+  },
+  "Jame (Glitter)": {
+    "class": "purple",
+    "name": "Jame (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-jame-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-jame-glitter-rio-2022.png"
+  },
+  "fer (Glitter)": {
+    "class": "purple",
+    "name": "fer (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fer-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fer-glitter-rio-2022.png"
+  },
+  "n0rb3r7 (Glitter)": {
+    "class": "purple",
+    "name": "n0rb3r7 (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-n0rb3r7-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-n0rb3r7-glitter-rio-2022.png"
+  },
+  "boltz (Glitter)": {
+    "class": "purple",
+    "name": "boltz (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-boltz-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-boltz-glitter-rio-2022.png"
+  },
+  "drop (Glitter)": {
+    "class": "purple",
+    "name": "drop (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-drop-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-drop-glitter-rio-2022.png"
+  },
+  "chelo (Glitter)": {
+    "class": "purple",
+    "name": "chelo (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-chelo-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-chelo-glitter-rio-2022.png"
+  },
+  "dumau (Glitter)": {
+    "class": "purple",
+    "name": "dumau (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-dumau-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-dumau-glitter-rio-2022.png"
+  },
+  "sk0R (Glitter)": {
+    "class": "purple",
+    "name": "sk0R (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-sk0r-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-sk0r-glitter-rio-2022.png"
+  },
+  "ANNIHILATION (Glitter)": {
+    "class": "purple",
+    "name": "ANNIHILATION (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-annihilation-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-annihilation-glitter-rio-2022.png"
+  },
+  "KSCERATO (Glitter)": {
+    "class": "purple",
+    "name": "KSCERATO (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-kscerato-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-kscerato-glitter-rio-2022.png"
+  },
+  "vexite (Glitter)": {
+    "class": "purple",
+    "name": "vexite (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-vexite-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-vexite-glitter-rio-2022.png"
+  },
+  "siuhy (Glitter)": {
+    "class": "purple",
+    "name": "siuhy (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-siuhy-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-siuhy-glitter-rio-2022.png"
+  },
+  "FASHR (Glitter)": {
+    "class": "purple",
+    "name": "FASHR (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fashr-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fashr-glitter-rio-2022.png"
+  },
+  "bLitz (Glitter)": {
+    "class": "purple",
+    "name": "bLitz (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-blitz-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-blitz-glitter-rio-2022.png"
+  },
+  "kabal (Glitter)": {
+    "class": "purple",
+    "name": "kabal (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-kabal-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-kabal-glitter-rio-2022.png"
+  },
+  "Techno4K (Glitter)": {
+    "class": "purple",
+    "name": "Techno4K (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-techno4k-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-techno4k-glitter-rio-2022.png"
+  },
+  "acoR (Glitter)": {
+    "class": "purple",
+    "name": "acoR (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-acor-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-acor-glitter-rio-2022.png"
+  },
+  "aliStair (Glitter)": {
+    "class": "purple",
+    "name": "aliStair (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-alistair-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-alistair-glitter-rio-2022.png"
+  },
+  "Liazz (Glitter)": {
+    "class": "purple",
+    "name": "Liazz (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-liazz-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-liazz-glitter-rio-2022.png"
+  },
+  "Sico (Glitter)": {
+    "class": "purple",
+    "name": "Sico (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-sico-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-sico-glitter-rio-2022.png"
+  },
+  "isak (Glitter)": {
+    "class": "purple",
+    "name": "isak (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-isak-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-isak-glitter-rio-2022.png"
+  },
+  "Keoz (Glitter)": {
+    "class": "purple",
+    "name": "Keoz (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-keoz-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-keoz-glitter-rio-2022.png"
+  },
+  "iM (Glitter)": {
+    "class": "purple",
+    "name": "iM (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-im-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-im-glitter-rio-2022.png"
+  },
+  "saffee (Glitter)": {
+    "class": "purple",
+    "name": "saffee (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-saffee-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-saffee-glitter-rio-2022.png"
+  },
+  "nicoodoz (Glitter)": {
+    "class": "purple",
+    "name": "nicoodoz (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-nicoodoz-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-nicoodoz-glitter-rio-2022.png"
+  },
+  "KRIMZ (Glitter)": {
+    "class": "purple",
+    "name": "KRIMZ (Glitter) | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-krimz-glitter-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-krimz-glitter-rio-2022.png"
+  },
+  "mezii": {
+    "class": "blue",
+    "name": "mezii | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-mezii-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-mezii-rio-2022.png"
+  },
+  "FalleN": {
+    "class": "blue",
+    "name": "FalleN | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fallen-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fallen-rio-2022.png"
+  },
+  "coldzera": {
+    "class": "blue",
+    "name": "coldzera | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-coldzera-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-coldzera-rio-2022.png"
+  },
+  "qikert": {
+    "class": "blue",
+    "name": "qikert | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-qikert-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-qikert-rio-2022.png"
+  },
+  "nicoodoz": {
+    "class": "blue",
+    "name": "nicoodoz | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-nicoodoz-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-nicoodoz-rio-2022.png"
+  },
+  "VINI": {
+    "class": "blue",
+    "name": "VINI | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-vini-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-vini-rio-2022.png"
+  },
+  "FL1T": {
+    "class": "blue",
+    "name": "FL1T | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fl1t-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fl1t-rio-2022.png"
+  },
+  "chelo": {
+    "class": "blue",
+    "name": "chelo | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-chelo-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-chelo-rio-2022.png"
+  },
+  "boltz": {
+    "class": "blue",
+    "name": "boltz | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-boltz-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-boltz-rio-2022.png"
+  },
+  "sk0R": {
+    "class": "blue",
+    "name": "sk0R | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-sk0r-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-sk0r-rio-2022.png"
+  },
+  "Jame": {
+    "class": "blue",
+    "name": "Jame | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-jame-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-jame-rio-2022.png"
+  },
+  "fer": {
+    "class": "blue",
+    "name": "fer | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fer-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fer-rio-2022.png"
+  },
+  "n0rb3r7": {
+    "class": "blue",
+    "name": "n0rb3r7 | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-n0rb3r7-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-n0rb3r7-rio-2022.png"
+  },
+  "dumau": {
+    "class": "blue",
+    "name": "dumau | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-dumau-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-dumau-rio-2022.png"
+  },
+  "TACO": {
+    "class": "blue",
+    "name": "TACO | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-taco-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-taco-rio-2022.png"
+  },
+  "fame": {
+    "class": "blue",
+    "name": "fame | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fame-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fame-rio-2022.png"
+  },
+  "FASHR": {
+    "class": "blue",
+    "name": "FASHR | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-fashr-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-fashr-rio-2022.png"
+  },
+  "TRY": {
+    "class": "blue",
+    "name": "TRY | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-try-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-try-rio-2022.png"
+  },
+  "roeJ": {
+    "class": "blue",
+    "name": "roeJ | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-roej-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-roej-rio-2022.png"
+  },
+  "latto": {
+    "class": "blue",
+    "name": "latto | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-latto-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-latto-rio-2022.png"
+  },
+  "Liazz": {
+    "class": "blue",
+    "name": "Liazz | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-liazz-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-liazz-rio-2022.png"
+  },
+  "arT": {
+    "class": "blue",
+    "name": "arT | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-art-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-art-rio-2022.png"
+  },
+  "KRIMZ": {
+    "class": "blue",
+    "name": "KRIMZ | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-krimz-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-krimz-rio-2022.png"
+  },
+  "yuurih": {
+    "class": "blue",
+    "name": "yuurih | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-yuurih-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-yuurih-rio-2022.png"
+  },
+  "bLitz": {
+    "class": "blue",
+    "name": "bLitz | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-blitz-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-blitz-rio-2022.png"
+  },
+  "INS": {
+    "class": "blue",
+    "name": "INS | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-ins-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-ins-rio-2022.png"
+  },
+  "KSCERATO": {
+    "class": "blue",
+    "name": "KSCERATO | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-kscerato-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-kscerato-rio-2022.png"
+  },
+  "saffee": {
+    "class": "blue",
+    "name": "saffee | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-saffee-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-saffee-rio-2022.png"
+  },
+  "ANNIHILATION": {
+    "class": "blue",
+    "name": "ANNIHILATION | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-annihilation-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-annihilation-rio-2022.png"
+  },
+  "drop": {
+    "class": "blue",
+    "name": "drop | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-drop-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-drop-rio-2022.png"
+  },
+  "isak": {
+    "class": "blue",
+    "name": "isak | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-isak-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-isak-rio-2022.png"
+  },
+  "Techno4K": {
+    "class": "blue",
+    "name": "Techno4K | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-techno4k-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-techno4k-rio-2022.png"
+  },
+  "vexite": {
+    "class": "blue",
+    "name": "vexite | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-vexite-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-vexite-rio-2022.png"
+  },
+  "siuhy": {
+    "class": "blue",
+    "name": "siuhy | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-siuhy-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-siuhy-rio-2022.png"
+  },
+  "iM": {
+    "class": "blue",
+    "name": "iM | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-im-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-im-rio-2022.png"
+  },
+  "acoR": {
+    "class": "blue",
+    "name": "acoR | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-acor-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-acor-rio-2022.png"
+  },
+  "Sico": {
+    "class": "blue",
+    "name": "Sico | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-sico-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-sico-rio-2022.png"
+  },
+  "kabal": {
+    "class": "blue",
+    "name": "kabal | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-kabal-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-kabal-rio-2022.png"
+  },
+  "aliStair": {
+    "class": "blue",
+    "name": "aliStair | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-alistair-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-alistair-rio-2022.png"
+  },
+  "Keoz": {
+    "class": "blue",
+    "name": "Keoz | Rio 2022",
+    "image": "/img/skins/stickers/rio-2022/sticker-keoz-rio-2022.png",
+    "imageOG": "/img/skins/stickers/rio-2022/small/sticker-keoz-rio-2022.png"
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/nova/vanilla.webp",
+    "name": "Nova | Vanilla",
+    "color": []
+  },
+  "Ocular": {
+    "class": "purple",
+    "image": "/img/skins/nova/ocular.webp",
+    "name": "Nova | Ocular",
+    "color": [
+      "Blue"
+    ],
+    "case": "Sealed Genesis Terminal"
+  },
+  "Rain Station": {
+    "class": "lblue",
+    "image": "/img/skins/nova/rain-station.webp",
+    "name": "Nova | Rain Station",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Train 2025 Collection"
+  },
+  "Rising Sun": {
+    "class": "purple",
+    "image": "/img/skins/nova/rising-sun.webp",
+    "name": "Nova | Rising Sun",
+    "color": [],
+    "case": "Fever Case"
+  },
+  "Clear Polymer": {
+    "class": "purple",
+    "image": "/img/skins/nova/clear-polymer.webp",
+    "name": "Nova | Clear Polymer",
+    "color": [
+      "White"
+    ],
+    "case": "Operation Broken Fang Case"
+  },
+  "Polar Mesh": {
+    "class": "white",
+    "image": "/img/skins/nova/polar-mesh.webp",
+    "name": "Nova | Polar Mesh",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Rising Skull": {
+    "class": "purple",
+    "image": "/img/skins/nova/rising-skull.webp",
+    "name": "Nova | Rising Skull",
+    "color": [
+      "White"
+    ],
+    "case": "Winter Offensive Weapon Case"
+  },
+  "Modern Hunter": {
+    "class": "blue",
+    "image": "/img/skins/nova/modern-hunter.webp",
+    "name": "Nova | Modern Hunter",
+    "color": [
+      "Gray"
+    ],
+    "collection": "The Militia Collection"
+  },
+  "Mandrel": {
+    "class": "white",
+    "image": "/img/skins/nova/mandrel.webp",
+    "name": "Nova | Mandrel",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The 2018 Nuke Collection"
+  },
+  "Rust Coat": {
+    "class": "lblue",
+    "image": "/img/skins/nova/rust-coat.webp",
+    "name": "Nova | Rust Coat",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Rust Coat BS": {
+    "class": "lblue",
+    "image": "/img/skins/nova/rust-coat-bs.webp",
+    "name": "Nova | Rust Coat (Battle-Scarred)",
+    "color": [
+      "Brown"
+    ]
+  },
+  "Caged Steel": {
+    "class": "lblue",
+    "image": "/img/skins/nova/caged-steel.webp",
+    "name": "Nova | Caged Steel",
+    "color": [
+      "Black",
+      "Gray"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Graphite": {
+    "class": "purple",
+    "image": "/img/skins/nova/graphite.webp",
+    "name": "Nova | Graphite",
+    "color": [
+      "Gray"
+    ],
+    "case": "CS:GO Weapon Case 2"
+  },
+  "Dark Sigil": {
+    "class": "blue",
+    "image": "/img/skins/nova/dark-sigil.webp",
+    "name": "Nova | Dark Sigil",
+    "color": [
+      "Brown",
+      "Gray"
+    ],
+    "case": "Kilowatt Case"
+  },
+  "Walnut": {
+    "class": "white",
+    "image": "/img/skins/nova/walnut.webp",
+    "name": "Nova | Walnut",
+    "color": [
+      "Brown"
+    ],
+    "souvenir": true,
+    "collection": "The Inferno Collection"
+  },
+  "Plume": {
+    "class": "blue",
+    "image": "/img/skins/nova/plume.webp",
+    "name": "Nova | Plume",
+    "color": [
+      "Brown"
+    ],
+    "case": "Shattered Web Case"
+  },
+  "Wild Six": {
+    "class": "purple",
+    "image": "/img/skins/nova/wild-six.webp",
+    "name": "Nova | Wild Six",
+    "color": [
+      "Brown",
+      "Yellow"
+    ],
+    "case": "Clutch Case"
+  },
+  "Gila": {
+    "class": "purple",
+    "image": "/img/skins/nova/gila.webp",
+    "name": "Nova | Gila",
+    "color": [
+      "Brown"
+    ],
+    "case": "Glove Case"
+  },
+  "Sobek's Bite": {
+    "class": "purple",
+    "image": "/img/skins/nova/sobek's-bite.webp",
+    "name": "Nova | Sobek's Bite",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Anubis Collection"
+  },
+  "Quick Sand": {
+    "class": "blue",
+    "image": "/img/skins/nova/quick-sand.webp",
+    "name": "Nova | Quick Sand",
+    "color": [
+      "Blue"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Dust 2 Collection"
+  },
+  "Sand Dune": {
+    "class": "white",
+    "image": "/img/skins/nova/sand-dune.webp",
+    "name": "Nova | Sand Dune",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Candy Apple": {
+    "class": "lblue",
+    "image": "/img/skins/nova/candy-apple.webp",
+    "name": "Nova | Candy Apple",
+    "color": [
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The Italy Collection"
+  },
+  "Bloomstick": {
+    "class": "pink",
+    "image": "/img/skins/nova/bloomstick.webp",
+    "name": "Nova | Bloomstick",
+    "color": [
+      "Red"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Koi": {
+    "class": "purple",
+    "image": "/img/skins/nova/koi.webp",
+    "name": "Nova | Koi",
+    "color": [
+      "Red",
+      "White"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Blaze Orange": {
+    "class": "blue",
+    "image": "/img/skins/nova/blaze-orange.webp",
+    "name": "Nova | Blaze Orange",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Militia Collection"
+  },
+  "Antique": {
+    "class": "pink",
+    "image": "/img/skins/nova/antique.webp",
+    "name": "Nova | Antique",
+    "color": [
+      "Brown"
+    ],
+    "case": "Operation Phoenix Weapon Case"
+  },
+  "Red Quartz": {
+    "class": "purple",
+    "image": "/img/skins/nova/red-quartz.webp",
+    "name": "Nova | Red Quartz",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Baroque Orange": {
+    "class": "purple",
+    "image": "/img/skins/nova/baroque-orange.webp",
+    "name": "Nova | Baroque Orange",
+    "color": [
+      "Gray",
+      "Orange"
+    ],
+    "collection": "The Canals Collection"
+  },
+  "Interlock": {
+    "class": "blue",
+    "image": "/img/skins/nova/interlock.webp",
+    "name": "Nova | Interlock",
+    "color": [
+      "Blue",
+      "Yellow"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Vertigo Collection"
+  },
+  "Green Apple": {
+    "class": "lblue",
+    "image": "/img/skins/nova/green-apple.webp",
+    "name": "Nova | Green Apple",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Toy Soldier": {
+    "class": "purple",
+    "image": "/img/skins/nova/toy-soldier.webp",
+    "name": "Nova | Toy Soldier",
+    "color": [
+      "Green"
+    ],
+    "case": "Horizon Case"
+  },
+  "Forest Leaves": {
+    "class": "white",
+    "image": "/img/skins/nova/forest-leaves.webp",
+    "name": "Nova | Forest Leaves",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Aztec Collection"
+  },
+  "Wood Fired": {
+    "class": "blue",
+    "image": "/img/skins/nova/wood-fired.webp",
+    "name": "Nova | Wood Fired",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Ranger": {
+    "class": "blue",
+    "image": "/img/skins/nova/ranger.webp",
+    "name": "Nova | Ranger",
+    "color": [],
+    "case": "Falchion Case"
+  },
+  "Army Sheen": {
+    "class": "white",
+    "image": "/img/skins/nova/army-sheen.webp",
+    "name": "Nova | Army Sheen",
+    "color": [
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Ancient Collection"
+  },
+  "Predator": {
+    "class": "white",
+    "image": "/img/skins/nova/predator.webp",
+    "name": "Nova | Predator",
+    "color": [
+      "Brown",
+      "Green"
+    ],
+    "souvenir": true,
+    "collection": "The Dust 2 Collection"
+  },
+  "Hyper Beast": {
+    "class": "pink",
+    "image": "/img/skins/nova/hyper-beast.webp",
+    "name": "Nova | Hyper Beast",
+    "color": [
+      "Green"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Windblown": {
+    "class": "blue",
+    "image": "/img/skins/nova/windblown.webp",
+    "name": "Nova | Windblown",
+    "color": [
+      "Blue",
+      "White"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Tempest": {
+    "class": "blue",
+    "image": "/img/skins/nova/tempest.webp",
+    "name": "Nova | Tempest",
+    "color": [
+      "Blue"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Moon in Libra": {
+    "class": "lblue",
+    "image": "/img/skins/nova/moon-in-libra.webp",
+    "name": "Nova | Moon in Libra",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Gods and Monsters Collection"
+  },
+  "Ghost Camo": {
+    "class": "blue",
+    "image": "/img/skins/nova/ghost-camo.webp",
+    "name": "Nova | Ghost Camo",
+    "color": [
+      "Blue",
+      "Red"
+    ],
+    "case": "eSports 2013 Winter Case"
+  },
+  "Exo": {
+    "class": "blue",
+    "image": "/img/skins/nova/exo.webp",
+    "name": "Nova | Exo",
+    "color": [
+      "Purple"
+    ],
+    "case": "Gamma Case"
+  },
+  "Wurst Hölle": {
+    "class": "blue",
+    "image": "/img/skins/nova/wurst-hölle.webp",
+    "name": "Nova | Wurst Hölle",
+    "color": [
+      "Orange"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Yorkshire": {
+    "class": "blue",
+    "image": "/img/skins/nova/yorkshire.webp",
+    "name": "Nova | Yorkshire",
+    "color": [
+      "Golden"
+    ],
+    "collection": "The Sport & Field Collection"
+  },
+  "Turquoise Pour": {
+    "class": "lblue",
+    "image": "/img/skins/nova/turquoise-pour.webp",
+    "name": "Nova | Turquoise Pour",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Marsh Grass": {
+    "class": "white",
+    "image": "/img/skins/nova/marsh-grass.webp",
+    "name": "Nova | Marsh Grass",
+    "color": [
+      "Brown"
+    ],
+    "collection": "The Radiant Collection"
+  }
+}

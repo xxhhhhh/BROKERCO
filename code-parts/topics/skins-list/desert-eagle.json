@@ -1,0 +1,392 @@
+{
+  "Vanilla": {
+    "class": "notexist",
+    "image": "/img/skins/desert-eagle/vanilla.webp",
+    "name": "Desert Eagle | Vanilla",
+    "color": []
+  },
+  "Serpent Strike": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/serpent-strike.webp",
+    "name": "Desert Eagle | Serpent Strike",
+    "color": [
+      "Red"
+    ],
+    "case": "Fever Case"
+  },
+  "Heat Treated": {
+    "class": "pink",
+    "image": "/img/skins/desert-eagle/heat-treated.webp",
+    "name": "Desert Eagle | Heat Treated",
+    "color": [
+      "Blue"
+    ],
+    "collection": "Limited Edition Item"
+  },
+  "Printstream": {
+    "class": "red",
+    "image": "/img/skins/desert-eagle/printstream.webp",
+    "name": "Desert Eagle | Printstream",
+    "color": [
+      "White"
+    ],
+    "case": "Fracture Case"
+  },
+  "Starcade": {
+    "class": "pink",
+    "image": "/img/skins/desert-eagle/starcade.webp",
+    "name": "Desert Eagle | Starcade",
+    "color": [
+      "Blue",
+      "Purple"
+    ],
+    "collection": "The Graphic Design Collection"
+  },
+  "Mecha Industries": {
+    "class": "pink",
+    "image": "/img/skins/desert-eagle/mecha-industries.webp",
+    "name": "Desert Eagle | Mecha Industries",
+    "color": [
+      "White"
+    ],
+    "case": "Danger Zone Case"
+  },
+  "Golden Koi": {
+    "class": "red",
+    "image": "/img/skins/desert-eagle/golden-koi.webp",
+    "name": "Desert Eagle | Golden Koi",
+    "color": [
+      "Silver",
+      "Yellow"
+    ],
+    "case": "Operation Bravo Case"
+  },
+  "Hypnotic": {
+    "class": "pink",
+    "image": "/img/skins/desert-eagle/hypnotic.webp",
+    "name": "Desert Eagle | Hypnotic",
+    "color": [],
+    "case": "CS:GO Weapon Case"
+  },
+  "Calligraffiti": {
+    "class": "blue",
+    "image": "/img/skins/desert-eagle/calligraffiti.webp",
+    "name": "Desert Eagle | Calligraffiti",
+    "color": [
+      "Black",
+      "Silver",
+      "White"
+    ],
+    "case": "Gallery Case"
+  },
+  "Urban Rubble": {
+    "class": "blue",
+    "image": "/img/skins/desert-eagle/urban-rubble.webp",
+    "name": "Desert Eagle | Urban Rubble",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Train Collection"
+  },
+  "Urban DDPAT": {
+    "class": "lblue",
+    "image": "/img/skins/desert-eagle/urban-ddpat.webp",
+    "name": "Desert Eagle | Urban DDPAT",
+    "color": [
+      "Gray"
+    ],
+    "souvenir": true,
+    "collection": "The Overpass Collection"
+  },
+  "Heirloom": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/heirloom.webp",
+    "name": "Desert Eagle | Heirloom",
+    "color": [],
+    "case": "CS:GO Weapon Case 3"
+  },
+  "Naga": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/naga.webp",
+    "name": "Desert Eagle | Naga",
+    "color": [
+      "Gray"
+    ],
+    "case": "Chroma Case"
+  },
+  "Pilot": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/pilot.webp",
+    "name": "Desert Eagle | Pilot",
+    "color": [
+      "Gray",
+      "Yellow"
+    ],
+    "collection": "The Baggage Collection"
+  },
+  "Bronze Deco": {
+    "class": "blue",
+    "image": "/img/skins/desert-eagle/bronze-deco.webp",
+    "name": "Desert Eagle | Bronze Deco",
+    "color": [],
+    "case": "Chroma 2 Case"
+  },
+  "Conspiracy": {
+    "class": "pink",
+    "image": "/img/skins/desert-eagle/conspiracy.webp",
+    "name": "Desert Eagle | Conspiracy",
+    "color": [
+      "Brown",
+      "Gray",
+      "Yellow"
+    ],
+    "case": "Operation Breakout Weapon Case"
+  },
+  "Meteorite": {
+    "class": "blue",
+    "image": "/img/skins/desert-eagle/meteorite.webp",
+    "name": "Desert Eagle | Meteorite",
+    "color": [
+      "Black"
+    ],
+    "collection": "The Bank Collection"
+  },
+  "Directive": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/directive.webp",
+    "name": "Desert Eagle | Directive",
+    "color": [],
+    "case": "Gamma 2 Case"
+  },
+  "Night": {
+    "class": "lblue",
+    "image": "/img/skins/desert-eagle/night.webp",
+    "name": "Desert Eagle | Night",
+    "color": [
+      "Blue",
+      "Purple"
+    ],
+    "collection": "The Chop Shop Collection"
+  },
+  "The Bronze": {
+    "class": "lblue",
+    "image": "/img/skins/desert-eagle/the-bronze.webp",
+    "name": "Desert Eagle | The Bronze",
+    "color": [],
+    "collection": "The Control Collection"
+  },
+  "Oxide Blaze": {
+    "class": "blue",
+    "image": "/img/skins/desert-eagle/oxide-blaze.webp",
+    "name": "Desert Eagle | Oxide Blaze",
+    "color": [
+      "Brown"
+    ],
+    "case": "Spectrum Case"
+  },
+  "Corinthian": {
+    "class": "blue",
+    "image": "/img/skins/desert-eagle/corinthian.webp",
+    "name": "Desert Eagle | Corinthian",
+    "color": [
+      "Brown"
+    ],
+    "case": "Revolver Case"
+  },
+  "Code Red": {
+    "class": "red",
+    "image": "/img/skins/desert-eagle/code-red.webp",
+    "name": "Desert Eagle | Code Red",
+    "color": [
+      "Red"
+    ],
+    "case": "Horizon Case"
+  },
+  "Sunset Storm 弐": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/sunset-storm.webp",
+    "name": "Desert Eagle | Sunset Storm 弐",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Crimson Web": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/crimson-web.webp",
+    "name": "Desert Eagle | Crimson Web",
+    "color": [
+      "Red"
+    ],
+    "case": "eSports 2014 Summer Case"
+  },
+  "Fennec Fox": {
+    "class": "pink",
+    "image": "/img/skins/desert-eagle/fennec-fox.webp",
+    "name": "Desert Eagle | Fennec Fox",
+    "color": [
+      "Orange",
+      "Red"
+    ],
+    "souvenir": true,
+    "collection": "The 2021 Mirage Collection"
+  },
+  "Blaze": {
+    "class": "red",
+    "image": "/img/skins/desert-eagle/blaze.webp",
+    "name": "Desert Eagle | Blaze",
+    "color": [
+      "Orange",
+      "Yellow"
+    ],
+    "collection": "The Dust Collection"
+  },
+  "Light Rail": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/light-rail.webp",
+    "name": "Desert Eagle | Light Rail",
+    "color": [
+      "Yellow"
+    ],
+    "case": "Prisma Case"
+  },
+  "Mudder": {
+    "class": "lblue",
+    "image": "/img/skins/desert-eagle/mudder.webp",
+    "name": "Desert Eagle | Mudder",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Lake Collection"
+  },
+  "Emerald Jörmungandr": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/emerald.webp",
+    "name": "Desert Eagle | Emerald Jörmungandr",
+    "color": [
+      "Green"
+    ],
+    "collection": "The Norse Collection"
+  },
+  "Hand Cannon": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/hand-cannon.webp",
+    "name": "Desert Eagle | Hand Cannon",
+    "color": [],
+    "souvenir": true,
+    "collection": "The Cobblestone Collection"
+  },
+  "Midnight Storm": {
+    "class": "lblue",
+    "image": "/img/skins/desert-eagle/midnight-storm.webp",
+    "name": "Desert Eagle | Midnight Storm",
+    "color": [
+      "Cyan"
+    ],
+    "collection": "The Rising Sun Collection"
+  },
+  "Blue Ply": {
+    "class": "blue",
+    "image": "/img/skins/desert-eagle/blue-ply.webp",
+    "name": "Desert Eagle | Blue Ply",
+    "color": [
+      "Blue"
+    ],
+    "case": "Prisma 2 Case"
+  },
+  "Sputnik": {
+    "class": "blue",
+    "image": "/img/skins/desert-eagle/sputnik.webp",
+    "name": "Desert Eagle | Sputnik",
+    "color": [
+      "Blue"
+    ],
+    "collection": "The 2021 Train Collection"
+  },
+  "Cobalt Disruption": {
+    "class": "pink",
+    "image": "/img/skins/desert-eagle/cobalt-disruption.webp",
+    "name": "Desert Eagle | Cobalt Disruption",
+    "color": [
+      "Blue"
+    ],
+    "case": "eSports 2013 Winter Case"
+  },
+  "Night Heist": {
+    "class": "blue",
+    "image": "/img/skins/desert-eagle/night-heist.webp",
+    "name": "Desert Eagle | Night Heist",
+    "color": [
+      "Blue",
+      "Purple"
+    ],
+    "collection": "The Havoc Collection"
+  },
+  "Kumicho Dragon": {
+    "class": "pink",
+    "image": "/img/skins/desert-eagle/kumicho-dragon.webp",
+    "name": "Desert Eagle | Kumicho Dragon",
+    "color": [
+      "Gray"
+    ],
+    "case": "Operation Wildfire Case"
+  },
+  "Trigger Discipline": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/trigger-discipline.webp",
+    "name": "Desert Eagle | Trigger Discipline",
+    "color": [
+      "Gray",
+      "Pink"
+    ],
+    "case": "Snakebite Case"
+  },
+  "Ocean Drive": {
+    "class": "red",
+    "image": "/img/skins/desert-eagle/ocean-drive.webp",
+    "name": "Desert Eagle | Ocean Drive",
+    "color": [
+      "Orange",
+      "Pink",
+      "Purple"
+    ],
+    "case": "Operation Riptide Case"
+  },
+  "Tilted": {
+    "class": "lblue",
+    "image": "/img/skins/desert-eagle/tilted.webp",
+    "name": "Desert Eagle | Tilted",
+    "color": [
+      "Cyan"
+    ],
+    "collection": "The Overpass 2024 Collection"
+  },
+  "Mint Fan": {
+    "class": "blue",
+    "image": "/img/skins/desert-eagle/mint-fan.webp",
+    "name": "Desert Eagle | Mint Fan",
+    "color": [
+      "Cyan",
+      "Brown"
+    ],
+    "collection": "The Ascent Collection"
+  },
+  "Mulberry": {
+    "class": "purple",
+    "image": "/img/skins/desert-eagle/mulberry.webp",
+    "name": "Desert Eagle | Mulberry",
+    "color": [
+      "Pink"
+    ],
+    "collection": "The Radiant Collection"
+  },
+  "Sunset Storm 壱": {
+    "class": "purple",
+    "name": "Desert Eagle | Sunset Storm 壱",
+    "image": "/img/skins/desert-eagle/sunset-storm-2.webp",
+    "color": [
+      "Red"
+    ],
+    "collection": "The Rising Sun Collection"
+  }
+}

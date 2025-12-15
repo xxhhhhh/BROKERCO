@@ -1,0 +1,152 @@
+{
+  "Vanilla": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-vanilla.webp",
+    "name": "Survival Knife",
+    "color": []
+  },
+  "Stained": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-stained.webp",
+    "name": "Survival Knife | Stained",
+    "color": ["Gray", "White"]
+  },
+  "Urban Masked": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-urban-masked.webp",
+    "name": "Survival Knife | Urban Masked",
+    "color": ["Gray"]
+  },
+  "Scorched": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-scorched.webp",
+    "name": "Survival Knife | Scorched",
+    "color": ["Black", "Gray"]
+  },
+  "Night Stripe": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-night-stripe.webp",
+    "name": "Survival Knife | Night Stripe",
+    "color": []
+  },
+  "Blue Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-blue-steel.webp",
+    "name": "Survival Knife | Blue Steel",
+    "color": []
+  },
+  "Safari Mesh": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-safari-mesh.webp",
+    "name": "Survival Knife | Safari Mesh",
+    "color": []
+  },
+  "Boreal Forest": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-boreal.webp",
+    "name": "Survival Knife | Boreal Forest",
+    "color": ["Green"]
+  },
+  "Forest DDPAT": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-ddpat.webp",
+    "name": "Survival Knife | Forest DDPAT",
+    "color": ["Green"]
+  },
+  "Doppler Ruby": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-doppler-ruby.webp",
+    "name": "Survival Knife | Doppler Ruby",
+    "color": ["Red"]
+  },
+  "Crimson Web": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-knife-crimson-web.webp",
+    "name": "Survival Knife | Crimson Web",
+    "color": ["Red"]
+  },
+  "Slaughter": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-knife-slaughter.webp",
+    "name": "Survival Knife | Slaughter",
+    "color": ["Red"]
+  },
+  "Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-fade.webp",
+    "name": "Survival Knife | Fade",
+    "color": []
+  },
+  "Case Hardened": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-case-hardened.webp",
+    "name": "Survival Knife | Case Hardened",
+    "color": []
+  },
+  "Tiger Tooth": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-tiger-tooth.webp",
+    "name": "Survival Knife | Tiger Tooth",
+    "color": ["Orange", "Yellow"]
+  },
+  "Rust Coat": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-rust-coat.webp",
+    "name": "Survival Knife | Rust Coat",
+    "color": []
+  },
+  "Marble Fade": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-marble-fade.webp",
+    "name": "Survival Knife | Marble Fade",
+    "color": []
+  },
+  "Doppler Phase 3": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-doppler-phase-3.webp",
+    "name": "Survival Knife | Doppler Phase 3",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 4": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-doppler-phase-4.webp",
+    "name": "Survival Knife | Doppler Phase 4",
+    "color": ["Blue"]
+  },
+  "Doppler Sapphire": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-doppler-sapphire.webp",
+    "name": "Survival Knife | Doppler Sapphire",
+    "color": ["Blue"]
+  },
+  "Bright Water": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-bright-water.webp",
+    "name": "Survival Knife | Bright Water",
+    "color": ["Blue"]
+  },
+  "Doppler Phase 1": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-doppler-phase-1.webp",
+    "name": "Survival Knife | Doppler Phase 1",
+    "color": ["Purple"]
+  },
+  "Doppler Phase 2": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-doppler-phase-2.webp",
+    "name": "Survival Knife | Doppler Phase 2",
+    "color": ["Pink", "Purple"]
+  },
+  "Ultraviolet": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-ultraviolet.webp",
+    "name": "Survival Knife | Ultraviolet",
+    "color": ["Black", "Purple"]
+  },
+  "Damascus Steel": {
+    "class": "red",
+    "image": "/img/skins/knives/survival-damascus-steel.webp",
+    "name": "Survival Knife | Damascus Steel",
+    "color": ["White"]
+  }
+}

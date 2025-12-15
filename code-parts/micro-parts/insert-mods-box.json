@@ -1,0 +1,320 @@
+{
+  "csgo": {
+    "items": [
+      {
+        "title": "Match Betting",
+        "href": "/csgo/matchbetting",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/esports.webp",
+          "alt": "Match Betting"
+        }
+      },
+      {
+        "title": "Roulette",
+        "href": "/csgo/roulette",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/roulette.webp",
+          "alt": "Roulette"
+        }
+      },
+      {
+        "title": "Case Opening",
+        "href": "/csgo/caseopening",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/cases_old.webp",
+          "alt": "Case Opening"
+        }
+      },
+      {
+        "title": "Crash",
+        "href": "/csgo/crash",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/crash.webp",
+          "alt": "Crash"
+        }
+      },
+      {
+        "title": "Jackpot",
+        "href": "/csgo/jackpot",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/jackpot.webp",
+          "alt": "Jackpot"
+        }
+      },
+      {
+        "title": "Coinflip",
+        "href": "/csgo/coinflip",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/coinflip.webp",
+          "alt": "Coinflip"
+        }
+      }
+    ]
+  },
+  "rust": {
+    "items": [
+      {
+        "title": "Match Betting",
+        "href": "/rust/matchbetting",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/esports.webp",
+          "alt": "Match Betting"
+        }
+      },
+      {
+        "title": "Roulette",
+        "href": "/rust/roulette",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/roulette.webp",
+          "alt": "Roulette"
+        }
+      },
+      {
+        "title": "Case Opening",
+        "href": "/rust/caseopening",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/cases_old.webp",
+          "alt": "Case Opening"
+        }
+      },
+      {
+        "title": "Crash",
+        "href": "/rust/crash",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/crash.webp",
+          "alt": "Crash"
+        }
+      },
+      {
+        "title": "Jackpot",
+        "href": "/rust/jackpot",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/jackpot.webp",
+          "alt": "Jackpot"
+        }
+      },
+      {
+        "title": "Coinflip",
+        "href": "/rust/coinflip",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/coinflip.webp",
+          "alt": "Coinflip"
+        }
+      }
+    ]
+  },
+  "dota": {
+    "items": [
+      {
+        "title": "Match Betting",
+        "href": "/dota/matchbetting",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/esports.webp",
+          "alt": "Match Betting"
+        }
+      },
+      {
+        "title": "Roulette",
+        "href": "/dota/roulette",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/roulette.webp",
+          "alt": "Roulette"
+        }
+      },
+      {
+        "title": "Case Opening",
+        "href": "/dota/caseopening",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/cases_old.webp",
+          "alt": "Case Opening"
+        }
+      }
+    ]
+  },
+  "csgo-skins": {
+    "horizontal": true,
+    "items": [
+      {
+        "title": "Buy Skins",
+        "href": "/csgo/buy-skins",
+        "icon": "buy-skins"
+      },
+      {
+        "title": "Sell Skins",
+        "href": "/csgo/sell-skins",
+        "icon": "sell-skins"
+      },
+      {
+        "title": "Trade Skins",
+        "href": "/csgo/trade-skins",
+        "icon": "trade-skins"
+      },
+      {
+        "title": "Instant Sell",
+        "href": "/csgo/instant-sell",
+        "icon": "instant-sell"
+      },
+      {
+        "title": "Marketplaces",
+        "href": "/csgo/marketplaces",
+        "icon": "marketplaces"
+      }
+    ]
+  },
+  "rust-skins": {
+    "horizontal": true,
+    "items": [
+      {
+        "title": "Buy Skins",
+        "href": "/rust/buy-skins",
+        "icon": "buy-skins"
+      },
+      {
+        "title": "Sell Skins",
+        "href": "/rust/sell-skins",
+        "icon": "sell-skins"
+      },
+      {
+        "title": "Trade Skins",
+        "href": "/rust/trade-skins",
+        "icon": "trade-skins"
+      },
+      {
+        "title": "Instant Sell",
+        "href": "/rust/instant-sell",
+        "icon": "instant-sell"
+      },
+      {
+        "title": "Marketplaces",
+        "href": "/rust/marketplaces",
+        "icon": "marketplaces"
+      }
+    ]
+  },
+  "dota-items": {
+    "horizontal": true,
+    "items": [
+      {
+        "title": "Buy Items",
+        "href": "/dota/buy-items",
+        "icon": "buy-skins"
+      },
+      {
+        "title": "Sell Items",
+        "href": "/dota/sell-items",
+        "icon": "sell-skins"
+      },
+      {
+        "title": "Trade Items",
+        "href": "/dota/trade-items",
+        "icon": "trade-skins"
+      },
+      {
+        "title": "Instant Sell",
+        "href": "/dota/instant-sell",
+        "icon": "instant-sell"
+      },
+      {
+        "title": "Marketplaces",
+        "href": "/dota/marketplaces",
+        "icon": "marketplaces"
+      }
+    ]
+  },
+  "tf2-items": {
+    "horizontal": true,
+    "items": [
+      {
+        "title": "Buy Items",
+        "href": "/tf2/buy-items",
+        "icon": "buy-skins"
+      },
+      {
+        "title": "Sell Items",
+        "href": "/tf2/sell-items",
+        "icon": "sell-skins"
+      },
+      {
+        "title": "Trade Items",
+        "href": "/tf2/trade-items",
+        "icon": "trade-skins"
+      },
+      {
+        "title": "Instant Sell",
+        "href": "/tf2/instant-sell",
+        "icon": "instant-sell"
+      },
+      {
+        "title": "Marketplaces",
+        "href": "/tf2/marketplaces",
+        "icon": "marketplaces"
+      }
+    ]
+  },
+  "crypto": {
+    "items": [
+      {
+        "title": "Match Betting",
+        "href": "/crypto/matchbetting",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/esports.webp",
+          "alt": "Match Betting"
+        }
+      },
+      {
+        "title": "Roulette",
+        "href": "/crypto/roulette",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/roulette.webp",
+          "alt": "Roulette"
+        }
+      },
+      {
+        "title": "Crash",
+        "href": "/crypto/crash",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/crash.webp",
+          "alt": "Crash"
+        }
+      },
+      {
+        "title": "Coinflip",
+        "href": "/crypto/coinflip",
+        "img": {
+          "src": "/img/icons/gamemodes/mods-box/coinflip.webp",
+          "alt": "Coinflip"
+        }
+      }
+    ]
+  },
+  "freebies": {
+    "horizontal": true,
+    "items": [
+      {
+        "title": "Sign Up Bonuses",
+        "href": "/freebies/sign-up-bonuses",
+        "icon": "signupbonus"
+      },
+      {
+        "title": "Daily Rewards",
+        "href": "/freebies/daily-rewards",
+        "icon": "dailyrewards"
+      },
+      {
+        "title": "Deposit Bonuses",
+        "href": "/freebies/deposit-bonuses",
+        "icon": "depositbonuses"
+      },
+      {
+        "title": "Bonuses to Sale",
+        "href": "/freebies/bonuses-to-sale",
+        "icon": "sell-bonus"
+      },
+      {
+        "title": "Giveaways",
+        "href": "/freebies/giveaways",
+        "icon": "giveaways"
+      }
+    ]
+  }
+}

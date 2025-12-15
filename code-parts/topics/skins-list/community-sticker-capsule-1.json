@@ -1,0 +1,104 @@
+{
+  "Headhunter (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Headhunter (Foil)",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-headhunter-foil.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-headhunter-foil.png"
+  },
+  "New Sheriff (Foil)": {
+    "class": "pink",
+    "name": "Sticker | New Sheriff (Foil)",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-new-sheriff-foil.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-new-sheriff-foil.png"
+  },
+  "Swag (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Swag (Foil)",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-swag-foil.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-swag-foil.png"
+  },
+  "Flammable (Foil)": {
+    "class": "pink",
+    "name": "Sticker | Flammable (Foil)",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-flammable-foil.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-flammable-foil.png"
+  },
+  "Teamwork (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Teamwork (Holo)",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-teamwork-holo.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-teamwork-holo.png"
+  },
+  "Rekt (Holo)": {
+    "class": "purple",
+    "name": "Sticker | Rekt (Holo)",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-rekt-holo.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-rekt-holo.png"
+  },
+  "My Other Awp": {
+    "class": "blue",
+    "name": "Sticker | My Other Awp",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-my-other-awp.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-my-other-awp.png"
+  },
+  "Bomb Doge": {
+    "class": "blue",
+    "name": "Sticker | Bomb Doge",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-bomb-doge.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-bomb-doge.png"
+  },
+  "Rising Skull": {
+    "class": "blue",
+    "name": "Sticker | Rising Skull",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-rising-skull.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-rising-skull.png"
+  },
+  "Llama Cannon": {
+    "class": "blue",
+    "name": "Sticker | Llama Cannon",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-llama-cannon.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-llama-cannon.png"
+  },
+  "Sneaky Beaky Like": {
+    "class": "blue",
+    "name": "Sticker | Sneaky Beaky Like",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-sneaky-beaky-like.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-sneaky-beaky-like.png"
+  },
+  "Death Comes": {
+    "class": "blue",
+    "name": "Sticker | Death Comes",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-death-comes.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-death-comes.png"
+  },
+  "Burn Them All": {
+    "class": "blue",
+    "name": "Sticker | Burn Them All",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-burn-them-all.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-burn-them-all.png"
+  },
+  "Shave Master": {
+    "class": "blue",
+    "name": "Sticker | Shave Master",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-shave-master.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-shave-master.png"
+  },
+  "To B or not to B": {
+    "class": "blue",
+    "name": "Sticker | To B or not to B",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-to-b-or-not-to-b.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-to-b-or-not-to-b.png"
+  },
+  "Backstab": {
+    "class": "blue",
+    "name": "Sticker | Backstab",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-backstab.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-backstab.png"
+  },
+  "Pocket BBQ": {
+    "class": "blue",
+    "name": "Sticker | Pocket BBQ",
+    "image": "/img/skins/stickers/community-sticker-capsule-1/sticker-pocket-bbq.png",
+    "imageOG": "/img/skins/stickers/community-sticker-capsule-1/small/sticker-pocket-bbq.png"
+  }
+}

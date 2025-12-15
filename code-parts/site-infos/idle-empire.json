@@ -1,0 +1,32 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/earning/offerwalls\" aria-label=\"Offerwalls\" class=\"offerwalls\"></a>"
+    ],
+    "secondMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/\" aria-label=\"VISA\" class=\"visa\"></a>",
+        "<a href=\"/crypto\" aria-label=\"USDT\" class=\"usdt\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Bitcoin\" class=\"btc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Ethereum\" class=\"eth\"></a>",
+        "<a href=\"/crypto\" aria-label=\"Litecoin\" class=\"ltc\"></a>",
+        "<a href=\"/crypto\" aria-label=\"DOGE\" class=\"doge\"></a>",
+        "<a href=\"/\" aria-label=\"Gift Cards\" class=\"giftcard\"></a>",
+        "<a href=\"/\" aria-label=\"Games\" class=\"games\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4.5,
+        "Support": 4.5,
+        "Payments": 5,
+        "Variety": 4
+    },
+    "codes": {
+        "Free Else": "500 coins"
+    },
+    "name": "Idle-Empire",
+    "languages": "en, ru, tr, es",
+    "link": "https://www.idle-empire.com/?r=csgobroker",
+    "code": "csgobroker",
+    "Main Mode": "earning",
+    "featuresContent": ["SignUpBonus", "DailyRewards"],
+    "Sites Alternatives"  : ["freecash", "grindbux", "freeward"]
+}

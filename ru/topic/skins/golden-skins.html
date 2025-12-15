@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="/code-parts/jquery-3.7.1.min.js"></script>
+    <title>Все Золотые Скины CS2 (CS:GO)</title>
+    <link rel="icon" type="image/png" href="/img/favicon.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/img/favicon180px.png" sizes="180x180">
+    <link rel="icon" type="image/png" href="/img/favicon192px.png" sizes="192x192">
+    <link rel="apple-touch-icon" href="/img/favicon192px.png">
+    <meta name="msapplication-TileImage" content="/img/favicon192px.png"> 
+    <script>
+    (function () {
+      try {
+        let theme = localStorage.getItem('theme');
+        if (!theme) { theme = 'dark'; }
+
+        document.documentElement.setAttribute('data-theme', theme);
+        document.documentElement.classList.add('transitions-disabled');
+
+        const link = document.getElementById('theme-style');
+        if (link) {
+          if (theme === 'light') { link.href = '/style_light.css'; link.disabled = false; }
+          else { link.href = ''; link.disabled = true; }
+        }
+      } catch (e) {}
+    })();
+    </script>    
+    <link id="main-style" rel="stylesheet" href="/style_main.css">
+    <link id="theme-style" rel="stylesheet" href="" disabled>
+    <link rel="canonical" href="https://csgobroker.co/ru/topic/skins/golden-skins">
+    <meta name="description" content="Все Золотые Скины CS2 в одном месте, Удобная сортировка по категориям с возможностью быстро найти подходящие скины на популярных маркетплейсах.">
+    <meta property="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+    <meta property="og:url" content="https://csgobroker.co/ru/topic/skins/golden-skins">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Все Золотые Скины CS2 (CS:GO)">
+    <meta property="og:locale" content="ru">
+    <meta property="og:description" content="Все Золотые Скины CS2 в одном месте, Удобная сортировка по категориям с возможностью быстро найти подходящие скины на популярных маркетплейсах.">
+    <meta property="og:site_name" content="CSGOBROKER">
+    <meta property="og:image" content="https://csgobroker.co/img/skins/topics/fullsize/example-golden.png">
+    <meta property="og:image:secure_url" content="https://csgobroker.co/img/skins/topics/fullsize/example-golden.png">
+    <meta property="og:image:width" content="1500">
+    <meta property="og:image:height" content="750">
+    <meta property="og:image:alt" content="Золотые Скины CS:GO & CS2">
+    <meta property="og:image:type" content="image/png">
+    <meta name="theme-color" content="#0d0d0d">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#0d0d0d">
+    <meta name="msapplication-navbutton-color" content="#0d0d0d">
+    <script defer src="/tech-scripts.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a11687be24f7402dbdc337d5094ad450"}'></script>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://csgobroker.co/img/skins/topics/fullsize/example-golden.png">
+    <meta name="twitter:title" content="Все Золотые Скины CS2 (CS:GO)">
+    <meta name="twitter:description" content="Все Золотые Скины CS2 в одном месте, Удобная сортировка по категориям с возможностью быстро найти подходящие скины на популярных маркетплейсах.">
+    <link rel="stylesheet" href="/code-parts/third-party-scripts/slick.min.css">
+    <link rel="stylesheet" href="/code-parts/third-party-scripts/slick-theme.min.css">
+    <link rel="alternate" hreflang="en" href="https://csgobroker.co/topic/skins/golden-skins">
+    <link rel="alternate" hreflang="ru" href="https://csgobroker.co/ru/topic/skins/golden-skins">
+
+    <script type="application/ld+json" class="yoast-schema-graph">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://csgobroker.co/ru/topic/skins/golden-skins",
+      "url": "https://csgobroker.co/ru/topic/skins/golden-skins",
+      "name": "Все Золотые Скины CS2 (CS:GO)",
+      "isPartOf": {
+        "@id": "https://csgobroker.co/#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://csgobroker.co/ru/topic/skins/golden-skins#primaryimage"
+      },
+      "image": {
+        "@id": "https://csgobroker.co/ru/topic/skins/golden-skins#primaryimage"
+      },
+      "thumbnailUrl": "https://csgobroker.co/img/skins/topics/fullsize/example-golden.png",
+      "datePublished": "2025-07-22T23:37:13.033Z",
+      "description": "Все Золотые Скины CS2 в одном месте, Удобная сортировка по категориям с возможностью быстро найти подходящие скины на популярных маркетплейсах.",
+      "breadcrumb": {
+        "@id": "https://csgobroker.co/ru/topic/skins/golden-skins#breadcrumb"
+      },
+      "inLanguage": "ru-RU",
+      "potentialAction": [
+        {
+          "@type": "ReadAction",
+          "target": [
+            "https://csgobroker.co/ru/topic/skins/golden-skins"
+          ]
+        }
+      ],
+      "dateModified": "2025-12-14T16:30:38.898Z"
+    },
+    {
+      "@type": "ImageObject",
+      "inLanguage": "ru-RU",
+      "@id": "https://csgobroker.co/ru/topic/skins/golden-skins#primaryimage",
+      "url": "https://csgobroker.co/img/skins/topics/fullsize/example-golden.png",
+      "contentUrl": "https://csgobroker.co/img/skins/topics/fullsize/example-golden.png",
+      "width": 1500,
+      "height": 750,
+      "caption": "Золотые Скины CS:GO & CS2"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://csgobroker.co/ru/topic/skins/golden-skins#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Главная",
+          "item": "https://csgobroker.co/ru"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Каталог Скинов и Предметов CS2",
+          "item": "https://csgobroker.co/ru/topic"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Все Скины CS2 Отсортированные по Цветам",
+          "item": "https://csgobroker.co/ru/topic/skins"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Золотые Скины CS:GO & CS2",
+          "item": "https://csgobroker.co/ru/topic/skins/golden-skins"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://csgobroker.co/#website",
+      "url": "https://csgobroker.co",
+      "name": "CSGOBroker",
+      "description": "We conduct thorough hands-on testing of each site before publishing a review, ensuring accuracy and fairness. Our evaluations are regularly updated to reflect any changes, focusing on reliability and user trust.",
+      "publisher": {
+        "@id": "https://csgobroker.co/#organization"
+      },
+      "inLanguage": "ru-RU",
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://csgobroker.co/?s={search_term_string}"
+          },
+          "query-input": {
+            "@type": "PropertyValueSpecification",
+            "valueRequired": true,
+            "valueName": "search_term_string"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://csgobroker.co/#organization",
+      "name": "CSGOBroker",
+      "url": "https://csgobroker.co",
+      "logo": {
+        "@type": "ImageObject",
+        "inLanguage": "ru-RU",
+        "@id": "https://csgobroker.co/#/schema/logo/image/",
+        "url": "https://csgobroker.co/img/logo.svg",
+        "contentUrl": "https://csgobroker.co/img/logo.svg",
+        "width": 515,
+        "height": 100,
+        "caption": "CSGOBroker"
+      },
+      "image": {
+        "@id": "https://csgobroker.co/#/schema/logo/image/"
+      }
+    }
+  ]
+}
+</script>
+</head>
+
+<body>
+    <div class="ssiodox nondef">
+    <header>
+        <nav>
+            <div class="main-nav-content">
+        <div class="logospace">
+        <a href="/ru" id="logo"><img src="/img/logo.svg" draggable="false" alt="logo"></a>
+        </div>
+        <div class="pages">
+            <h1 id="PageTitle">Все Золотые Скины CS2 (CS:GO)</h1>
+        </div>
+    </div>
+                <div class="nav-content">
+            <div id="particles-toggle">
+                <i class="officon effect-on"></i>
+            </div>
+            <div id="theme-toggle">
+                <i class="officon lightbulb-off"></i>
+            </div>
+            <div class="search-container" id="filter-container">
+                <button class="search-enabler" aria-label="Open Search"><i class="officon search"></i></button>
+            </div> 
+        <div class="lang-menu">
+        <div class="selected-lang">
+            Ru
+        </div>
+        <ul>
+            <li>
+                <a href="/topic/skins/golden-skins" class="lang-switch lang-en" data-lang="en"><i class="flagbox"></i></a>
+            </li>
+        </ul>
+    </div>
+    </div>
+    </nav>    
+    </header>
+    <div class="spaceblock"></div>
+    <div id="particleflakeContainer">
+        <span class="particleflake"></span>
+      </div>
+        <div class="sitepage lang-ru topic">
+        <div class="siteleftpannel">
+            <div class="mods-box topic fade-in-topic">
+                <div class="mods-main-box">
+                    <div class="singlemod-box"><a href="/topic/skins" class="singlemod-select back-button"><img src="/img/icons/back.webp" alt="Back Button"></a></div>
+                </div>
+            </div>
+            <div class="siteblock">
+                <div class="topic-grandbox">
+                    <div class="topic-box">
+                        <div class="logobg skincolors" data-color="golden">
+                          <img src="/img/skins/topics/small/example-golden.webp" draggable="false" alt="Golden Skins Preview"></div>
+                    </div>
+                    <div class="section first">
+                        <div class="navigation-weapon-type knives enabled">Knives</div>
+                        <div class="navigation-weapon-type gloves enabled">Gloves</div>
+                        <div class="navigation-weapon-type pistols enabled">Pistols</div>
+                        <div class="navigation-weapon-type rifles enabled">Rifles</div>
+                        <div class="navigation-weapon-type srifles enabled">Sniper Rifles</div>
+                        <div class="navigation-weapon-type smgs enabled">SMGs</div>
+                        <div class="navigation-weapon-type shotguns enabled">Shotguns</div>
+                        <div class="navigation-weapon-type mguns enabled">Machine guns</div>
+                    </div>
+                    <div class="section second">
+                    <div class="colors-box-selection">
+                        <div class="color-box-selection-button">Change Color</div>
+                    </div>
+                    </div>
+                    <div class="section third"></div>
+                </div>
+            </div>
+        </div>
+        <div class="topicpage">
+        <div class="topic-centralizer">
+            <div class="box-skins-nav">
+                <div class="box-skins-name">
+                    <span>Nav</span>
+                </div>
+                <div class="box-skins-nav-list"></div>
+            </div>
+            <div class="box-skins gloves notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Gloves</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins knives">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Knives</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin red" skin-id="Lore" weapon="butterfly-knife">
+                      <img src="/img/skins/knives/butterfly-lore.webp" draggable="false" alt="Butterfly Knife | Lore">
+                      <div class="skin-desc-name">Butterfly Knife | Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="Lore" weapon="bayonet">
+                      <img src="/img/skins/knives/bayonet-lore.webp" draggable="false" alt="Bayonet | Lore">
+                      <div class="skin-desc-name">Bayonet | Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="Lore" weapon="m9-bayonet">
+                      <img src="/img/skins/knives/m9-lore.webp" draggable="false" alt="M9 Bayonet | Lore">
+                      <div class="skin-desc-name">M9 Bayonet | Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="Lore" weapon="karambit">
+                      <img src="/img/skins/knives/karambit-lore.webp" draggable="false" alt="Karambit | Lore">
+                      <div class="skin-desc-name">Karambit | Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="Lore" weapon="huntsman-knife">
+                      <img src="/img/skins/knives/huntsman-lore.webp" draggable="false" alt="Huntsman Knife | Lore">
+                      <div class="skin-desc-name">Huntsman Knife | Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="Lore" weapon="gut-knife">
+                      <img src="/img/skins/knives/gut-lore.webp" draggable="false" alt="Gut Knife | Lore">
+                      <div class="skin-desc-name">Gut Knife | Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="Lore" weapon="flip-knife">
+                      <img src="/img/skins/knives/flip-lore.webp" draggable="false" alt="Flip Knife | Lore">
+                      <div class="skin-desc-name">Flip Knife | Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="Lore" weapon="falchion-knife">
+                      <img src="/img/skins/knives/falchion-lore.webp" draggable="false" alt="Falchion Knife | Lore">
+                      <div class="skin-desc-name">Falchion Knife | Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="Lore" weapon="shadow-daggers">
+                      <img src="/img/skins/knives/sd-lore.webp" draggable="false" alt="Shadow Daggers | Lore">
+                      <div class="skin-desc-name">Shadow Daggers | Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="Lore" weapon="bowie-knife">
+                      <img src="/img/skins/knives/bowie-lore.webp" draggable="false" alt="Bowie Knife | Lore">
+                      <div class="skin-desc-name">Bowie Knife | Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins srifles">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>AWP</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin red" skin-id="Dragon Lore" weapon="awp">
+                      <img src="/img/skins/awp/dragon-lore.webp" draggable="false" alt="AWP | Dragon Lore">
+                      <div class="skin-desc-name">AWP | Dragon Lore</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="The Prince" weapon="awp">
+                      <img src="/img/skins/awp/prince.webp" draggable="false" alt="AWP | The Prince">
+                      <div class="skin-desc-name">AWP | The Prince</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="Man-o'-war" weapon="awp">
+                      <img src="/img/skins/awp/man-o-war.webp" draggable="false" alt="AWP | Man-o'-war">
+                      <div class="skin-desc-name">AWP | Man-o'-war</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins rifles">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>AK-47</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin red" skin-id="Gold Arabesque" weapon="ak-47">
+                      <img src="/img/skins/ak-47/gold-arabesque.webp" draggable="false" alt="AK-47 | Gold Arabesque">
+                      <div class="skin-desc-name">AK-47 | Gold Arabesque</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                    <div class="skin red" skin-id="The Oligarch" weapon="ak-47">
+                      <img src="/img/skins/ak-47/the-oligarch.webp" draggable="false" alt="AK-47 | The Oligarch">
+                      <div class="skin-desc-name">AK-47 | The Oligarch</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins rifles">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>M4A4</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin red" skin-id="The Coalition" weapon="m4a4">
+                      <img src="/img/skins/m4a4/the-coalition.webp" draggable="false" alt="M4A4 | The Coalition">
+                      <div class="skin-desc-name">M4A4 | The Coalition</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins rifles">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>M4A1-S</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin red" skin-id="Golden Coil" weapon="m4a1-s">
+                      <img src="/img/skins/m4a1-s/golden-coil.webp" draggable="false" alt="M4A1-S | Golden Coil">
+                      <div class="skin-desc-name">M4A1-S | Golden Coil</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins rifles notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>SSG 08</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins pistols notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Desert Eagle</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins pistols notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>P250</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins pistols notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Glock-18</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins pistols">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>USP-S</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin purple" skin-id="Royal Guard" weapon="usp-s">
+                      <img src="/img/skins/usp-s/royal-guard.webp" draggable="false" alt="USP-S | Royal Guard">
+                      <div class="skin-desc-name">USP-S | Royal Guard</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins pistols notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>P2000</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins pistols">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>CZ75-Auto</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin purple" skin-id="Syndicate" weapon="cz75-auto">
+                      <img src="/img/skins/cz75-auto/syndicate.webp" draggable="false" alt="CZ75-Auto | Syndicate">
+                      <div class="skin-desc-name">CZ75-Auto | Syndicate</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins pistols notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Dual Berettas</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins pistols notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Five-SeveN</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins pistols notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Tec-9</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins pistols notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>R8 Revolver</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins smgs notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>MP9</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins smgs">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>MAC-10</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin purple" skin-id="Gold Brick" weapon="mac-10">
+                      <img src="/img/skins/mac-10/gold-brick.webp" draggable="false" alt="MAC-10 | Gold Brick">
+                      <div class="skin-desc-name">MAC-10 | Gold Brick</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins smgs notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>MP7</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins smgs notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>MP5-SD</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+        
+                </div>
+            </div>
+            <div class="box-skins smgs notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>UMP-45</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins smgs notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>P90</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins smgs notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>PP-Bizon</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins rifles notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Galil-AR</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins rifles">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>FAMAS</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin red" skin-id="Commemoration" weapon="famas">
+                      <img src="/img/skins/famas/commemoration.webp" draggable="false" alt="FAMAS | Commemoration">
+                      <div class="skin-desc-name">FAMAS | Commemoration</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins rifles notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>SG 553</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins rifles">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>AUG</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin pink" skin-id="Lil' Pig" weapon="aug">
+                      <img src="/img/skins/aug/lil-pig.webp" draggable="false" alt="AUG | Lil' Pig">
+                      <div class="skin-desc-name">AUG | Lil' Pig</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins shotguns">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Nova</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin blue" skin-id="Yorkshire" weapon="nova">
+                      <img src="/img/skins/nova/yorkshire.webp" draggable="false" alt="Nova | Yorkshire">
+                      <div class="skin-desc-name">Nova | Yorkshire</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins shotguns notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>XM1014</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins shotguns notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>MAG-7</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins shotguns">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Sawed-Off</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skin purple" skin-id="Highwayman" weapon="sawed-off">
+                      <img src="/img/skins/sawed-off/highwayman.webp" draggable="false" alt="Sawed-Off | Highwayman">
+                      <div class="skin-desc-name">Sawed-Off | Highwayman</div>
+                      <div class="skin-price-info loading"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-skins srifles notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>SCAR-20</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins srifles notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>G3SG1</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins mguns notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>M249</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+            <div class="box-skins mguns notexist">
+                <div class="close-box-skins officon zoom-in"></div>
+                <div class="box-skins-name">
+                    <span>Negev</span>
+                </div>
+                <div class="box-skins-list">
+                    <div class="skins-not-exist"><span>NOT EXIST</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <footer>
+    <div class="centralizer">
+        <div class="footer-content">
+            <div class="copyright">
+                <a href="/ru" id="logo" aria-label="Главная страница">
+                    <img src="/img/logo.svg" draggable="false" alt="logo">
+                </a>
+                <span>© Copyright 2025 csgobroker.co</span>
+            </div>
+            <a class="credits" aria-label="Перейти на BeGambleAware" href="https://www.begambleaware.org/" rel="nofollow noopener" target="_blank">
+                <img src="/img/icons/begambleaware.png" alt="Be Gamble Aware" loading="lazy" draggable="false">
+            </a>
+            <div class="contact">
+                <div class="contact-content">
+              <a href="/ru/contact-us" class="contact-box" id="contact">
+                  <span>Contact Us</span>
+              </a>
+              <a href="/ru/terms-of-service" class="contact-box" id="tos">
+                  <span>Terms of Service</span>
+              </a>
+              <a href="/ru/privacy-policy" class="contact-box" id="privacy">
+                  <span>Privacy Policy</span>
+              </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+<script defer src="/godofscript.js"></script>
+<script defer src="/topicscripts.js?v=1.27"></script>
+<script defer src="/code-parts/third-party-scripts/slick.min.js"></script>
+
+</body></html>

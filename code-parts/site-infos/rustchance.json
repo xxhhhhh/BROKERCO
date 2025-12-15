@@ -1,0 +1,34 @@
+{
+    "gamemodesContent": [
+        "<a href=\"/rust/roulette\" aria-label=\"Roulette\" class=\"roulette\"></a>",
+        "<a href=\"/rust/coinflip\" aria-label=\"Coinflip\" class=\"coinflip\"></a>",
+        "<a href=\"/rust/crash\" aria-label=\"Crash\" class=\"crash\"></a>",
+        "<a href=\"/rust/jackpot\" aria-label=\"Jackpot\" class=\"jackpot\"></a>",
+        "<a href=\"/rust\" aria-label=\"Mines\" class=\"mines\"></a>"
+    ],
+    "firstMethodContent": [
+        "<a href=\"/cs2\" aria-label=\"CS2 Skins\" class=\"cs2\"></a>",
+        "<a href=\"/dota\" aria-label=\"Dota 2 Items\" class=\"dota\"></a>",
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>"
+
+    ],
+    "secondMethodContent": [
+        "<a href=\"/rust\" aria-label=\"Rust Skins\" class=\"rust\"></a>"
+    ],
+    "ratings": {
+        "Trust": 4,
+        "Support": 3.5,
+        "Payments": 2.5,
+        "Playability": 4
+    },
+    "codes": {
+        "Free Bonus": "0.50$"
+    },
+    "name": "RustChance",
+    "languages": "en, ru, tr, es",
+    "link": "https://rustchance.org/",
+    "code": "broker",
+    "Main Mode": "classic",
+    "featuresContent": ["SignUpBonus", "Faucet", "Rain"],
+    "Sites Alternatives"  : ["howlgg", "banditcamp", "rustmagic", "rustyloot"]
+}
