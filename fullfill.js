@@ -29,6 +29,7 @@ const ORDER = [
   "alt-langs.js",
   "build-search-config.js",
   "meta-and-sitemap.js",
+  "clone_repo.js",
 ];
 
 const HELP_TEXT = `
