@@ -44,13 +44,15 @@
         "Playability": 4.5
     },
     "codes": {
-        "Deposit Bonus": "+5%"
+        "Deposit Bonus": "+5%",
+        "Free Else": "Бесплатный Кейс"
     },
     "name": "CSFAIL",
     "languages": "en, ru, tr, es",
     "link": "https://ggband.gg/referral/brokerfail",
     "featuresContent": ["DepositBonus", "DailyRewards", "Giveaways"],
     "code": "CSGOBROKER",
+    "code-2": "CASE35",
     "Main Mode": "classic",
     "Sites Alternatives"  : ["csgo500", "csgopolygon", "csgofast", "csgorun"]
 }

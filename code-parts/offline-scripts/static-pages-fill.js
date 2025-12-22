@@ -607,11 +607,21 @@ function mbxReplaceExistingModsBox(inner, innerMasked, boxId, htmlBox, nl){
 
 function buttonSpanLabel(lang = "en", type = "review") {
   const L = String(lang || "en").toLowerCase();
-  if (L !== "en" && L !== "ru") return null;
-  if (type === "visit")   return L === "ru" ? "Перейти"   : "Visit";
-  if (type === "similar") return L === "ru" ? "Похожие"   : "Simillar";
-  return L === "ru" ? "Подробнее" : "Read More";
+
+  const dict = {
+    en: { visit: "Visit",    similar: "Similar",     review: "Read More" },
+    ru: { visit: "Перейти",  similar: "Похожие",     review: "Подробнее" },
+    es: { visit: "Visitar",  similar: "Similares",   review: "Leer más"  },
+    tr: { visit: "Ziyaret et", similar: "Benzer",    review: "Devamını oku" }
+  };
+
+  if (!dict[L]) return null;
+
+  if (type === "visit") return dict[L].visit;
+  if (type === "similar") return dict[L].similar;
+  return dict[L].review;
 }
+
 
 function updateVisitLinkInBoxHtml(boxHtml, visitHref, nl, siteName = "", lang = "en"){
   if (!visitHref) return boxHtml;
@@ -1365,6 +1375,28 @@ function upsertSiteCode(html, codeValue, nl) {
   return html.slice(0, openEnd) + wanted + html.slice(closeStart);
 }
 
+function getPromoBaseCode(data){
+  const pick = (k) => String((data && data[k]) ?? "").trim();
+
+  const base = pick("code");
+  if (base) return base;
+
+  // если вдруг "code" не задан, но задан "code-2/3..." — пусть хотя бы что-то покажем
+  for (let i = 2; i <= 10; i++){
+    const v = pick(`code-${i}`);
+    if (v) return v;
+  }
+  return "";
+}
+
+function getPromoCodeByIndex(data, idx /* 1..N */){
+  const base = getPromoBaseCode(data);
+  if (idx <= 1) return base;
+
+  const v = String((data && data[`code-${idx}`]) ?? "").trim();
+  return v || base;
+}
+
 function upsertPromoBoxesInSitepage(html, urlPath, lang, pageKey, data, reviewSettings, nl){
   const sitepage = findFirstByClass(maskSegments(html), "sitepage");
   if (!sitepage) return html;
@@ -1384,7 +1416,8 @@ function upsertPromoBoxesInSitepage(html, urlPath, lang, pageKey, data, reviewSe
   inner = removeAllBlocksByClass(inner, "box-extra-links");
 
   const codes = data.codes || {};
-  const hasCodes = codes && Object.keys(codes).length > 0 && data.code;
+  const basePromoCode = getPromoBaseCode(data);
+  const hasCodes = codes && Object.keys(codes).length > 0 && !!basePromoCode;
   const hasAnything = hasCodes || (!isMirrors && truthy(data.mirror)) || true;
 
   if (!hasAnything){
@@ -1414,23 +1447,37 @@ function renderPromoNavMirrorBlock(fullHtmlAfterSections, urlPath, lang, pageKey
   lines.push(`${indent}<div class="box-extra-links">`);
 
   const codes = data.codes || {};
-  const codeValue = data.code || "";
-  const hasCodes = codes && Object.keys(codes).length > 0 && codeValue;
+  const basePromoCode = getPromoBaseCode(data);
+  const hasCodes = codes && Object.keys(codes).length > 0 && !!basePromoCode;
+
   if (hasCodes){
-    let i=1;
+    let idx = 1;
+
     for (const [codeName, codeDisplay] of Object.entries(codes)){
       const cls = (reviewSettings?.codesBinding || {})[codeName] || "default-bonus";
-      const cnt = `counter-${i++}`;
+      const cnt = `counter-${idx}`;
+
+      // ✅ N-й бонус → code / code-2 / code-3 ... (fallback на base code)
+      const promoCodeValue = getPromoCodeByIndex(data, idx);
+
       const promoText = (lang==="ru") ? "Промокод" : "Promo";
+
       lines.push(`${indent}  <div class="promo-box extra-abox ${cls} ${cnt}">`);
       lines.push(`${indent}    <div class="content">`);
       lines.push(`${indent}      <p>${promoText}</p>`);
-      lines.push(`${indent}      <code class="promo-code">${escapeHtml(String(codeValue))}</code>`);
+      lines.push(`${indent}      <code class="promo-code">${escapeHtml(String(promoCodeValue))}</code>`);
       lines.push(`${indent}      <div class="promo-code-desc"><span>${escapeHtml(String(codeDisplay))}</span></div>`);
       lines.push(`${indent}      <div class="bonus-type"><i class="officon"></i></div>`);
-      lines.push(`${indent}      <button class="copy site-promo-copy defbutton" aria-label="Copy Code"></button>`);
+
+      // (опционально, но полезно) — кладём код ещё и в атрибут для копирования
+      lines.push(
+        `${indent}      <button class="copy site-promo-copy defbutton" aria-label="Copy Code" code="${escapeAttr(String(promoCodeValue))}"></button>`
+      );
+
       lines.push(`${indent}    </div>`);
       lines.push(`${indent}  </div>`);
+
+      idx++;
     }
   }
 

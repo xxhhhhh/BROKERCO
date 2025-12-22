@@ -2771,11 +2771,20 @@ h3 {
     order: -1;
 }
 
-.site-attention strong.styled {
+.site-attention strong.styled,
+.site-attention a.styled {
     position: relative;
     z-index: 1;
     color: var(--main-color);
     font-weight: 600;
+}
+
+.site-attention a.styled:hover {
+    filter: brightness(1.15);
+}
+
+.site-attention a.styled:active {
+    filter: brightness(.8);
 }
 
 .site-attention strong.code {
@@ -2811,9 +2820,6 @@ h3 {
     position: absolute;
     left: -30px;
     top: unset;
-    height: 150px !important;
-    width: 150px !important;
-    opacity: .25 !important;
 }
 
 .site-attention.event::after {
@@ -6924,6 +6930,7 @@ footer .centralizer .footer-content {
     text-decoration: none;
     transition: all .15s ease-in-out;
     cursor: pointer;
+    white-space: nowrap;
 }
 
 .rec-box .content .review-button {
@@ -8487,6 +8494,12 @@ a[data-title]:after,
     transition: all .15s ease-in-out;
     background-position: center;
     background-repeat: no-repeat;
+    opacity: .25;
+}
+
+.site-attention::after {
+    height: 150px;
+    width: 150px;
     opacity: .25;
 }
 
@@ -11109,34 +11122,6 @@ header {
     filter: unset;
 }
 
-.box .logobg .upd {
-    position: relative;
-    width: auto;
-    padding: 0 16px;
-    margin-right: 8px;
-    height: 30px;
-    background: var(--buttonbg);
-    filter: drop-shadow(1px 1px 4px rgb(10 10 10)) blur(0);
-    border-radius: 0 0 var(--main-border) var(--main-border);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: 600;
-    text-transform: uppercase;
-    font-size: 12px;
-    transition: all .15s ease-in-out;
-    backface-visibility: hidden;
-    text-wrap: nowrap;
-    user-select: none;
-    z-index: 2;
-}
-
-.main-page .box .logobg .upd {
-    position: absolute;
-    margin: unset;
-    right: 60px;
-}
-
 .main-page .box .logobg .best:hover,
 .newest-boxes .box .logobg .best:hover {
     font-size: 12px;
@@ -12170,6 +12155,212 @@ header {
 
 .sticker-crafts .pagination-holder {
     bottom: 8px;
+}
+
+/* CSFAIL BLOCK */
+
+.site-attention.event {
+    overflow: hidden;
+    line-height: 22px;
+    flex-direction: column;
+}
+
+.site-attention.event span {
+    user-select: auto;
+    text-shadow: 1px 1px 3px rgb(15 15 15);
+    z-index: 1;
+}
+
+.site-attention.event strong.styled,
+.site-attention.event a.styled {
+    position: relative;
+    z-index: 1;
+    color: #2988ff;
+    font-weight: 600;
+}
+
+.site-attention.event strong.code {
+    font-weight: 500;
+    background: rgb(21 21 21); 
+    padding: 3px 5px; 
+    border-radius: 5px;
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+    padding: 0 7px;
+    height: 25px;
+    font-weight: 600;
+    font-size: 12px;
+    margin-left: 3px;
+    text-transform: uppercase;
+    font-family: TTNormsPro;
+    background: rgb(17 17 17);
+    color: rgb(155, 155, 155);
+}
+
+.site-attention.event strong.item {
+    position: relative;
+    z-index: 1;
+    font-weight: 600;
+}
+
+.site-attention.event strong.item::after {
+    display: none;
+}
+
+.site-attention.event span.main-line {
+    max-width: 80%;
+    position: relative;
+    display: block;
+}
+
+/* .site-attention.event::after {
+    background-image: unset;
+    mask-image: url(/img/icons/gamemodes/party-horn.svg);
+    mask-repeat: no-repeat;
+    mask-size: 100%;
+    background-color: var(--main-color);
+    transform: rotate(-5deg);
+    position: absolute;
+    left: 11px;
+    top: 20px;
+    height: 150px !important;
+    width: 150px !important;
+    opacity: .12 !important;
+} */
+
+.site-attention.event::after {
+    mask-image: unset;
+    background-repeat: no-repeat;
+    /* background-image: url(/img/csfail-event.png); */
+    background-image: url(/img/chicken-rush-cutted.png);
+    background-position: bottom;
+    background-size: contain;
+    background-color: unset;
+    transform: rotate(-5deg);
+    position: absolute;
+    left: 10px;
+    top: 0px;
+    height: 150px !important;
+    width: 150px !important;
+    opacity: 1;
+}
+
+.site-attention.event::before {
+    content: '';
+    background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+    transform: rotate(45deg);
+    filter: blur(50px);
+    position: absolute;
+    left: 11px;
+    top: 0px;
+    height: 150px;
+    width: 150px;
+    opacity: .4;
+}
+
+.bonuses-block {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.box .logobg .bonuses-block .best {
+    top: unset;
+    right: unset;
+    position: relative;
+}
+
+.box .logobg .upd {
+    position: relative;
+    width: auto;
+    padding: 0 16px;
+    margin-right: 8px;
+    height: 30px;
+    background: linear-gradient(180deg, #6366f1 0%, #4338ca 100%);
+    filter: drop-shadow(1px 1px 4px rgb(10 10 10)) blur(0);
+    border-radius: 0 0 var(--main-border) var(--main-border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 12px;
+    transition: all .15s ease-in-out;
+    backface-visibility: hidden;
+    text-wrap: nowrap;
+    user-select: none;
+    z-index: 2;
+}
+
+.main-page .box .logobg .upd {
+    position: absolute;
+    margin: unset;
+    right: 60px;
+    z-index: 10;
+}
+
+.box .logobg .upd.csfail {
+    cursor: pointer;
+    background: linear-gradient(180deg, #3b82f6 0%, #1d4ed8 100%);
+}
+
+.box .logobg .upd.csfail::before {
+    content: '';
+    background-image: url(/img/icons/gamemodes/gift.svg);
+    height: 15px;
+    width: 15px;
+    background-size: 100%;
+    transition: all .15s ease-in-out;
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 4px;
+    filter: drop-shadow(1px 1px 4px rgb(24 24 24)) blur(0);
+    transition: all .15s ease-in-out;
+}
+
+.box .logobg .upd.csfail:hover::before {
+    transform: scale(1.1);
+}
+
+.box .logobg .upd.csfail a {
+    position: absolute;
+    top: 0;
+    width: 125px;
+    height: 134px;
+    transition: all .15s ease-in-out;
+    display: block;
+    opacity: 0;
+    user-select: none;
+    pointer-events: none;
+}
+
+.box .logobg .upd.csfail a::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 125px;
+    height: 125px;
+    background-repeat: no-repeat;
+    background-image: url(/img/csfail-event.png);
+    background-position: bottom;
+    background-size: contain;
+    transition: all .15s ease-in-out;
+    display: block;
+    border-radius: var(--minor-border);
+}
+
+.box .logobg .upd.csfail:hover a {
+    user-select: auto;
+    pointer-events: all;
+    opacity: 1;
+    margin-top: 25px;
+}
+
+.box .logobg .upd.csfail a:hover {
+    transform: scale(1.05);
 }
 
 @media (display-mode: standalone) {
@@ -14338,6 +14529,10 @@ header {
         right: -4px;
     }
 
+    .main-page .box .logobg .upd {
+        display: none;
+    }
+
     .boxes-holder-name {
         overflow-x: scroll;   
     }
@@ -14575,6 +14770,11 @@ header {
 }
 
 @media screen and (max-width: 850px) {
+
+    .site-attention.event::after {
+        left: -40px;
+        top: 40px;
+    }
 
     .main-mode-selection button,
     .main-mode-selection .controls-button:hover,
