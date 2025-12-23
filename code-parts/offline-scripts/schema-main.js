@@ -141,8 +141,16 @@ function generateBreadcrumbList(pageUrl, alt, urlParts, langCode) {
 }
 
 // ---------- JSON-LD utils ----------
+function detectHeadEol(html) {
+  const m = html.match(/<head\b[^>]*>([\s\S]*?)<\/head>/i);
+  const headInner = m ? m[1] : '';
+  if (headInner.includes('\r\n')) return '\r\n';
+  if (headInner.includes('\n')) return '\n';
+  return html.includes('\r\n') ? '\r\n' : '\n';
+}
+
 function parseYoastBlock(html) {
-  const m = html.match(/<script type="application\/ld\+json" class="yoast-schema-graph">([\s\S]*?)<\/script>/);
+  const m = html.match(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*class=["']yoast-schema-graph["'][^>]*>([\s\S]*?)<\/script>/i);
   if (!m) return { matchHtml: null, jsonRaw: '', jsonObj: null };
   const raw = (m[1] || '').trim();
   try {
@@ -174,6 +182,7 @@ function injectSchema(filePath) {
   const { atime, mtime, mtimeISO } = getFileTimes(filePath); // до любых записей
   let html = fs.readFileSync(filePath, 'utf-8');
 
+  const eol = detectHeadEol(html);
   const name = html.match(/<title>(.*?)<\/title>/i)?.[1]?.trim() || '';
   const description = extractMeta(html, 'description');
   const image = extractMeta(html, 'og:image');
@@ -285,17 +294,21 @@ function injectSchema(filePath) {
   const { matchHtml, jsonObj } = parseYoastBlock(html);
   const baseNoDM = removeDM(baseJsonLd);
 
-  // Нет валидного блока → вставка с dateModified = входной mtime
   if (!matchHtml || !jsonObj) {
     const full = deepClone(baseJsonLd);
     full['@graph'][0]['dateModified'] = mtimeISO;
-    const updatedJson = JSON.stringify(full, null, 2);
-    html = html.replace(/(\s*)<\/head>/i, `\n<script type="application/ld+json" class="yoast-schema-graph">\n${updatedJson}\n</script>\n$1</head>`);
+
+    const updatedJson = JSON.stringify(full, null, 2).replace(/\n/g, eol);
+    const newBlock =
+      `<script type="application/ld+json" class="yoast-schema-graph">${eol}` +
+      `${updatedJson}${eol}</script>`;
+
+    html = html.replace(/(\s*)<\/head>/i, `${eol}${newBlock}${eol}$1</head>`);
     fs.writeFileSync(filePath, html, 'utf-8');
-    fs.utimesSync(filePath, atime, mtime); // важный шаг: вернуть исходные времена
-    console.log(`✅ Schema inserted in ${filePath}`);
+    fs.utimesSync(filePath, atime, mtime);
     return;
   }
+
 
   // Есть блок → сравниваем без dateModified (канонично)
   const existingNoDM = removeDM(jsonObj);
@@ -307,9 +320,11 @@ function injectSchema(filePath) {
     // Меняем только dateModified, если отличается от входного mtime
     if (existingDM !== mtimeISO) {
       jsonObj['@graph'][0]['dateModified'] = mtimeISO;
-      const updatedJson = JSON.stringify(jsonObj, null, 2);
-      const newBlock = `<script type="application/ld+json" class="yoast-schema-graph">\n${updatedJson}\n</script>`;
-      html = html.replace(/<script type="application\/ld\+json" class="yoast-schema-graph">[\s\S]*?<\/script>/, newBlock);
+      const updatedJson = JSON.stringify(jsonObj, null, 2).replace(/\n/g, eol);
+      const newBlock =
+        `<script type="application/ld+json" class="yoast-schema-graph">${eol}` +
+        `${updatedJson}${eol}</script>`;
+      html = html.replace(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*class=["']yoast-schema-graph["'][^>]*>[\s\S]*?<\/script>/i, newBlock);
       fs.writeFileSync(filePath, html, 'utf-8');
       fs.utimesSync(filePath, atime, mtime); // не даём mtime «скакнуть»
       console.log(`✅ dateModified updated in ${filePath}`);
@@ -320,9 +335,11 @@ function injectSchema(filePath) {
   // Содержимое отличается → полная замена с актуальным mtime
   const full = deepClone(baseJsonLd);
   full['@graph'][0]['dateModified'] = mtimeISO;
-  const updatedJson = JSON.stringify(full, null, 2);
-  const newBlock = `<script type="application/ld+json" class="yoast-schema-graph">\n${updatedJson}\n</script>`;
-  html = html.replace(/<script type="application\/ld\+json" class="yoast-schema-graph">[\s\S]*?<\/script>/, newBlock);
+  const updatedJson = JSON.stringify(full, null, 2).replace(/\n/g, eol);
+  const newBlock =
+    `<script type="application/ld+json" class="yoast-schema-graph">${eol}` +
+    `${updatedJson}${eol}</script>`;
+  html = html.replace(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*class=["']yoast-schema-graph["'][^>]*>[\s\S]*?<\/script>/i, newBlock);
   fs.writeFileSync(filePath, html, 'utf-8');
   fs.utimesSync(filePath, atime, mtime); // сохраняем исходный mtime
   console.log(`✅ Schema updated in ${filePath}`);

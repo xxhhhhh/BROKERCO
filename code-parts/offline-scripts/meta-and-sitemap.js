@@ -273,16 +273,16 @@ function insertAlternatesUnderLastStylesheet(html, keyNoLocale, presentLangs) {
   const lines = buildAlternateLines(keyNoLocale, presentLangs);
   if (!lines.length) return html;
 
-  const nextChar = headInner[insertIdx] || '';
-  const skip = nextChar === '\n' ? 1 : 0; // why: заменяем один существующий \n, чтобы он не оставался «лишним»
+  const eol = detectEol(inner); // добавь в начале функции (после open/inner/close)
+  const next2 = headInner.slice(insertIdx, insertIdx + 2);
+  const skip = next2 === '\r\n' ? 2 : (next2[0] === '\n' ? 1 : 0);
 
   const before = headInner.slice(0, insertIdx);
   let after = headInner.slice(insertIdx + skip);
 
-  // нормализуем начало хвоста: не больше одного пустого ряда
-  after = after.replace(/^(?:[ \t]*\r?\n)+/, '\n');
+  after = after.replace(/^(?:[ \t]*\r?\n)+/, eol);
 
-  const block = '\n' + lines.map(l => indent + l).join('\n') + '\n';
+  const block = eol + lines.map(l => indent + l).join(eol) + eol;
 
   headInner = before + block + after;
 
