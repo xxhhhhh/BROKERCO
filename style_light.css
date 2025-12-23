@@ -703,7 +703,8 @@ h3,
 .boxes-holder .box .content,
 .category-selector .category-box,
 .singlemod-box[data-title]:after,
-.controls-button {
+.controls-button,
+.site-attention.event span {
     /* background-color: #0a0a0a; */
     text-shadow: none;
 }
@@ -1290,6 +1291,10 @@ ul .submenu li .nonredir,
 
 .site-attention::after {
     filter: grayscale(1);
+}
+
+.site-attention.event::after {
+    filter: unset;
 }
 
 .officon.mirror::before {

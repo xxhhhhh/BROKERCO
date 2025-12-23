@@ -12275,7 +12275,7 @@ header {
 .box .logobg .upd {
     position: relative;
     width: auto;
-    padding: 0 16px;
+    padding: 0 20px;
     margin-right: 8px;
     height: 30px;
     background: linear-gradient(180deg, #6366f1 0%, #4338ca 100%);
