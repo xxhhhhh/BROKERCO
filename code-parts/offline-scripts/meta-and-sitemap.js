@@ -82,19 +82,25 @@ function absoluteUrlWithOrigin(urlPath, origin) {
 }
 
 // ---------- noindex ----------
+// Считаем noindex ТОЛЬКО если есть <meta name="robots" content="...noindex/none...">
 function hasNoindex(html) {
   if (!html) return false;
+
   const metas = html.match(/<meta\b[^>]*>/gi) || [];
   for (const raw of metas) {
     const low = raw.toLowerCase();
-    const isRobots = /(name|property|http-equiv)\s*=\s*["']?\s*(robots|googlebot|x-robots-tag)\b/.test(low);
+
+    // только name="robots"
+    const isRobots = /\bname\s*=\s*["']?\s*robots\b/.test(low);
     if (!isRobots) continue;
+
     const mContent = low.match(/\bcontent\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s"'>]+))/i);
-    const content = (mContent && (mContent[1] || mContent[2] || mContent[3]) || '').toLowerCase();
+    const content = ((mContent && (mContent[1] || mContent[2] || mContent[3])) || '').toLowerCase();
+
     if (/\bnoindex\b/.test(content) || /\bnone\b/.test(content)) return true;
   }
-  const fb = /<meta\b[^>]*\bcontent\s*=\s*["'][^"']*\bnoindex\b[^"']*["'][^>]*\b(?:name|property|http-equiv)\s*=\s*["']?(?:robots|googlebot|x-robots-tag)\b[^>]*>/i;
-  return fb.test(html);
+
+  return false;
 }
 
 // ---------- head helpers ----------
@@ -134,6 +140,112 @@ function computeIndentAtLineStart(headInner, idx, fallback = '    ') {
   const m = seg.match(/^[ \t]*/);
   return (m && m[0] !== undefined) ? m[0] : fallback;
 }
+function detectEol(s) {
+  return s.includes('\r\n') ? '\r\n' : '\n';
+}
+
+function detectHeadIndent(headInner) {
+  // Берём отступ с первой нормальной строки внутри <head> (meta/link/script).
+  const m = headInner.match(/(?:^|\r?\n)([ \t]+)<(?:meta|link|script)\b/i);
+  return m ? m[1] : '    ';
+}
+
+function getLineIndent(line, fallback = '    ') {
+  const m = (line || '').match(/^[ \t]*/);
+  return (m && m[0] !== undefined) ? (m[0] || fallback) : fallback;
+}
+
+function findFirstIndex(lines, re) {
+  for (let i = 0; i < lines.length; i++) {
+    if (re.test(lines[i])) return i;
+  }
+  return -1;
+}
+
+function findEarliestIndex(lines, res) {
+  let best = -1;
+  for (const re of res) {
+    const idx = findFirstIndex(lines, re);
+    if (idx !== -1 && (best === -1 || idx < best)) best = idx;
+  }
+  return best;
+}
+
+function upsertCoreSeoHeadTags(html, canonicalHref, lang) {
+  const m = html.match(/(<head\b[^>]*>)([\s\S]*?)(<\/head>)/i);
+  if (!m) return html;
+
+  const open = m[1];
+  const inner = m[2];
+  const close = m[3];
+
+  const eol = detectEol(inner);
+  let lines = inner.split(/\r?\n/);
+
+  // 1) Удаляем старые canonical/googlebot/og:url/og:locale (строками, чтобы не было "съезда" и дублей)
+  const removeRes = [
+    /^\s*<link\b[^>]*\brel\s*=\s*["']canonical["'][^>]*\/?>\s*$/i,
+    /^\s*<meta\b[^>]*\bname\s*=\s*["']?\s*googlebot\s*["']?[^>]*\/?>\s*$/i,
+    /^\s*<meta\b[^>]*\bproperty\s*=\s*["']og:url["'][^>]*\/?>\s*$/i,
+    /^\s*<meta\b[^>]*\bproperty\s*=\s*["']og:locale["'][^>]*\/?>\s*$/i,
+  ];
+  lines = lines.filter(line => !removeRes.some(re => re.test(line)));
+
+  // 2) Вставка canonical/googlebot рядом с SEO-метами (description/robots/og)
+  const seoAnchorIdx = findEarliestIndex(lines, [
+    /^\s*<meta\b[^>]*\bname\s*=\s*["']?\s*description\b/i,
+    /^\s*<meta\b[^>]*\bname\s*=\s*["']?\s*robots\b/i,
+    /^\s*<meta\b[^>]*\bproperty\s*=\s*["']og:/i,
+    /^\s*<link\b[^>]*\brel\s*=\s*["']icon["']/i,
+  ]);
+
+  // fallback: после </title>, если вдруг нет SEO-мет
+  let titleIdx = findFirstIndex(lines, /<\/title\s*>/i);
+  const baseInsertIdx = (seoAnchorIdx !== -1)
+    ? seoAnchorIdx
+    : (titleIdx !== -1 ? titleIdx + 1 : 0);
+
+  const indentSeo = (baseInsertIdx >= 0 && baseInsertIdx < lines.length)
+    ? getLineIndent(lines[baseInsertIdx], detectHeadIndent(inner))
+    : detectHeadIndent(inner);
+
+  // вставляем canonical
+  lines.splice(baseInsertIdx, 0, `${indentSeo}<link rel="canonical" href="${canonicalHref}">`);
+  const canonicalLineIdx = baseInsertIdx;
+
+  // вставляем googlebot — сразу после <meta name="robots"> если он есть, иначе после canonical
+  const robotsIdx = findFirstIndex(lines, /^\s*<meta\b[^>]*\bname\s*=\s*["']?\s*robots\b/i);
+  const gbInsertIdx = (robotsIdx !== -1) ? (robotsIdx + 1) : (canonicalLineIdx + 1);
+  const indentGb = (gbInsertIdx >= 0 && gbInsertIdx < lines.length)
+    ? getLineIndent(lines[gbInsertIdx], indentSeo)
+    : indentSeo;
+
+  lines.splice(gbInsertIdx, 0, `${indentGb}<meta name="googlebot" content="noindex, nofollow">`);
+
+  // 3) OG-блок: og:url + og:locale рядом с остальными OG (после og:type, либо перед первым og:*)
+  const ogTypeIdx = findFirstIndex(lines, /^\s*<meta\b[^>]*\bproperty\s*=\s*["']og:type["'][^>]*\/?>\s*$/i);
+  const firstOgIdx = findFirstIndex(lines, /^\s*<meta\b[^>]*\bproperty\s*=\s*["']og:/i);
+
+  let ogInsertIdx = -1;
+  if (ogTypeIdx !== -1) ogInsertIdx = ogTypeIdx + 1;
+  else if (firstOgIdx !== -1) ogInsertIdx = firstOgIdx;
+  else ogInsertIdx = gbInsertIdx + 1;
+
+  const indentOg = (ogInsertIdx >= 0 && ogInsertIdx < lines.length)
+    ? getLineIndent(lines[ogInsertIdx], indentSeo)
+    : indentSeo;
+
+  lines.splice(
+    ogInsertIdx,
+    0,
+    `${indentOg}<meta property="og:url" content="${canonicalHref}">`,
+    `${indentOg}<meta property="og:locale" content="${lang}">`
+  );
+
+  const nextInner = lines.join(eol);
+  return html.replace(/(<head\b[^>]*>)[\s\S]*?(<\/head>)/i, `${open}${nextInner}${close}`);
+}
+
 function buildAlternateLines(keyNoLocale, presentLangs) {
   const lines = [];
   for (const lang of ALT_ORDER) {
@@ -339,13 +451,8 @@ function main() {
     const before = readFile(p.filePath);
     let html = before;
 
-    html = ensureHtmlLang(html, p.lang);
-    html = upsertTagInHead(html, `<link rel="canonical" href="${canonicalHref}">`,
-      /<link\b[^>]*\brel\s*=\s*["']canonical["'][^>]*>/i);
-    html = upsertTagInHead(html, `<meta property="og:url" content="${canonicalHref}">`,
-      /<meta\b[^>]*\bproperty\s*=\s*["']og:url["'][^>]*>/i);
-    html = upsertTagInHead(html, `<meta property="og:locale" content="${p.lang}">`,
-      /<meta\b[^>]*\bproperty\s*=\s*["']og:locale["'][^>]*>/i);
+  html = ensureHtmlLang(html, p.lang);
+  html = upsertCoreSeoHeadTags(html, canonicalHref, p.lang);
 
     html = insertAlternatesUnderLastStylesheet(html, p.key, present);
 

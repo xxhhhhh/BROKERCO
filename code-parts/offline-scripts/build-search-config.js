@@ -191,15 +191,20 @@ function cleanKeywords(list) {
 // ---------- noindex detector ----------
 function hasNoindex(html) {
   if (!html) return false;
+
   const metas = html.match(/<meta\b[^>]*>/gi) || [];
   for (const raw of metas) {
     const tag = raw;
-    const who = (getAttrLower(tag, 'name') || getAttrLower(tag, 'property') || getAttrLower(tag, 'http-equiv')) || '';
-    if (!/(robots|googlebot|x-robots-tag)/i.test(who)) continue;
+
+    const name = getAttrLower(tag, 'name');
+    if (name !== 'robots') continue; // только meta name="robots"
+
     const content = (getAttr(tag, 'content') || '').toLowerCase();
     if (!content) continue;
+
     if (/(^|[^a-z0-9_-])(noindex|none)([^a-z0-9_-]|$)/i.test(content)) return true;
   }
+
   return false;
 
   function getAttr(src, name) {
@@ -209,6 +214,7 @@ function hasNoindex(html) {
   }
   function getAttrLower(src, name) { return getAttr(src, name).toLowerCase(); }
 }
+
 
 // ---------- Project scan ----------
 const IGNORE_DIRS = new Set([

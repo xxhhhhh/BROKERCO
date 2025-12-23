@@ -5,7 +5,7 @@ const fs = require('fs/promises');
 const fssync = require('fs');
 const path = require('path');
 const crypto = require('crypto');
-const TRANSFORM_VERSION = '2025-12-15-v2-metrica-safe';
+const TRANSFORM_VERSION = '2025-12-23-v3-googlebot-to-yandex';
 
 const SCRIPT_DIR = __dirname;
 
@@ -145,6 +145,13 @@ function stripYandexMetrica(content) {
   return content.replace(metricaScriptRe, '').replace(metricaNoScriptRe, '');
 }
 
+function rewriteGooglebotMetaToYandex(content) {
+  return content.replace(
+    /(<meta\b[^>]*\bname\s*=\s*)(["']?)googlebot\2/gi,
+    '$1$2yandex$2'
+  );
+}
+
 function rewriteDomainAndTokensEverywhere(content, relPosix) {
   // domain
   content = content.replace(/csgobroker\.cc/gi, 'csgobroker.co');
@@ -152,12 +159,14 @@ function rewriteDomainAndTokensEverywhere(content, relPosix) {
   content = content.replace(new RegExp(CF_TOKEN_CC, 'g'), CF_TOKEN_CO);
 
   const ext = path.extname(relPosix).toLowerCase();
-  if (ext === '.html' || ext === '.htm') {
+  if (ext === '.html' || ext === '.htm' || ext === '.php') {
+    content = rewriteGooglebotMetaToYandex(content);
     content = stripYandexMetrica(content);
   }
 
   return content;
 }
+
 
 function transformSeoRewriteJs(content) {
   // Make it "co-only" and remove any .cc-specific behavior safely.
