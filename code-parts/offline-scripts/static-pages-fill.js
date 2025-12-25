@@ -1210,7 +1210,7 @@ async function processReviewMirrors(html, urlPath, lang, root, presets, ratingsM
   }
 
   out = ensureMainModeInLogobg(out, lang, data["Main Mode"] || "", nl);
-  out = upsertSiteCode(out, data.code ?? "", nl);
+  out = upsertSiteCodes(out, data, nl);
   out = upsertPromoBoxesInSitepage(out, urlPath, lang, pageKey, data, presets.review, nl);
 
   const visitHrefMain = computeVisitHref(urlPath, lang, pageKey, data);
@@ -1362,18 +1362,79 @@ function ensureMainModeInLogobg(html, lang, mainMode, nl){
 }
 
 /* --------- PROMO + MIRROR + NAV --------- */
-function upsertSiteCode(html, codeValue, nl) {
-  if (!codeValue) return html;
-  const idPos = html.search(/\bid\s*=\s*["']site-code["']/i);
-  if (idPos === -1) return html;
-  const openStart = html.lastIndexOf("<", idPos); if (openStart === -1) return html;
-  const { end: openEnd } = readTag(html, openStart);
-  const closeStart = html.indexOf("</", openEnd); if (closeStart === -1) return html;
-  const current = html.slice(openEnd, closeStart);
-  const wanted = escapeHtml(String(codeValue));
-  if (current === wanted) return html;
-  return html.slice(0, openEnd) + wanted + html.slice(closeStart);
+function upsertSiteCodes(html, data, nl) {
+  if (!data) return html;
+
+  const base = getPromoBaseCode(data); // data.code (или fallback на code-2/3...)
+  if (!base) return html;
+
+  let out = html;
+
+  // --- (опционально) поддержка старого варианта: id="site-code" ---
+  out = out.replace(
+    /(<code\b[^>]*\bid\s*=\s*["']site-code["'][^>]*>)[\s\S]*?(<\/code>)/gi,
+    (_m, a, c) => a + escapeHtml(String(base)) + c
+  );
+
+  // --- основной вариант: <code class="site-code ..."> ---
+  let pos = 0;
+
+  while (true) {
+    const masked = maskSegments(out);
+    const idx = masked.indexOf("<code", pos);
+    if (idx === -1) break;
+
+    const { end: openEnd, attrs } = readTag(out, idx);
+    const classes = parseClassAttr(attrs);
+
+    if (!classes.has("site-code")) {
+      pos = openEnd;
+      continue;
+    }
+
+    const closeStart = masked.indexOf("</code>", openEnd);
+    if (closeStart === -1) {
+      pos = openEnd;
+      continue;
+    }
+
+    // определяем N из code-N (если нет — считаем N=1)
+    let n = 1;
+    for (const c of classes) {
+      const m = /^code-(\d+)$/.exec(c);
+      if (m) { n = parseInt(m[1], 10) || 1; break; }
+    }
+
+    const desired = getPromoCodeByIndex(data, n) || base;
+    const escaped = escapeHtml(String(desired));
+
+    // заменяем содержимое <code>...</code>
+    out = out.slice(0, openEnd) + escaped + out.slice(closeStart);
+
+    // после замены считаем новое положение закрывающего </code>
+    const closeEnd = openEnd + escaped.length + "</code>".length;
+
+    // проставим code="..." на ближайшую кнопку .site-promo-copy (обычно сразу после </code>)
+    const liEnd = out.indexOf("</li>", closeEnd);
+    const searchEnd = liEnd !== -1 ? liEnd : Math.min(out.length, closeEnd + 500);
+    const tail = out.slice(closeEnd, searchEnd);
+
+    const btnMatch = tail.match(/<button\b[^>]*\bsite-promo-copy\b[^>]*>/i);
+    if (btnMatch) {
+      const btnAbs = closeEnd + btnMatch.index;
+      const btnOpen = btnMatch[0];
+      const btnNew = upsertAttrInTag(btnOpen, "code", String(desired));
+
+      out = out.slice(0, btnAbs) + btnNew + out.slice(btnAbs + btnOpen.length);
+      pos = btnAbs + btnNew.length;
+    } else {
+      pos = closeEnd;
+    }
+  }
+
+  return out;
 }
+
 
 function getPromoBaseCode(data){
   const pick = (k) => String((data && data[k]) ?? "").trim();

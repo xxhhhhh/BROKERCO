@@ -137,7 +137,7 @@ function showCopied(copyButton) {
       }
     }
 
-    const siteCode = document.getElementById("site-code");
+    const siteCode = document.querySelector(".site-code");
     if (siteCode) {
       const sc = (siteCode.value ?? siteCode.textContent ?? "").toString().trim();
       if (sc) return sc;

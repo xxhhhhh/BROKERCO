@@ -4823,17 +4823,18 @@ nav img {
     margin-bottom: 8px;
 }
 
-.promo-box.extra-abox span {
+/* .promo-box.extra-abox span {
     font-size: 12px;
     font-weight: 600;
     width: auto;
     color: var(--gray);
     text-wrap: nowrap;
-}
+} */
 
 .promo-box p, 
 .promo-box .content p:first-child,
-.promo-box .content .promo-code-desc::before {
+.promo-box .content .promo-code-desc::before,
+.promo-box.extra-abox span {
     color: var(--text-darkgray);
     width: auto;
     height: unset;
