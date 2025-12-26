@@ -718,7 +718,7 @@ function applyBoxTranslations(inner, lang, dict){
 const RB_LABELS = {
   es: { read: "Leer más", visit: "Visitar", similar: "Similares" },
   pt: { read: "Ler mais", visit: "Visitar", similar: "Semelhantes" },
-  tr: { read: "Daha fazla oku", visit: "Ziyaret Et", similar: "Benzer" },
+  tr: { read: "Devamını oku", visit: "Ziyaret et", similar: "Benzer" },
   hi: { read: "और पढ़ें", visit: "दौरा करें", similar: "समान" }
 };
 function getReviewButtonLabel(lang, type){
