@@ -1,6 +1,9 @@
 Sitemap: https://csgobroker.co/sitemap.xml
 
 User-agent: *
-Disallow: /404
+
 Disallow: /code-parts/*.html
 Disallow: /multitop/*.html
+
+Allow: /fonts/
+Allow: /img/
